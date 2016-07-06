@@ -1,9 +1,12 @@
 #include <iostream>
 
-using namespace std;
+#include "Parser.h"
 
-int main()
-{
-    cout << "Hello world!" << endl;
+int main() {
+    const std::string DS_PATH = "datasets/data1.txt";
+
+    Parser::parseData(DS_PATH);
+
+    std::cout << "Hello world!" << std::endl;
     return 0;
 }
