@@ -1,0 +1,1 @@
+ A bunch of animals answer the question "What do you see?" and the answers are what animal they see. The text is in rhyme.
