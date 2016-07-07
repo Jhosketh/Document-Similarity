@@ -1,0 +1,66 @@
+28044047
+/m/0cmd046
+/m/0cmd046
+
+
+a 2
+agents 1
+an 1
+and 3
+attempts 1
+being 1
+blair 1
+brother 1
+burbank 1
+but 1
+by 1
+claude 1
+close 1
+cranston 1
+crime 1
+detective 1
+disguises 1
+fate 1
+fellows 1
+for 1
+framed 1
+frank 2
+gets 1
+harry 1
+he 1
+henry 3
+himself 1
+his 1
+hitman 1
+in 1
+involves 1
+is 2
+jarnow 2
+killer 1
+lamont 1
+manicks 1
+murdered 1
+mystery 1
+officer 1
+philadelphia 1
+plan 1
+plot 1
+police 1
+red 1
+shadow 2
+shares 1
+shot 1
+that 1
+the 3
+then 1
+to 2
+too 1
+uncovers 1
+unknown 1
+unnamed 1
+vincent 1
+warn 1
+wealthy 1
+when 1
+windsor 1
+with 1

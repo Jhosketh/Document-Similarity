@@ -1,6 +1,10 @@
 #ifndef BOOK_H
 #define BOOK_H
 
+#include <algorithm>
+#include <cctype>
+#include <functional>
+#include <fstream>
 #include <iostream>
 #include <map>
 #include <string>
@@ -33,10 +37,16 @@ public:
     void createVectorSpace();
     void printInfo();
     void printVectorSpace();
+    void printToExternal(std::ofstream &os);
+    void printCorpusToExternal(std::ofstream &os);
 
 protected:
 
 private:
+    static bool invalidChar(char c);
+    static bool bothAreSpaces(char lhs, char rhs);
+    void replaceAll(std::string& str, const std::string& from, const std::string& to);
+    void cleanUpString(std::string & str);
 
     unsigned int wikiId; //!< Member variable "wikiId"
     std::string freebaseId; //!< Member variable "freebaseId"

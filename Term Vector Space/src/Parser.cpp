@@ -39,10 +39,9 @@ std::vector<Book> Parser::parseData(std::string path) {
 
                 getline(ss, item, DELIMITER);
                 book.setSummary(item);
-
-                book.printInfo();
                 book.createVectorSpace();
-                book.printVectorSpace();
+
+                res.push_back(book);
             }
         }
         dataset.close();

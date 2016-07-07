@@ -1,0 +1,65 @@
+3636427
+/m/09rf88
+/m/09rf88
+
+
+a 10
+action 1
+an 2
+and 1
+associated 1
+blink 1
+book 1
+can 1
+cheeks 1
+chew 1
+children 1
+continues 1
+cover 1
+cow 1
+dog 1
+encouraging 1
+face 1
+flower 1
+has 1
+head 1
+horse 1
+i 1
+image 1
+is 1
+last 1
+like 10
+monkey 1
+no 1
+nose 1
+of 1
+on 1
+or 1
+out 1
+owl 1
+page 1
+phrase 1
+plot 1
+puff 1
+rabbit 1
+scrunch 1
+shake 1
+smile 1
+snake 1
+snap 1
+sniff 1
+squirrel 1
+starts 1
+stick 1
+text 1
+the 5
+their 5
+to 1
+tongue 1
+turtle 1
+uniquely 1
+walrus 1
+which 1
+wiggle 1
+with 1
+written 1

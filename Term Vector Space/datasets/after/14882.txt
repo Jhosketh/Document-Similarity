@@ -1,0 +1,44 @@
+25834050
+/m/06kydtg
+/m/06kydtg
+TSR, Inc.
+
+a 4
+adventure 1
+beginning 1
+being 1
+built 1
+by 1
+characters 2
+city 4
+dead 1
+description 1
+get 1
+in 3
+includes 1
+into 1
+is 2
+module 1
+monsterinfested 1
+must 1
+of 4
+off 1
+peninsula 1
+player 1
+quagmire 2
+race 1
+sea 1
+search 1
+serpent 1
+set 1
+slowly 1
+spiral 1
+swallowed 1
+swamp 1
+the 9
+this 1
+through 1
+to 2
+travel 1
+whelkshaped 1
+which 1

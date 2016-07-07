@@ -27,6 +27,3 @@
 *.exe
 *.out
 *.app
-
-# Datasets
-/Term Vector Space/datasets

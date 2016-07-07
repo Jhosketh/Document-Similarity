@@ -1,0 +1,51 @@
+18950736
+/m/02y_35n
+/m/02y_35n
+Jeff Noon
+1996
+a 5
+after 1
+alice 4
+and 2
+aunt 1
+automated 1
+books 1
+by 1
+carroll 1
+celia 1
+character 1
+clock 1
+combined 1
+doll 1
+england 1
+entities 1
+ermintrude 1
+example 1
+following 1
+for 1
+from 2
+future 1
+get 1
+grandfather 1
+great 1
+her 1
+human 1
+in 2
+inhabited 1
+lewis 1
+lost 1
+made 1
+manchester 1
+newmonians 1
+objects 1
+of 4
+parrot 1
+story 1
+tells 1
+the 2
+through 1
+two 1
+version 1
+whippoorwill 1
+world 1
+zebra 1
