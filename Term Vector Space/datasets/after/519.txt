@@ -3,6 +3,7 @@
 /m/017_sf
 Henry Fielding
 1749-02-28
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 0 1
 100 4
 1000 2

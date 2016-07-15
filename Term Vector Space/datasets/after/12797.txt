@@ -3,6 +3,7 @@
 /m/04jnb3b
 Rick Riordan
 2008-09-09
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 3 1
 a 18
 about 1

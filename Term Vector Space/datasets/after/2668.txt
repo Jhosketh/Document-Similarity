@@ -3,6 +3,7 @@
 /m/059j5_
 Lois McMaster Bujold
 2003-09-23
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 20
 acceptance 1
 accumulated 1

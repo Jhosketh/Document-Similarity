@@ -3,6 +3,7 @@
 /m/0bkbp3
 H. G. Wells
 1933-09
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 133 2
 133160 1
 134 1

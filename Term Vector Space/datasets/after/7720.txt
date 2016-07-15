@@ -3,6 +3,7 @@
 /m/0h1d_t
 David Michelinie
 1987
+{"/m/01vnb": "Comic book", "/m/01qxvh": "Romance novel"}
 2007 1
 a 14
 able 2

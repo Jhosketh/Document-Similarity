@@ -3,6 +3,7 @@
 /m/08ttmj
 Graham Swift
 1983
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 18
 abortion 2
 about 1

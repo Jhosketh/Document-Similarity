@@ -3,6 +3,7 @@
 /m/08b6c8
 Albert Camus
 1995
+{"/m/012jgz": "Autobiographical novel"}
 a 8
 about 3
 african 1

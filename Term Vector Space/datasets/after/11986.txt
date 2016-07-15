@@ -3,6 +3,7 @@
 /m/0406j1g
 Colin Dexter
 1975-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 13
 about 1
 addicted 1

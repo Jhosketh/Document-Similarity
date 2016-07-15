@@ -3,6 +3,7 @@
 /m/01_g6n
 Pierre Choderlos de Laclos
 1782-03-23
+{"/m/02ql9": "Epistolary novel"}
 a 5
 abandoned 1
 about 1

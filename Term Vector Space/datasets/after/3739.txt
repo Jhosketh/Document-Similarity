@@ -3,6 +3,7 @@
 /m/07l8h0
 Nicholas Sparks
 1998-04-01
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 6
 about 1
 all 1

@@ -3,6 +3,7 @@
 /m/0b_m4d
 Colin Bateman
 1995
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/0c3351": "Suspense", "/m/0vgkd": "Black comedy"}
 a 3
 after 1
 and 2

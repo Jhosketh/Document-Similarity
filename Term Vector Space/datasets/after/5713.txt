@@ -3,6 +3,7 @@
 /m/0cchrp
 Max Barry
 2006-01-17
+{"/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 4
 acting 1
 after 1

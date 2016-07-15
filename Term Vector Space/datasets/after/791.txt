@@ -3,6 +3,7 @@
 /m/01rx7z
 Hans Christian Andersen
 1837-04-07
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/06ms6": "Sociology"}
 15 1
 300 2
 a 17

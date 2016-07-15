@@ -3,6 +3,7 @@
 /m/02vn2j_
 Jim Butcher
 2008-04-01
+{"/m/01hmnh": "Fantasy", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02vzzv": "Urban fantasy", "/m/02xlf": "Fiction"}
 11 1
 a 57
 abandoned 1

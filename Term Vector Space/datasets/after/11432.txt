@@ -3,6 +3,7 @@
 /m/03h3c63
 Desmond Bagley
 1982
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 8
 afterwards 1
 agrees 1

@@ -3,6 +3,7 @@
 /m/080lpf
 Patricia Cornwell
 2005-10
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 2
 academy 1
 and 3

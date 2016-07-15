@@ -3,6 +3,7 @@
 /m/02qft_x
 Carole Wilkinson
 2007-04
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 14
 abandon 1
 abandoned 1

@@ -3,6 +3,7 @@
 /m/01h4sd
 Tobias Smollett
 1771-06-17
+{"/m/02ql9": "Epistolary novel", "/m/05hgj": "Novel", "/m/0g_jj": "Picaresque novel"}
 a 5
 about 1
 adventures 1

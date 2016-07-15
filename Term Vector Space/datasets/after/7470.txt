@@ -3,6 +3,7 @@
 /m/0gkr2t
 Gael Baudino
 1994
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 17
 about 2
 after 4

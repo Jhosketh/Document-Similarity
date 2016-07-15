@@ -3,6 +3,7 @@
 /m/02r1_08
 Dyan Sheldon
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 against 2
 and 2
 are 1

@@ -3,6 +3,7 @@
 /m/0d1sts
 P. D. James
 1982
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 2
 acclaimed 1
 accompany 1

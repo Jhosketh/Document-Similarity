@@ -3,6 +3,7 @@
 /m/0b9v39
 James Jones
 1951
+{"/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 141 1
 a 4
 affair 1

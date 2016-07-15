@@ -3,6 +3,7 @@
 /m/02666c3
 Walter Kirn
 1999-11
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14 1
 a 8
 accept 1

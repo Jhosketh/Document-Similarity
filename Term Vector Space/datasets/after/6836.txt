@@ -3,6 +3,7 @@
 /m/0f0qxw
 Tamora Pierce
 1983-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 22
 abilities 1
 able 1

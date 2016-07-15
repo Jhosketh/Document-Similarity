@@ -3,6 +3,7 @@
 /m/026x9_5
 Per Wahlöö
 1970
+{"/m/0lsxr": "Crime Fiction"}
 a 2
 at 1
 beck 1

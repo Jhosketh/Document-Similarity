@@ -3,6 +3,7 @@
 /m/027t80g
 Basil Copper
 1980
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 a 3
 after 1
 an 1

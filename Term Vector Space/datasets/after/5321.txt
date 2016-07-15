@@ -3,6 +3,7 @@
 /m/0bm_1b
 Yukio Mishima
 1948
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 14
 actually 1
 admires 1

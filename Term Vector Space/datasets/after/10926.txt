@@ -3,6 +3,7 @@
 /m/03chhnh
 Christopher Brookmyre
 2001
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/06nbt": "Satire", "/m/0c3351": "Suspense", "/m/0vgkd": "Black comedy"}
 30something 1
 a 3
 abducted 1

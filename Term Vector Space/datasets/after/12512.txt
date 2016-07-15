@@ -3,6 +3,7 @@
 /m/04ct09d
 Gordon Korman
 1980
+{"/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel"}
 2 1
 3100 1
 43 1

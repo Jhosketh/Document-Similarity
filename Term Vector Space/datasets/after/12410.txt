@@ -3,6 +3,7 @@
 /m/047dgzl
 Michael Scott
 
+{"/m/01jfsb": "Thriller", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 activate 1
 adjusting 1

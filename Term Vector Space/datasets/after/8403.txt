@@ -3,6 +3,7 @@
 /m/026xmx5
 Anthony Trollope
 1869-03-17
+{"/m/05qfh": "Psychology", "/m/02xlf": "Fiction"}
 a 22
 about 1
 accept 2

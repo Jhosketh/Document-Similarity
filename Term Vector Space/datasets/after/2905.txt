@@ -3,6 +3,7 @@
 /m/05w7f0
 Jean Genet
 1948
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 accompany 1
 act 1

@@ -3,6 +3,7 @@
 /m/04_0w8f
 Daniel Silva
 2002-06-20
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 a 18
 abandon 1
 about 1

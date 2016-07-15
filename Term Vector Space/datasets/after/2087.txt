@@ -3,6 +3,7 @@
 /m/046cc7
 Anthony Hope
 
+{"/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 1870s 1
 1880s 1
 a 4

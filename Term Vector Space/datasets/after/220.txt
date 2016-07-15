@@ -3,6 +3,7 @@
 /m/0gcm_
 Dashiell Hammett
 1930
+{"/m/0lsxr": "Crime Fiction", "/m/028v3": "Detective fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/03xj9g": "Hardboiled", "/m/0c3351": "Suspense"}
 1000 1
 10000 2
 5000 1

@@ -3,6 +3,7 @@
 /m/06zq__l
 Karin Slaughter
 2003
+{"/m/05hgj": "Novel"}
 a 4
 against 1
 agree 1

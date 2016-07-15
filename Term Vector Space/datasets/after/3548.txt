@@ -3,6 +3,7 @@
 /m/075mb9
 Iain Pears
 1997
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 1663 1
 1685 1
 17thcentury 1

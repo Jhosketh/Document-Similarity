@@ -3,6 +3,7 @@
 /m/0bx7cy
 Elizabeth Hand
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 3
 about 1
 an 1

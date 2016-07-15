@@ -3,6 +3,7 @@
 /m/09k6n1h
 Lincoln Child
 2010-05-11
+{"/m/01jfsb": "Thriller"}
 a 3
 after 1
 agent 1

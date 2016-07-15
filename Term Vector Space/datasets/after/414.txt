@@ -3,6 +3,7 @@
 /m/012sgg
 William Makepeace Thackeray
 1855
+{"/m/02xlf": "Fiction"}
 a 3
 acquaintances 1
 action 1

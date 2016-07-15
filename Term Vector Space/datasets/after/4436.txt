@@ -3,6 +3,7 @@
 /m/09127g
 George Saunders
 2005-09-06
+{"/m/06nbt": "Satire", "/m/05qt0": "Politics", "/m/014dfn": "Speculative fiction"}
 a 2
 abusing 1
 accept 1

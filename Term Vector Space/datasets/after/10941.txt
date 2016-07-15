@@ -3,6 +3,7 @@
 /m/03cjvdc
 Alexander McCall Smith
 2007-08-07
+{"/m/02xlf": "Fiction"}
 a 6
 about 1
 accepts 1

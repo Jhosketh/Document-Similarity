@@ -3,6 +3,7 @@
 /m/04pmjt
 Peter Høeg
 1992
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction"}
 37yearold 1
 a 12
 accident 1

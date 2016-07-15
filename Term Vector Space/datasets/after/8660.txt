@@ -3,6 +3,7 @@
 /m/027fj1c
 Iris Murdoch
 1970
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 accident 1

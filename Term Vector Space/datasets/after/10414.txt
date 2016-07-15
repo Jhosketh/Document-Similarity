@@ -3,6 +3,7 @@
 /m/02wbpy8
 Simon Kernick
 2006
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 11
 about 1
 address 1

@@ -3,6 +3,7 @@
 /m/05p4p6v
 Douglas Anthony Cooper
 1992
+{"/m/01jfsb": "Thriller"}
 a 3
 abuse 1
 amends 1

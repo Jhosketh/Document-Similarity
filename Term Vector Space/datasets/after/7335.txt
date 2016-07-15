@@ -3,6 +3,7 @@
 /m/0g5c6d
 Upamanyu Chatterjee
 2006-02-28
+{"/m/0vgkd": "Black comedy", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 11 1
 37 1
 a 5

@@ -3,6 +3,7 @@
 /m/0b6h6vf
 Anthony Trollope
 
+{"/m/06nbt": "Satire"}
 a 17
 abode 1
 about 1

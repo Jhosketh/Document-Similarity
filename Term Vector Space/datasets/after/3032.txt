@@ -3,6 +3,7 @@
 /m/063gb1
 Tad Williams
 2003-05-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 31
 ability 1
 able 1

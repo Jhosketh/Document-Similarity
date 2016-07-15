@@ -3,6 +3,7 @@
 /m/0bmh15v
 Rick Yancey
 2009
+{"/m/03mfnf": "Young adult literature", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 224 1
 253 1
 328 1

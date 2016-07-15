@@ -3,6 +3,7 @@
 /m/0c1pn7
 Joseph Conrad
 1911
+{"/m/037mh8": "Philosophy", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 a 11
 able 2
 access 1

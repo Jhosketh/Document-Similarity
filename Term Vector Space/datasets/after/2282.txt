@@ -3,6 +3,7 @@
 /m/04m5v9
 Kingsley Amis
 1968-03
+{"/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 about 1
 aegean 1

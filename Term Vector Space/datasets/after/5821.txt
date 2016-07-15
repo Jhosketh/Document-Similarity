@@ -3,6 +3,7 @@
 /m/0cl2lt
 H. Rider Haggard
 1905
+{"/m/039vk": "Gothic fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 26
 abandon 1
 abbot 2

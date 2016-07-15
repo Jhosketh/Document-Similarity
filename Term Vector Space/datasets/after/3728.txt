@@ -3,6 +3,7 @@
 /m/07kvlk
 Jim Crace
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 accept 1
 acting 1

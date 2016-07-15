@@ -3,6 +3,7 @@
 /m/04svn
 Douglas Coupland
 1995-06
+{"/m/02ql9": "Epistolary novel", "/m/02xlf": "Fiction"}
 200 1
 747 1
 a 11

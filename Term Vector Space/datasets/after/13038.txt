@@ -3,6 +3,7 @@
 /m/04q9yv9
 Jean-Marie Gustave Le Clézio
 1969
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 about 1
 amata 2

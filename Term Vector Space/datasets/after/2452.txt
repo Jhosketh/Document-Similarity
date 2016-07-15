@@ -3,6 +3,7 @@
 /m/04xvdx
 Craig Thompson
 2003-07-23
+{"/m/016chh": "Memoir", "/m/0py0z": "Graphic novel"}
 a 6
 abuse 2
 adolescence 1

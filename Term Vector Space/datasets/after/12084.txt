@@ -3,6 +3,7 @@
 /m/0416v0n
 Naguib Mahfouz
 
+{"/m/05hgj": "Novel"}
 150 1
 160s 1
 a 3

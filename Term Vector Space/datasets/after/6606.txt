@@ -3,6 +3,7 @@
 /m/0dlzbd
 Leslie Charteris
 1943
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 actually 1
 adventures 1

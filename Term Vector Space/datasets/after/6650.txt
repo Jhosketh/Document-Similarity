@@ -3,6 +3,7 @@
 /m/0dpldr
 Gregory Keyes
 2004-08-17
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 30 1
 a 10
 about 1

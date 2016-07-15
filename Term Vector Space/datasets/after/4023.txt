@@ -3,6 +3,7 @@
 /m/084n89
 Martin Cruz Smith
 1991
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 11 1
 113 1
 a 5

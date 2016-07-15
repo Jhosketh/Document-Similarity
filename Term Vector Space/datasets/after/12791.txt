@@ -3,6 +3,7 @@
 /m/04jlq89
 Richard Morgan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 abandoned 1
 adjusting 1

@@ -3,6 +3,7 @@
 /m/02qqfr5
 Janet Frame
 1989
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0127jb": "Magic realism"}
 a 9
 also 1
 an 1

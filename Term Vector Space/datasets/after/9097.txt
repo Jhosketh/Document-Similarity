@@ -3,6 +3,7 @@
 /m/0289ksb
 Howard V. Hendrix
 2001-08-07
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 1 1
 2032 1
 3 2

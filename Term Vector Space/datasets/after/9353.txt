@@ -3,6 +3,7 @@
 /m/02pyjm2
 Wil McCarthy
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 2
 adherence 1
 advanced 1

@@ -3,6 +3,7 @@
 /m/019px5
 Thomas Pynchon
 1963
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 104 1
 122 1
 156 1

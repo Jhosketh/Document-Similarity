@@ -3,6 +3,7 @@
 /m/07w576
 Tim O'Brien
 1994
+{"/m/02n4kr": "Mystery", "/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 a 21
 abortion 1
 absence 1

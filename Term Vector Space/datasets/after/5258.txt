@@ -3,6 +3,7 @@
 /m/0bjt_w
 Robert Ferrigno
 2006-02
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2017 1
 2042 1
 a 12

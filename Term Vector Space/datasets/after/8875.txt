@@ -3,6 +3,7 @@
 /m/027x12p
 Christopher Isherwood
 1962
+{"/m/05hgj": "Novel"}
 a 6
 abandon 1
 absurd 1

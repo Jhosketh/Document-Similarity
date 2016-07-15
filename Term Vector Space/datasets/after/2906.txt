@@ -3,6 +3,7 @@
 /m/05wdw5
 Richard Preston
 1994
+{"/m/03lrw": "Hard science fiction", "/m/02xlf": "Fiction", "/m/05h83": "Non-fiction"}
 18 1
 24nbspkm 1
 3 1

@@ -3,6 +3,7 @@
 /m/0ctnzc
 Dean Koontz
 1977
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 1
 also 1
 and 1

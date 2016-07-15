@@ -3,6 +3,7 @@
 /m/03cgkl1
 Orson Scott Card
 
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 a 10
 abusive 1
 accepted 1

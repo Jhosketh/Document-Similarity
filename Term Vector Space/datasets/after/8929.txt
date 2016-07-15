@@ -3,6 +3,7 @@
 /m/027zsby
 Edgar Rice Burroughs
 1939
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 1
 after 1
 and 3

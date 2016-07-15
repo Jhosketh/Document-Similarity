@@ -3,6 +3,7 @@
 /m/0dw9b
 Victor Hugo
 1831-01-14
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1482 1
 6 1
 a 6

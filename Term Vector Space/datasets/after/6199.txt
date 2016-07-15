@@ -3,6 +3,7 @@
 /m/0d3q20
 Robert Louis Stevenson
 1893
+{"/m/01qxvh": "Romance novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 1751 1
 2 1
 25 1

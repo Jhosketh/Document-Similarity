@@ -3,6 +3,7 @@
 /m/0hq4m
 Richard Adams
 1972-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 14
 alive 1
 also 1

@@ -3,6 +3,7 @@
 /m/076dh1
 Ian Livingstone
 
+{"/m/03ff00": "Gamebook", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 adventurer 1
 adventurers 1
 against 1

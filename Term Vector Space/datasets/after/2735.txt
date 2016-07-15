@@ -3,6 +3,7 @@
 /m/05fv7t
 Milan Kundera
 
+{"/m/02xlf": "Fiction", "/m/0127jb": "Magic realism", "/m/05hgj": "Novel"}
 148 1
 150 1
 171 1

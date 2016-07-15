@@ -3,6 +3,7 @@
 /m/02pp0mt
 Ken Follett
 2007-10-09
+{"/m/01jfsb": "Thriller", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1327 1
 a 26
 able 2

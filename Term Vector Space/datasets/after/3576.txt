@@ -3,6 +3,7 @@
 /m/07737b
 Randall Garrett
 1966
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1300 1
 166 1
 a 6

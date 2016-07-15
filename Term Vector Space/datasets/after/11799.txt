@@ -3,6 +3,7 @@
 /m/03wf2fx
 Sue Grafton
 1992
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 6 1
 a 19
 about 1

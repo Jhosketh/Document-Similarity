@@ -3,6 +3,7 @@
 /m/02qd3n
 Graham Greene
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 act 1
 admitted 1

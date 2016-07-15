@@ -3,6 +3,7 @@
 /m/07m2wq
 Frederick Forsyth
 1972
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 163 1
 a 15
 able 1

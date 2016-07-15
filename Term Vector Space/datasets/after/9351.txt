@@ -3,6 +3,7 @@
 /m/02pyfs9
 Lyndon Hardy
 1980-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 achievement 1
 adventures 1

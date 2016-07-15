@@ -3,6 +3,7 @@
 /m/071fhj
 Agatha Christie
 1957-11-04
+{"/m/0463v20": "Cozy", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 140 1
 a 18
 about 1

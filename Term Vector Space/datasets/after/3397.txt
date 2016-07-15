@@ -3,6 +3,7 @@
 /m/06wkyd
 William Styron
 1960-05-12
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 after 1
 again 1

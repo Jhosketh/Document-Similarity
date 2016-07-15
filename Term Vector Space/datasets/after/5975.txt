@@ -3,6 +3,7 @@
 /m/0ctsf5
 Dean Koontz
 1984
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 9
 about 2
 absurd 1

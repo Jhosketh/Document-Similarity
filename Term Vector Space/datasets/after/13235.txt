@@ -3,6 +3,7 @@
 /m/04z_fp9
 Katherine Paterson
 1973
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 a 18
 able 1
 after 2

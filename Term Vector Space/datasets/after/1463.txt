@@ -3,6 +3,7 @@
 /m/030yrt
 Daniel Handler
 1999-09-30
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/06www": "Steampunk", "/m/0pym5": "Absurdist fiction"}
 10man 1
 12year 1
 14year 1

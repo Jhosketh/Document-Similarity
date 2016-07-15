@@ -3,6 +3,7 @@
 /m/072d05
 Vernor Vinge
 2004
+{"/m/03lrw": "Hard science fiction"}
 a 13
 ability 1
 about 1

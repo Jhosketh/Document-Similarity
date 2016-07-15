@@ -3,6 +3,7 @@
 /m/0bkvrb
 W. P. Kinsella
 1982
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 a 6
 about 2

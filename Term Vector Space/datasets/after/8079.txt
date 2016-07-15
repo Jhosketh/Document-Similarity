@@ -3,6 +3,7 @@
 /m/0267tk2
 Bernard Cornwell
 2004-06-01
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 1810 1
 a 1
 abandoned 1

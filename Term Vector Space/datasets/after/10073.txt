@@ -3,6 +3,7 @@
 /m/02rq93v
 Franklin W. Dixon
 2000
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 an 1
 animal 1
 before 1

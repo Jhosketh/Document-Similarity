@@ -3,6 +3,7 @@
 /m/0c420rv
 John David Morley
 1995
+{"/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 a 4
 after 1
 amsterdam 1

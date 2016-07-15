@@ -3,6 +3,7 @@
 /m/07rvc6
 Christopher Paul Curtis
 1999
+{"/m/0dwly": "Children's literature", "/m/02js9": "Erotica", "/m/02p0szs": "Historical fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 120 1
 136 1
 a 9

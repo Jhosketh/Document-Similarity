@@ -3,6 +3,7 @@
 /m/03f3vq
 Isaac Asimov
 1983
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 5
 above 1
 admiral 2

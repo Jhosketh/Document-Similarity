@@ -3,6 +3,7 @@
 /m/063y70
 Monica Hughes
 1990
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 0 1
 10meaning 1
 8 1

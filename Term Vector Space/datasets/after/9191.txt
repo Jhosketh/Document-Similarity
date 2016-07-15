@@ -3,6 +3,7 @@
 /m/02pmvl4
 Christopher Golden
 2007-08-28
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 4 1
 500 1
 a 21

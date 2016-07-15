@@ -3,6 +3,7 @@
 /m/06fws9
 Christie Golden
 2001-10-01
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 addresses 1
 aedelas 2

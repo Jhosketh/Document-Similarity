@@ -3,6 +3,7 @@
 /m/03n802
 José Saramago
 1995
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 8
 abandoned 2
 acts 1

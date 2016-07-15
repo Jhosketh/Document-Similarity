@@ -3,6 +3,7 @@
 /m/05k9q5
 A. A. Attanasio
 1981
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 2
 adolescent 1
 changed 1

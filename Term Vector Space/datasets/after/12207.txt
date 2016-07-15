@@ -3,6 +3,7 @@
 /m/043k7qq
 Fran Ross
 1974
+{"/m/05hgj": "Novel"}
 a 5
 abandoned 1
 accepted 1

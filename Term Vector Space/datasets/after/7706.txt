@@ -3,6 +3,7 @@
 /m/0h0hks
 Robert E. Howard
 
+{"/m/0dz8b": "Sword and sorcery", "/m/01hmnh": "Fantasy", "/m/0l67h": "Novella"}
 a 5
 and 1
 are 1

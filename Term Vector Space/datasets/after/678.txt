@@ -3,6 +3,7 @@
 /m/01jdft
 Ludwig von Mises
 
+{"/m/02rx5hc": "Treatise", "/m/05h83": "Non-fiction"}
 a 10
 act 1
 acting 1

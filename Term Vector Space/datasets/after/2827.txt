@@ -3,6 +3,7 @@
 /m/05p1wt
 F. Paul Wilson
 
+{"/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 158 1
 300d 1
 a 23

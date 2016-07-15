@@ -3,6 +3,7 @@
 /m/03c02nd
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel"}
 a 10
 about 1
 accompany 1

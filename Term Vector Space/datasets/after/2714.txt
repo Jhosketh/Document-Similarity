@@ -3,6 +3,7 @@
 /m/05dmx8
 Ryu Murakami
 1987
+{"/m/05hgj": "Novel", "/m/016lj8": "Roman \u00e0 clef"}
 16 1
 a 3
 adama 1

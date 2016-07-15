@@ -3,6 +3,7 @@
 /m/05mt52b
 Robert B. Parker
 1978
+{"/m/028v3": "Detective fiction"}
 50000 1
 a 23
 accompanied 1

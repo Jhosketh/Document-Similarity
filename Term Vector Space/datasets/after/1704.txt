@@ -3,6 +3,7 @@
 /m/03gjgy
 Michael Chabon
 1995-03-14
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2611 1
 a 3
 actress 1

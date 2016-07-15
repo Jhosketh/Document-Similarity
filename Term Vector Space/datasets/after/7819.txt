@@ -3,6 +3,7 @@
 /m/025v8ww
 Mary Renault
 1962
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 5
 acropolis 1
 additional 1

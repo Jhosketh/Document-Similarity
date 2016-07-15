@@ -3,6 +3,7 @@
 /m/027ds9k
 Baroness Emma Orczy
 1922
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 174 1
 a 11
 adversary 1

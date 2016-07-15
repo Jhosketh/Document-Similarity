@@ -3,6 +3,7 @@
 /m/075v2w
 C. S. Forester
 1957
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 18
 able 1
 abydos 3

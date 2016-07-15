@@ -3,6 +3,7 @@
 /m/09v49mm
 Fritz Leiber
 1968
+{"/m/01hmnh": "Fantasy"}
 a 2
 across 1
 adventure 1

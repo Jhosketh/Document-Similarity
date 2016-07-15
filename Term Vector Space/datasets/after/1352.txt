@@ -3,6 +3,7 @@
 /m/02w82z
 Terry Pratchett
 1991
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 17
 after 1
 against 1

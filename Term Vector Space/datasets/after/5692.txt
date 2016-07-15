@@ -3,6 +3,7 @@
 /m/0cbr6f
 Anthony Powell
 1957
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 134 2
 a 13
 according 1

@@ -3,6 +3,7 @@
 /m/0ccd6p
 Stanisław Lem
 1961
+{"/m/06n90": "Science Fiction", "/m/026ny": "Dystopia"}
 10 1
 127 1
 a 7

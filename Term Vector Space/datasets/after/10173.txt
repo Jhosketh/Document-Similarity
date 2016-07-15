@@ -3,6 +3,7 @@
 /m/02vlqm1
 Jacqueline Wilson
 2000-03-02
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 12
 about 3
 accompanied 1

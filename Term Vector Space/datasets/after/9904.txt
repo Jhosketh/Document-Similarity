@@ -3,6 +3,7 @@
 /m/02r72_l
 Patrick Carman
 2006-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 adventurous 1
 after 1
 alexa 2

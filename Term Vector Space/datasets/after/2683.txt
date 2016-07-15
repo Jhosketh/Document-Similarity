@@ -3,6 +3,7 @@
 /m/02p4htp
 Patrick O'Brian
 2004
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 15
 aboard 1
 abuse 1

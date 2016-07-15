@@ -3,6 +3,7 @@
 /m/07m69g
 Martin Amis
 1991
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 12 1
 148 1
 a 12

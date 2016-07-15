@@ -3,6 +3,7 @@
 /m/089vqn
 Isaac Bashevis Singer
 1966
+{"/m/05hgj": "Novel"}
 14 1
 a 5
 about 1

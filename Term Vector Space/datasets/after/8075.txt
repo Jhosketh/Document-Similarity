@@ -3,6 +3,7 @@
 /m/0267kr6
 Richard Baker
 2000-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 and 2
 anders 1

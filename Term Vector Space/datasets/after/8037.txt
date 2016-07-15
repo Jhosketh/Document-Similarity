@@ -3,6 +3,7 @@
 /m/0265658
 Frank Norris
 1903
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 5
 able 1
 abroad 1

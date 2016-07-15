@@ -3,6 +3,7 @@
 /m/051vr6m
 Franklin W. Dixon
 1995
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 4
 amnesia 1
 bank 1

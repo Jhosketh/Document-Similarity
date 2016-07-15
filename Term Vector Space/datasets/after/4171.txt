@@ -3,6 +3,7 @@
 /m/08fvvg
 J. G. Ballard
 1987
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 accidentally 1
 achieve 1

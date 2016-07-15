@@ -3,6 +3,7 @@
 /m/09vhvm
 Diane Duane
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 able 4
 about 1

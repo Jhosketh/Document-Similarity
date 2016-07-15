@@ -3,6 +3,7 @@
 /m/05vr4p
 Bryce Courtenay
 1991-05
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 adopt 1
 africa 3

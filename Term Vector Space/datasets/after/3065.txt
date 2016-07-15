@@ -3,6 +3,7 @@
 /m/065606
 Martin Amis
 1989
+{"/m/0vgkd": "Black comedy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 1
 34 1
 34plot34 1

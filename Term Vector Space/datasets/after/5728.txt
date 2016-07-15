@@ -3,6 +3,7 @@
 /m/0cd5zt
 André Gide
 1902
+{"/m/05hgj": "Novel"}
 a 5
 academe 1
 accepted 1

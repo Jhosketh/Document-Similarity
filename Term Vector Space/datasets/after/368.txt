@@ -3,6 +3,7 @@
 /m/0n07m
 Sinclair Lewis
 1927-03
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 abandons 1
 acts 2

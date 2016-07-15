@@ -3,6 +3,7 @@
 /m/03f8c0
 Michael Shaara
 1974
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel", "/m/0hwxm": "Historical novel"}
 166 1
 a 4
 about 2

@@ -3,6 +3,7 @@
 /m/03y479
 Fanny Burney
 1778
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 18 2
 18thcentury 1
 2 1

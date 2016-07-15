@@ -3,6 +3,7 @@
 /m/0cx5hc
 Mordecai Richler
 1997
+{"/m/05hgj": "Novel"}
 acquitted 1
 alzheimer 1
 an 2

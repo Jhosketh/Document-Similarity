@@ -3,6 +3,7 @@
 /m/0bsmqj
 Paul Stewart
 2003-09-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 17
 ability 1
 academe 1

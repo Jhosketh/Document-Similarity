@@ -3,6 +3,7 @@
 /m/07kxy6
 John Steinbeck
 1933
+{"/m/0l67h": "Novella"}
 133 2
 136 1
 137 1

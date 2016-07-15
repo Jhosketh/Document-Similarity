@@ -3,6 +3,7 @@
 /m/03jrkr
 J. G. Ballard
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 5
 able 1
 adaptation 1

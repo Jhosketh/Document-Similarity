@@ -3,6 +3,7 @@
 /m/0cg51_
 Robert Anthony Salvatore
 1998-02-28
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 abelle 1
 after 2

@@ -3,6 +3,7 @@
 /m/0g6hh5
 Anne McCaffrey
 1994-09-06
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 3
 ability 1
 after 3

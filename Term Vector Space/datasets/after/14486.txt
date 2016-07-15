@@ -3,6 +3,7 @@
 /m/07s8ykc
 William Mayne
 1957
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 according 1
 account 1

@@ -3,6 +3,7 @@
 /m/0405l9t
 Victor Appleton
 1912
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 2
 adventurous 1
 airship 1

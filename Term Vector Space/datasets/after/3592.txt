@@ -3,6 +3,7 @@
 /m/0780r9
 Anthony Trollope
 1858
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 14
 about 1
 accept 1

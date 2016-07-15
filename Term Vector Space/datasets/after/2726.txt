@@ -3,6 +3,7 @@
 /m/05f7tl
 James Clavell
 
+{"/m/0707q": "Short story", "/m/0l67h": "Novella"}
 a 7
 abandon 1
 about 1

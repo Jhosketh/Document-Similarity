@@ -3,6 +3,7 @@
 /m/06zr4_n
 Robert B. Parker
 1980
+{"/m/028v3": "Detective fiction", "/m/014dfn": "Speculative fiction"}
 a 1
 activist 1
 after 1

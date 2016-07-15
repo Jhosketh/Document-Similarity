@@ -3,6 +3,7 @@
 /m/0bxz2k2
 Maxine Paetro
 2010-04-26
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 2 1
 22 1
 a 15

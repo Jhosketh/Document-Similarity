@@ -3,6 +3,7 @@
 /m/02qs6xt
 Erin Hunter
 2006-07-03
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 3
 after 4
 again 1

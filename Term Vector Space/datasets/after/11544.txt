@@ -3,6 +3,7 @@
 /m/03m82zk
 Lois McMaster Bujold
 2007-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 able 1
 about 2

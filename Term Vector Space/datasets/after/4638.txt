@@ -3,6 +3,7 @@
 /m/09bvkv
 A. J. Cronin
 1953
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 8
 about 1
 all 1

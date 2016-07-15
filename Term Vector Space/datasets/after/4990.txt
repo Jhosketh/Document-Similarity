@@ -3,6 +3,7 @@
 /m/09_h0t
 Jane Yolen
 
+{"/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 141 1
 a 7
 about 4

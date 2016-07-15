@@ -3,6 +3,7 @@
 /m/04f2ffr
 Edgar Rice Burroughs
 1955
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 2137 1
 30th 1
 an 1

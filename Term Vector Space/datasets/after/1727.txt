@@ -3,6 +3,7 @@
 /m/03hdqt
 W. Somerset Maugham
 1915
+{"/m/012jgz": "Autobiographical novel", "/m/0dwly": "Children's literature", "/m/04fqp": "K\u00fcnstlerroman", "/m/02xlf": "Fiction"}
 a 40
 abandon 1
 abandoned 1

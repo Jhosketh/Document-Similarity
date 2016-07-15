@@ -3,6 +3,7 @@
 /m/0g4tbr
 Muriel Spark
 2000-07-26
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 134 1
 174 1
 a 3

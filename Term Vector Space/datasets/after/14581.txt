@@ -3,6 +3,7 @@
 /m/080hpfk
 Frederick Schiller Faust
 1930
+{"/m/025txgl": "Western fiction"}
 a 17
 about 1
 acknowledging 1

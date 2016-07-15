@@ -3,6 +3,7 @@
 /m/04kh2k
 Frederick Douglass
 1845
+{"/m/0xdf": "Autobiography"}
 2 1
 4 1
 7 1

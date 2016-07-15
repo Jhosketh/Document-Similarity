@@ -3,6 +3,7 @@
 /m/06_wyt
 Jacqueline Carey
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 29
 abducted 2
 about 3

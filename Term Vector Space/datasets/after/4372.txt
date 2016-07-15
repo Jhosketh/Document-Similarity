@@ -3,6 +3,7 @@
 /m/08x11d
 Lloyd Alexander
 1967-11
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 33
 able 1
 abode 1

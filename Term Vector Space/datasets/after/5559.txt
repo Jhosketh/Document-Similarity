@@ -3,6 +3,7 @@
 /m/0c3r2h
 Christopher Buckley
 1994-05-17
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 a 6
 academy 1
 against 1

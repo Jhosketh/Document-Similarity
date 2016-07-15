@@ -3,6 +3,7 @@
 /m/060kd0
 Maeve Binchy
 1994-09-02
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 13year 1
 a 4
 according 1

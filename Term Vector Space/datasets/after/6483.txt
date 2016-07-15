@@ -3,6 +3,7 @@
 /m/0dhr5g
 Ian Rankin
 1996
+{"/m/0lsxr": "Crime Fiction", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 4
 across 1
 after 1

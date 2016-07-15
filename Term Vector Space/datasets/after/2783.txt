@@ -3,6 +3,7 @@
 /m/05l32c
 R. K. Narayan
 1983
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 after 1
 an 1

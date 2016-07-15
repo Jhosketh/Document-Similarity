@@ -3,6 +3,7 @@
 /m/0bwhs4
 Steve Alten
 1999-05
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 18
 about 1
 abyss 1

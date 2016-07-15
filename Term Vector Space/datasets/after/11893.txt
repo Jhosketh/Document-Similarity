@@ -3,6 +3,7 @@
 /m/03y979b
 Robert Jordan
 1982
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 32
 abilities 1
 adventures 1

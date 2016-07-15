@@ -3,6 +3,7 @@
 /m/0gzx9q
 Peter David
 
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction"}
 2002 1
 a 5
 advises 1

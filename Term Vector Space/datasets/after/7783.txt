@@ -3,6 +3,7 @@
 /m/0h66zx
 Brian Evenson
 1998
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 12yearold 1
 14yearold 1
 38yearold 1

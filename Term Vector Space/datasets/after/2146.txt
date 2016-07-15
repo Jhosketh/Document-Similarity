@@ -3,6 +3,7 @@
 /m/04b0fc
 Leslie Charteris
 1930
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2 1
 a 12
 across 1

@@ -3,6 +3,7 @@
 /m/027475k
 Virginia Woolf
 1941
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 17
 after 1
 all 1

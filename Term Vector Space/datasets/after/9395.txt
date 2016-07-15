@@ -3,6 +3,7 @@
 /m/02q13ft
 MaryJanice Davidson
 2006-11-28
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 2 1
 a 6
 abrasive 1

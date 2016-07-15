@@ -3,6 +3,7 @@
 /m/022zqg
 Richard Wright
 1945
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/04fqp": "K\u00fcnstlerroman", "/m/05h83": "Non-fiction"}
 120s 1
 a 13
 abandon 1

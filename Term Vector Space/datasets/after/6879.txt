@@ -3,6 +3,7 @@
 /m/0f2y0v
 Barbara Mertz
 2005
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 122 1
 a 6
 affair 1

@@ -3,6 +3,7 @@
 /m/03crb9s
 Martin Cruz Smith
 
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 3
 after 1
 american 1

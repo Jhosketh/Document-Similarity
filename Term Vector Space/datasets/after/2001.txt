@@ -3,6 +3,7 @@
 /m/040stt
 Tom Wolfe
 1998-11-12
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 all 1
 am 1

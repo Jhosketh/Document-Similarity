@@ -3,6 +3,7 @@
 /m/04yd0km
 Thomas Bernhard
 1963
+{"/m/05hgj": "Novel"}
 a 3
 amount 1
 an 1

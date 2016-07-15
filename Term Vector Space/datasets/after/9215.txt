@@ -3,6 +3,7 @@
 /m/02pp4vy
 Upton Sinclair, Jr.
 1941
+{"/m/03g3w": "History", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 12 1
 120s 1
 24th 1

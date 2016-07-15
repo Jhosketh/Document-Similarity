@@ -3,6 +3,7 @@
 /m/047r3h0
 Elmore Leonard
 2000
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 250000 1
 a 11
 about 2

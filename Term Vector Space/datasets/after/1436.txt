@@ -3,6 +3,7 @@
 /m/02_tt2
 J. D. Salinger
 1961
+{"/m/0707q": "Short story", "/m/02xlf": "Fiction", "/m/0l67h": "Novella", "/m/05hgj": "Novel"}
 a 15
 about 1
 act 1

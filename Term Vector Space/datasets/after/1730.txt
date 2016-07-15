@@ -3,6 +3,7 @@
 /m/03hdvf
 V.S. Naipaul
 1979
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 34
 about 2
 administration 1

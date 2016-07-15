@@ -3,6 +3,7 @@
 /m/0dlmk6b
 Émile Zola
 
+{"/m/0707q": "Short story"}
 a 1
 all 1
 and 1

@@ -3,6 +3,7 @@
 /m/03c2sfs
 William Morris
 1895
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 after 1
 also 1

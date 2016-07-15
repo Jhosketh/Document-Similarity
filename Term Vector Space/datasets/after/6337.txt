@@ -3,6 +3,7 @@
 /m/0dblxr
 Ruth Rendell
 1984-03-05
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 2
 about 1
 all 1

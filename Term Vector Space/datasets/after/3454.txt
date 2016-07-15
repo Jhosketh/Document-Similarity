@@ -3,6 +3,7 @@
 /m/0700jy
 Iris Murdoch
 1957-12
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 about 2
 absent 1

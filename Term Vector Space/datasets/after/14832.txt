@@ -3,6 +3,7 @@
 /m/09v8sz8
 Lois Lenski
 1941
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 3
 adopt 1
 all 1

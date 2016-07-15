@@ -3,6 +3,7 @@
 /m/0b_vn4
 James Fenimore Cooper
 
+{"/m/0hwxm": "Historical novel"}
 a 2
 activities 1
 along 1

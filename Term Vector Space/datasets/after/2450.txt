@@ -3,6 +3,7 @@
 /m/04xs38
 David Weber
 1994-11-24
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01smf2": "Military science fiction"}
 a 10
 about 1
 active 1

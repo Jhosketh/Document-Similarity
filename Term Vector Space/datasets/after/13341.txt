@@ -3,6 +3,7 @@
 /m/051vky3
 Ruth Rendell
 2002-06-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 3
 abduction 1
 accountant 1

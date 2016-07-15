@@ -3,6 +3,7 @@
 /m/026cryh
 Margery Allingham
 1938
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 15
 about 2
 accepts 1

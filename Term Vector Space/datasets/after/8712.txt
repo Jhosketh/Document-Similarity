@@ -3,6 +3,7 @@
 /m/027j00w
 James Rollins
 2006
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 145 1
 a 6
 affects 1

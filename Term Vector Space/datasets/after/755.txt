@@ -3,6 +3,7 @@
 /m/01p82z
 Kurt Vonnegut
 1987
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 abstract 1
 after 3

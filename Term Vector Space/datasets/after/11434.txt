@@ -3,6 +3,7 @@
 /m/03h3gvj
 Stieg Larsson
 2005
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction"}
 2002 1
 24 1
 36 1

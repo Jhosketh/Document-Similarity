@@ -3,6 +3,7 @@
 /m/0c679l
 Amitav Ghosh
 1996-08-23
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction"}
 a 3
 advance 1
 an 4

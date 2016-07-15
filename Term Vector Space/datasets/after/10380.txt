@@ -3,6 +3,7 @@
 /m/02w683w
 Booth Tarkington
 
+{"/m/0dwly": "Children's literature", "/m/01z4y": "Comedy", "/m/05hgj": "Novel"}
 a 10
 about 1
 acquires 2

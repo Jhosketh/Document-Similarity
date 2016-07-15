@@ -3,6 +3,7 @@
 /m/0dqcpp
 C. J. Cherryh
 1985-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 10
 ability 1
 aboard 1

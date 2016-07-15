@@ -3,6 +3,7 @@
 /m/0c8z3p
 Mary Stewart
 1983
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 after 1
 and 2
 arthur 1

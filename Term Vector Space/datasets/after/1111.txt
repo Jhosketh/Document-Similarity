@@ -3,6 +3,7 @@
 /m/02czyr
 Elmore Leonard
 1976
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 10 1
 a 8
 able 1

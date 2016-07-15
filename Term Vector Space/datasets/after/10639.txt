@@ -3,6 +3,7 @@
 /m/02z7570
 Stephenie Meyer
 2008-05-06
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 2012 1
 a 20
 aberration 1

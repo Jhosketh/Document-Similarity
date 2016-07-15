@@ -3,6 +3,7 @@
 /m/03qc_6b
 Edward Rutherfurd
 2000-04-06
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 10 1
 1th 1
 an 1

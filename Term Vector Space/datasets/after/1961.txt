@@ -3,6 +3,7 @@
 /m/03zfhy
 Clive Barker
 1991
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 200 5
 a 60
 ability 1

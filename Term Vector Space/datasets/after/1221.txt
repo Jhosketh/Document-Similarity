@@ -3,6 +3,7 @@
 /m/02mn05
 Stephen King
 1980-09-29
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 6 1
 a 28
 abilities 1

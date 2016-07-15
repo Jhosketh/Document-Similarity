@@ -3,6 +3,7 @@
 /m/02pvn24
 Robert Muchamore
 2006-04-06
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature"}
 a 15
 about 1
 accepted 2

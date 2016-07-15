@@ -3,6 +3,7 @@
 /m/050snt
 Annette Curtis Klause
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 27
 able 1
 about 4

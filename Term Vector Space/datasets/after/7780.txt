@@ -3,6 +3,7 @@
 /m/0h61kg
 William Steig
 1982
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 a 14
 about 2
 act 1

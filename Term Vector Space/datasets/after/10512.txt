@@ -3,6 +3,7 @@
 /m/0403r9t
 Lee Child
 2008-03-24
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 as 1
 by 1
 connelly 1

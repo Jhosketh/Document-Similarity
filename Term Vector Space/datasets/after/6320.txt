@@ -3,6 +3,7 @@
 /m/0d9xhv
 Ruth Rendell
 1989-04-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 5
 affair 1
 alarmingly 1

@@ -3,6 +3,7 @@
 /m/07ctj
 John Brunner
 1975
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 21stcentury 1
 22 1
 a 31

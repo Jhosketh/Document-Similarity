@@ -3,6 +3,7 @@
 /m/09z5b7
 Henning Mankell
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 14 1
 a 3
 also 1

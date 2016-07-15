@@ -3,6 +3,7 @@
 /m/06whhb
 Iris Murdoch
 1964
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 act 1
 actual 1

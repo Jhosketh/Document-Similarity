@@ -3,6 +3,7 @@
 /m/019g32
 J. D. Salinger
 1951-07-16
+{"/m/0hgws": "First-person narrative", "/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman", "/m/05hgj": "Novel"}
 10yearold 1
 14 1
 a 42

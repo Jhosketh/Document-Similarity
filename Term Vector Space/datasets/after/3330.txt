@@ -3,6 +3,7 @@
 /m/06pzs1
 Peter Carey
 1981
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 advertising 1
 aimiably 1

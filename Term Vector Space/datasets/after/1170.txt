@@ -3,6 +3,7 @@
 /m/02hpbc
 Garth Nix
 1997-09
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/026ny": "Dystopia"}
 a 35
 abandoned 1
 abilities 1

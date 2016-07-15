@@ -3,6 +3,7 @@
 /m/01n8y8
 William S. Burroughs
 1959
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 21
 about 2
 action 1

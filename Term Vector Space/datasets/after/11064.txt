@@ -3,6 +3,7 @@
 /m/03csw4g
 Hideyuki Kikuchi
 1983-01-31
+{"/m/06b_0_": "Light novel", "/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction"}
 1200 1
 a 7
 ad 1

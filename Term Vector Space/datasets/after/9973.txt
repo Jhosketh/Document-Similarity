@@ -3,6 +3,7 @@
 /m/02rf512
 Chuck Palahniuk
 2008-05-20
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 137 1
 600 1
 72 1

@@ -3,6 +3,7 @@
 /m/03m4pkq
 Ken Follett
 1983
+{"/m/01jfsb": "Thriller", "/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/01pwbn": "True crime"}
 1275 1
 178 1
 a 5

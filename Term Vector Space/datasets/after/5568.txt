@@ -3,6 +3,7 @@
 /m/0c4mxj
 P. G. Wodehouse
 1926-06
+{"/m/0707q": "Short story", "/m/02xlf": "Fiction"}
 18 1
 a 11
 accepting 1

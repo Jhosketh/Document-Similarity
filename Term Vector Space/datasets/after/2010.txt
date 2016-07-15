@@ -3,6 +3,7 @@
 /m/041932
 Jules Verne
 1892
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/05hgj": "Novel"}
 a 2
 acquaintances 1
 affections 1

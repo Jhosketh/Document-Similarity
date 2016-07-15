@@ -3,6 +3,7 @@
 /m/065w9c
 Kathryn Lasky
 2003-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 121 1
 128 1
 252 1

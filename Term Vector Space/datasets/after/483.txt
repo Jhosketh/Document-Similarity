@@ -3,6 +3,7 @@
 /m/015rm8
 Bret Easton Ellis
 1991
+{"/m/06nbt": "Satire", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 180s 2
 20s 1
 a 17

@@ -3,6 +3,7 @@
 /m/0bkdwj
 Beverly Cleary
 1963
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 about 1
 accepted 1

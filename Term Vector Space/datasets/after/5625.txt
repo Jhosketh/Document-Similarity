@@ -3,6 +3,7 @@
 /m/0c7qz_
 Alan Moore
 1996
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel"}
 4000 1
 6000 1
 a 7

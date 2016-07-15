@@ -3,6 +3,7 @@
 /m/02pxyyb
 Michael Connelly
 1996
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0lsxr": "Crime Fiction", "/m/0c3351": "Suspense"}
 a 28
 able 1
 about 2

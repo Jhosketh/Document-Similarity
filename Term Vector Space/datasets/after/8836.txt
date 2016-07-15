@@ -3,6 +3,7 @@
 /m/027txwp
 Ruth Rendell
 1993-03-25
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 105 1
 10s 1
 a 3

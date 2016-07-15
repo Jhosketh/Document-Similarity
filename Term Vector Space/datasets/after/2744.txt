@@ -3,6 +3,7 @@
 /m/05gzqc
 Mary Kirchoff
 1989-11-30
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 15
 adventures 1
 after 1

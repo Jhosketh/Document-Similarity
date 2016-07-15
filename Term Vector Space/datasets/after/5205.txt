@@ -3,6 +3,7 @@
 /m/0bfjc2
 Thorn Kief Hillsbery
 2005
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 accepted 1
 action 1

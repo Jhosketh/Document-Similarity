@@ -3,6 +3,7 @@
 /m/016hw2
 Hermann Hesse
 1927
+{"/m/02m4t": "Existentialism", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0xdf": "Autobiography", "/m/05hgj": "Novel"}
 a 28
 about 1
 academic 1

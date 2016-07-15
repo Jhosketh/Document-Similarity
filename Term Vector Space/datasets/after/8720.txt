@@ -3,6 +3,7 @@
 /m/027jq90
 John le Carré
 2006-09
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 a 13
 affair 1
 aficionado 1

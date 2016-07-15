@@ -3,6 +3,7 @@
 /m/0d7h7s
 Louis de Bernières
 1990
+{"/m/0127jb": "Magic realism"}
 a 9
 abducted 1
 accompanied 1

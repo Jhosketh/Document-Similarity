@@ -3,6 +3,7 @@
 /m/070wdr
 Darren Shan
 2002-10
+{"/m/03mfnf": "Young adult literature", "/m/03npn": "Horror"}
 a 11
 about 4
 adjust 1

@@ -3,6 +3,7 @@
 /m/0dsx98
 Suzanne Collins
 2005-07-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 15
 actually 1
 adding 1

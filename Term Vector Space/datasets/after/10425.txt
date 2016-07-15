@@ -3,6 +3,7 @@
 /m/02wwjks
 James Moloney
 2007-06-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 1
 all 1
 and 2

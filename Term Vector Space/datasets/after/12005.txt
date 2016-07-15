@@ -3,6 +3,7 @@
 /m/0407xyy
 Zane Grey
 1996
+{"/m/0hfjk": "Western", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 4
 aimlessly 1
 almost 1

@@ -3,6 +3,7 @@
 /m/02qvf2v
 Hannes Bok
 1969
+{"/m/01hmnh": "Fantasy"}
 a 8
 abilities 1
 ability 1

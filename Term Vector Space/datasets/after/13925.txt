@@ -3,6 +3,7 @@
 /m/05zp3wx
 William Trevor
 1991-01-01
+{"/m/05hgj": "Novel"}
 a 6
 alcoholism 1
 also 1

@@ -3,6 +3,7 @@
 /m/03_mcv
 Bel Kaufman
 1965
+{"/m/05hgj": "Novel"}
 a 7
 after 1
 american 1

@@ -3,6 +3,7 @@
 /m/02736gv
 T. Coraghessan Boyle
 1990-09-01
+{"/m/05hgj": "Novel", "/m/016lj8": "Roman \u00e0 clef"}
 107 1
 108 1
 a 4

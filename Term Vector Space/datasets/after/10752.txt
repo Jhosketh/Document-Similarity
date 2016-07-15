@@ -3,6 +3,7 @@
 /m/03c2wjq
 Frederic Dannay
 
+{"/m/02n4kr": "Mystery", "/m/0174gw": "Locked room mystery", "/m/0j5nm": "Whodunit"}
 21 1
 a 3
 abel 1

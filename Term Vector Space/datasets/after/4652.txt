@@ -3,6 +3,7 @@
 /m/09cmhy
 Anne McCaffrey
 1990-03
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 abe 4
 able 1

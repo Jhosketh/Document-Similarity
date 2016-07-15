@@ -3,6 +3,7 @@
 /m/02p8c5_
 Greg Bear
 
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 1200 1
 2005 1
 a 10

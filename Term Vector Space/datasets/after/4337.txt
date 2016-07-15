@@ -3,6 +3,7 @@
 /m/08tckw
 Douglas Coupland
 2001
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 after 1
 and 3

@@ -3,6 +3,7 @@
 /m/061vc_
 Hugh Lofting
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 able 1
 all 1
 and 2

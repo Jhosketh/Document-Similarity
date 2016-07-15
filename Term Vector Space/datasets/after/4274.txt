@@ -3,6 +3,7 @@
 /m/08pc_1
 Neal Asher
 2004
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 1
 also 1
 an 1

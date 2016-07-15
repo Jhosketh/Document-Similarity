@@ -3,6 +3,7 @@
 /m/02r14dz
 Christopher Buckley
 2002
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 a 6
 accepts 1
 accomplish 1

@@ -3,6 +3,7 @@
 /m/02tgf6
 Stanisław Lem
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 24 1
 a 11
 able 1

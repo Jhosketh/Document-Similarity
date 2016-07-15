@@ -3,6 +3,7 @@
 /m/046vw57
 Charlaine Harris
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 a 11
 able 1
 actually 1

@@ -3,6 +3,7 @@
 /m/06zf0h
 Colm Tóibín
 2004
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 18 1
 185 1
 1th 1

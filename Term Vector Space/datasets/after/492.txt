@@ -3,6 +3,7 @@
 /m/0162_v
 Pearl S. Buck
 1930
+{"/m/05hgj": "Novel"}
 a 5
 accept 2
 after 2

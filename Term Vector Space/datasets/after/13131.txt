@@ -3,6 +3,7 @@
 /m/04y6dlq
 Thomas Bernhard
 1979
+{"/m/05hgj": "Novel"}
 a 9
 absolute 1
 absorbed 1

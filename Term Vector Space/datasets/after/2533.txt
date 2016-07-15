@@ -3,6 +3,7 @@
 /m/050t1m
 Compton Mackenzie
 1947
+{"/m/011ys5": "Farce", "/m/01z4y": "Comedy"}
 a 5
 aboard 1
 about 1

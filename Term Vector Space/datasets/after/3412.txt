@@ -3,6 +3,7 @@
 /m/06x_fs
 Marianne de Pierres
 2004
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 7
 and 3
 answer 1

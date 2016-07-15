@@ -3,6 +3,7 @@
 /m/06kc9f
 Franklin W. Dixon
 1966
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 1
 and 1
 are 1

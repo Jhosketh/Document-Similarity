@@ -3,6 +3,7 @@
 /m/03d48_m
 Michael Moorcock
 
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 104 1
 108 1
 110 1

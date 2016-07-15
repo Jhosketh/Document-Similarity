@@ -3,6 +3,7 @@
 /m/02p_yx6
 James Fenimore Cooper
 1827
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 11
 abiram 3
 abirams 1

@@ -3,6 +3,7 @@
 /m/0f6hkg
 Laurell K. Hamilton
 2005-04-12
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 4
 able 1
 almost 2

@@ -3,6 +3,7 @@
 /m/0b7h89
 P. G. Wodehouse
 1939-08-18
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 250 1
 300 1
 a 16

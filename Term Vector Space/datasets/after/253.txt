@@ -3,6 +3,7 @@
 /m/0h4gh
 Stephen King
 1982-06-10
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/025txgl": "Western fiction", "/m/014dfn": "Speculative fiction", "/m/0hfjk": "Western", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 21
 abandoned 1
 about 2

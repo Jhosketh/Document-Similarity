@@ -3,6 +3,7 @@
 /m/026gk18
 Richard Laymon
 1980
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 6
 abducts 1
 accident 1

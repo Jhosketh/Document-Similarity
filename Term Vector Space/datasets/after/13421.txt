@@ -3,6 +3,7 @@
 /m/058shjw
 Gene Wolfe
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 17thcentury 1
 a 27
 abandons 1

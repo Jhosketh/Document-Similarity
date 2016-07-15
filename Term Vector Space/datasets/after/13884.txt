@@ -3,6 +3,7 @@
 /m/05sxd7m
 Edward J. Erickson
 2001
+{"/m/03g3w": "History", "/m/098tmk": "War novel", "/m/05h83": "Non-fiction"}
 180s 1
 2008 1
 a 4

@@ -3,6 +3,7 @@
 /m/09v1j5
 Frank Norris
 1899
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10000 1
 2010 1
 400 1

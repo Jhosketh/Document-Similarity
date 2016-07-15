@@ -3,6 +3,7 @@
 /m/03csxgj
 Hideyuki Kikuchi
 1988-10-31
+{"/m/06b_0_": "Light novel", "/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction"}
 1000 1
 17yearold 1
 a 15

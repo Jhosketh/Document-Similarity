@@ -3,6 +3,7 @@
 /m/01qh59
 Gary Wolf
 1981
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 a 6
 after 1
 and 2

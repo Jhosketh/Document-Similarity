@@ -3,6 +3,7 @@
 /m/01v6yp
 Patricia Highsmith
 1974-03-11
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 6000 1
 a 24
 abandon 1

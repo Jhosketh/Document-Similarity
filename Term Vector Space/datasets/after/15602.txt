@@ -3,6 +3,7 @@
 /m/0ds9lqk
 David Drake
 1998
+{"/m/01smf2": "Military science fiction"}
 a 5
 alliance 1
 and 2

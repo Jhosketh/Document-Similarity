@@ -3,6 +3,7 @@
 /m/0h0g13
 Arthur Machen
 1904
+{"/m/014dfn": "Speculative fiction", "/m/0707q": "Short story", "/m/02xlf": "Fiction"}
 a 11
 abruptly 1
 actual 1

@@ -3,6 +3,7 @@
 /m/026nnp2
 Vilhelm Moberg
 1956
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 about 1
 also 1
 america 1

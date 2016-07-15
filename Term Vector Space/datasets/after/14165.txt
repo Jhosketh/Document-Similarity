@@ -3,6 +3,7 @@
 /m/0660xk0
 Edgar Rice Burroughs
 1923-08-10
+{"/m/02xlf": "Fiction"}
 a 24
 about 3
 abuse 2

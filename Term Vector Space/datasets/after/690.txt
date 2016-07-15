@@ -3,6 +3,7 @@
 /m/01k43c
 C. S. Lewis
 1951
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 14
 accept 1
 accepts 1

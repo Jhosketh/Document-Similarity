@@ -3,6 +3,7 @@
 /m/04xm2c
 Margaret Atwood
 1988-09
+{"/m/014dfn": "Speculative fiction", "/m/04fqp": "K\u00fcnstlerroman", "/m/05hgj": "Novel"}
 a 5
 abandon 1
 about 1

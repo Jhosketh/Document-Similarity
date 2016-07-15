@@ -3,6 +3,7 @@
 /m/0czch5x
 David Liss
 2009-07-07
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 1722 2
 a 4
 after 1

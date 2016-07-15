@@ -3,6 +3,7 @@
 /m/025x1mw
 Philip Pullman
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 17 1
 1878 1
 400000 1

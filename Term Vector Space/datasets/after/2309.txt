@@ -3,6 +3,7 @@
 /m/04nrj2
 Toni Morrison
 1973-11
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 1
 140 1
 a 24

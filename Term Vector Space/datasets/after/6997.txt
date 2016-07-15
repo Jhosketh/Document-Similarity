@@ -3,6 +3,7 @@
 /m/0fc_75
 F. Scott Fitzgerald
 1922-05-27
+{"/m/0707q": "Short story", "/m/02xlf": "Fiction"}
 110 1
 12 1
 18 1

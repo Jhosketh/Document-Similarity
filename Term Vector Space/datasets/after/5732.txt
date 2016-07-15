@@ -3,6 +3,7 @@
 /m/0cdbmd
 George Eliot
 1859-07
+{"/m/0l67h": "Novella"}
 a 6
 ability 1
 about 1

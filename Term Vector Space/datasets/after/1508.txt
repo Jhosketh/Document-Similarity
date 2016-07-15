@@ -3,6 +3,7 @@
 /m/033tnx
 Amy Tan
 1989
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14 1
 a 18
 abandon 1

@@ -3,6 +3,7 @@
 /m/05dyd7
 George Gissing
 1891
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10000 1
 1500 1
 18th 1

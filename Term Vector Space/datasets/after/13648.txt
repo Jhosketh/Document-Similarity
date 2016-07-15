@@ -3,6 +3,7 @@
 /m/04jssd8
 Charlaine Harris
 2004-05-04
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/039vk": "Gothic fiction"}
 a 7
 after 3
 again 1

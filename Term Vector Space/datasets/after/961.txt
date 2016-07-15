@@ -3,6 +3,7 @@
 /m/021741
 L. Frank Baum
 1916
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 13 1
 a 22
 able 4

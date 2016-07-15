@@ -3,6 +3,7 @@
 /m/07jyr4
 Shirley Jackson
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 18yearold 1
 a 21
 accustomed 1

@@ -3,6 +3,7 @@
 /m/0f4l14
 Lucius Shepard
 1987
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 11 1
 8 1
 a 14

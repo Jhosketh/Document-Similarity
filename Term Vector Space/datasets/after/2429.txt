@@ -3,6 +3,7 @@
 /m/04wxy8
 P. C. Wren
 1924
+{"/m/01j6zc": "Foreign legion", "/m/08sdrw": "Adventure novel"}
 a 7
 abbas 2
 adventure 1

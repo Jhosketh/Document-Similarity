@@ -3,6 +3,7 @@
 /m/041825f
 Kate Novak
 1991-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 book 1
 final 1
 finders 1

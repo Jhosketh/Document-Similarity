@@ -3,6 +3,7 @@
 /m/03254n
 Bret Easton Ellis
 1985
+{"/m/02xlf": "Fiction"}
 180s 1
 a 14
 abuse 1

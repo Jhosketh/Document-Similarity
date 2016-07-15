@@ -3,6 +3,7 @@
 /m/02rqcyy
 Margit Sandemo
 2001
+{"/m/0lsxr": "Crime Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 111 1
 2 1
 24 1

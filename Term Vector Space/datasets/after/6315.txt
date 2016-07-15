@@ -3,6 +3,7 @@
 /m/0d9w6m
 Lindsey Davis
 1990
+{"/m/0lsxr": "Crime Fiction", "/m/02p0szs": "Historical fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 71 1
 a 18
 accept 1

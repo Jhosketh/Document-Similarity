@@ -3,6 +3,7 @@
 /m/02pk3z4
 Franklin W. Dixon
 2007-02
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 1
 academy 2
 and 2

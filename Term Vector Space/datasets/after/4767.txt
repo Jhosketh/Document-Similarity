@@ -3,6 +3,7 @@
 /m/09md_m
 Joyce Carol Oates
 1996
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 176 1
 a 11
 admired 1

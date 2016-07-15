@@ -3,6 +3,7 @@
 /m/0360gz
 John Updike
 1984-04-12
+{"/m/014dfn": "Speculative fiction"}
 160s 1
 2008 1
 a 3

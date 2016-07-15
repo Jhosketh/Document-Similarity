@@ -3,6 +3,7 @@
 /m/05syvv
 H. P. Lovecraft
 1929-04
+
 a 8
 abnormal 1
 acquire 1

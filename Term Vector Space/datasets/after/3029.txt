@@ -3,6 +3,7 @@
 /m/06393v
 Alan Paton
 1948-12
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 absalom 6
 activist 1

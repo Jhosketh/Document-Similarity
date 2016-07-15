@@ -3,6 +3,7 @@
 /m/0br_0py
 John Barnes
 2010
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 51 1
 a 8
 actor 1

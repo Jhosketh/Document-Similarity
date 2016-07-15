@@ -3,6 +3,7 @@
 /m/022bb8
 Troy Denning
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1 1
 25000 1
 a 14

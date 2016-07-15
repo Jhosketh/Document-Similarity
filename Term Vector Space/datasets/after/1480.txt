@@ -3,6 +3,7 @@
 /m/0316td
 Ilya Ilf
 1931
+{"/m/06nbt": "Satire"}
 46 1
 a 8
 about 2

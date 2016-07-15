@@ -3,6 +3,7 @@
 /m/02wvkyl
 Darren Shan
 2006-09-05
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 16
 able 1
 about 2

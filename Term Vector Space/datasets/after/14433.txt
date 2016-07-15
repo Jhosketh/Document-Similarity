@@ -3,6 +3,7 @@
 /m/07kg_ty
 Hermann Hesse
 
+{"/m/05hgj": "Novel"}
 a 18
 abandon 1
 abandoned 1

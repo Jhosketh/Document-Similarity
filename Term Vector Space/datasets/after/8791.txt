@@ -3,6 +3,7 @@
 /m/027pfzq
 Eileen Wilks
 2004-10
+{"/m/014dfn": "Speculative fiction", "/m/02vzzv": "Urban fantasy", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 a 7
 and 3
 appear 1

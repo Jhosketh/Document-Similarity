@@ -3,6 +3,7 @@
 /m/098147
 Bernard Cornwell
 1998-02-26
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 9
 after 2
 again 1

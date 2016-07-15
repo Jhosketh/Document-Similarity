@@ -3,6 +3,7 @@
 /m/02855jb
 Brian Caswell
 1992
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 150 1
 a 4
 able 1

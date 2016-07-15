@@ -3,6 +3,7 @@
 /m/09lqq6
 Stephen King
 2006-01-24
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 28
 abandon 1
 abilities 1

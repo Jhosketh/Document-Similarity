@@ -3,6 +3,7 @@
 /m/051wpnt
 Catherynne M. Valente
 2005-07-15
+{"/m/05wkc": "Postmodernism", "/m/01hmnh": "Fantasy"}
 a 1
 after 1
 allusions 1

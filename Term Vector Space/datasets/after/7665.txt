@@ -3,6 +3,7 @@
 /m/0gzdg_
 Lynn Flewelling
 2001-07-16
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 an 2
 ancient 1

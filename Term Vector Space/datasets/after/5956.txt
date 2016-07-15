@@ -3,6 +3,7 @@
 /m/0ctg22
 Joe Dever
 1987
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 1
 about 1
 adventure 1

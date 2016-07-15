@@ -3,6 +3,7 @@
 /m/0drjdf
 Sebastian Faulks
 1999-02
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 142 1
 a 9
 action 1

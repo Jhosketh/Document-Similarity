@@ -3,6 +3,7 @@
 /m/02717dm
 Madeleine L'Engle
 1945
+{"/m/05hgj": "Novel", "/m/01jym": "Bildungsroman"}
 a 13
 accident 1
 acting 1

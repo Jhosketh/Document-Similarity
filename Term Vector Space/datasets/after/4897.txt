@@ -3,6 +3,7 @@
 /m/09v5f0
 Catherine Asaro
 2004-08-05
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 a 6
 also 2
 and 9

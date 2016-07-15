@@ -3,6 +3,7 @@
 /m/04n29l
 Pascal Boyer
 2001
+{"/m/05qfh": "Psychology", "/m/06mq7": "Science"}
 34parasite34 1
 34spandrel34 1
 a 9

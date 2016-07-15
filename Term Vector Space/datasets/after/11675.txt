@@ -3,6 +3,7 @@
 /m/03qgxlq
 Janet Evanovich
 2008-01-08
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 3
 an 1
 and 2

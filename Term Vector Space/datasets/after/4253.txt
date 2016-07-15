@@ -3,6 +3,7 @@
 /m/08n521
 Robert Ludlum
 2002-10-15
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 a 10
 after 1
 agency 1

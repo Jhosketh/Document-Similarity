@@ -3,6 +3,7 @@
 /m/02qkg2s
 Charles de Lint
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 acceptance 1
 an 1

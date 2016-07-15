@@ -3,6 +3,7 @@
 /m/08kpxz
 Scott O'Dell
 1976-03-29
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 14yearold 1
 a 1
 alive 1

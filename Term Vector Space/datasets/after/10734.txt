@@ -3,6 +3,7 @@
 /m/03c24t1
 Philip K. Dick
 1986
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160 1
 58yearold 1
 a 11

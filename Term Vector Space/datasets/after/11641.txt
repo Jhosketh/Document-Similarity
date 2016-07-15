@@ -3,6 +3,7 @@
 /m/03nwz3g
 Neal Stephenson
 2008-09-09
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 10day 1
 a 48
 abbreviated 1

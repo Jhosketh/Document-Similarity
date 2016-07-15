@@ -3,6 +3,7 @@
 /m/0466f2x
 Jacqueline Wilson
 2002
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 11
 abducted 1
 about 3

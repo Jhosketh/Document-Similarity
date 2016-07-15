@@ -3,6 +3,7 @@
 /m/0dpnwd
 Peter Carey
 1997
+{"/m/0fr3y1": "Parallel novel", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1th 1
 a 6
 and 4

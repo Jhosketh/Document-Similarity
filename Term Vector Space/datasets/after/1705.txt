@@ -3,6 +3,7 @@
 /m/03gv05
 Simon Scarrow
 2001-08-02
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 a 27
 able 4
 about 1

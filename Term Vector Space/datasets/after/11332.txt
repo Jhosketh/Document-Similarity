@@ -3,6 +3,7 @@
 /m/03gxbn6
 Caroline Lawrence
 2007-02-01
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 4
 about 1
 accountant 1

@@ -3,6 +3,7 @@
 /m/01kxt8
 Margaret Atwood
 2000-09-02
+{"/m/02xlf": "Fiction"}
 130s 1
 140s 1
 a 10

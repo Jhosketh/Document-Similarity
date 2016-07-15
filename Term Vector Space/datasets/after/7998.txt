@@ -3,6 +3,7 @@
 /m/02636n0
 K. A. Applegate
 1998-06
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 14
 about 1
 above 1

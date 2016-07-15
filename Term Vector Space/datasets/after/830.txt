@@ -3,6 +3,7 @@
 /m/01tzkp
 Graham Greene
 1955-12
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel"}
 20 1
 a 18
 about 3

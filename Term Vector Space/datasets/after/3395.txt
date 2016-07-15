@@ -3,6 +3,7 @@
 /m/06wfq7
 Robert Erskine Childers
 1903
+{"/m/06wkf": "Spy fiction", "/m/090ts5": "Invasion literature", "/m/08sdrw": "Adventure novel"}
 a 13
 acquaintance 1
 actually 1

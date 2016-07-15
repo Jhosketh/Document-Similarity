@@ -3,6 +3,7 @@
 /m/07b46_
 John Masters
 1951-12
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1857 1
 a 3
 about 1

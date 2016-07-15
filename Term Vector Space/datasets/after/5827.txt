@@ -3,6 +3,7 @@
 /m/0clc3m
 Laurell K. Hamilton
 
+{"/m/01hmnh": "Fantasy", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 100 1
 a 61
 abandoned 1

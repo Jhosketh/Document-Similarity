@@ -3,6 +3,7 @@
 /m/04111fr
 Ali Smith
 2005
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 12 1
 17 1
 20th 1

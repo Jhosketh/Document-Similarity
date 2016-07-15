@@ -3,6 +3,7 @@
 /m/05dz6m
 Orson Scott Card
 2003
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 abe 2
 across 1

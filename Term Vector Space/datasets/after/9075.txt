@@ -3,6 +3,7 @@
 /m/02873mm
 Scott Westerfeld
 2007-10-02
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 5
 after 1
 amateur 1

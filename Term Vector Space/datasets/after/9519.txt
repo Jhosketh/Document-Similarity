@@ -3,6 +3,7 @@
 /m/02qczd6
 Khaled Hosseini
 2007-05-22
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 19
 able 1
 about 1

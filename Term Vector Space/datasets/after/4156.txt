@@ -3,6 +3,7 @@
 /m/08dg8l
 Kate DiCamillo
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 41
 about 3
 access 1

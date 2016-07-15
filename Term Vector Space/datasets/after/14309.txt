@@ -3,6 +3,7 @@
 /m/06_wr58
 Elmore Leonard
 1983
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 admired 1
 and 1

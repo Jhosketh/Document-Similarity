@@ -3,6 +3,7 @@
 /m/0285wrk
 Jerry Spinelli
 
+{"/m/03mfnf": "Young adult literature", "/m/0hwxm": "Historical novel"}
 a 32
 about 1
 acquires 1

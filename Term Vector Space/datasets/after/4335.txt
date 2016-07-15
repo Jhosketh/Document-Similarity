@@ -3,6 +3,7 @@
 /m/08t13x
 Jonathan Stroud
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 100 1
 500 1
 600 1

@@ -3,6 +3,7 @@
 /m/04mxcp
 Andrzej Sapkowski
 1994
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 aided 2
 allies 1

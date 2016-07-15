@@ -3,6 +3,7 @@
 /m/02q6c7y
 Caroline Lawrence
 2002-10-17
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 11th 1
 3 1
 a 17

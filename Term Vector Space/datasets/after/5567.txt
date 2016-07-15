@@ -3,6 +3,7 @@
 /m/0c4mtr
 Mercedes Lackey
 2000-05-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 abilities 2
 ability 1

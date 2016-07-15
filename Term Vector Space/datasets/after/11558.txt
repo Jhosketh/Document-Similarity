@@ -3,6 +3,7 @@
 /m/03mbl_b
 Jack Higgins
 1991
+{"/m/01jfsb": "Thriller", "/m/098tmk": "War novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 175 1
 a 18
 about 2

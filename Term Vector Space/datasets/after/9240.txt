@@ -3,6 +3,7 @@
 /m/02pqrk6
 Antonia Barber
 
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 26
 abandoned 1
 able 1

@@ -3,6 +3,7 @@
 /m/02qrtb_
 Brian Moore
 1995
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 70 1
 a 1
 abbeys 1

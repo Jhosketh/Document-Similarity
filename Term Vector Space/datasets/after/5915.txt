@@ -3,6 +3,7 @@
 /m/0crjnv
 Andy Griffiths
 2005-09-01
+{"/m/02yq81": "Comic novel", "/m/0dwly": "Children's literature"}
 3 3
 4 2
 5 1

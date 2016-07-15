@@ -3,6 +3,7 @@
 /m/0388yk
 Earl Derr Biggers
 1930
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 2
 after 1
 an 1

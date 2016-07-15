@@ -3,6 +3,7 @@
 /m/026vx_1
 Juliet Marillier
 2006-07-01
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature"}
 a 17
 about 1
 absence 1

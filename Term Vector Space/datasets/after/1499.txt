@@ -3,6 +3,7 @@
 /m/032l8y
 Kurt Vonnegut
 1985
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 16
 able 1
 adapted 1

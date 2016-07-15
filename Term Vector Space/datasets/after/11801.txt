@@ -3,6 +3,7 @@
 /m/03wf2sf
 Sue Grafton
 1994
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 22
 abandon 1
 about 3

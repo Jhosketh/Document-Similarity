@@ -3,6 +3,7 @@
 /m/065zs0b
 Desmond Bagley
 1975
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 12 1
 13 1
 130s 1

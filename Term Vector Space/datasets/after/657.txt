@@ -3,6 +3,7 @@
 /m/01hgwz
 Roger Zelazny
 1972
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 36
 abdicate 1
 ability 1

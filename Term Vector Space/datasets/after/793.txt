@@ -3,6 +3,7 @@
 /m/01s14k
 E. B. White
 1952
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 7
 after 1
 although 1

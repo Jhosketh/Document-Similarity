@@ -3,6 +3,7 @@
 /m/027f_1v
 Georgette Heyer
 1940
+{"/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/03xwcv": "Regency romance", "/m/0c3351": "Suspense"}
 a 3
 accomplished 1
 across 1

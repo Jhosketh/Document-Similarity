@@ -3,6 +3,7 @@
 /m/0263b4h
 Patricia Cornwell
 1992
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 ace 1
 after 1

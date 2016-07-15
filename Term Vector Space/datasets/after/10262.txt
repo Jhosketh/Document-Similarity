@@ -3,6 +3,7 @@
 /m/02vrmvw
 Margaret George
 2002
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 3
 apostle 1
 as 1

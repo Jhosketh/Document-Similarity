@@ -3,6 +3,7 @@
 /m/076v5f6
 Ben H. Winters
 2009-09-15
+{"/m/01jfsb": "Thriller", "/m/0gf28": "Parody", "/m/02p0szs": "Historical fiction", "/m/0crjhv8": "Mashup", "/m/0vgkd": "Black comedy", "/m/02yq81": "Comic novel"}
 35 1
 a 41
 abandoned 2

@@ -3,6 +3,7 @@
 /m/061xn_
 Robin Jarvis
 1993-09-30
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction"}
 a 51
 accepts 1
 accompanied 1

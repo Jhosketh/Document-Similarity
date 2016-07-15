@@ -3,6 +3,7 @@
 /m/0421t07
 Sarah Dessen
 2008-04-22
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 17yearold 1
 a 14
 abandons 1

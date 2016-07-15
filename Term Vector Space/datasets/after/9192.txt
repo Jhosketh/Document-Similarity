@@ -3,6 +3,7 @@
 /m/02pm__8
 Martin Cruz Smith
 1999
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 150s 1
 250 1
 a 9

@@ -3,6 +3,7 @@
 /m/08jc3d
 Robert Ludlum
 1993-04-08
+{"/m/06wkf": "Spy fiction", "/m/0d6gr": "Reference", "/m/02xlf": "Fiction"}
 a 3
 alive 1
 amaya 2

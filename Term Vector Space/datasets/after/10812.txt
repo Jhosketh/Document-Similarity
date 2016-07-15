@@ -3,6 +3,7 @@
 /m/03c8070
 Cornelia Funke
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 against 1
 all 1

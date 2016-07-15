@@ -3,6 +3,7 @@
 /m/095hqk
 James De Mille
 1888
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/026ny": "Dystopia"}
 1th 1
 a 10
 accumulating 1

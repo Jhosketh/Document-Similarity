@@ -3,6 +3,7 @@
 /m/05p1jrv
 Qiu Xiaolong
 2004-07
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 30s 1
 a 9
 acclaimed 1

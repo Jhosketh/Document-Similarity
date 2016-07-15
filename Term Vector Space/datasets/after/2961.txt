@@ -3,6 +3,7 @@
 /m/05_hs2
 Jean M. Auel
 1990-09-24
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 adjectives 1
 after 1

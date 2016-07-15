@@ -3,6 +3,7 @@
 /m/02qy7_k
 Emilio Salgari
 
+{"/m/08sdrw": "Adventure novel"}
 a 3
 adventure 2
 ages 1

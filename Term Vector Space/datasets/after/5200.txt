@@ -3,6 +3,7 @@
 /m/0bf382
 Zoey Dean
 2004-09-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 18th 1
 a 14
 abandoning 1

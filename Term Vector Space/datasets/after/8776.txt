@@ -3,6 +3,7 @@
 /m/027nmk8
 Derek Benz
 2007-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 1
 adventure 1
 again 1

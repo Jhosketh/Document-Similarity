@@ -3,6 +3,7 @@
 /m/0dh2c2
 Ian Rankin
 1993
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 150s 1
 45 1
 a 42

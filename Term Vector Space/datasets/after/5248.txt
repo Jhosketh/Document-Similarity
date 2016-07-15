@@ -3,6 +3,7 @@
 /m/0bj6f3
 P. G. Wodehouse
 1973-10-15
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 air 1
 and 1

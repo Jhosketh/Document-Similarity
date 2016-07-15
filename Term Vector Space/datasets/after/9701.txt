@@ -3,6 +3,7 @@
 /m/02qs_47
 T. A. Barron
 2005-10-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 1
 allies 1
 already 1

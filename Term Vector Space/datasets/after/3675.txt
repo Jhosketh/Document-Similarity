@@ -3,6 +3,7 @@
 /m/07ggls
 Melanie Rawn
 1990
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 728 1
 a 6
 ablaze 1

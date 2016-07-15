@@ -3,6 +3,7 @@
 /m/098tt1
 Janet Evanovich
 1997-02-14
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 accidental 1
 across 1

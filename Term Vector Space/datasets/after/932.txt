@@ -3,6 +3,7 @@
 /m/01_n1d
 John Gunther
 1949
+{"/m/05h83": "Non-fiction", "/m/016chh": "Memoir"}
 14 1
 175 1
 a 12

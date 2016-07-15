@@ -3,6 +3,7 @@
 /m/0b06lv
 E. L. Konigsburg
 1996
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 4
 academic 1
 accident 1

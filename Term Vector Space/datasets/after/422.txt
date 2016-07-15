@@ -3,6 +3,7 @@
 /m/013zzr
 Anne Rice
 1985
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 180s 1
 18th 1
 200yearlong 1

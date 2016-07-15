@@ -3,6 +3,7 @@
 /m/02p2skn
 Patrick O'Brian
 1989
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1813 1
 a 19
 abdul 2

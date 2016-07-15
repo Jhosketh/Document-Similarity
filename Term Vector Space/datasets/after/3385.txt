@@ -3,6 +3,7 @@
 /m/06vm3h
 George R. R. Martin
 2011-07-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 200 1
 8th 1
 a 33

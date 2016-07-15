@@ -3,6 +3,7 @@
 /m/03196t
 Richard Yates
 1978
+{"/m/05hgj": "Novel"}
 15 1
 30 1
 a 12

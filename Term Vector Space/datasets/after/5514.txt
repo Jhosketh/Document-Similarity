@@ -3,6 +3,7 @@
 /m/0c0634
 Rosamunde Pilcher
 1987
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 10 1
 60s 1
 a 4

@@ -3,6 +3,7 @@
 /m/0966ld
 Julia Ward Howe
 2004
+{"/m/05hgj": "Novel"}
 a 6
 allows 1
 an 1

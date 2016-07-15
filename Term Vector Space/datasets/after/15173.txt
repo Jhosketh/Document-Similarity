@@ -3,6 +3,7 @@
 /m/0bs64jb
 Isabel Allende
 2009
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 18th 1
 a 6
 african 1

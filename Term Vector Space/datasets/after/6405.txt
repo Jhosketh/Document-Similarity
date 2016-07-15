@@ -3,6 +3,7 @@
 /m/0df5my
 Morag Joss
 2003
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 5
 and 3
 armour 1

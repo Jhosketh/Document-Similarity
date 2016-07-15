@@ -3,6 +3,7 @@
 /m/03d5pdk
 Colleen McCullough
 2007-12-04
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 27 2
 41 1
 a 2

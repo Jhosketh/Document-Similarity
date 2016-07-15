@@ -3,6 +3,7 @@
 /m/0ctpc5
 Dean Koontz
 1982
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 aged 1
 all 1

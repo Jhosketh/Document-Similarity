@@ -3,6 +3,7 @@
 /m/02ppqf9
 R. K. Narayan
 1949
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 actor 1
 actress 1

@@ -3,6 +3,7 @@
 /m/01d5k8
 Graham Greene
 1948
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 34
 about 1
 absolution 1

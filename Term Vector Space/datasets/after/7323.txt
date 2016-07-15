@@ -3,6 +3,7 @@
 /m/0g56rk
 Donald Hamilton
 1976
+{"/m/06wkf": "Spy fiction", "/m/05hgj": "Novel"}
 a 2
 against 1
 agents 1

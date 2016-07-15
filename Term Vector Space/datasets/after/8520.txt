@@ -3,6 +3,7 @@
 /m/0276b2f
 Sergey Lukyanenko
 1990
+{"/m/08sdrw": "Adventure novel"}
 a 5
 about 1
 after 1

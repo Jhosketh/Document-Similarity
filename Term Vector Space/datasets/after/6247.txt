@@ -3,6 +3,7 @@
 /m/0d6snt
 Georgette Heyer
 1954
+{"/m/028v3": "Detective fiction", "/m/08sdrw": "Adventure novel", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 11year 1
 60 1
 a 10

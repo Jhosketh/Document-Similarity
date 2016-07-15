@@ -3,6 +3,7 @@
 /m/071f3b
 Agatha Christie
 
+{"/m/0463v20": "Cozy", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2th 1
 630 2
 a 55

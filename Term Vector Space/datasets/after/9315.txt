@@ -3,6 +3,7 @@
 /m/02pwvq6
 P. G. Wodehouse
 1948-05-20
+{"/m/02yq81": "Comic novel", "/m/02xlf": "Fiction"}
 1000 1
 200 1
 a 9

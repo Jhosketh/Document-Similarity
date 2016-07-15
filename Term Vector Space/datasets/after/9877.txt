@@ -3,6 +3,7 @@
 /m/02r5ft5
 Philip Roth
 2007-09
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 156 1
 2004 2
 a 12

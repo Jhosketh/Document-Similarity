@@ -3,6 +3,7 @@
 /m/027fvys
 Joyce Carol Oates
 2005-02-15
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 2
 accusations 1
 accuse 1

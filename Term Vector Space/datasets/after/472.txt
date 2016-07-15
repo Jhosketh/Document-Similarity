@@ -3,6 +3,7 @@
 /m/015d6d
 John Steinbeck
 1952-09
+{"/m/05hgj": "Novel"}
 100 1
 15000 1
 20th 1

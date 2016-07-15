@@ -3,6 +3,7 @@
 /m/03v11v
 Eleanor H. Porter
 1913
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 13
 able 1
 about 3

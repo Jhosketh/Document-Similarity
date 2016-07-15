@@ -3,6 +3,7 @@
 /m/04gg14
 Mitch Albom
 2003-09-25
+{"/m/037mh8": "Philosophy", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/03rllnc": "Inspirational"}
 a 24
 able 3
 about 2

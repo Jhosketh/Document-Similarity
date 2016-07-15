@@ -3,6 +3,7 @@
 /m/01gw3r
 H. G. Wells
 1909
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 14
 abandons 1
 able 1

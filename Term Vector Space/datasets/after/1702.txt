@@ -3,6 +3,7 @@
 /m/051k1z7
 Giuseppe Tomasi di Lampedusa
 1958
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 143 1
 1860 1
 a 127

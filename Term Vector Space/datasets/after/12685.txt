@@ -3,6 +3,7 @@
 /m/04gmd19
 
 1974
+{"/m/02yq81": "Comic novel", "/m/0xdf": "Autobiography", "/m/06nbt": "Satire"}
 1 1
 56th 1
 a 20

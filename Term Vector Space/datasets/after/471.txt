@@ -3,6 +3,7 @@
 /m/015cf8
 Charles Dickens
 1839
+{"/m/0276pxr": "Social novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1837 1
 70 1
 a 48

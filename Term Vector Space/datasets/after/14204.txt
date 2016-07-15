@@ -3,6 +3,7 @@
 /m/06w2fyq
 Caroline B. Cooney
 1999-01-01
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery"}
 a 18
 ability 1
 about 1

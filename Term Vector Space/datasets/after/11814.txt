@@ -3,6 +3,7 @@
 /m/03wfpzz
 Kristin Cast
 2008-09-23
+{"/m/03npn": "Horror", "/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/072lff": "Paranormal romance"}
 a 30
 abbey 1
 about 4

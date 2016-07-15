@@ -3,6 +3,7 @@
 /m/0f25db
 Ann Patchett
 2001
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 8
 after 2
 all 3

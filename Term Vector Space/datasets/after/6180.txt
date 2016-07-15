@@ -3,6 +3,7 @@
 /m/0d2xs7
 Alan Dean Foster
 1984-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 1
 accompanies 1
 accustomed 1

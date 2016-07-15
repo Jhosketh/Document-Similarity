@@ -3,6 +3,7 @@
 /m/0h35m
 J. R. R. Tolkien
 1954-07-24
+{"/m/01hmnh": "Fantasy", "/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0d6gr": "Reference", "/m/02xlf": "Fiction"}
 111th 1
 17 1
 22 1

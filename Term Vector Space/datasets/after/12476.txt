@@ -3,6 +3,7 @@
 /m/04csm5v
 Brent Hartinger
 2003-03-04
+{"/m/05hgj": "Novel"}
 a 24
 abandoning 1
 about 2

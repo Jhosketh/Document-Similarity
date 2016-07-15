@@ -3,6 +3,7 @@
 /m/03cwf3z
 Alistair MacLean
 1961
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/05hgj": "Novel"}
 a 8
 about 2
 actually 1

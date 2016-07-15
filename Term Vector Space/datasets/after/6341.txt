@@ -3,6 +3,7 @@
 /m/0dbnpy
 Bernard Cornwell
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 a 6
 aelle 3
 after 2

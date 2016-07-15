@@ -3,6 +3,7 @@
 /m/06kcl6
 Franklin W. Dixon
 1976
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 2
 and 1
 anger 1

@@ -3,6 +3,7 @@
 /m/0cp1mz
 Joe Dever
 1992
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 2
 about 1
 against 1

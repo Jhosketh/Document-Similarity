@@ -3,6 +3,7 @@
 /m/059mjt
 George Eliot
 1859
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 167 1
 17 1
 a 13

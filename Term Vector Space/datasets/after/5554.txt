@@ -3,6 +3,7 @@
 /m/0c3jsn
 
 1908-10-15
+{"/m/05hgj": "Novel"}
 a 18
 about 1
 affections 1

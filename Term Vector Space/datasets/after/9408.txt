@@ -3,6 +3,7 @@
 /m/02q28ws
 Rex Stout
 1960-10-28
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 account 1
 actress 1

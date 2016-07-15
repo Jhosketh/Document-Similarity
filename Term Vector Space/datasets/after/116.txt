@@ -3,6 +3,7 @@
 /m/0bdfv
 Jane Austen
 1817-12
+{"/m/039vk": "Gothic fiction", "/m/06nbt": "Satire", "/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 17 1
 400 1
 a 21

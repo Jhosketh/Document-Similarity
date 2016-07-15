@@ -3,6 +3,7 @@
 /m/0jz1w
 Zona Gale
 1920
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 120 1
 18 1
 2 1

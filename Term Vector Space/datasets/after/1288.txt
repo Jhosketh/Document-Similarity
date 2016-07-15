@@ -3,6 +3,7 @@
 /m/02qtj4
 Chris Ware
 2000
+{"/m/0py0z": "Graphic novel"}
 183 1
 a 6
 abusive 1

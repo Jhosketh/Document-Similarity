@@ -3,6 +3,7 @@
 /m/0c01020
 Glenn Beck
 2010-06-15
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 about 1
 acceptable 1

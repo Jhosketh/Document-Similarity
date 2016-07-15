@@ -3,6 +3,7 @@
 /m/047j0d
 Roald Dahl
 1990
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 15
 accepts 1
 admiration 1

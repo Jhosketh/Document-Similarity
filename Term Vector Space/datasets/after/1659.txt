@@ -3,6 +3,7 @@
 /m/03dwx_
 Charles Dickens
 1841
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 13 1
 1775 1
 1780 1

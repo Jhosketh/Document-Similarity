@@ -3,6 +3,7 @@
 /m/04q1s1
 Jules Verne
 1876
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/02p0szs": "Historical fiction"}
 30yearold 1
 a 11
 about 1

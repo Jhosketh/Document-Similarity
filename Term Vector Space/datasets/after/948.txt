@@ -3,6 +3,7 @@
 /m/020q34
 Helen Hunt Jackson
 1884
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 adores 2
 after 2

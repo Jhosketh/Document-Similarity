@@ -3,6 +3,7 @@
 /m/0d0jwc
 Dan Gutman
 1997
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/06bvp": "Religion"}
 10 1
 a 4
 ability 1

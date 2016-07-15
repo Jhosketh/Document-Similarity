@@ -3,6 +3,7 @@
 /m/0265tzz
 H. L. Gold
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 and 1
 attempts 1

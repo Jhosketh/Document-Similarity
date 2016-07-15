@@ -3,6 +3,7 @@
 /m/03yd1gm
 Basil Copper
 1992
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 a 5
 an 1
 and 1

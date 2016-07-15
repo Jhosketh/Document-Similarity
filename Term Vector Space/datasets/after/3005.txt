@@ -3,6 +3,7 @@
 /m/06205k
 Ross Macdonald
 1950
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 175 1
 a 2
 an 1

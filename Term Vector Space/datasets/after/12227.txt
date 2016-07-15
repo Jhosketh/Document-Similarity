@@ -3,6 +3,7 @@
 /m/04crgw8
 Theodore Judson
 2008
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 220s 1
 2270s 1
 2280s 1

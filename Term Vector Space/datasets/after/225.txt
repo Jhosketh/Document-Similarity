@@ -3,6 +3,7 @@
 /m/0gdfn
 Iain Banks
 1995
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1yearold 1
 2 1
 a 16

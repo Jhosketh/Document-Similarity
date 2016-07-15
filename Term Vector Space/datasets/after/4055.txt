@@ -3,6 +3,7 @@
 /m/085_9l
 Anthony Burgess
 1976
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 150 1
 177 1
 a 1

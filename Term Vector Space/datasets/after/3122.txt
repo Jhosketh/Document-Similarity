@@ -3,6 +3,7 @@
 /m/0691_s
 A. G. Macdonell
 1933-12
+{"/m/06nbt": "Satire", "/m/01z4y": "Comedy"}
 120s 1
 a 12
 about 1

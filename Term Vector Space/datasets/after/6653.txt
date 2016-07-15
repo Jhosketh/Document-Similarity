@@ -3,6 +3,7 @@
 /m/0dpm_b
 Peter O'Donnell
 1966
+{"/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 afghanistan 1
 and 15

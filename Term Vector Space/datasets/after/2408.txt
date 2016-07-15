@@ -3,6 +3,7 @@
 /m/04v8ts
 Lew Wallace
 1880-11-12
+{"/m/0hwxm": "Historical novel", "/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1111 1
 121218 1
 1234 1

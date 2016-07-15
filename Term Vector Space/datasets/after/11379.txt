@@ -3,6 +3,7 @@
 /m/03gzzw4
 Robert Cormier
 1997
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 15 2
 18th 1
 a 33

@@ -3,6 +3,7 @@
 /m/09pqd8
 Anne Rice
 1990-10-19
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 a 11
 aaron 2
 abilities 2

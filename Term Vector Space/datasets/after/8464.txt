@@ -3,6 +3,7 @@
 /m/02723sq
 Baroness Emma Orczy
 1940
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 1 1
 14 1
 16 2

@@ -3,6 +3,7 @@
 /m/03cvddz
 Mickey Spillane
 1951
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 a 6
 actress 1
 also 1

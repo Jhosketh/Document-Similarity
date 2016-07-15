@@ -3,6 +3,7 @@
 /m/078dhx
 Anthony Horowitz
 2003-09-04
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 20
 aboard 1
 abort 1

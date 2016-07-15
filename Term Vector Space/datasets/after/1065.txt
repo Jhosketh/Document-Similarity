@@ -3,6 +3,7 @@
 /m/0284f9
 Nathaniel Hawthorne
 1852
+{"/m/016lj8": "Roman \u00e0 clef", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 24
 about 3
 accosts 1

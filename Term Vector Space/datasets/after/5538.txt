@@ -3,6 +3,7 @@
 /m/0c24sn
 Jonathan Carroll
 1987-05-31
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 4
 about 1
 across 1

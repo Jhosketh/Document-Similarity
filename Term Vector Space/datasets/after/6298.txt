@@ -3,6 +3,7 @@
 /m/0d9b38
 Ruth Rendell
 1988-09-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 20 1
 acquaintance 1
 and 1

@@ -3,6 +3,7 @@
 /m/04164d7
 Bruce Cook
 2002
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 1
 american 2
 benjamin 1

@@ -3,6 +3,7 @@
 /m/060jf2
 John le Carré
 2003
+{"/m/05hgj": "Novel"}
 160sera 1
 a 15
 ability 1

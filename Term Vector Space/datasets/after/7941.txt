@@ -3,6 +3,7 @@
 /m/0260447
 Anthony Powell
 1964
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 140 1
 a 7
 account 1

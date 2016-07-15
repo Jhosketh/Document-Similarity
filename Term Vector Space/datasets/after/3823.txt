@@ -3,6 +3,7 @@
 /m/07r7hg
 Charles Dickens
 1846
+{"/m/014dfn": "Speculative fiction", "/m/0l67h": "Novella"}
 a 7
 about 2
 after 1

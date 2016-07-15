@@ -3,6 +3,7 @@
 /m/076vnjl
 Eleanor Catton
 2008
+{"/m/05hgj": "Novel"}
 a 9
 abandoning 1
 about 1

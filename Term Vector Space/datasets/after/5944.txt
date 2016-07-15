@@ -3,6 +3,7 @@
 /m/0csx0y
 J. G. Ballard
 1979
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 8
 about 1
 absolutely 1

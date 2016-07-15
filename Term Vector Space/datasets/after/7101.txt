@@ -3,6 +3,7 @@
 /m/0fmpmk
 Nancy Varian Berberick
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 abandoned 1
 acknowledged 1

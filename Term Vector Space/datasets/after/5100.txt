@@ -3,6 +3,7 @@
 /m/0b88pc
 Thomas Berger
 1980
+{"/m/059r08": "Psychological novel"}
 a 3
 aggressive 1
 and 9

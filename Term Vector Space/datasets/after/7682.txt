@@ -3,6 +3,7 @@
 /m/0g_9jn
 Ha Jin
 2004
+{"/m/02xlf": "Fiction"}
 a 37
 able 2
 about 1

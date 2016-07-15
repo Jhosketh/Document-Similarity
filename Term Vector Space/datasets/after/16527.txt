@@ -3,6 +3,7 @@
 /m/047ccdf
 Gary Russell
 
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 after 1
 again 1
 and 3

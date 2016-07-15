@@ -3,6 +3,7 @@
 /m/03yhw_
 Tracy Kidder
 1981-07
+{"/m/04rjg": "Mathematics", "/m/06mq7": "Science"}
 170s 1
 32bit 1
 a 5

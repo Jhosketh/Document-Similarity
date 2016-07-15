@@ -3,6 +3,7 @@
 /m/03656d
 Raymond E. Feist
 1988-02-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 again 1
 also 1
 and 6

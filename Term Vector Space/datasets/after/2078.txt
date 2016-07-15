@@ -3,6 +3,7 @@
 /m/045qg_
 James Redfield
 1993
+{"/m/037mh8": "Philosophy", "/m/014dfn": "Speculative fiction", "/m/03rllnc": "Inspirational", "/m/02xlf": "Fiction"}
 20 1
 600 1
 a 12

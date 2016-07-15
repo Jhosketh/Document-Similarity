@@ -3,6 +3,7 @@
 /m/0dgsfd
 Kate Tremayne
 2006-03-06
+{"/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 1
 against 1
 america 1

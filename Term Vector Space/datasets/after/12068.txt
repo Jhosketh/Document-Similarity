@@ -3,6 +3,7 @@
 /m/0415ppv
 Paul Auster
 1992
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 15 1
 175 1
 41 1

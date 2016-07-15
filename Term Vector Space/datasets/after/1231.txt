@@ -3,6 +3,7 @@
 /m/02n0y9
 Thomas Mann
 1924
+{"/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 20s 1
 a 9
 about 1

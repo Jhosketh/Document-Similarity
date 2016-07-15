@@ -3,6 +3,7 @@
 /m/02x4sp9
 Raymond Benson
 1999
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 a 2
 adapted 1
 after 1

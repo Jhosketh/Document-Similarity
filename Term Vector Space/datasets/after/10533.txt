@@ -3,6 +3,7 @@
 /m/02x87t_
 Laura Ingalls Wilder
 1943
+{"/m/0hfjk": "Western", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 12 1
 15 1
 40 3

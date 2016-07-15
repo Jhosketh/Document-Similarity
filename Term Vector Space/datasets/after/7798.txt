@@ -3,6 +3,7 @@
 /m/0h6zlg
 Michael Moorcock
 1969
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 adaz 1
 after 2

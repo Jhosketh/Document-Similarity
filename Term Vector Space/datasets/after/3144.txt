@@ -3,6 +3,7 @@
 /m/06c08w
 Mick Foley
 2003
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16 1
 a 5
 about 1

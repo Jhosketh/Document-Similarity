@@ -3,6 +3,7 @@
 /m/06fyp_
 E. Nesbit
 1906
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 108 1
 a 12
 able 2

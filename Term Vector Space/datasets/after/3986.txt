@@ -3,6 +3,7 @@
 /m/081knj
 Troy Denning
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 66 1
 a 9
 abilities 1

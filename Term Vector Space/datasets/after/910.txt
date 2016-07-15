@@ -3,6 +3,7 @@
 /m/01zhpl
 Margaret Forster
 2003-03-06
+{"/m/05hgj": "Novel"}
 a 2
 age 1
 ambition 1

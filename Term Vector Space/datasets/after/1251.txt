@@ -3,6 +3,7 @@
 /m/02nl7h
 Terry Pratchett
 
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 8
 accident 1
 adventure 1

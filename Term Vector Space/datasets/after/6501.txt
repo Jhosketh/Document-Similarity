@@ -3,6 +3,7 @@
 /m/0djb9k
 Robert Louis Stevenson
 1896
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 an 1
 and 5

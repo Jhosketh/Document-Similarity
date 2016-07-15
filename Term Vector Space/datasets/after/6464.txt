@@ -3,6 +3,7 @@
 /m/0dh969
 Robert Bloch
 1959
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 40000 1
 a 30
 about 1

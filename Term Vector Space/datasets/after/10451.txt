@@ -3,6 +3,7 @@
 /m/02x0p3j
 Jules Verne
 1897
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 183 1
 a 16
 abandon 1

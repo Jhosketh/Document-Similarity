@@ -3,6 +3,7 @@
 /m/0dlb5d
 Laurie R. King
 1995
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel"}
 a 2
 an 1
 and 1

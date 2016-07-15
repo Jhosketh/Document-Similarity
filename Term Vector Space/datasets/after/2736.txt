@@ -3,6 +3,7 @@
 /m/05fvc0
 Milan Kundera
 1967
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150s 1
 165 1
 167 1

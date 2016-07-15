@@ -3,6 +3,7 @@
 /m/05vl1x
 Haruki Murakami
 2002
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 15yearold 1
 a 13
 abilities 1

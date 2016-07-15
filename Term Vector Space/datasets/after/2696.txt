@@ -3,6 +3,7 @@
 /m/05ck8k
 Agatha Christie
 1975-09
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 115 1
 a 36
 ability 1

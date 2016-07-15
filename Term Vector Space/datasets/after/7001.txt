@@ -3,6 +3,7 @@
 /m/0fd87s
 Kenneth Oppel
 2005-07-20
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/06www": "Steampunk", "/m/08sdrw": "Adventure novel"}
 20000 1
 40 1
 a 22

@@ -3,6 +3,7 @@
 /m/0gf18t
 Poul Anderson
 1962
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 100 1
 12 1
 300 1

@@ -3,6 +3,7 @@
 /m/02dhp6
 John Myers Myers
 1949
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 and 3
 anhedonic 1

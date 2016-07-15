@@ -3,6 +3,7 @@
 /m/0462zr2
 Jean D'Costa
 
+{"/m/06m9m8": "Social science fiction", "/m/08sdrw": "Adventure novel"}
 a 28
 abandoned 1
 about 2

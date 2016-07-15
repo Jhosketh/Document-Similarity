@@ -3,6 +3,7 @@
 /m/03_b7
 Dalton Trumbo
 1939
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 after 2
 all 1

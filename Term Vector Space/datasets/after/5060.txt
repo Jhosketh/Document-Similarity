@@ -3,6 +3,7 @@
 /m/0b574r
 Margery Allingham
 1936
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 22
 about 1
 accountant 1

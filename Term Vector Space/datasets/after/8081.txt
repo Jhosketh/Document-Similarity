@@ -3,6 +3,7 @@
 /m/026800v
 Nancy Farmer
 1996-09
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 12year 1
 181 1
 a 12

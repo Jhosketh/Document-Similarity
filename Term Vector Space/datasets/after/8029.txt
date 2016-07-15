@@ -3,6 +3,7 @@
 /m/0264lyj
 Sharon Shinn
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 17 1
 a 3
 abounds 1

@@ -3,6 +3,7 @@
 /m/03r8yl
 Rohinton Mistry
 1995
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 147 1
 a 46
 able 2

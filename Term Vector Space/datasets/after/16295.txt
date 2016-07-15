@@ -3,6 +3,7 @@
 /m/0h55g7r
 Jean Ure
 1991
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 2
 all 1
 and 2

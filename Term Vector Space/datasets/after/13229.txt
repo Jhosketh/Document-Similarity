@@ -3,6 +3,7 @@
 /m/04_057y
 Roberto Bolaño
 1996
+{"/m/05hgj": "Novel"}
 a 2
 about 4
 advances 1

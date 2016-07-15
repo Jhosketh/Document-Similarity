@@ -3,6 +3,7 @@
 /m/0dqycf
 Robert Ludlum
 2006-10-17
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 12 1
 a 5
 abducted 1

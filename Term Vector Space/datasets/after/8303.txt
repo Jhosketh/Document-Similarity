@@ -3,6 +3,7 @@
 /m/026n42t
 Anthony Burgess
 1960
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction"}
 a 5
 adventures 1
 ailment 1

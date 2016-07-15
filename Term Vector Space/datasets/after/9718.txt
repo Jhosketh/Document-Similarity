@@ -3,6 +3,7 @@
 /m/02qv3t2
 Hal Clement
 1964-07
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 1
 alien 1
 an 1

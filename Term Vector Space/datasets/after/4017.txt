@@ -3,6 +3,7 @@
 /m/0844lx
 Hans Christian Andersen
 1835-12-16
+{"/m/0dwly": "Children's literature", "/m/0707q": "Short story", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 1847 1
 a 21
 accompany 1

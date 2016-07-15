@@ -3,6 +3,7 @@
 /m/0fqcnc
 Naomi Novik
 2006-03-28
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1805 1
 36gun 1
 a 19

@@ -3,6 +3,7 @@
 /m/03byth0
 Wendy Mass
 2003-04-16
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 5year 1
 a 24
 able 2

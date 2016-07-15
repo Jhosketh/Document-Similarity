@@ -3,6 +3,7 @@
 /m/02rb089
 Francine Rivers
 1998
+{"/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 about 1
 accept 3

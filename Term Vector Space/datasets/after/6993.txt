@@ -3,6 +3,7 @@
 /m/0fc17z
 Ralph Peters
 1991-02
+{"/m/098tmk": "War novel", "/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 2005 1
 2008 1
 2015 1

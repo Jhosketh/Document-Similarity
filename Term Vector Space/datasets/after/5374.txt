@@ -3,6 +3,7 @@
 /m/0bsd3y
 Chris Riddell
 2002-09-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 21
 about 2
 accident 1

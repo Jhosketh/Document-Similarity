@@ -3,6 +3,7 @@
 /m/053tn4t
 Jean-Marie Gustave Le Clézio
 2008-10-01
+{"/m/05hgj": "Novel"}
 130s 1
 a 3
 age 1

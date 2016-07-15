@@ -3,6 +3,7 @@
 /m/0bwkmpb
 Brian Lumley
 1993
+{"/m/06n90": "Science Fiction", "/m/08sdrw": "Adventure novel"}
 a 12
 ability 1
 about 2

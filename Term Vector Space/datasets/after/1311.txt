@@ -3,6 +3,7 @@
 /m/02sf28
 Richmal Crompton
 1941
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 141 1
 4 1
 a 60

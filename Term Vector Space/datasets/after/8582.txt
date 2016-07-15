@@ -3,6 +3,7 @@
 /m/0279cbt
 André Gide
 1925
+{"/m/04y41": "Modernism", "/m/05hgj": "Novel"}
 181 1
 a 12
 act 1

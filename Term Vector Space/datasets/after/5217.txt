@@ -3,6 +3,7 @@
 /m/0bfzln
 Christopher Morley
 1919
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 21
 across 1
 ad 1

@@ -3,6 +3,7 @@
 /m/0bxx54
 Laurell K. Hamilton
 1994-09-01
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03xj9g": "Hardboiled", "/m/0c3351": "Suspense"}
 300 1
 a 31
 about 1

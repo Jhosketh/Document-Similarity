@@ -3,6 +3,7 @@
 /m/0584hl
 Tahar Ben Jelloun
 1985
+{"/m/05hgj": "Novel", "/m/0127jb": "Magic realism"}
 a 10
 about 1
 account 1

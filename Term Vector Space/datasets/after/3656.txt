@@ -3,6 +3,7 @@
 /m/07f5ds
 Tobias Smollett
 1748
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1730s 1
 1740s 1
 a 9

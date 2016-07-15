@@ -3,6 +3,7 @@
 /m/026pdnl
 Michael Moorcock
 1970
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/06wkf": "Spy fiction"}
 a 8
 actually 1
 advantage 1

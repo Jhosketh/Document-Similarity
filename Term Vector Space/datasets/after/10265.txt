@@ -3,6 +3,7 @@
 /m/02vrtg3
 Jean Thesman
 2001-10-01
+{"/m/03mfnf": "Young adult literature", "/m/0hwxm": "Historical novel"}
 106 1
 a 7
 across 1

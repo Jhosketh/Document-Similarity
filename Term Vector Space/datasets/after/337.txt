@@ -3,6 +3,7 @@
 /m/0kt94
 Budd Schulberg
 1941
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10000 1
 130s 1
 16yearold 1

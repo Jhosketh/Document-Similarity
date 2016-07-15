@@ -3,6 +3,7 @@
 /m/058092k
 Margaret Haddix
 2008-04
+{"/m/06n90": "Science Fiction", "/m/03mfnf": "Young adult literature"}
 36 1
 a 16
 about 2

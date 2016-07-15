@@ -3,6 +3,7 @@
 /m/03cc5m3
 Daniel Pennac
 1987
+{"/m/02yq81": "Comic novel"}
 a 5
 abortive 1
 affairs 1

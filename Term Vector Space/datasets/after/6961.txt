@@ -3,6 +3,7 @@
 /m/0fb0h_
 Cynthia Voigt
 1982-10
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel"}
 a 10
 abigail 1
 about 3

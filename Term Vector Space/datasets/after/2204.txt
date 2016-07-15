@@ -3,6 +3,7 @@
 /m/04g1m5
 Frederick Forsyth
 1994
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 1
 10000 1
 100000 1

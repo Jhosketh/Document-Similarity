@@ -3,6 +3,7 @@
 /m/04w25z
 Leslie Charteris
 1935
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1 1
 12 1
 128 3

@@ -3,6 +3,7 @@
 /m/0479vsl
 Victor Appleton
 1920
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 6
 after 1
 agreeing 1

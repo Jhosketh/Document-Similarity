@@ -3,6 +3,7 @@
 /m/01vfpb
 Stephen King
 1983-04-29
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 158 1
 178 1
 250 1

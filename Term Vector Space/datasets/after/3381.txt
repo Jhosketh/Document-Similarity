@@ -3,6 +3,7 @@
 /m/06vg1l
 Orson Scott Card
 1988
+{"/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 1
 able 2
 accompanies 1

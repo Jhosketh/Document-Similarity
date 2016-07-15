@@ -3,6 +3,7 @@
 /m/03qkpcw
 L. J. Smith
 1997-02-01
+{"/m/03npn": "Horror", "/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 17 1
 5 1
 a 24

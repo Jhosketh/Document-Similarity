@@ -3,6 +3,7 @@
 /m/09b9zw
 Dee Henderson
 1989
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 100 1
 18 1
 2 1

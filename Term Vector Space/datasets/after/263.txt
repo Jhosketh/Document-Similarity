@@ -3,6 +3,7 @@
 /m/0h4wh
 Stephen King
 1996-03
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 104 1
 132 1
 16 1

@@ -3,6 +3,7 @@
 /m/0d19b6
 Ernest Hemingway
 1970
+{"/m/05hgj": "Novel"}
 a 9
 aboard 2
 act 7

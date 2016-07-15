@@ -3,6 +3,7 @@
 /m/09gj6l1
 Peter Lerangis
 2010-02-02
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 13
 abilities 1
 about 1

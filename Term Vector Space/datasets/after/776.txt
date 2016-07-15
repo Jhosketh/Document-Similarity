@@ -3,6 +3,7 @@
 /m/01qq4_
 Henry David Thoreau
 1854
+{"/m/0dwly": "Children's literature", "/m/03rllnc": "Inspirational", "/m/05h0n": "Nature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0xdf": "Autobiography", "/m/037mh8": "Philosophy"}
 10 1
 100 1
 15 1

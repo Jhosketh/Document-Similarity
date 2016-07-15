@@ -3,6 +3,7 @@
 /m/01_3gm
 David Gerrold
 1972
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 acronym 1
 adulthood 1

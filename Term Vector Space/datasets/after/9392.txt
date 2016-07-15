@@ -3,6 +3,7 @@
 /m/02q0wwk
 Robert Muchamore
 2007-03-15
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature"}
 a 20
 ability 1
 able 1

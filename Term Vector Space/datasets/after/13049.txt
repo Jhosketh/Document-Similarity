@@ -3,6 +3,7 @@
 /m/04q250k
 Carolyn Mackler
 2003
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 6
 about 1
 actually 1

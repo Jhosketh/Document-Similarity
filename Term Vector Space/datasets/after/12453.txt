@@ -3,6 +3,7 @@
 /m/047m7xg
 Joe Dever
 1985
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 7
 an 2
 ancient 1

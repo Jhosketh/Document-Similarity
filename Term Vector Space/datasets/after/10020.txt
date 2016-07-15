@@ -3,6 +3,7 @@
 /m/02rk_xn
 John Grisham
 2007-09-25
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 17 1
 a 10

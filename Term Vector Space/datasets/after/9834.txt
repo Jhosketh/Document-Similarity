@@ -3,6 +3,7 @@
 /m/02r1th5
 Clive Barker
 2007
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 14th 1
 a 18
 ablaze 1

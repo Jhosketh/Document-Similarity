@@ -3,6 +3,7 @@
 /m/04y9fh9
 Thomas Bernhard
 1984
+{"/m/05hgj": "Novel"}
 80s 1
 a 13
 account 1

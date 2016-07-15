@@ -3,6 +3,7 @@
 /m/07h3jl
 Peter Carey
 1985
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 11 1
 a 19
 abandoning 1

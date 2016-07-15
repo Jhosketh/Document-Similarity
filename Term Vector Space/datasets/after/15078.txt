@@ -3,6 +3,7 @@
 /m/0bmc4zy
 Harlan Coben
 1990-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 2
 and 3
 australia 1

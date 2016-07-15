@@ -3,6 +3,7 @@
 /m/091r7c
 Julian Barnes
 2005-07-07
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 20th 1
 a 4
 about 1

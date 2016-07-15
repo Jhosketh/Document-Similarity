@@ -3,6 +3,7 @@
 /m/02pt3jc
 Gary Paulsen
 1990
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0dwly": "Children's literature", "/m/05h83": "Non-fiction"}
 1153 1
 a 11
 about 3

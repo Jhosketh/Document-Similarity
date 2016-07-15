@@ -3,6 +3,7 @@
 /m/08bb80
 Raymond Roussel
 1914
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 170 2
 2008 1
 a 9

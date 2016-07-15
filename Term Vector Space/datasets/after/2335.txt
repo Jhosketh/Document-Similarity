@@ -3,6 +3,7 @@
 /m/04pj0m
 Raymond Benson
 2002-05-02
+{"/m/06wkf": "Spy fiction"}
 a 5
 agent 1
 also 1

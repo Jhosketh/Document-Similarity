@@ -3,6 +3,7 @@
 /m/0gtwcw
 Meg Cabot
 2006-07
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 5
 about 3
 advice 1

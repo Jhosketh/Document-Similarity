@@ -3,6 +3,7 @@
 /m/03c_l_h
 Mercedes Lackey
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 14
 abilities 1
 able 3

@@ -3,6 +3,7 @@
 /m/0466pgd
 Piers Anthony
 1983
+{"/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 21st 1
 a 21
 absolute 1

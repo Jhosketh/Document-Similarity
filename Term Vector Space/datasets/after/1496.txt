@@ -3,6 +3,7 @@
 /m/032bv5
 S. E. Hinton
 1960
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 13 1
 a 5
 about 2

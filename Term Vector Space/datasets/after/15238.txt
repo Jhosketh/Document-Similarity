@@ -3,6 +3,7 @@
 /m/0by1c09
 Arno Schmidt
 1972
+{"/m/05hgj": "Novel"}
 2014 1
 a 2
 adventures 1

@@ -3,6 +3,7 @@
 /m/0x5g
 Erich Maria Remarque
 1929-01-29
+{"/m/098tmk": "War novel", "/m/016lj8": "Roman \u00e0 clef"}
 a 14
 about 4
 accusation 1

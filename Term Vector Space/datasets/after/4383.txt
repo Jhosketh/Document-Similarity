@@ -3,6 +3,7 @@
 /m/08y3ld
 Ann Rinaldi
 2000
+{"/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 after 2
 an 3

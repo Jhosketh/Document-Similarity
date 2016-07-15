@@ -3,6 +3,7 @@
 /m/037_mv
 Colson Whitehead
 1999-01
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 1
 an 1
 and 3

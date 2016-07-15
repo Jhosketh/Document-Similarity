@@ -3,6 +3,7 @@
 /m/0fr3k9
 John Bellairs
 1969
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 19
 accessible 1
 across 1

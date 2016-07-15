@@ -3,6 +3,7 @@
 /m/021n0s
 Robert Anthony Salvatore
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 11
 able 1
 aboard 1

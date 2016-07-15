@@ -3,6 +3,7 @@
 /m/09c5mc
 Mercedes Lackey
 1994-08
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 change 1
 elspeth 1
 heir 1

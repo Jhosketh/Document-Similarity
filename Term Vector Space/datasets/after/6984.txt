@@ -3,6 +3,7 @@
 /m/0fbdw2
 Catherine Asaro
 1997
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 10
 about 2
 actual 1

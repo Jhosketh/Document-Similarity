@@ -3,6 +3,7 @@
 /m/0gy0qg6
 Catherynne M. Valente
 2011-05
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 16
 ability 1
 about 1

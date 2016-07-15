@@ -3,6 +3,7 @@
 /m/05cmr3
 David Gerrold
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 aliens 1
 along 1

@@ -3,6 +3,7 @@
 /m/026q82p
 Robert Rankin
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 alexander 3
 and 12

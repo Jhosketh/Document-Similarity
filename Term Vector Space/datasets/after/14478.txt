@@ -3,6 +3,7 @@
 /m/047m6rz
 Cherith Baldry
 2008-05-27
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 16
 abandoning 1
 abandons 1

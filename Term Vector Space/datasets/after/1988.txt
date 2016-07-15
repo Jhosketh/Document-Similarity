@@ -3,6 +3,7 @@
 /m/0400pd
 Henning Mankell
 1997
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2yearold 1
 a 7
 accurate 1

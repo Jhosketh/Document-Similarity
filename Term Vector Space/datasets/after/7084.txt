@@ -3,6 +3,7 @@
 /m/0flkgg
 Lois Duncan
 1998
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 14
 about 4
 abundantly 1

@@ -3,6 +3,7 @@
 /m/027g9pn
 Tawni O'Dell
 2007-03-13
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 about 1
 act 1

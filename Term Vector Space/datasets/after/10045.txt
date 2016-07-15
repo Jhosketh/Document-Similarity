@@ -3,6 +3,7 @@
 /m/02rn6vh
 Mary Doria Russell
 1998-03-24
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 40 1
 a 21
 aboard 1

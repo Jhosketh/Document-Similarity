@@ -3,6 +3,7 @@
 /m/0h06dn
 Stephen King
 2008-01-22
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 40 1
 a 59
 able 2

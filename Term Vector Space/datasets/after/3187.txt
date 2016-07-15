@@ -3,6 +3,7 @@
 /m/06g0lc
 Raymond Chandler
 1949
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel"}
 100 1
 a 33
 able 1

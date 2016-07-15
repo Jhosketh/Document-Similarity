@@ -3,6 +3,7 @@
 /m/09gll45
 Paul Auster
 2009-10-27
+{"/m/05hgj": "Novel"}
 167 3
 2007 4
 a 13

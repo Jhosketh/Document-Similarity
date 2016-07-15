@@ -3,6 +3,7 @@
 /m/0509fw
 Ernest Hemingway
 1986
+{"/m/02xlf": "Fiction"}
 a 1
 affair 1
 american 1

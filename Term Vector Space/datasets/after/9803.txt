@@ -3,6 +3,7 @@
 /m/02q_hgp
 Herman Wouk
 1994-11
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 and 4
 anwar 2
 ariel 1

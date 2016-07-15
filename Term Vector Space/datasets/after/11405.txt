@@ -3,6 +3,7 @@
 /m/03h0zvh
 Greg Mortenson
 2009-01-22
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/05h83": "Non-fiction", "/m/016chh": "Memoir"}
 13 1
 55 1
 70 1

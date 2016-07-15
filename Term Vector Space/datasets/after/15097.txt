@@ -3,6 +3,7 @@
 /m/0bmfcmj
 H. E. Bates
 1946
+{"/m/098tmk": "War novel"}
 a 10
 able 1
 aboard 1

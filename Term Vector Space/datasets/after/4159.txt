@@ -3,6 +3,7 @@
 /m/08dkvh
 Robert Louis Stevenson
 1889
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 174 1
 1745 1
 1756 2

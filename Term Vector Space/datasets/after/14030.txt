@@ -3,6 +3,7 @@
 /m/05zw7d2
 Shanna Swendson
 2005-05-31
+{"/m/050z5g": "Chivalric romance", "/m/02vzzv": "Urban fantasy", "/m/01qxvh": "Romance novel"}
 1 1
 a 5
 about 1

@@ -3,6 +3,7 @@
 /m/047h_c
 Roald Dahl
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 9
 abandoned 1
 after 1

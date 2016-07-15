@@ -3,6 +3,7 @@
 /m/0dcfpn
 Dashiell Hammett
 1934
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 16
 adaptation 1
 against 1

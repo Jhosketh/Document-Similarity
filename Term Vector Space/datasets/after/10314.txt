@@ -3,6 +3,7 @@
 /m/02vyb89
 Barbara Erskine
 2001
+{"/m/014dfn": "Speculative fiction", "/m/06wkf": "Spy fiction", "/m/098tmk": "War novel", "/m/0hwxm": "Historical novel"}
 13 1
 138 1
 a 4

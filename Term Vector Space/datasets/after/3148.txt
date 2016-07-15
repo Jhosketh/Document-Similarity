@@ -3,6 +3,7 @@
 /m/03bx5wg
 Orson Scott Card
 1996
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 151 1
 15th 2
 16th 2

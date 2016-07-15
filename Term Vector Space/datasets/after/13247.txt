@@ -3,6 +3,7 @@
 /m/04z_yrc
 C. J. Cherryh
 2009-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 9
 adam 1
 adding 1

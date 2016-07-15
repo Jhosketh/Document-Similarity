@@ -3,6 +3,7 @@
 /m/053t88
 Lloyd Alexander
 1968-06
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 11 1
 a 17
 able 4

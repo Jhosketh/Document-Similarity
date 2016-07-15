@@ -3,6 +3,7 @@
 /m/025wbcb
 Don Perrin
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 32
 abilities 1
 ability 1

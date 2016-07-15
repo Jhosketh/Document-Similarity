@@ -3,6 +3,7 @@
 /m/02qffny
 Yasunari Kawabata
 1961
+{"/m/0l67h": "Novella"}
 a 4
 actions 1
 all 1

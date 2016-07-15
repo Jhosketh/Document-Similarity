@@ -3,6 +3,7 @@
 /m/03crqml
 Alistair MacLean
 1981
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 140s 1
 a 4
 allegedly 1

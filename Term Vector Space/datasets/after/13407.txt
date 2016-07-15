@@ -3,6 +3,7 @@
 /m/053xggj
 Jean-Marie Gustave Le Clézio
 2006
+{"/m/05hgj": "Novel"}
 170180 1
 a 3
 an 2

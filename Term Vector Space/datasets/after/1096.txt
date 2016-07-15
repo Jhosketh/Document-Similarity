@@ -3,6 +3,7 @@
 /m/02bhg5
 Johann David Wyss
 1812
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 16
 abandoned 1
 abates 1

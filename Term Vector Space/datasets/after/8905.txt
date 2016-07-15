@@ -3,6 +3,7 @@
 /m/027z95l
 V. C. Andrews
 1993-06
+{"/m/039vk": "Gothic fiction", "/m/03mfnf": "Young adult literature"}
 14 1
 a 22
 about 2

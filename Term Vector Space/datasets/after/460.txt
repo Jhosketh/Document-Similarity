@@ -3,6 +3,7 @@
 /m/0153hd
 George Cockcroft
 1971
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 about 1
 along 1

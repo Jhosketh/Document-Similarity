@@ -3,6 +3,7 @@
 /m/04q84br
 David Liss
 2008
+{"/m/05hgj": "Novel", "/m/0hwxm": "Historical novel"}
 172 3
 174 1
 1781 1

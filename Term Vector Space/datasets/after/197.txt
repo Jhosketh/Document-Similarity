@@ -3,6 +3,7 @@
 /m/0g05k
 Iain Banks
 1992
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 accept 1
 adolescent 1

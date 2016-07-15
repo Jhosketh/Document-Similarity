@@ -3,6 +3,7 @@
 /m/02m5f9
 P. G. Wodehouse
 1929-07-19
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 a 14
 about 4
 accuses 1

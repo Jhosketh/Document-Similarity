@@ -3,6 +3,7 @@
 /m/02mphq
 Stephen King
 1996-09-24
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 2200 1
 a 6
 an 1

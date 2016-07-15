@@ -3,6 +3,7 @@
 /m/0g5rk0m
 Richelle Mead
 2009-06-04
+{"/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy", "/m/01qxvh": "Romance novel"}
 a 4
 ability 1
 all 2

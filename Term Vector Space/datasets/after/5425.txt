@@ -3,6 +3,7 @@
 /m/0bw48k
 Richard Baker
 2003-05-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 about 2
 abyss 2

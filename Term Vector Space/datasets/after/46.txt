@@ -3,6 +3,7 @@
 /m/03q5b
 Mark Twain
 1884
+{"/m/06nbt": "Satire", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/09kqc": "Humour"}
 1835 1
 1845 1
 300 1

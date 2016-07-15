@@ -3,6 +3,7 @@
 /m/06jcg2
 Robin Cook
 1987
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 042510687x 1
 187 1
 4 1

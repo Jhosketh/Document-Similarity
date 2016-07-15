@@ -3,6 +3,7 @@
 /m/0265jx7
 Bapsi Sidhwa
 2006
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 138 1
 a 4
 amends 1

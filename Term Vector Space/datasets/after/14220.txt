@@ -3,6 +3,7 @@
 /m/06w829z
 Alan Lawrence Sitomer
 2007
+{"/m/02n4kr": "Mystery", "/m/084s13": "Urban fiction"}
 010 1
 17yearold 1
 a 11

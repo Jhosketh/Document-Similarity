@@ -3,6 +3,7 @@
 /m/03j5j
 Joseph Conrad
 1899
+{"/m/02xlf": "Fiction", "/m/0l67h": "Novella", "/m/016lj8": "Roman \u00e0 clef"}
 a 92
 aboard 2
 about 4

@@ -3,6 +3,7 @@
 /m/0g_7x
 Daniel Quinn
 1992
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10000 1
 160s 1
 34and 1

@@ -3,6 +3,7 @@
 /m/0cwctr
 Cyril M. Kornbluth
 1953
+{"/m/06n90": "Science Fiction", "/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia", "/m/02xlf": "Fiction"}
 a 5
 about 1
 ad 1

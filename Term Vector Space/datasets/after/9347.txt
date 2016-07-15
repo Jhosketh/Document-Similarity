@@ -3,6 +3,7 @@
 /m/02pyd9w
 Brian Garfield
 1975
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/07s9rl0": "Drama", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 after 3
 also 1

@@ -3,6 +3,7 @@
 /m/03wft1q
 A. E. van Vogt
 1947
+{"/m/06n90": "Science Fiction"}
 a 2
 against 1
 as 1

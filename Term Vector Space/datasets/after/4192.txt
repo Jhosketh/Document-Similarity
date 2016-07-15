@@ -3,6 +3,7 @@
 /m/08hg3t
 Angie Sage
 2005-03
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 412 18
 a 39
 abandoned 1

@@ -3,6 +3,7 @@
 /m/08pdrr
 Erich Maria Remarque
 1945
+{"/m/098tmk": "War novel"}
 13 1
 a 5
 accomplished 1

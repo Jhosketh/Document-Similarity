@@ -3,6 +3,7 @@
 /m/026m475
 Banana Yoshimoto
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 about 1
 and 1
 be 1

@@ -3,6 +3,7 @@
 /m/04kg_t
 Patricia Highsmith
 1970-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 30s 1
 a 24
 abandons 1

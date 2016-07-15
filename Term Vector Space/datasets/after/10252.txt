@@ -3,6 +3,7 @@
 /m/02vr7n5
 Jodi Picoult
 2002-05-27
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 20 1
 a 11
 about 1

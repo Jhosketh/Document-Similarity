@@ -3,6 +3,7 @@
 /m/0316p2
 John Steinbeck
 1936
+{"/m/05hgj": "Novel"}
 a 2
 and 2
 attempts 1

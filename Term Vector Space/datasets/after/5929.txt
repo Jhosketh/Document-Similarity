@@ -3,6 +3,7 @@
 /m/0cslg6
 Jeff Smith
 1996
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/01z4y": "Comedy", "/m/09kqc": "Humour"}
 a 24
 about 6
 accompanying 1

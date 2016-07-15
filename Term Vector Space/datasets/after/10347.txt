@@ -3,6 +3,7 @@
 /m/02w119d
 Robin Cook
 2007
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 11
 able 1
 age 1

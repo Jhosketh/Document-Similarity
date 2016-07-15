@@ -3,6 +3,7 @@
 /m/03rgbn
 Sergey Lukyanenko
 
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 45
 about 2
 above 1

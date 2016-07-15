@@ -3,6 +3,7 @@
 /m/01_ycx
 L. Frank Baum
 1904
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 15
 accept 1
 accompanies 1

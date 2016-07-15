@@ -3,6 +3,7 @@
 /m/0dgpf28
 Mercedes Lackey
 
+{"/m/01hmnh": "Fantasy"}
 a 36
 ability 2
 able 1

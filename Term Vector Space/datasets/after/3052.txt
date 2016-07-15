@@ -3,6 +3,7 @@
 /m/064ftm
 John Updike
 1990
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16010 1
 18818 1
 33 1

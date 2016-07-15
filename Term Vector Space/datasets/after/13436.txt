@@ -3,6 +3,7 @@
 /m/058l6ns
 L. Frank Baum
 
+{"/m/028v3": "Detective fiction", "/m/06nbt": "Satire", "/m/03mfnf": "Young adult literature", "/m/01z4y": "Comedy"}
 a 15
 about 1
 abroad 1

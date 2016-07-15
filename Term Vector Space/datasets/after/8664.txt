@@ -3,6 +3,7 @@
 /m/027ftz3
 Eoin Colfer
 2008-07-16
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 10yearold 1
 2 1
 8 1

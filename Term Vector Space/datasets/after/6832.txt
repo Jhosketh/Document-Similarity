@@ -3,6 +3,7 @@
 /m/0f0d31
 Kevin Crossley-Holland
 2000-08
+{"/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/035qb4": "Historical fantasy"}
 11 1
 a 10
 accentuated 1

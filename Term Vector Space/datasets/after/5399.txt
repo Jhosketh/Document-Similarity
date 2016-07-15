@@ -3,6 +3,7 @@
 /m/0btrgl
 Anthony Burgess
 1963
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy"}
 a 14
 able 1
 about 1

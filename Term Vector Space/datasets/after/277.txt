@@ -3,6 +3,7 @@
 /m/0hsz9
 Louise Fitzhugh
 1964
+{"/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1 1
 2 1
 a 14

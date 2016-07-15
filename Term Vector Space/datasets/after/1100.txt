@@ -3,6 +3,7 @@
 /m/02bx35
 Yasunari Kawabata
 
+{"/m/0hwxm": "Historical novel"}
 138 1
 a 4
 against 1

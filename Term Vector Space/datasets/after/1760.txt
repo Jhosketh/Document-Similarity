@@ -3,6 +3,7 @@
 /m/03kdcn
 Eoin Colfer
 2001-04
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 100 1
 24carat 1
 a 19

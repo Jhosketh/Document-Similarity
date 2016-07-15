@@ -3,6 +3,7 @@
 /m/05m5rv
 Dean Koontz
 1983-03
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 able 2
 absorbs 1

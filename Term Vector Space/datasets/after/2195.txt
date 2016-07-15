@@ -3,6 +3,7 @@
 /m/04fd7x
 Moyra Caldecott
 1986-06-12
+{"/m/03g3w": "History", "/m/014dfn": "Speculative fiction"}
 a 5
 about 2
 alive 1

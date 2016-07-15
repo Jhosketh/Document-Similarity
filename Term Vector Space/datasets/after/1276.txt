@@ -3,6 +3,7 @@
 /m/02qcy7
 Graham Greene
 1940
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 24
 about 1
 acquires 1

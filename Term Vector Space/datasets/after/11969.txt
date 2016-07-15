@@ -3,6 +3,7 @@
 /m/0405ff0
 Darren Shan
 2008-03
+{"/m/03npn": "Horror"}
 a 8
 afterwards 1
 aid 1

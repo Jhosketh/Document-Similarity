@@ -3,6 +3,7 @@
 /m/04y6km6
 Eric Shanower
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 102 1
 a 17
 accepting 1

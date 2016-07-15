@@ -3,6 +3,7 @@
 /m/0fgn5h
 Michael Ende
 1960
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 13 9
 a 43
 abducted 1

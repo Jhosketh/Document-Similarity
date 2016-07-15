@@ -3,6 +3,7 @@
 /m/04q27j9
 Michael Connelly
 2008-10
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 19
 accident 1
 accused 1

@@ -3,6 +3,7 @@
 /m/0bnxd7
 Eric Van Lustbader
 1992-07
+{"/m/01jfsb": "Thriller"}
 a 3
 american 1
 an 1

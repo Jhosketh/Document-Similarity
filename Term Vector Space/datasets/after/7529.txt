@@ -3,6 +3,7 @@
 /m/0gqq4k
 Björn Nyberg
 
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 abducted 1
 additional 1

@@ -3,6 +3,7 @@
 /m/051j9_
 Herman Wouk
 1971-11-15
+{"/m/098tmk": "War novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 13 1
 140 1
 141 1

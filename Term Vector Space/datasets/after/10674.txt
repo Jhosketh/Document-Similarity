@@ -3,6 +3,7 @@
 /m/03bzrbn
 Kathleen E. Woodiwiss
 1972-04
+{"/m/05nd8c5": "Colonial United States romance", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/02w06c6": "Historical romance"}
 1th 1
 a 11
 able 1

@@ -3,6 +3,7 @@
 /m/01cd57
 Lois Lowry
 1993
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/06n6p": "Social sciences", "/m/03mfnf": "Young adult literature", "/m/070l2": "Soft science fiction", "/m/0dwly": "Children's literature", "/m/0c082": "Utopian and dystopian fiction", "/m/026ny": "Dystopia", "/m/02xlf": "Fiction"}
 a 9
 accept 2
 adulthood 1

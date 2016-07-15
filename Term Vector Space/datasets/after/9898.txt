@@ -3,6 +3,7 @@
 /m/02r654w
 Mercedes Lackey
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 abandoned 1
 ability 1

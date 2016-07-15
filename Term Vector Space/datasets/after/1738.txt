@@ -3,6 +3,7 @@
 /m/03hjx9
 Naguib Mahfouz
 
+{"/m/05hgj": "Novel"}
 a 10
 about 1
 after 1

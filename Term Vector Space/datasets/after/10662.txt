@@ -3,6 +3,7 @@
 /m/03bydpg
 Susan Price
 1998-10-16
+{"/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/07s2s": "Time travel"}
 16th 1
 21stcentury 2
 a 6

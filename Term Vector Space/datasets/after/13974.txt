@@ -3,6 +3,7 @@
 /m/05zv26_
 Henning Mankell
 2009-08-18
+{"/m/0lsxr": "Crime Fiction"}
 a 3
 and 1
 as 1

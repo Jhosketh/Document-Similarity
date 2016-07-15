@@ -3,6 +3,7 @@
 /m/0dxq3b
 Glen Cook
 1988-06
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 affair 1
 after 1

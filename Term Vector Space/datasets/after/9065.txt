@@ -3,4 +3,5 @@
 /m/0286xgj
 Beatrix Potter
 1922
+{"/m/0dwly": "Children's literature"}
 merchandise 1

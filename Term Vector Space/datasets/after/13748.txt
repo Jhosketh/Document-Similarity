@@ -3,6 +3,7 @@
 /m/05p89by
 Rose Tremain
 2003
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1860s 1
 a 2
 abandons 1

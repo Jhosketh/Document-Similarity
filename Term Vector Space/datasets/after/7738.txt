@@ -3,6 +3,7 @@
 /m/0h2kkj
 Kate Grenville
 2005
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1806 1
 a 10
 aboriginal 1

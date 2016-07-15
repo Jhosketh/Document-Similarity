@@ -3,6 +3,7 @@
 /m/0g14hl
 Dorothy Allison
 1993-03
+{"/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 a 9
 abandon 1
 about 1

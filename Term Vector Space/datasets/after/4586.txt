@@ -3,6 +3,7 @@
 /m/098p74
 Beverly Cleary
 1968
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 accomplish 1
 and 13

@@ -3,6 +3,7 @@
 /m/0689q5
 Rosemary Sutcliff
 1954
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 a 9
 able 1
 about 1

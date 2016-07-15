@@ -3,6 +3,7 @@
 /m/02rrf_g
 Bernard Cornwell
 2007-09
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 7
 ability 1
 across 2

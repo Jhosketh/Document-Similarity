@@ -3,6 +3,7 @@
 /m/027p29t
 Frank Belknap Long
 1963
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 chaugnar 1
 concerns 1
 elephantine 1

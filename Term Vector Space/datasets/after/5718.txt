@@ -3,6 +3,7 @@
 /m/0ccw3w
 Tracy Hickman
 1984-11
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 17
 according 1
 acting 1

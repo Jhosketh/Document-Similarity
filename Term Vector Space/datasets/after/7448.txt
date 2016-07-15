@@ -3,6 +3,7 @@
 /m/0gfzl0
 Phyllis Eisenstein
 1988-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 aliza 10
 allies 1

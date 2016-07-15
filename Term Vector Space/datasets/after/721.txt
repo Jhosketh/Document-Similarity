@@ -3,6 +3,7 @@
 /m/01lyfq
 Thomas Mann
 1912
+{"/m/0cgx58": "Gay novel", "/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/0l67h": "Novella", "/m/016lj8": "Roman \u00e0 clef"}
 a 35
 abandoned 1
 about 2

@@ -3,6 +3,7 @@
 /m/08c41c
 P. G. Wodehouse
 1938-10-07
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/09kqc": "Humour", "/m/0c3351": "Suspense"}
 a 8
 about 1
 absolute 1

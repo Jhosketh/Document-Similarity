@@ -3,6 +3,7 @@
 /m/0462yst
 James Patterson
 2009-04-27
+{"/m/0lsxr": "Crime Fiction"}
 a 3
 about 1
 all 1

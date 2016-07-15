@@ -3,6 +3,7 @@
 /m/05c3vjd
 Mary Treadgold
 1941
+{"/m/098tmk": "War novel", "/m/0dwly": "Children's literature"}
 a 5
 access 1
 across 1

@@ -3,6 +3,7 @@
 /m/0h_bhgj
 Lincoln Peirce
 2010-10-19
+{"/m/0dwly": "Children's literature", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 a 18
 able 1
 about 2

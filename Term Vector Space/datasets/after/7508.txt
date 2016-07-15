@@ -3,6 +3,7 @@
 /m/0gnvg1
 Michael Hoeye
 2001-08
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 a 6
 about 1
 after 1

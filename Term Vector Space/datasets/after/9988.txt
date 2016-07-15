@@ -3,6 +3,7 @@
 /m/02rh78_
 Charles Portis
 1968
+{"/m/0hfjk": "Western", "/m/02xlf": "Fiction"}
 100 1
 103 1
 150 1

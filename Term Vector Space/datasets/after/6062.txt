@@ -3,6 +3,7 @@
 /m/0cyhdv
 George MacDonald Fraser
 1975
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 5
 about 1
 act 1

@@ -3,6 +3,7 @@
 /m/027wb__
 Irene Hunt
 1964
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 10
 about 1
 accept 1

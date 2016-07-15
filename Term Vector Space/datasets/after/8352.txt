@@ -3,6 +3,7 @@
 /m/026t8wt
 Dean Koontz
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 6
 about 1
 alcoholrelated 1

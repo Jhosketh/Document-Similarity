@@ -3,6 +3,7 @@
 /m/07j430
 Steve Erickson
 1999
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 1 1
 168 1
 a 9

@@ -3,6 +3,7 @@
 /m/09c5c0
 Jodi Picoult
 2001-04-03
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 accepts 1
 after 3

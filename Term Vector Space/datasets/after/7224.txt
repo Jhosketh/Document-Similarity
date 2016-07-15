@@ -3,6 +3,7 @@
 /m/0fxvsp
 Mahtab Narsimhan
 1984-04
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 28
 about 2
 accept 1

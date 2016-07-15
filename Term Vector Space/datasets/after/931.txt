@@ -3,6 +3,7 @@
 /m/01_mq0
 Aleksandr Solzhenitsyn
 1968
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 abakumov 1
 addresses 1

@@ -3,6 +3,7 @@
 /m/027nn5k
 Stephen R. Donaldson
 1993
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 33
 abandon 1
 abandoned 2

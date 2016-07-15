@@ -3,6 +3,7 @@
 /m/027vp7r
 Richard A. Lupoff
 1985
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 3
 american 1
 an 2

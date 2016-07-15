@@ -3,6 +3,7 @@
 /m/0bq7d1
 Octavia E. Butler
 1993
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia"}
 a 5
 ability 1
 all 1

@@ -3,6 +3,7 @@
 /m/025rw4c
 Fletcher Pratt
 1950
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 9
 accompanied 1
 accord 1

@@ -3,6 +3,7 @@
 /m/04mzh6x
 Keith Laumer
 
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction"}
 a 10
 abduction 1
 able 1

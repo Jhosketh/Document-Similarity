@@ -3,6 +3,7 @@
 /m/047wd7
 Günter Grass
 2002
+{"/m/05hgj": "Novel"}
 10000 1
 145 1
 30 1

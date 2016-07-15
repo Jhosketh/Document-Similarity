@@ -3,6 +3,7 @@
 /m/027bwkp
 Francesca Lia Block
 2000-08-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 accept 1
 after 2

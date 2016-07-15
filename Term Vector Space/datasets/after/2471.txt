@@ -3,6 +3,7 @@
 /m/04ycyx
 Willa Cather
 1915
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 19
 about 2
 accept 1

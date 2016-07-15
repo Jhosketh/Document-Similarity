@@ -3,6 +3,7 @@
 /m/09q9vf
 Diane Duane
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 about 1
 after 1

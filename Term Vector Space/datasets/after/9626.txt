@@ -3,6 +3,7 @@
 /m/02qnl05
 Evangeline Walton
 1974
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 additional 1
 after 1

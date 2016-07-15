@@ -3,6 +3,7 @@
 /m/05zh5k
 Edgar Rice Burroughs
 1919
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/04chq5": "Planetary romance", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 allies 1
 ally 1

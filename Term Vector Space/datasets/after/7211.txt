@@ -3,6 +3,7 @@
 /m/0fxb0d
 L. Sprague de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 500yearold 1
 a 23
 abduct 1

@@ -3,6 +3,7 @@
 /m/04pl__
 Donald Hamilton
 1962
+{"/m/06wkf": "Spy fiction", "/m/05hgj": "Novel"}
 a 2
 agent 1
 and 1

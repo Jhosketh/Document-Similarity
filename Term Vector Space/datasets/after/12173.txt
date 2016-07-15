@@ -3,6 +3,7 @@
 /m/043r8jl
 Gregory Keyes
 2008-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 abominations 1
 aligned 1

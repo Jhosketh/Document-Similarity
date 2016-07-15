@@ -3,6 +3,7 @@
 /m/093b38
 Piers Anthony
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 accompany 1
 adopt 1

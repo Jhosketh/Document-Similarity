@@ -3,6 +3,7 @@
 /m/076f8m
 Robin Cook
 1973-01-23
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 affecting 1
 also 1

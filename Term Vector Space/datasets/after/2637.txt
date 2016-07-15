@@ -3,6 +3,7 @@
 /m/057jgb
 Cornelia Funke
 2003-09-23
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/01jym": "Bildungsroman"}
 12yearold 1
 a 3
 ability 1

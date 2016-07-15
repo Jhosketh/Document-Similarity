@@ -3,6 +3,7 @@
 /m/04dhpd
 James Clavell
 1986
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 125 1
 206 1
 212 1

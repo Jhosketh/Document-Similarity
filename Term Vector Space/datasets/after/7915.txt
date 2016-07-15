@@ -3,6 +3,7 @@
 /m/025zhmx
 Minette Walters
 1993
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 28 1
 a 3
 about 1

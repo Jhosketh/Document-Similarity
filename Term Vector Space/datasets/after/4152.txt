@@ -3,6 +3,7 @@
 /m/08ddz5
 Harry Turtledove
 1998-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 1
 and 8
 angry 2

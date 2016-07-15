@@ -3,6 +3,7 @@
 /m/0dfbx4
 James Patterson
 1995-01-11
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/0d6gr": "Reference", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 14yearold 1
 175 1
 180s 1

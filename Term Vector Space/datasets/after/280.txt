@@ -3,6 +3,7 @@
 /m/0hzkp
 Iain Banks
 1991
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 100 1
 a 10
 all 1

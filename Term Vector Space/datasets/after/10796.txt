@@ -3,6 +3,7 @@
 /m/03c796l
 Lynn Flewelling
 1996-08-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 19
 ability 1
 able 1

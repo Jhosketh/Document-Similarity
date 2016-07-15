@@ -3,6 +3,7 @@
 /m/07dkz6
 Ben Mezrich
 2003-09-09
+{"/m/017fp": "Biography", "/m/01pwbn": "True crime"}
 13 1
 a 1
 an 1

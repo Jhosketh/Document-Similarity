@@ -3,6 +3,7 @@
 /m/027m1ww
 José Saramago
 1991
+{"/m/0hwxm": "Historical novel"}
 a 8
 about 1
 account 1

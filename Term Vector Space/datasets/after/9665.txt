@@ -3,6 +3,7 @@
 /m/02qrcmt
 Patricia Cornwell
 2003
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 abandoned 1
 ability 1

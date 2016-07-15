@@ -3,6 +3,7 @@
 /m/07fczm
 Ann Radcliffe
 1797
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 1758 1
 18th 1
 a 19

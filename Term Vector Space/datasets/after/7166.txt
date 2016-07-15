@@ -3,6 +3,7 @@
 /m/0fsryz
 Jack Vance
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 10 1
 100 1
 101 1

@@ -3,6 +3,7 @@
 /m/0dwy93
 Kelley Armstrong
 2004
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 15
 about 4
 almost 1

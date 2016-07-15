@@ -3,6 +3,7 @@
 /m/01yzr4
 Rita Mae Brown
 1973
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 adopted 1
 again 1

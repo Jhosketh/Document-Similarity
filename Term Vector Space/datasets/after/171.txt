@@ -3,6 +3,7 @@
 /m/0f16d
 Robert A. Heinlein
 1987
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 117 1
 182 1
 1882 1

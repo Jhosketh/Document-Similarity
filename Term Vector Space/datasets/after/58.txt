@@ -3,6 +3,7 @@
 /m/05k0h
 Naomi Klein
 2000-01
+{"/m/09s1f": "Business", "/m/05h83": "Non-fiction", "/m/02j62": "Economics", "/m/0h5k": "Anthropology", "/m/06ms6": "Sociology", "/m/02xlf": "Fiction"}
 10s 1
 180s 2
 187 1

@@ -3,6 +3,7 @@
 /m/0chh9d
 Aitmatov
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 151 1
 a 27
 about 5

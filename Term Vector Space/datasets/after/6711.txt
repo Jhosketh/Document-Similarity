@@ -3,6 +3,7 @@
 /m/0ds1dh
 L. Sprague de Camp
 1969
+{"/m/0hwxm": "Historical novel"}
 a 1
 adventures 1
 africa 1

@@ -3,6 +3,7 @@
 /m/0f2xk9
 Barbara Mertz
 2002
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 117 1
 a 24
 about 4

@@ -3,6 +3,7 @@
 /m/0fmw0
 Maria Edgeworth
 
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1782 1
 absentee 1
 and 4

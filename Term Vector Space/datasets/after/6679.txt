@@ -3,6 +3,7 @@
 /m/0dqhv5
 Justin Somper
 2005-06-06
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 2505 1
 a 5
 aboard 1

@@ -3,6 +3,7 @@
 /m/0c1cgq
 Celia S. Friedman
 1993-10-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 16
 ability 2
 accept 1

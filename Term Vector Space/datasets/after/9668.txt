@@ -3,6 +3,7 @@
 /m/02qrldg
 Adam Roberts
 2004-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 8
 affair 1
 after 1

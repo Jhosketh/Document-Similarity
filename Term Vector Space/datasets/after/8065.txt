@@ -3,6 +3,7 @@
 /m/0266rpn
 Richard Powers
 2006
+{"/m/0488wh": "Literary fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 7
 accident 2
 acts 1

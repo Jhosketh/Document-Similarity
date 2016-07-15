@@ -3,6 +3,7 @@
 /m/0bs70t
 Isobelle Carmody
 1993
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 abattoir 1
 about 1

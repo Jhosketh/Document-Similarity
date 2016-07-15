@@ -3,6 +3,7 @@
 /m/0bjv3n
 Amelia Atwater-Rhodes
 
+{"/m/0kflf": "Vampire fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 a 11
 about 1
 accepted 1

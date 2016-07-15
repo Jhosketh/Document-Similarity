@@ -3,6 +3,7 @@
 /m/05b66l6
 Lisa Alther
 1976
+{"/m/05hgj": "Novel"}
 a 2
 after 1
 alternate 1

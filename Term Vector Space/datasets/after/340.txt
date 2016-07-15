@@ -3,6 +3,7 @@
 /m/0kywj
 H. Rider Haggard
 1885
+{"/m/08g5mv": "Lost World", "/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 16thcentury 1
 a 33
 about 1

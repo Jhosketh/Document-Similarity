@@ -3,6 +3,7 @@
 /m/090gbq
 Armstrong Sperry
 1940
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 5 1
 a 18
 about 1

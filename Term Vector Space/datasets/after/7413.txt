@@ -3,6 +3,7 @@
 /m/0gbpgh
 John Updike
 2006-06
+{"/m/098tmk": "War novel", "/m/02xlf": "Fiction", "/m/059r08": "Psychological novel"}
 a 1
 ahmad 1
 ahmads 1

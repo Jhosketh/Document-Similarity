@@ -3,6 +3,7 @@
 /m/019cgt
 Friedrich Nietzsche
 
+{"/m/017k4z": "Prose poetry", "/m/03rllnc": "Inspirational", "/m/05qgc": "Poetry", "/m/037mh8": "Philosophy"}
 182 1
 1888 1
 341 1

@@ -3,6 +3,7 @@
 /m/0h54xl3
 Kristin Cast
 2011-07-12
+{"/m/03mfnf": "Young adult literature", "/m/072lff": "Paranormal romance"}
 22yearold 1
 a 27
 abord 1

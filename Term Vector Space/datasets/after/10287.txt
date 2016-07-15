@@ -3,6 +3,7 @@
 /m/02vvlhb
 Stuart Hill
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 20 1
 a 5
 about 4

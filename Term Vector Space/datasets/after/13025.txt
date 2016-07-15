@@ -3,6 +3,7 @@
 /m/04q6j2r
 Jean-Marie Gustave Le Clézio
 1991
+{"/m/01j1n2": "Coming of age", "/m/02xlf": "Fiction"}
 148warren 1
 a 8
 able 1

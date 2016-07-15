@@ -3,6 +3,7 @@
 /m/0g5b3w5
 Glen Cook
 
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy"}
 aka 1
 algarda 1
 alyx 1

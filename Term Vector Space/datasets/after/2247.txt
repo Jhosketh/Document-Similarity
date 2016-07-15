@@ -3,6 +3,7 @@
 /m/04k1ps
 José Rizal
 1891
+{"/m/05hgj": "Novel"}
 20 1
 a 34
 abandoning 1

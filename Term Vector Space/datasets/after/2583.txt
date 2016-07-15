@@ -3,6 +3,7 @@
 /m/054s75
 P. G. Wodehouse
 1923-11-30
+{"/m/02n4kr": "Mystery", "/m/01z4y": "Comedy", "/m/02yq81": "Comic novel", "/m/09kqc": "Humour", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 18
 abandoned 1
 about 1

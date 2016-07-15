@@ -3,6 +3,7 @@
 /m/03c1vqr
 David Almond
 2000
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 17
 abandoned 1
 able 2

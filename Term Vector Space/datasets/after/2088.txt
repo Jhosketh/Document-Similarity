@@ -3,6 +3,7 @@
 /m/046dqs
 H. G. Wells
 1909
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 achieving 1
 aeronautics 1

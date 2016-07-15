@@ -3,6 +3,7 @@
 /m/0sxp_
 E. M. Forster
 1908
+{"/m/014dsx": "Travel", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 158 1
 a 28
 able 1

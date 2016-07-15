@@ -3,6 +3,7 @@
 /m/03yh4mw
 
 1979
+{"/m/03pm2b": "Autobiographical comics"}
 a 10
 abode 1
 about 1

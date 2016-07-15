@@ -3,6 +3,7 @@
 /m/03tt2g
 Robin Jarvis
 1991
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 after 3
 all 1

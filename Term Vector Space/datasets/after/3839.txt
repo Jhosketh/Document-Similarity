@@ -3,6 +3,7 @@
 /m/07skb6
 John Varley
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 70 1
 a 19
 abuse 1

@@ -3,6 +3,7 @@
 /m/0dr_st
 Armistead Maupin
 2000
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 13yearold 1
 a 7

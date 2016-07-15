@@ -3,6 +3,7 @@
 /m/0n_gw
 Upton Sinclair, Jr.
 1906-02-28
+{"/m/05qt0": "Politics", "/m/02xlf": "Fiction"}
 a 23
 able 1
 absences 1

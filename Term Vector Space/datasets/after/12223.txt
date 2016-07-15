@@ -3,6 +3,7 @@
 /m/047t_b7
 Linda Aksomitis
 2006
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/06bvp": "Religion"}
 a 12
 accounts 1
 adeline 16

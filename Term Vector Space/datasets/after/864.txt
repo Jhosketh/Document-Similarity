@@ -3,6 +3,7 @@
 /m/01x7ng
 Mikhail Bulgakov
 
+{"/m/05hgj": "Novel", "/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/011ys5": "Farce"}
 130s 1
 a 18
 abaddon 1

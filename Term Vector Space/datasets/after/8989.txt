@@ -3,6 +3,7 @@
 /m/0281rlx
 Mal Peet
 2005-10-03
+{"/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/098tmk": "War novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 145 1
 15 1
 243 1

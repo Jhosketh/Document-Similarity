@@ -3,6 +3,7 @@
 /m/04g00dn
 Cynthia Harnett
 1971
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 a 2
 an 1
 and 2

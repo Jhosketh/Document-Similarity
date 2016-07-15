@@ -3,6 +3,7 @@
 /m/05h0ng
 David Levithan
 2003-09
+{"/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 1 1
 100 1
 2 1

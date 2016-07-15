@@ -3,6 +3,7 @@
 /m/04x1ss
 William Faulkner
 1962
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20th 1
 a 14
 able 1

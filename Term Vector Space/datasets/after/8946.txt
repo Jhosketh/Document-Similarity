@@ -3,6 +3,7 @@
 /m/027_w7r
 Minette Walters
 1994-05-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 4
 abuse 1
 after 1

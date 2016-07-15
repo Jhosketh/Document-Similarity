@@ -3,6 +3,7 @@
 /m/04__zp
 Margaret Atwood
 1976
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 about 1
 acquaintances 1

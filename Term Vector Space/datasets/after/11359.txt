@@ -3,6 +3,7 @@
 /m/03gyt8q
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 18th 1
 a 6
 again 1

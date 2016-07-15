@@ -3,6 +3,7 @@
 /m/047hy9
 Roald Dahl
 1980
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 6
 about 1
 abused 1

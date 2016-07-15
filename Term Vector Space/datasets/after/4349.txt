@@ -3,6 +3,7 @@
 /m/08tsy2
 Tim LaHaye
 2005-03-31
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 15
 about 1
 accepts 1

@@ -3,6 +3,7 @@
 /m/04ctm2f
 Lauren Child
 2002-05-23
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 a 10
 an 1
 and 4

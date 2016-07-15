@@ -3,6 +3,7 @@
 /m/02xr70
 Stephen King
 
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 able 2
 after 1

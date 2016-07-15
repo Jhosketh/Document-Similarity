@@ -3,6 +3,7 @@
 /m/03hdwh
 Evelyn Waugh
 1938
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 a 5
 accidentally 1
 african 1

@@ -3,6 +3,7 @@
 /m/03cs11j
 Alistair MacLean
 1977
+{"/m/01jfsb": "Thriller"}
 a 3
 able 1
 and 8

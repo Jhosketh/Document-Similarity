@@ -3,6 +3,7 @@
 /m/0gvtyg8
 N. K. Jemisin
 2010-11-03
+{"/m/05hgj": "Novel"}
 a 13
 abilities 1
 ability 1

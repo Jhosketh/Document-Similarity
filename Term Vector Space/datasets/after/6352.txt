@@ -3,6 +3,7 @@
 /m/0dc6sm
 Paula Danziger
 1974
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 13
 abhorred 1
 about 1

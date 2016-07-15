@@ -3,6 +3,7 @@
 /m/02827k8
 Marion Zimmer Bradley
 1981
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 18 1
 a 73
 able 4

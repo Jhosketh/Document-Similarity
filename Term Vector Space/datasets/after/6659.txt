@@ -3,6 +3,7 @@
 /m/0dpncs
 Peter O'Donnell
 1982-10-21
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 a 6
 agent 1
 an 2

@@ -3,6 +3,7 @@
 /m/0260v54
 Anthony Powell
 1971
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 1456 1
 a 8
 about 1

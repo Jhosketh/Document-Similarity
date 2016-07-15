@@ -3,6 +3,7 @@
 /m/04q6l1b
 Nicholas Sparks
 2008-09
+{"/m/05hgj": "Novel", "/m/01qxvh": "Romance novel"}
 a 9
 across 1
 affair 1

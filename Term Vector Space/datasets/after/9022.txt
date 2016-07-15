@@ -3,6 +3,7 @@
 /m/0284wrz
 Gabriel García Márquez
 1979
+{"/m/05hgj": "Novel"}
 a 2
 about 1
 action 1

@@ -3,6 +3,7 @@
 /m/026y6f
 Patrick Süskind
 1985
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0127jb": "Magic realism", "/m/0hwxm": "Historical novel"}
 1415 1
 17 1
 1738 1

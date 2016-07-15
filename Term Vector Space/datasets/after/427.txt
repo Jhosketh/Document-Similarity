@@ -3,6 +3,7 @@
 /m/014bqn
 Leo Tolstoy
 1869
+{"/m/098tmk": "War novel", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 140000 1
 1805 1
 18112 1

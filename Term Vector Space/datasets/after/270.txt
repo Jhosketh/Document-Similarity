@@ -3,6 +3,7 @@
 /m/0hj3z
 H. G. Wells
 1900
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 18yearold 1
 a 10
 abandon 1

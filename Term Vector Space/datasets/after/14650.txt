@@ -3,6 +3,7 @@
 /m/09gq56w
 P. C. Cast
 2010-04-27
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/072lff": "Paranormal romance"}
 a 11
 about 1
 accept 2

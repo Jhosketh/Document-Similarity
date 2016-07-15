@@ -3,6 +3,7 @@
 /m/0g58zj
 Donald Hamilton
 1989-06
+{"/m/014dfn": "Speculative fiction", "/m/06wkf": "Spy fiction"}
 a 5
 action 1
 again 1

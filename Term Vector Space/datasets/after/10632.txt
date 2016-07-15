@@ -3,6 +3,7 @@
 /m/02z6718
 Siegfried Sassoon
 
+{"/m/017fp": "Biography", "/m/02xlf": "Fiction", "/m/016lj8": "Roman \u00e0 clef"}
 116 1
 117 2
 a 5

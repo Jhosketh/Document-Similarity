@@ -3,6 +3,7 @@
 /m/024m3t
 Mark Twain
 1889
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/06nbt": "Satire", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/07s2s": "Time travel", "/m/09kqc": "Humour"}
 1203 1
 1300 2
 14 1

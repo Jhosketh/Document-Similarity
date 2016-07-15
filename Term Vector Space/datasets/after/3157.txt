@@ -3,6 +3,7 @@
 /m/06d2cc
 Thomas L. Friedman
 2005-04-05
+{"/m/02xlf": "Fiction"}
 1 1
 10 2
 118 2

@@ -3,6 +3,7 @@
 /m/01nz2x
 Terry Pratchett
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 28
 able 1
 about 3

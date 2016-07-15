@@ -3,6 +3,7 @@
 /m/03m7q_x
 Anthony Horowitz
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 12yearold 1
 a 16
 absence 1

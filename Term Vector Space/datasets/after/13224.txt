@@ -3,6 +3,7 @@
 /m/04zwthp
 Roberto Bolaño
 2003
+{"/m/05hgj": "Novel"}
 173 1
 a 15
 about 1

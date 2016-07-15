@@ -3,6 +3,7 @@
 /m/02q3yf4
 Jodi Picoult
 1999
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 about 1
 accommodation 1

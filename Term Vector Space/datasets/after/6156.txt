@@ -3,6 +3,7 @@
 /m/0d20k3
 Natalie Babbitt
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 17 1
 20 1
 a 13

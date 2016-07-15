@@ -3,6 +3,7 @@
 /m/04jbsc9
 Simon Scarrow
 2006
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 a 2
 amongst 1
 an 1

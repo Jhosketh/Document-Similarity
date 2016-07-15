@@ -3,6 +3,7 @@
 /m/0grnww
 Terry Brooks
 1986-03-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 24
 abaddon 2
 abbadon 1

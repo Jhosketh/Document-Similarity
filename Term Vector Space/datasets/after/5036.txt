@@ -3,6 +3,7 @@
 /m/0b31h9
 Robert Silverberg
 1969
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/07s2s": "Time travel"}
 205 2
 532 1
 a 6

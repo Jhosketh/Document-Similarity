@@ -3,6 +3,7 @@
 /m/09z3dt
 Ruth Rendell
 1987-03
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 176 1
 a 2
 and 1

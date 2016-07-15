@@ -3,6 +3,7 @@
 /m/04yc_m
 Sidney Sheldon
 1970
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 6
 after 1
 also 1

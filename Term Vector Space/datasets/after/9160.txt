@@ -3,6 +3,7 @@
 /m/02pkm0k
 Christopher Isherwood
 1954
+{"/m/05hgj": "Novel"}
 a 2
 american 1
 an 1

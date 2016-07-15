@@ -3,6 +3,7 @@
 /m/09v183
 Diane Duane
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 after 2
 agents 1

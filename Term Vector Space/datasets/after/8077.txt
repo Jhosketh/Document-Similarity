@@ -3,6 +3,7 @@
 /m/0267s8h
 Robin Cook
 1981
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 28 1
 41 1
 a 13

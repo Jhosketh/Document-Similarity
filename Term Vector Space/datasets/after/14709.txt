@@ -3,6 +3,7 @@
 /m/09gphsb
 Michelle Paver
 2005-09-30
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 28
 ability 1
 about 2

@@ -3,6 +3,7 @@
 /m/0906j1
 Aleister Crowley
 1929
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 achieve 1
 allies 1

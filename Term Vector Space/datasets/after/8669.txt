@@ -3,6 +3,7 @@
 /m/027fz_2
 Georgette Heyer
 1940
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 14 1
 1812 1
 5th 1

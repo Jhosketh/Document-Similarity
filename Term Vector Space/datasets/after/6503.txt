@@ -3,6 +3,7 @@
 /m/0djfzw
 Ian Rankin
 1994
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 ago 1
 also 1

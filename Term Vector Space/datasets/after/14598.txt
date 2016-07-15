@@ -3,6 +3,7 @@
 /m/09gqbbl
 Kathryn Stockett
 2009-02-10
+{"/m/05hgj": "Novel", "/m/0hwxm": "Historical novel"}
 160s 1
 24yearold 1
 60s 1

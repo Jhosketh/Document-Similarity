@@ -3,6 +3,7 @@
 /m/076tpdt
 Mary Wesley
 1988
+{"/m/05hgj": "Novel"}
 a 7
 about 1
 accountant 1

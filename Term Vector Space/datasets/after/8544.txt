@@ -3,6 +3,7 @@
 /m/0278116
 Émile Zola
 1888
+{"/m/05hgj": "Novel"}
 1851 1
 a 7
 adopted 1

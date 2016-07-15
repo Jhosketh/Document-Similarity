@@ -3,6 +3,7 @@
 /m/05kbxn
 Sidney Sheldon
 2004
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 a 2
 about 1
 across 1

@@ -3,6 +3,7 @@
 /m/03yj4r8
 Juliet Marillier
 
+{"/m/035qb4": "Historical fantasy", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 25
 accepted 1
 accepts 1

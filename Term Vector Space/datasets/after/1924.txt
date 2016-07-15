@@ -3,6 +3,7 @@
 /m/03ws25
 Robert Ludlum
 1976
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 13 1
 142 1
 145 1

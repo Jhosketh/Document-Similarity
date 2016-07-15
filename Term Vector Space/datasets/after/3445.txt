@@ -3,6 +3,7 @@
 /m/06_f_d
 Nelson Algren
 1956
+{"/m/05hgj": "Novel"}
 a 31
 able 1
 about 3

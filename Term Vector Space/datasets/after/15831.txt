@@ -3,6 +3,7 @@
 /m/0gfg6xc
 Gary Shteyngart
 2010-07-27
+{"/m/05hgj": "Novel"}
 a 7
 abramov 1
 account 1

@@ -3,6 +3,7 @@
 /m/02q86n
 Robert Jordan
 1994-10-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 absence 1
 aes 9

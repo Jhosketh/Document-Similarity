@@ -3,6 +3,7 @@
 /m/07chtk
 Walter Mosley
 1990
+{"/m/02n4kr": "Mystery", "/m/03xj9g": "Hardboiled", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 148 1
 a 13
 about 1

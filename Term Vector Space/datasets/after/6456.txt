@@ -3,6 +3,7 @@
 /m/0dh4bh
 V. C. Andrews
 1990-02
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 12yearold 1
 4yearold 1
 a 23

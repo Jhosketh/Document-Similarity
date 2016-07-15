@@ -3,6 +3,7 @@
 /m/08c4hq
 Tim LaHaye
 1997-10-01
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 216 1
 a 6
 able 1

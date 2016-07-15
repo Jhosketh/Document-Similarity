@@ -3,6 +3,7 @@
 /m/0dlgp_
 C. J. Cherryh
 1980-05
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 40 1
 a 9
 accessible 1

@@ -3,6 +3,7 @@
 /m/02pydf_
 Lionel Davidson
 1966
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 152 1
 70 1
 a 4

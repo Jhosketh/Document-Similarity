@@ -3,6 +3,7 @@
 /m/02rx0hs
 Will Shetterly
 1997-06
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 1
 adult 1
 american 1

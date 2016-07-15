@@ -3,6 +3,7 @@
 /m/0276dv
 C. S. Lewis
 1952
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 23
 abandon 1
 aboard 1

@@ -3,6 +3,7 @@
 /m/03qm75l
 Robert Goddard
 2004
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 18 1
 a 8
 able 1

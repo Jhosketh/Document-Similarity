@@ -3,6 +3,7 @@
 /m/0cyz7k
 Charles Shaw
 1952
+{"/m/098tmk": "War novel"}
 allies 1
 allison 2
 and 1

@@ -3,6 +3,7 @@
 /m/0ghkzl
 William Trevor
 2002
+{"/m/05hgj": "Novel"}
 121 1
 a 6
 about 2

@@ -3,6 +3,7 @@
 /m/0cfp1r
 Yukio Mishima
 1971
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 1
 114 1
 16yearold 1

@@ -3,6 +3,7 @@
 /m/0414b32
 Mary Higgins Clark
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 about 1
 after 1

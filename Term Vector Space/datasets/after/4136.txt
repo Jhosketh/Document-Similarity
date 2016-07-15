@@ -3,6 +3,7 @@
 /m/08c1vf
 D.J. MacHale
 2003-09-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 20
 acting 1
 actual 1

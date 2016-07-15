@@ -3,6 +3,7 @@
 /m/0dc8h2
 Ruth Rendell
 1981-04-13
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 1
 an 2
 and 2

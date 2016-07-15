@@ -3,6 +3,7 @@
 /m/06d9_5
 Walter Scott
 1815
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 23
 abduction 1
 able 1

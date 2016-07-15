@@ -3,6 +3,7 @@
 /m/0g93pf
 Gregory Benford
 1977
+{"/m/03lrw": "Hard science fiction", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 1
 15 1
 201 1

@@ -3,6 +3,7 @@
 /m/0f17k
 Robert A. Heinlein
 1957
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 20
 abandons 1
 aboard 1

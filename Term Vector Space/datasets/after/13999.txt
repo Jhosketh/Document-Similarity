@@ -3,6 +3,7 @@
 /m/05zrxvb
 Alan Dean Foster
 2009-04
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 24
 accompanied 1
 accompany 1

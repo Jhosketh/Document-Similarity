@@ -3,6 +3,7 @@
 /m/05281m
 Jean-Paul Sartre
 
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/02xlf": "Fiction", "/m/037mh8": "Philosophy"}
 132 1
 18thcentury 1
 30yearold 1

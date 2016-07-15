@@ -3,6 +3,7 @@
 /m/0c_b9c
 John le Carré
 1961
+{"/m/0lsxr": "Crime Fiction", "/m/06wkf": "Spy fiction"}
 a 16
 about 1
 accomplice 1

@@ -3,6 +3,7 @@
 /m/0cw_pf
 Roger Zelazny
 1981
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 ability 1
 an 1

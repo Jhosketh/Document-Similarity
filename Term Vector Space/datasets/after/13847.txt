@@ -3,6 +3,7 @@
 /m/05q4r3w
 David Gemmell
 1996-04
+{"/m/01hmnh": "Fantasy", "/m/03dw_3": "Heroic fantasy"}
 2000 1
 4 1
 a 15

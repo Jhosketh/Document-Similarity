@@ -3,6 +3,7 @@
 /m/01yk6x
 Nathanael West
 1939-05-16
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 above 1
 advantage 1

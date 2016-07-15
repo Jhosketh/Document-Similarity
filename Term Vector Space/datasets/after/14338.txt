@@ -3,6 +3,7 @@
 /m/076wx_0
 Richelle Mead
 2007-08-16
+{"/m/02vzzv": "Urban fantasy", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy", "/m/072lff": "Paranormal romance", "/m/03npn": "Horror"}
 a 13
 aaron 1
 ability 1

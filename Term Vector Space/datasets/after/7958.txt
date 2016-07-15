@@ -3,6 +3,7 @@
 /m/0260txj
 August Strindberg
 1898
+{"/m/012jgz": "Autobiographical novel"}
 a 3
 adventures 1
 alchemical 1

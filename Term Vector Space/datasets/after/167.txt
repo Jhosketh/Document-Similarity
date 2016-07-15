@@ -3,6 +3,7 @@
 /m/0dwms
 Lewis Carroll
 1865-11-26
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/0pym5": "Absurdist fiction", "/m/02xlf": "Fiction"}
 1 1
 10 1
 11 1

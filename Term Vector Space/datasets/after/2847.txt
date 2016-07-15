@@ -3,6 +3,7 @@
 /m/05r2y6
 Mary Renault
 1958
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 2 1
 27yearold 1
 5000 1

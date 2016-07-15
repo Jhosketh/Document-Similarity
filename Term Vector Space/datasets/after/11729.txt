@@ -3,6 +3,7 @@
 /m/03qn3zx
 George Steiner
 1981-05
+{"/m/0488wh": "Literary fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 0 1
 0yearold 1
 18year 1

@@ -3,6 +3,7 @@
 /m/06ysgh
 Augusten Burroughs
 
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0d6gr": "Reference", "/m/016chh": "Memoir"}
 12 1
 13 2
 15 1

@@ -3,6 +3,7 @@
 /m/04lb36
 James Fenimore Cooper
 1823
+{"/m/0hwxm": "Historical novel"}
 a 3
 advancing 1
 an 2

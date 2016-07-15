@@ -3,6 +3,7 @@
 /m/0bhg1b
 Anthony Powell
 1952
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 128 1
 a 4
 adapted 1

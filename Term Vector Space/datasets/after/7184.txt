@@ -3,6 +3,7 @@
 /m/0fv699
 Thomas Wolfe
 1929
+{"/m/012jgz": "Autobiographical novel", "/m/04fqp": "K\u00fcnstlerroman", "/m/01jym": "Bildungsroman", "/m/016lj8": "Roman \u00e0 clef"}
 0 1
 184 1
 a 15

@@ -3,6 +3,7 @@
 /m/02w1g6c
 Adam Roberts
 2007
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 16
 accepting 1
 accompany 1

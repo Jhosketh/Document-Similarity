@@ -3,6 +3,7 @@
 /m/014hg7
 Dorothy L. Sayers
 1928
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 10 1
 1037 1
 11 3

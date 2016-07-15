@@ -3,6 +3,7 @@
 /m/0c9knc
 Isabel Allende
 2002
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 15 1
 a 21
 able 1

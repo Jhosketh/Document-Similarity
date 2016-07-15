@@ -3,6 +3,7 @@
 /m/02q5hdy
 Jules Verne
 1872
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/05hgj": "Novel"}
 185 1
 70 1
 a 6

@@ -3,6 +3,7 @@
 /m/025_j7
 Raymond Chandler
 1940
+{"/m/0lsxr": "Crime Fiction", "/m/03xj9g": "Hardboiled"}
 a 30
 advises 1
 african 1

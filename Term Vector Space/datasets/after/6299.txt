@@ -3,6 +3,7 @@
 /m/0d9blj
 Amelia Atwater-Rhodes
 2004-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 13
 ability 1
 about 3

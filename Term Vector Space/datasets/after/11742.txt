@@ -3,6 +3,7 @@
 /m/03qp29m
 Caryl Phillips
 1993-01-18
+{"/m/0hwxm": "Historical novel"}
 a 16
 about 1
 adult 1

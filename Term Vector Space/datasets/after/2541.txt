@@ -3,6 +3,7 @@
 /m/051r3l
 Haruki Murakami
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 about 1
 appears 1

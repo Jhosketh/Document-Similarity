@@ -3,6 +3,7 @@
 /m/02p2sk8
 Patrick O'Brian
 1988
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 16
 about 2
 accompanied 1

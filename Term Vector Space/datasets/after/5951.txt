@@ -3,6 +3,7 @@
 /m/0ctfgh
 Bernard Cornwell
 2006-08-28
+{"/m/098tmk": "War novel", "/m/0hwxm": "Historical novel"}
 1811 1
 8th 1
 a 9

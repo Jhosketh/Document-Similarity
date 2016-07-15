@@ -3,6 +3,7 @@
 /m/02rl7s2
 Brian Keene
 2005
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 180 1
 a 20
 abandoned 2

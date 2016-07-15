@@ -3,6 +3,7 @@
 /m/09szdk
 Brenda Cooper
 2005-06-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 21
 abandoned 1
 able 1

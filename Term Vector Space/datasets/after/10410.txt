@@ -3,6 +3,7 @@
 /m/026brmp
 David Weber
 2007-01-09
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 14th 1
 17th 1
 800 1

@@ -3,6 +3,7 @@
 /m/08sgys
 John Updike
 1971
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16 1
 a 6
 about 1

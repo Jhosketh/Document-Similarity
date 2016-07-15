@@ -3,6 +3,7 @@
 /m/05pr65
 John Grisham
 2001-02-06
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 16
 additional 1
 admired 1

@@ -3,6 +3,7 @@
 /m/01x062
 Terry Pratchett
 1989
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 a 21
 abilities 1
 accidentally 1

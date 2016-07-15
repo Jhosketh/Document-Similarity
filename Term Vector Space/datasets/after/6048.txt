@@ -3,6 +3,7 @@
 /m/0cxcb_
 John Bellairs
 
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 about 1
 alignment 1

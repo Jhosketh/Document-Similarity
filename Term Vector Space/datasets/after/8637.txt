@@ -3,6 +3,7 @@
 /m/027ds7v
 Baroness Emma Orczy
 1920
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 1624 1
 4000 1
 a 16

@@ -3,6 +3,7 @@
 /m/0m_jg
 Thomas Heggen
 1946
+{"/m/098tmk": "War novel"}
 a 2
 action 1
 against 1

@@ -3,6 +3,7 @@
 /m/0561wg
 Caleb Carr
 1994-03-15
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 11 1
 13yearold 1
 186 2

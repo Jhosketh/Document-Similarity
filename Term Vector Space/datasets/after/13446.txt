@@ -3,6 +3,7 @@
 /m/05b39_r
 Anna Godbersen
 2008-08-01
+{"/m/03mfnf": "Young adult literature", "/m/07s9rl0": "Drama", "/m/01qxvh": "Romance novel"}
 a 13
 about 1
 act 1

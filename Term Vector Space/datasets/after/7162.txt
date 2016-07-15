@@ -3,6 +3,7 @@
 /m/0fs4p7
 R. A. Lafferty
 1968
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1535 1
 2535 1
 a 2

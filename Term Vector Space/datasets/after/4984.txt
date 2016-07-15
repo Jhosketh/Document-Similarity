@@ -3,6 +3,7 @@
 /m/09_399
 Joseph Roth
 1932
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 180467 1
 185 3

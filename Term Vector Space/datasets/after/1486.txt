@@ -3,6 +3,7 @@
 /m/031ptv
 Jack Higgins
 1975-09-08
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 a 33
 abandon 1
 about 1

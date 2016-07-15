@@ -3,6 +3,7 @@
 /m/0h0jhl
 Louis Sachar
 1987
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 7
 about 1
 acts 1

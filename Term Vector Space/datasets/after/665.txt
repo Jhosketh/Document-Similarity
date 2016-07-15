@@ -3,6 +3,7 @@
 /m/01hq5w
 Stephen King
 1987-11-10
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 4 1
 a 18
 able 1

@@ -3,6 +3,7 @@
 /m/04j5dv
 L. Sprague de Camp
 1941
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 138 1
 25 1
 535 1

@@ -3,6 +3,7 @@
 /m/051_szh
 Mercedes Lackey
 
+{"/m/01hmnh": "Fantasy"}
 a 17
 abilities 2
 ability 1

@@ -3,6 +3,7 @@
 /m/02pstdf
 Pamela Aidan
 2005
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 14
 acceptance 1
 accepts 2

@@ -3,6 +3,7 @@
 /m/05s_ksg
 Evan Hunter
 1956
+{"/m/0lsxr": "Crime Fiction"}
 a 4
 and 1
 attacking 1

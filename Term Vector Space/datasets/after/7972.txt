@@ -3,6 +3,7 @@
 /m/02615h1
 R. K. Narayan
 1961
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 500 1
 a 22
 activities 2

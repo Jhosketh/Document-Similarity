@@ -3,6 +3,7 @@
 /m/02pkpdr
 Jack McDevitt
 1989-02
+{"/m/02n4kr": "Mystery", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 1300 1
 1500 1
 200 1

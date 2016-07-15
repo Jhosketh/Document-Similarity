@@ -3,6 +3,7 @@
 /m/0gzn1w
 John Updike
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 about 1
 admits 1

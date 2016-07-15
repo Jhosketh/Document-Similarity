@@ -3,6 +3,7 @@
 /m/0gw4fk
 Carolyn Keene
 1945
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 an 2
 and 1
 before 1

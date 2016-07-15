@@ -3,6 +3,7 @@
 /m/065t3p
 Jane Smiley
 1991-10-23
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 abuse 1
 aging 1

@@ -3,6 +3,7 @@
 /m/02r66l7
 Djuna Barnes
 1936
+{"/m/04y41": "Modernism", "/m/05hgj": "Novel"}
 a 4
 abandoned 1
 altar 1

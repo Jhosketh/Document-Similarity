@@ -3,6 +3,7 @@
 /m/0d124_
 Judy Blume
 1977
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 140s 1
 42 1
 42nd 1

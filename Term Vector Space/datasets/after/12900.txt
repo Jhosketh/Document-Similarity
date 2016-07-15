@@ -3,6 +3,7 @@
 /m/03cfsp9
 Helen Dunmore
 2008-05-05
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 7
 abilities 1
 adventures 1

@@ -3,6 +3,7 @@
 /m/0407l98
 Scott Turow
 1996
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 160s 1
 a 4
 accused 1

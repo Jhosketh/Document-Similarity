@@ -3,6 +3,7 @@
 /m/0bs05h2
 Hugh Hood
 1977
+{"/m/05hgj": "Novel"}
 148 1
 a 8
 after 1

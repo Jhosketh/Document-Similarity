@@ -3,6 +3,7 @@
 /m/03qjg9l
 Victor Appleton
 1911
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel", "/m/06bm_y": "Edisonade"}
 a 2
 airship 1
 and 1

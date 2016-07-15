@@ -3,6 +3,7 @@
 /m/07bz5
 J. R. R. Tolkien
 
+{"/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/050z5g": "Chivalric romance", "/m/03qfd": "High fantasy"}
 a 15
 about 1
 acclaimed 1

@@ -3,6 +3,7 @@
 /m/0hwk2
 Raymond Chandler
 1939
+{"/m/0lsxr": "Crime Fiction", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel", "/m/03xj9g": "Hardboiled"}
 a 13
 abandoned 1
 about 4

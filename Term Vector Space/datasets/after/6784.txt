@@ -3,6 +3,7 @@
 /m/0dxqzl
 Glen Cook
 1995-11
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 about 2
 after 1

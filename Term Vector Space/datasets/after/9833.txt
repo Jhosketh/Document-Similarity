@@ -3,6 +3,7 @@
 /m/04t3qlz
 Richard Matheson
 1975-02-24
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 170s 1
 180s 1
 186 1

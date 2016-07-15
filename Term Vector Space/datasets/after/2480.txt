@@ -3,6 +3,7 @@
 /m/04yqrj
 David Weber
 2004-11-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01smf2": "Military science fiction"}
 17 1
 a 20
 abilities 1

@@ -3,6 +3,7 @@
 /m/0dd071
 Ruth Rendell
 1965
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 after 1
 all 1
 arent 1

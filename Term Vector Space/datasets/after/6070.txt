@@ -3,6 +3,7 @@
 /m/0cyjz9
 George MacDonald Fraser
 1980
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 10 1
 114 1
 17th 1

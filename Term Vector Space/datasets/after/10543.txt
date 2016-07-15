@@ -3,6 +3,7 @@
 /m/02xb_01
 Michael Connelly
 2004-04-30
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 accepts 1
 accidental 1

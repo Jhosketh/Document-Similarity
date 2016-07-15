@@ -3,6 +3,7 @@
 /m/03m4vwn
 Ha Jin
 1999-09
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 18 1
 a 5
 after 1

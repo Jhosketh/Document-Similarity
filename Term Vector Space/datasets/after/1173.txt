@@ -3,6 +3,7 @@
 /m/02j2ff
 Alistair MacLean
 1963
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 50 2
 a 31
 abandoned 1

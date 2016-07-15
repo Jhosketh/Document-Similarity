@@ -3,6 +3,7 @@
 /m/01hgx_
 Roger Zelazny
 1978
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 34
 able 2
 about 5

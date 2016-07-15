@@ -3,6 +3,7 @@
 /m/03y91x8
 Joel C. Rosenberg
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2016 1
 7th 1
 a 31

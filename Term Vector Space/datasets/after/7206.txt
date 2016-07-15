@@ -3,6 +3,7 @@
 /m/0fx0l4
 Marin Preda
 
+{"/m/05hgj": "Novel"}
 150s 1
 a 13
 accommodates 1

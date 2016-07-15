@@ -3,6 +3,7 @@
 /m/043qkrf
 Stuart Woods
 2003-10
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 again 1
 agencies 1

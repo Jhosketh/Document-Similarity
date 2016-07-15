@@ -3,6 +3,7 @@
 /m/03cj6j5
 Orson Scott Card
 
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 at 1
 be 1
 book 1

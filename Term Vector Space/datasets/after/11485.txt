@@ -3,6 +3,7 @@
 /m/03hkdfv
 Douglas Niles
 1987-05
+{"/m/03qfd": "High fantasy", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 across 1
 against 2

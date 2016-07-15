@@ -3,6 +3,7 @@
 /m/05zv491
 Richard Flanagan
 2008
+{"/m/05hgj": "Novel"}
 aboriginal 1
 adopted 1
 affair 1

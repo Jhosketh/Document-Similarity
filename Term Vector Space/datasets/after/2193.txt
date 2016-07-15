@@ -3,6 +3,7 @@
 /m/04f9bt
 Honoré de Balzac
 1846
+{"/m/05hgj": "Novel"}
 150 1
 42 1
 a 23

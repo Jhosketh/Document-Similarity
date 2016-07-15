@@ -3,6 +3,7 @@
 /m/094gp8
 Lloyd Alexander
 1999
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 3
 adventures 1
 after 1

@@ -3,6 +3,7 @@
 /m/04gvn9c
 Charlotte Roche
 2008
+{"/m/012jgz": "Autobiographical novel"}
 18 1
 a 4
 all 1

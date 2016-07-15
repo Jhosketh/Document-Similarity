@@ -3,6 +3,7 @@
 /m/0bk30_
 Piers Anthony
 1989-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 after 3
 agenda 1

@@ -3,6 +3,7 @@
 /m/01nwph
 Zelda Fitzgerald
 1932
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 according 1

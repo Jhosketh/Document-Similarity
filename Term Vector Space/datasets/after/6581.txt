@@ -3,6 +3,7 @@
 /m/0dl98b
 L. Sprague de Camp
 1960
+{"/m/06n90": "Science Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 adventures 1
 and 3

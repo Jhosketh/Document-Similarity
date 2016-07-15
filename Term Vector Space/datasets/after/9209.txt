@@ -3,6 +3,7 @@
 /m/02pnvfm
 Judith Clarke
 1991
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/01qxvh": "Romance novel"}
 a 27
 aasha 14
 abandons 1

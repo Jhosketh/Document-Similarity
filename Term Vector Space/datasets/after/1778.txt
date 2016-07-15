@@ -3,6 +3,7 @@
 /m/03l9gp
 George MacDonald
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 adam 3
 after 4

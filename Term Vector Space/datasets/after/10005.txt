@@ -3,6 +3,7 @@
 /m/02rjj44
 Robert Wilson
 2003
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 2
 about 1
 acclaimed 1

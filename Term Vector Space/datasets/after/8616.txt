@@ -3,6 +3,7 @@
 /m/027cdhk
 Dave Eggers
 2006-10-25
+{"/m/02xlf": "Fiction", "/m/016chh": "Memoir"}
 a 5
 achak 4
 after 2

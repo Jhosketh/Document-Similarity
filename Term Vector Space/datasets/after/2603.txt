@@ -3,6 +3,7 @@
 /m/025rwbp
 Sergey Lukyanenko
 
+{"/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 10nbspkm 1
 20aged 1
 30 2

@@ -3,6 +3,7 @@
 /m/0b8q4f
 Anthony Horowitz
 1991-03-14
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 18 1
 a 23
 abbey 1

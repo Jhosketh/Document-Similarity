@@ -3,6 +3,7 @@
 /m/02r975k
 William Morris
 1897
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 5
 and 5
 another 2

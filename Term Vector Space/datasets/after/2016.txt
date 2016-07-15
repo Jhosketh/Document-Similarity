@@ -3,6 +3,7 @@
 /m/041m21
 Edward Abbey
 1971
+{"/m/0hfjk": "Western", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 1 1
 10 1
 23yearold 1

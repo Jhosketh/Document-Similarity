@@ -3,6 +3,7 @@
 /m/0284337
 Dave Barry
 2007-10
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 4
 aboard 1
 about 1

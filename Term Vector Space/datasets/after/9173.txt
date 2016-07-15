@@ -3,6 +3,7 @@
 /m/02plg2d
 Debra A. Kemp
 2003-10
+{"/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 a 25
 abandonment 1
 about 3

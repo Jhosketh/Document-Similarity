@@ -3,6 +3,7 @@
 /m/0gtgsb
 Peter Straub
 1988
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 35
 about 4
 above 1

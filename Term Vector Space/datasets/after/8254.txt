@@ -3,6 +3,7 @@
 /m/026j_fp
 Edwidge Danticat
 1998-09
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 130s 1
 8 1
 a 5

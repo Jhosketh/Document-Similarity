@@ -3,6 +3,7 @@
 /m/03hkhqb
 Amitav Ghosh
 2000
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 14
 able 3
 accordingly 1

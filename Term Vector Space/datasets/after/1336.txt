@@ -3,6 +3,7 @@
 /m/02v3sh
 Bret Easton Ellis
 1987-09
+{"/m/0vgkd": "Black comedy", "/m/06nbt": "Satire"}
 a 10
 accounts 1
 aesthetic 1

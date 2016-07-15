@@ -3,6 +3,7 @@
 /m/04n6v4w
 Owen Sheers
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel"}
 a 1
 abergavenny 1
 an 1

@@ -3,6 +3,7 @@
 /m/0bwmk_5
 Brian Lumley
 1989
+{"/m/06n90": "Science Fiction", "/m/08sdrw": "Adventure novel"}
 a 11
 able 1
 adult 1

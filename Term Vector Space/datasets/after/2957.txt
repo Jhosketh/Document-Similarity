@@ -3,6 +3,7 @@
 /m/05_8rz
 Jean M. Auel
 1985-12-21
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 17
 about 2
 acceptance 1

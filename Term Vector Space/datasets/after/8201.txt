@@ -3,6 +3,7 @@
 /m/026gfq0
 Scott Westerfeld
 2005-02-08
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 3
 affinity 1
 after 2

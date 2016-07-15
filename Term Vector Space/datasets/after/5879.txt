@@ -3,6 +3,7 @@
 /m/0cphx_
 Joe Dever
 1984
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 3
 about 1
 ally 1

@@ -3,6 +3,7 @@
 /m/02pxkxg
 Robert Swindells
 1989
+{"/m/039vk": "Gothic fiction", "/m/01hmnh": "Fantasy", "/m/03npn": "Horror", "/m/01qxvh": "Romance novel"}
 13 1
 a 4
 acting 1

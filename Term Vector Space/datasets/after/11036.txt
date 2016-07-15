@@ -3,6 +3,7 @@
 /m/03cqdb3
 Karen Traviss
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 66 3
 a 12
 actions 1

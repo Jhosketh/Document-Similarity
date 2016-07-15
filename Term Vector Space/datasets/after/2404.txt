@@ -3,6 +3,7 @@
 /m/04t_yn
 Roger Zelazny
 1993
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 1887 1
 31st 1
 a 10

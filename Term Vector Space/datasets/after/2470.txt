@@ -3,6 +3,7 @@
 /m/04ycpd
 Alice Munro
 
+{"/m/02xlf": "Fiction"}
 a 18
 about 7
 adapt 1

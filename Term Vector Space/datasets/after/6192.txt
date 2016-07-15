@@ -3,6 +3,7 @@
 /m/0d3gb9
 Alan Dean Foster
 1993
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 and 3
 band 2

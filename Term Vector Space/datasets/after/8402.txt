@@ -3,6 +3,7 @@
 /m/026xj0r
 Donald Kingsbury
 1982
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 about 1
 all 1

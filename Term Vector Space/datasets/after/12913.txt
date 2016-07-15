@@ -3,6 +3,7 @@
 /m/04n18j3
 Charles R. Pellegrino
 1995
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction"}
 21st 1
 a 5
 alien 2

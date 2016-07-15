@@ -3,6 +3,7 @@
 /m/02x2n1b
 Gary Paulsen
 1997-06-09
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 1
 about 1
 ancient 1

@@ -3,6 +3,7 @@
 /m/0bm3n3
 Langston Hughes
 1930
+{"/m/05hgj": "Novel", "/m/05qgc": "Poetry", "/m/02xlf": "Fiction"}
 110s 1
 a 1
 african 1

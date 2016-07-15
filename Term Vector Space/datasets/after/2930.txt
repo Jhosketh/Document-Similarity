@@ -3,6 +3,7 @@
 /m/05ybwv
 Lois Lowry
 1989
+{"/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 147 1
 a 15
 about 2

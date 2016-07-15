@@ -3,6 +3,7 @@
 /m/04cwlrb
 Elizabeth Gilbert
 2006-02
+{"/m/017fp": "Biography", "/m/016chh": "Memoir"}
 32 1
 a 9
 advance 1

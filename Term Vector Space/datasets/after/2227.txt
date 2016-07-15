@@ -3,6 +3,7 @@
 /m/04h4nb
 Alistair MacLean
 1971
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 4
 aboard 1
 above 1

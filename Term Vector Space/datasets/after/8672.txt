@@ -3,6 +3,7 @@
 /m/027f_7p
 Georgette Heyer
 1946
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 a 9
 accepts 1
 and 6

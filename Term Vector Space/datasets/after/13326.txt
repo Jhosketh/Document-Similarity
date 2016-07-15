@@ -3,6 +3,7 @@
 /m/0524lj5
 L. Frank Baum
 
+{"/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel"}
 a 8
 abdicates 1
 achieved 1

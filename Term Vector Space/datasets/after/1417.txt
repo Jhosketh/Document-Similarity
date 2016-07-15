@@ -3,6 +3,7 @@
 /m/02zr1n
 Brian Jacques
 1994
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 19
 abbey 7
 able 1

@@ -3,6 +3,7 @@
 /m/09104m
 Darren Shan
 
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 11
 abandoned 2
 about 1

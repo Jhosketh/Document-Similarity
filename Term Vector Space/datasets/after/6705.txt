@@ -3,6 +3,7 @@
 /m/0drpnj
 Sion Sono
 2002-04-03
+{"/m/01jfsb": "Thriller", "/m/07s9rl0": "Drama", "/m/026ny": "Dystopia"}
 2002 1
 54 1
 a 6

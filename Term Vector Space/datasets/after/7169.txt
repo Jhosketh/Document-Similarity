@@ -3,6 +3,7 @@
 /m/0fsv7b
 Paul B. Thompson
 1995-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 21
 abandons 1
 ability 1

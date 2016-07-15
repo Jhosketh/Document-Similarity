@@ -3,6 +3,7 @@
 /m/02r421d
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 4
 about 1
 and 2

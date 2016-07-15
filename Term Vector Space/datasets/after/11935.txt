@@ -3,6 +3,7 @@
 /m/025zqy7
 Louise Rennison
 1999-06
+{"/m/02ql9": "Epistolary novel", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 10 1
 a 7
 about 1

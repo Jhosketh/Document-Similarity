@@ -3,6 +3,7 @@
 /m/09g8_fd
 Mia Couto
 
+{"/m/02p0szs": "Historical fiction", "/m/0127jb": "Magic realism"}
 a 8
 abandoned 1
 along 1

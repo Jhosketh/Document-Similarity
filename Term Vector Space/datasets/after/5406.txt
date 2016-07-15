@@ -3,6 +3,7 @@
 /m/0btvnr
 Klaus Mann
 1936
+{"/m/02xlf": "Fiction", "/m/016lj8": "Roman \u00e0 clef"}
 126 1
 136 1
 a 6

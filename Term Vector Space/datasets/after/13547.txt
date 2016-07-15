@@ -3,6 +3,7 @@
 /m/046vw4w
 Charlaine Harris
 2001
+{"/m/0kflf": "Vampire fiction", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/072lff": "Paranormal romance", "/m/039vk": "Gothic fiction"}
 a 11
 ability 1
 adele 2

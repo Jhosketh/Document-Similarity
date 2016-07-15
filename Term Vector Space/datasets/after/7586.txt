@@ -3,6 +3,7 @@
 /m/0gs_kw
 Wendelin Van Draanen
 2001-10-01
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/06bvp": "Religion"}
 a 18
 abandon 1
 about 10

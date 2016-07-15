@@ -3,6 +3,7 @@
 /m/0df_fr
 David Bishop
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 152 1
 a 1
 and 2

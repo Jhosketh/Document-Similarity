@@ -3,6 +3,7 @@
 /m/0dh1sv
 V. C. Andrews
 1985-10-15
+{"/m/039vk": "Gothic fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 500 1
 a 23
 abandoning 1

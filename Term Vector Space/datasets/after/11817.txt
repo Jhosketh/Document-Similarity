@@ -3,6 +3,7 @@
 /m/03wfwg0
 Bernice Rubens
 1970
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 addicted 1
 amphetamines 1
 and 1

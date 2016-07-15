@@ -3,6 +3,7 @@
 /m/07hc1h
 Ruth Plumly Thompson
 1937
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 14 1
 a 25
 accidentally 1

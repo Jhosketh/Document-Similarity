@@ -3,6 +3,7 @@
 /m/0f2y2l
 Barbara Mertz
 2006
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 a 1
 are 1
 as 2

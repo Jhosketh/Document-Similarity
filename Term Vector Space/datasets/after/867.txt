@@ -3,6 +3,7 @@
 /m/01xftp
 John Maxwell Coetzee
 1999-07-01
+{"/m/05hgj": "Novel"}
 a 10
 ability 1
 actions 1

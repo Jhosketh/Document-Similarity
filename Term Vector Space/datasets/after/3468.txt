@@ -3,6 +3,7 @@
 /m/071c4y
 Elmore Leonard
 1989-03
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 4
 after 1
 an 2

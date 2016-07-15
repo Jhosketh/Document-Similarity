@@ -3,6 +3,7 @@
 /m/0503j_
 Michael Swanwick
 1991
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 2
 and 1
 before 1

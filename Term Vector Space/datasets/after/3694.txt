@@ -3,6 +3,7 @@
 /m/07h9vx
 Ruth Plumly Thompson
 1926
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 11
 acquaintance 1
 actually 2

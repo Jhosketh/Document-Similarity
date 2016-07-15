@@ -3,6 +3,7 @@
 /m/051xdkp
 Hilary Mantel
 1985
+{"/m/05hgj": "Novel"}
 170s 1
 a 2
 affair 1

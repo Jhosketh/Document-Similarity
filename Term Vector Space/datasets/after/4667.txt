@@ -3,6 +3,7 @@
 /m/09dwkb
 Henry James
 1878-05-29
+{"/m/05hgj": "Novel"}
 a 3
 adopts 1
 adventures 1

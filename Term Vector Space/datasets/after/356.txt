@@ -3,6 +3,7 @@
 /m/0lvk3
 William Peter Blatty
 1971
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 13
 actress 1
 actual 2

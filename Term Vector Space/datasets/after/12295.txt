@@ -3,6 +3,7 @@
 /m/04639z2
 James Blaylock
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 6
 activities 1
 actually 2

@@ -3,6 +3,7 @@
 /m/0981bt
 Bernard Cornwell
 1988-12
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 5th 1
 a 3
 acting 1

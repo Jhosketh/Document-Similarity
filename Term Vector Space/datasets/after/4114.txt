@@ -3,6 +3,7 @@
 /m/088_kv
 John Banville
 2005
+{"/m/05hgj": "Novel"}
 a 22
 about 1
 acquaint 1

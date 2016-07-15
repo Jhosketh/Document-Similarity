@@ -3,6 +3,7 @@
 /m/04099wh
 Simon Scarrow
 2007
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 1st 1
 a 17
 absorb 1

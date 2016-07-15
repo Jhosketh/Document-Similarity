@@ -3,6 +3,7 @@
 /m/0dxsyx
 Sol Stein
 1971
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 12
 about 1
 acting 1

@@ -3,6 +3,7 @@
 /m/03gqt9r
 Benjamin Zephaniah
 1999-07-09
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 8
 accept 1
 acceptancethe 1

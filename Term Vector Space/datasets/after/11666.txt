@@ -3,6 +3,7 @@
 /m/03qdkps
 Kurt Eichenwald
 2000
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/06ms6": "Sociology"}
 100 1
 10s 1
 12 2

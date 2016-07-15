@@ -3,6 +3,7 @@
 /m/0bw4bm
 Paul S. Kemp
 2005-04-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 8 1
 a 8
 all 1

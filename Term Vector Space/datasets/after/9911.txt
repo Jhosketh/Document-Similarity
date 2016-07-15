@@ -3,6 +3,7 @@
 /m/02r7gwz
 Douglas Coupland
 2007-09-25
+{"/m/02ql9": "Epistolary novel", "/m/02xlf": "Fiction"}
 11 1
 162 1
 a 19

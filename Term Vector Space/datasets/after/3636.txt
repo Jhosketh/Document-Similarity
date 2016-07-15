@@ -3,6 +3,7 @@
 /m/07cq8h
 Stephen Fry
 1991-09
+{"/m/016lj8": "Roman \u00e0 clef", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 a 27
 about 1
 acclaimed 1

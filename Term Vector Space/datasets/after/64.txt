@@ -3,6 +3,7 @@
 /m/05ssb
 Philip K. Dick
 1977
+{"/m/06n90": "Science Fiction", "/m/059r08": "Psychological novel", "/m/014dfn": "Speculative fiction", "/m/016lj8": "Roman \u00e0 clef", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 a 16
 addicted 1
 addiction 1

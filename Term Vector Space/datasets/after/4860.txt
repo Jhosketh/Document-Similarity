@@ -3,6 +3,7 @@
 /m/09qvd1
 Jules Verne
 1877
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/05hgj": "Novel"}
 2300 1
 a 4
 about 1

@@ -3,6 +3,7 @@
 /m/0glsq
 Samuel Butler
 1903
+{"/m/012jgz": "Autobiographical novel"}
 28 1
 a 18
 agreement 1

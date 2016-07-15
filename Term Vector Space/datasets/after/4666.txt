@@ -3,6 +3,7 @@
 /m/09dspq
 Charlie Higson
 2007-09-06
+{"/m/06wkf": "Spy fiction", "/m/03mfnf": "Young adult literature"}
 a 21
 about 2
 ace 1

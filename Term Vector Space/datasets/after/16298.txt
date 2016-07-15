@@ -3,6 +3,7 @@
 /m/0h56b_p
 Roberto Bolaño
 2010
+{"/m/05hgj": "Novel"}
 a 4
 and 1
 avalon 1

@@ -3,6 +3,7 @@
 /m/04v30q
 Don DeLillo
 1991-06-20
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 15
 abu 1
 accedes 1

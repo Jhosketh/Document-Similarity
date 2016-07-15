@@ -3,6 +3,7 @@
 /m/02qjhws
 Agate Nesaule
 1995
+{"/m/0xdf": "Autobiography", "/m/05hgj": "Novel"}
 20th 1
 a 16
 able 4

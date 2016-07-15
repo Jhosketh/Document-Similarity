@@ -3,6 +3,7 @@
 /m/04zyc6n
 Katherine Paterson
 1975
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 18th 1
 a 7
 and 3

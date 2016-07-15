@@ -3,6 +3,7 @@
 /m/05mtzmj
 Ellen Hopkins
 2007-08-21
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 7eleven 2
 a 19
 able 3

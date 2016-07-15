@@ -3,6 +3,7 @@
 /m/02r8ysx
 Carlos Fuentes
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 admiration 1
 also 1

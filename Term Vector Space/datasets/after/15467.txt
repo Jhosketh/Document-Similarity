@@ -3,6 +3,7 @@
 /m/0czc3fc
 Robert Asprin
 1992-02
+{"/m/06n90": "Science Fiction"}
 50 1
 a 2
 able 1

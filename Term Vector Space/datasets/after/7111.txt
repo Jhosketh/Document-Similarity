@@ -3,6 +3,7 @@
 /m/0fncny
 Patrick White
 1941-06
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2 1
 a 11
 abortion 1

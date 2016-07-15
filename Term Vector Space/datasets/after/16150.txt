@@ -3,6 +3,7 @@
 /m/0gvr79l
 Eric Flint
 2010-10-05
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction"}
 a 4
 abrabanel 1
 acquits 1

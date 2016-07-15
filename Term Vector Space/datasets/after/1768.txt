@@ -3,6 +3,7 @@
 /m/03kxyx
 Scott O'Dell
 1960-09
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 20
 able 1
 after 2

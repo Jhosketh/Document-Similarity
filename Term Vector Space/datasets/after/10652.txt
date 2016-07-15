@@ -3,6 +3,7 @@
 /m/02z9dt2
 Diana Gabaldon
 
+{"/m/02p0szs": "Historical fiction", "/m/0l67h": "Novella"}
 1758 1
 65th 1
 78th 1

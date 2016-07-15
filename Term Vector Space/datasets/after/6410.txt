@@ -3,6 +3,7 @@
 /m/0df8pr
 Lloyd Rose
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 4
 ace 2
 and 4

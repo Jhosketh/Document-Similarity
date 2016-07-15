@@ -3,6 +3,7 @@
 /m/064pv09
 Susan Price
 1987-01-12
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 7
 about 1
 advisers 1

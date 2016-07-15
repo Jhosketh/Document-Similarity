@@ -3,6 +3,7 @@
 /m/011x6r
 Arthur C. Clarke
 1975
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 2276 1
 23rd 1
 500th 1

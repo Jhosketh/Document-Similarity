@@ -3,6 +3,7 @@
 /m/0bv89
 Alice Walker
 1982
+{"/m/02ql9": "Epistolary novel", "/m/02xlf": "Fiction"}
 12 1
 1yearold 1
 30 1

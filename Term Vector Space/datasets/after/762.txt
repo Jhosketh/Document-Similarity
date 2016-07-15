@@ -3,6 +3,7 @@
 /m/01ptzf
 Hergé
 1936
+{"/m/01vnb": "Comic book"}
 4 1
 a 28
 able 2

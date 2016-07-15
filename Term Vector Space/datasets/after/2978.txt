@@ -3,6 +3,7 @@
 /m/060k12
 Robert Cormier
 1991-10
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 and 2
 avenger 1

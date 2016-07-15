@@ -3,6 +3,7 @@
 /m/0sxjf
 E. M. Forster
 1924
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 113 1
 124 1
 a 33

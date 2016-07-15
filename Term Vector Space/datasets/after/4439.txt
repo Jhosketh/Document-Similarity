@@ -3,6 +3,7 @@
 /m/0915xw
 Joseph Delaney
 2004
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 13 1
 a 22
 about 4

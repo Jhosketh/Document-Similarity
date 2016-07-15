@@ -3,6 +3,7 @@
 /m/0g_k50
 Stephenie Meyer
 2006-09-06
+{"/m/0kflf": "Vampire fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 18th 1
 a 9
 about 1

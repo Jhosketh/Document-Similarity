@@ -3,6 +3,7 @@
 /m/0h_dkwn
 Colin Bateman
 
+{"/m/0lsxr": "Crime Fiction", "/m/0vgkd": "Black comedy"}
 a 1
 action 1
 again 1

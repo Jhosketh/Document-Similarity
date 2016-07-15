@@ -3,6 +3,7 @@
 /m/06dnns
 Robin Jarvis
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 about 1
 and 2

@@ -3,6 +3,7 @@
 /m/021yy6
 Ford Madox Ford
 
+{"/m/05hgj": "Novel", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05qgc": "Poetry", "/m/02xlf": "Fiction"}
 a 20
 about 1
 accurately 1

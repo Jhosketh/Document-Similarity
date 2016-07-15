@@ -3,6 +3,7 @@
 /m/02pscw5
 Baroness Emma Orczy
 1899
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 4
 against 1
 agent 1

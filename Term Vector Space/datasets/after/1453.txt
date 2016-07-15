@@ -3,6 +3,7 @@
 /m/02p2smj
 Patrick O'Brian
 1993
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 34
 able 2
 accompanied 2

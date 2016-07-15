@@ -3,6 +3,7 @@
 /m/073xh6
 Gore Vidal
 1978
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 about 3
 acquiesce 1

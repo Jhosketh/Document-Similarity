@@ -3,6 +3,7 @@
 /m/0fdcvs
 Victor Kelleher
 1986
+{"/m/01hmnh": "Fantasy", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/03mfnf": "Young adult literature"}
 a 10
 aboriginal 1
 about 1

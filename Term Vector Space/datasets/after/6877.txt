@@ -3,6 +3,7 @@
 /m/0f2xrj
 Barbara Mertz
 2003
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 11 1
 a 11
 abuse 1

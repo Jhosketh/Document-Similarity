@@ -3,6 +3,7 @@
 /m/0knzs
 Len Deighton
 1978-08-24
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction"}
 141 1
 a 24
 able 1

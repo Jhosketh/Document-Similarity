@@ -3,6 +3,7 @@
 /m/075jg4
 Upton Sinclair, Jr.
 1940
+{"/m/0hwxm": "Historical novel"}
 a 2
 aftermath 1
 against 1

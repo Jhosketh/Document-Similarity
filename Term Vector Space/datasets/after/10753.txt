@@ -3,6 +3,7 @@
 /m/03c2wx1
 Frederic Dannay
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit"}
 a 11
 about 2
 act 1

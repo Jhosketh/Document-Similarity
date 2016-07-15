@@ -3,6 +3,7 @@
 /m/03clnx8
 Ted Dekker
 2005
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 10 1
 1000 1
 13 1

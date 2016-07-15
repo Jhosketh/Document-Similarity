@@ -3,6 +3,7 @@
 /m/0bk2w1
 Piers Anthony
 1982-10
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 0 1
 0day 1
 a 19

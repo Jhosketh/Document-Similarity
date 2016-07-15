@@ -3,6 +3,7 @@
 /m/02q8pfl
 Robin Jarvis
 1995
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 2
 airman 1
 american 1

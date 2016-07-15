@@ -3,6 +3,7 @@
 /m/0bkf3z
 Louis Cha
 1995-02-08
+{"/m/08322": "Wuxia", "/m/014dfn": "Speculative fiction"}
 a 13
 about 2
 acknowledge 1

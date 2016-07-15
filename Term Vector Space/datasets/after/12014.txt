@@ -3,6 +3,7 @@
 /m/0409cnx
 Jackie Collins
 1968
+{"/m/05hgj": "Novel"}
 a 2
 able 1
 about 1

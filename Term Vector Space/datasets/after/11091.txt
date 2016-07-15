@@ -3,6 +3,7 @@
 /m/03cw6gr
 George Pelecanos
 1996-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 133 1
 14 1
 144 1

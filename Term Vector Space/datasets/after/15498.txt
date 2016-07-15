@@ -3,6 +3,7 @@
 /m/0czbdy_
 Ian Rankin
 1990
+{"/m/01jfsb": "Thriller"}
 a 1
 alive 1
 and 1

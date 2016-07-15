@@ -3,6 +3,7 @@
 /m/02qsd08
 Jeffery Deaver
 2003-03-11
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 after 2
 alludes 1

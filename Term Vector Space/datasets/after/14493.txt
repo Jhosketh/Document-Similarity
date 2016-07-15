@@ -3,6 +3,7 @@
 /m/07s9tms
 Ron Paul
 2009-09-16
+{"/m/02j62": "Economics", "/m/05qt0": "Politics"}
 a 8
 actually 1
 against 1

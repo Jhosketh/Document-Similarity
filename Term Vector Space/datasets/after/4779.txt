@@ -3,6 +3,7 @@
 /m/09nqcc
 Graham Edwards
 1996-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 about 2
 accompany 1

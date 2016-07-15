@@ -3,6 +3,7 @@
 /m/07hdl8
 Thomas Mann
 1939
+{"/m/05hgj": "Novel"}
 40 1
 a 4
 affair 1

@@ -3,6 +3,7 @@
 /m/03h1ds0
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 13 1
 a 6
 accident 1

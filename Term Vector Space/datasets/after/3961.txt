@@ -3,6 +3,7 @@
 /m/0808h5
 D.J. MacHale
 2003-05-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 137 1
 20th 1
 21stcenturies 1

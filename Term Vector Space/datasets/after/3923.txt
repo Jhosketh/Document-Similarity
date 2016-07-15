@@ -3,6 +3,7 @@
 /m/07yc44
 Anaïs Nin
 1992-10
+{"/m/016chh": "Memoir", "/m/02gsv": "Personal journal"}
 a 1
 abortion 1
 absent 1

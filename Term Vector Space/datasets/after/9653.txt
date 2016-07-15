@@ -3,6 +3,7 @@
 /m/02qqh0p
 Laura Ingalls Wilder
 1932
+{"/m/0hfjk": "Western", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 7
 above 1
 addressed 1

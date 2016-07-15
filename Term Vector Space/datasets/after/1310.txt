@@ -3,6 +3,7 @@
 /m/02s9hd
 Charlotte Brontë
 1849
+{"/m/0276pxr": "Social novel", "/m/014dfn": "Speculative fiction"}
 a 24
 abandoned 2
 about 2

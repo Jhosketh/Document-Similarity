@@ -3,6 +3,7 @@
 /m/030131
 Anthony Burgess
 1962
+{"/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia", "/m/0c082": "Utopian and dystopian fiction"}
 24hour 1
 a 13
 absence 1

@@ -3,6 +3,7 @@
 /m/0gyrm88
 Mochtar Lubis
 1975
+{"/m/05hgj": "Novel"}
 a 8
 abandon 1
 able 1

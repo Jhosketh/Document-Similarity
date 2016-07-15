@@ -3,6 +3,7 @@
 /m/04cyg7c
 Conn Iggulden
 2008-09-01
+{"/m/0hwxm": "Historical novel"}
 a 3
 after 1
 against 1

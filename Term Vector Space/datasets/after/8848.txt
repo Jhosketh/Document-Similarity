@@ -3,6 +3,7 @@
 /m/027vj02
 Basil Copper
 1983
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 3
 above 1
 and 1

@@ -3,6 +3,7 @@
 /m/027zs7h
 Edgar Rice Burroughs
 1938
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 3
 africa 1
 after 1

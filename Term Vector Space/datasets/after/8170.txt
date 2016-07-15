@@ -3,6 +3,7 @@
 /m/026fm2p
 Charles R. Johnson
 1990
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 4
 aboard 2
 about 1

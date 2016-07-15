@@ -3,6 +3,7 @@
 /m/01pc0g
 Ian Fleming
 1961-03-27
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 100000000 1
 a 17
 acting 1

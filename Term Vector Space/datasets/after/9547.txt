@@ -3,6 +3,7 @@
 /m/02qgpn8
 Judith Moffett
 1987
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 12 1
 50 1
 600 1

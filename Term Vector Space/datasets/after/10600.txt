@@ -3,6 +3,7 @@
 /m/02z37_v
 Philip MacDonald
 1924
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit"}
 a 6
 accomplished 1
 acquaintance 1

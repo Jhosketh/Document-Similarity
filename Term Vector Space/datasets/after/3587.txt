@@ -3,6 +3,7 @@
 /m/077q5s
 Stephen Baxter
 1993-07-04
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 23
 abandoned 1
 about 2

@@ -3,6 +3,7 @@
 /m/08j42n
 Arthur Machen
 1926
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 a 1
 and 2
 arrives 1

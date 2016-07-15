@@ -3,6 +3,7 @@
 /m/06p8rd
 Terry Goodkind
 2001-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 a 2
 against 1
 and 3

@@ -3,6 +3,7 @@
 /m/077n_t
 Vernor Vinge
 1985
+{"/m/0l67h": "Novella"}
 a 3
 agent 1
 also 1

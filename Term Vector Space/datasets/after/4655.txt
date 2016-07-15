@@ -3,6 +3,7 @@
 /m/09cxc2
 Gennifer Choldenko
 2004
+{"/m/05hgj": "Novel"}
 a 13
 able 1
 accepted 1

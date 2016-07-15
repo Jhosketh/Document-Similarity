@@ -3,6 +3,7 @@
 /m/02q6vz6
 Alan Dean Foster
 
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 11 1
 16 1
 7 2

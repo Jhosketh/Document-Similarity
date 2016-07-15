@@ -3,6 +3,7 @@
 /m/06lwt_
 Walter Scott
 1824-06
+{"/m/0hwxm": "Historical novel"}
 a 29
 abandon 1
 accompanied 2

@@ -3,6 +3,7 @@
 /m/0cqkty
 C. S. Forester
 1953
+{"/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 140 1
 1805 1
 a 19

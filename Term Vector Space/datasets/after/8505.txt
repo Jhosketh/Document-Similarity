@@ -3,6 +3,7 @@
 /m/02758xv
 R. D. Wingfield
 1987
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 30yearold 1
 a 9
 after 1

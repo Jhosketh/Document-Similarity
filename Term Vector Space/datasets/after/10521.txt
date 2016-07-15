@@ -3,6 +3,7 @@
 /m/02x6xtn
 Brandon Sanderson
 2007-08-21
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 11
 abandon 1
 able 1

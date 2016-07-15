@@ -3,6 +3,7 @@
 /m/044p9c
 Alan Hollinghurst
 2004
+{"/m/04tkhfk": "Gay Themed", "/m/065q54": "LGBT literature", "/m/0cgx58": "Gay novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 180s 1
 183 1
 a 12

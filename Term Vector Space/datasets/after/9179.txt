@@ -3,6 +3,7 @@
 /m/02plt24
 James Gordon Farrell
 1970
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 116 1
 a 1

@@ -3,6 +3,7 @@
 /m/0gmdh6f
 Eric Linklater
 1944
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 7
 adventure 1
 along 1

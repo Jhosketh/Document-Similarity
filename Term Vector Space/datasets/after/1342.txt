@@ -3,6 +3,7 @@
 /m/02vp74
 Sharat Chandra Chattopadhyay
 1917-06-30
+{"/m/0l67h": "Novella"}
 100s 2
 a 12
 accept 1

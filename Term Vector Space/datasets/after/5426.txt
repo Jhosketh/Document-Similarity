@@ -3,6 +3,7 @@
 /m/0bw497
 Lisa Smedman
 2003-01-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 8
 able 1
 abolethfilled 1

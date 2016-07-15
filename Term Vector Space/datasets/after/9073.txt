@@ -3,6 +3,7 @@
 /m/0286_22
 Joanna Cole
 1994-09
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 4
 age 1
 an 1

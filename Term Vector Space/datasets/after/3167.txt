@@ -3,6 +3,7 @@
 /m/06dpk3
 Herman Wouk
 1985-03
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 115141 1
 173 2
 26 1

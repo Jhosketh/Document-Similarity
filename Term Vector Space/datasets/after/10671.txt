@@ -3,6 +3,7 @@
 /m/03bzbft
 Michael Connelly
 1998
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 03 1
 472 1
 568 1

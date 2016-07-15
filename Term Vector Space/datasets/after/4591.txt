@@ -3,6 +3,7 @@
 /m/098tsc
 Janet Evanovich
 1996-01-10
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 24 1
 a 6
 along 1

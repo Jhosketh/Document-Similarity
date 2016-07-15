@@ -3,6 +3,7 @@
 /m/04lsk0
 Raymond Benson
 1997-04-03
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 007 1
 1 1
 17 1

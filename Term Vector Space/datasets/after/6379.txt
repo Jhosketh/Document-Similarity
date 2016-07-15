@@ -3,6 +3,7 @@
 /m/0dc__s
 Ruth Rendell
 1966
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 37 1
 a 2
 alice 1

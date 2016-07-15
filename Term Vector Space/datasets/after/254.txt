@@ -3,6 +3,7 @@
 /m/0h4hb
 Stephen King
 2000-10-03
+{"/m/0xdf": "Autobiography"}
 1 1
 1408 1
 a 8

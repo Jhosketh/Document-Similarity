@@ -3,6 +3,7 @@
 /m/0ctsmc
 Dean Koontz
 1986
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 2
 about 1
 altogether 1

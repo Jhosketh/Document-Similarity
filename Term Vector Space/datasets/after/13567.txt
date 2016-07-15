@@ -3,6 +3,7 @@
 /m/05yqwv
 John Maxwell Coetzee
 1986
+{"/m/0fr3y1": "Parallel novel", "/m/05hgj": "Novel"}
 a 6
 about 3
 act 1

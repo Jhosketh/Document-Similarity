@@ -3,6 +3,7 @@
 /m/063qj2
 E. B. White
 1970
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 100 2
 11yearold 1
 168 1

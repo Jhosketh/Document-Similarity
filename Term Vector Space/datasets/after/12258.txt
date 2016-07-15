@@ -3,6 +3,7 @@
 /m/04f_p3g
 John Marks
 2007-01-15
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0c3351": "Suspense"}
 a 4
 about 1
 accepts 1

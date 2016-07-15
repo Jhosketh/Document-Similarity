@@ -3,6 +3,7 @@
 /m/05p_vg
 Margaret Atwood
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 1
 accompanied 1
 and 4

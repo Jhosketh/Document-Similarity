@@ -3,6 +3,7 @@
 /m/026bdff
 Ashok Banker
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 200year 1
 a 26
 ability 1

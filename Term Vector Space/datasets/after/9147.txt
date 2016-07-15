@@ -3,6 +3,7 @@
 /m/02pjzmz
 Janet Evanovich
 2007-06-19
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 40 1
 a 4
 again 1

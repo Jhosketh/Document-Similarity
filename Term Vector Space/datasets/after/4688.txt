@@ -3,6 +3,7 @@
 /m/09frmx
 P. G. Wodehouse
 1905-10-05
+{"/m/05hgj": "Novel"}
 a 1
 amongst 1
 an 1

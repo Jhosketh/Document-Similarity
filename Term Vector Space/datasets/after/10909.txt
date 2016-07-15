@@ -3,6 +3,7 @@
 /m/03ch808
 Robert Swindells
 1993
+{"/m/026llv5": "Literary realism", "/m/03mfnf": "Young adult literature", "/m/03npn": "Horror"}
 150 1
 2 1
 5 1

@@ -3,6 +3,7 @@
 /m/0f5zy2
 Margaret Haddix
 2006-04
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 a 10
 about 4
 absolute 1

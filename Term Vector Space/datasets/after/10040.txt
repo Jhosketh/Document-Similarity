@@ -3,6 +3,7 @@
 /m/02rmv5c
 Maeve Binchy
 1998-08-28
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 affected 1
 an 1

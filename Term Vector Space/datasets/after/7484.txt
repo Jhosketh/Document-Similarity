@@ -3,6 +3,7 @@
 /m/0gm16m
 Ray Bradbury
 1951-08-07
+{"/m/06n90": "Science Fiction", "/m/0707q": "Short story"}
 2053 1
 a 4
 and 2

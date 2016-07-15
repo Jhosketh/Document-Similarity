@@ -3,6 +3,7 @@
 /m/0275364
 James Redfield
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/06bvp": "Religion"}
 a 1
 accessible 1
 also 1

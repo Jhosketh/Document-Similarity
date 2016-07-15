@@ -3,6 +3,7 @@
 /m/03d6m5q
 Nalo Hopkinson
 2003
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 13
 abandonment 1
 about 1

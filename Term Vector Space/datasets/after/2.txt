@@ -3,6 +3,7 @@
 /m/0k36
 Anthony Burgess
 1962
+{"/m/06n90": "Science Fiction", "/m/0l67h": "Novella", "/m/014dfn": "Speculative fiction", "/m/0c082": "Utopian and dystopian fiction", "/m/06nbt": "Satire", "/m/02xlf": "Fiction"}
 a 42
 abases 1
 about 1

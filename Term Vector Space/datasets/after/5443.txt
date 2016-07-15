@@ -3,6 +3,7 @@
 /m/0bwy9k
 Robert Anthony Salvatore
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 2007 1
 a 13
 abelle 5

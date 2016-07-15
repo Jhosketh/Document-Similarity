@@ -3,6 +3,7 @@
 /m/0286xk8
 Jacqueline Wilson
 1994
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 9
 about 1
 accommodation 2

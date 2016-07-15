@@ -3,6 +3,7 @@
 /m/03qn_41
 Talbot Mundy
 1934
+{"/m/01hmnh": "Fantasy"}
 adventures 1
 and 1
 as 1

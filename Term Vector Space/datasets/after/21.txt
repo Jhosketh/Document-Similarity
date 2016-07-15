@@ -3,6 +3,7 @@
 /m/01t5z
 J. G. Ballard
 1973
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 accident 1
 after 2

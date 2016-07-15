@@ -3,6 +3,7 @@
 /m/0cr_gn
 Miles Tredinnick
 2001-01-01
+{"/m/0lsxr": "Crime Fiction", "/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 a 3
 addiction 1
 admiral 1

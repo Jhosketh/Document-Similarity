@@ -3,6 +3,7 @@
 /m/02qjjnk
 H. Rider Haggard
 1920
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 30
 able 1
 about 1

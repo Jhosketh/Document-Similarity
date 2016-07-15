@@ -3,6 +3,7 @@
 /m/03m4sv9
 Terry Pratchett
 2008-09-11
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 13yearold 1
 1860 1
 a 51

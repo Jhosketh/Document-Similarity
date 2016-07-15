@@ -3,6 +3,7 @@
 /m/09y3y7
 John Varley
 1984
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 1 1
 2113 1
 2121 1

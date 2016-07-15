@@ -3,6 +3,7 @@
 /m/026_9k8
 James Patterson
 2001
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 40s 1
 a 88
 abandoned 2

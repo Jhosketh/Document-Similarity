@@ -3,6 +3,7 @@
 /m/01fv5g
 Lytton Strachey
 
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0d6gr": "Reference"}
 a 8
 account 1
 achievements 2

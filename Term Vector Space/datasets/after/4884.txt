@@ -3,6 +3,7 @@
 /m/09tvpn
 Stephen Fry
 2000-09-28
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 180 1
 2000 1
 324 1

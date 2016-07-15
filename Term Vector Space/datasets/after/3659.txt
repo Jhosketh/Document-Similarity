@@ -3,6 +3,7 @@
 /m/07f7l2
 John Darnton
 1996-04
+{"/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 40000 1
 a 4
 ago 1

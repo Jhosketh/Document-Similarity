@@ -3,6 +3,7 @@
 /m/03cp4xp
 Fanny Burney
 1782
+{"/m/02xlf": "Fiction"}
 100 1
 200 2
 50 1

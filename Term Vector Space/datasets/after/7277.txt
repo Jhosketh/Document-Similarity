@@ -3,6 +3,7 @@
 /m/0g254y
 Tamora Pierce
 1999
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 20
 ability 1
 accident 1

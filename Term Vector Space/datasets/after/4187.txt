@@ -3,6 +3,7 @@
 /m/08g_y1
 John Fowles
 1977
+{"/m/02xlf": "Fiction"}
 140s 1
 a 5
 after 1

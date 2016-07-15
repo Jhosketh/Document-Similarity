@@ -3,6 +3,7 @@
 /m/03md5cn
 Chang-Rae Lee
 1995
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 adapting 1
 adult 1

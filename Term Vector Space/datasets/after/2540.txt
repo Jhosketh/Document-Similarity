@@ -3,6 +3,7 @@
 /m/051r24
 Haruki Murakami
 1985
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 14
 accept 1
 accepted 1

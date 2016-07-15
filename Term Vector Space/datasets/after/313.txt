@@ -3,6 +3,7 @@
 /m/0js1m
 Charles Dickens
 1843-12-19
+{"/m/048945": "Ghost story", "/m/0c5jx": "Morality play", "/m/0l67h": "Novella", "/m/014dfn": "Speculative fiction", "/m/0bxg3": "Fairy tale", "/m/02xlf": "Fiction"}
 1843 1
 a 23
 about 1

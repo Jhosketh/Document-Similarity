@@ -3,6 +3,7 @@
 /m/04jlvp7
 Hugo Hamilton
 2008-06-06
+{"/m/05hgj": "Novel"}
 2006 1
 a 18
 account 1

@@ -3,6 +3,7 @@
 /m/0661bdp
 Desmond Bagley
 1984
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 5
 after 1
 and 2

@@ -3,6 +3,7 @@
 /m/06kbqz
 Franklin W. Dixon
 1953-01-01
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 3
 an 1
 and 1

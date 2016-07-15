@@ -3,6 +3,7 @@
 /m/0d1ylc
 Margery Allingham
 1933
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 300 1
 a 46
 about 2

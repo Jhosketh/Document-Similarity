@@ -3,6 +3,7 @@
 /m/0537_dw
 Jean-Marie Gustave Le Clézio
 1992
+{"/m/05hgj": "Novel"}
 144 1
 148 1
 a 2

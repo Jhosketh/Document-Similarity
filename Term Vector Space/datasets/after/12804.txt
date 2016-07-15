@@ -3,6 +3,7 @@
 /m/04j9kng
 Beverly Cleary
 
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 15yearold 1
 16yearold 2
 a 7

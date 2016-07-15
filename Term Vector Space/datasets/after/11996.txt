@@ -3,6 +3,7 @@
 /m/040777w
 George Pelecanos
 2000
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 a 6
 again 1
 all 1

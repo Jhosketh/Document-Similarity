@@ -3,6 +3,7 @@
 /m/02824gm
 Gail Carson Levine
 2006
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 14
 accept 1
 accepts 1

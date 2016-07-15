@@ -3,6 +3,7 @@
 /m/026jf29
 John Buchan, 1st Baron Tweedsmuir
 1910
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel"}
 a 13
 able 1
 about 2

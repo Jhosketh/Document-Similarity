@@ -3,6 +3,7 @@
 /m/01qrck
 P. G. Wodehouse
 1953-04-22
+{"/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 3000 1
 5 1
 a 12

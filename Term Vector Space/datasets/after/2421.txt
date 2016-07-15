@@ -3,6 +3,7 @@
 /m/04wrh7
 Douglas Preston
 2004
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 a 3
 agent 1
 aloysius 1

@@ -3,6 +3,7 @@
 /m/0h1d5d
 Dean Koontz
 1996
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction"}
 2 1
 a 18
 abducted 1

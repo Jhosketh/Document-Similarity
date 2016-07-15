@@ -3,6 +3,7 @@
 /m/0bqmhh
 D. M. Thomas
 1981-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 3yearsold 1
 a 9
 ability 1

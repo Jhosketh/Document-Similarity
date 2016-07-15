@@ -3,6 +3,7 @@
 /m/0gf6_0
 Colleen McCullough
 1991
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1 1
 88 1
 a 11

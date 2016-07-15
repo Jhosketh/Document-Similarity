@@ -3,6 +3,7 @@
 /m/0bmtzf
 Theodore Sturgeon
 1961
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 6
 about 1
 addressed 1

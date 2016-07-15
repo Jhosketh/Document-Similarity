@@ -3,6 +3,7 @@
 /m/03hhrrk
 Yu Hua
 1993
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14 2
 a 10
 absolutely 1

@@ -3,6 +3,7 @@
 /m/027_xsn
 Minette Walters
 2007-09-07
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 250pound 1
 a 5
 accept 1

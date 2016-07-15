@@ -3,6 +3,7 @@
 /m/03d7ys7
 Lin Carter
 1976-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 15 1
 a 26
 abandongetting 1

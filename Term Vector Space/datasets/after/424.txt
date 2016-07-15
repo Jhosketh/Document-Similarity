@@ -3,6 +3,7 @@
 /m/0140ll
 Anne Rice
 1995-07-03
+{"/m/039vk": "Gothic fiction", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 9
 account 1
 adversary 1

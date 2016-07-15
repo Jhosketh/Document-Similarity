@@ -3,6 +3,7 @@
 /m/055cfr
 Samuel R. Delany
 1968
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 3162 1
 3172 1
 a 11

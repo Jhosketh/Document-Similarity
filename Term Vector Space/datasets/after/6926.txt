@@ -3,6 +3,7 @@
 /m/0f82lg
 Robert Silverberg
 1955
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 1 1
 125 1
 15 1

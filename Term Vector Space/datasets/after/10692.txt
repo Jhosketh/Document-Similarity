@@ -3,6 +3,7 @@
 /m/03b_ywr
 Murray Leinster
 1919-02-22
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 2000odd 1
 a 4
 able 1

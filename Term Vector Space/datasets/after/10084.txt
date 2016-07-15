@@ -3,6 +3,7 @@
 /m/02rr8h0
 Horatio Alger, Jr.
 1868-05-05
+{"/m/0dwly": "Children's literature", "/m/01jym": "Bildungsroman"}
 1860s 1
 1868 1
 a 7

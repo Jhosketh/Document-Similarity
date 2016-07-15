@@ -3,6 +3,7 @@
 /m/043rl_m
 Jackie Collins
 1981
+{"/m/02xlf": "Fiction"}
 10 1
 121 1
 a 15

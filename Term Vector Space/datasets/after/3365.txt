@@ -3,6 +3,7 @@
 /m/06s_1s
 Robert Ludlum
 1977-06
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 3
 after 1
 also 1

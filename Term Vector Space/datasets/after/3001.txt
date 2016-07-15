@@ -3,6 +3,7 @@
 /m/061x7_
 Mercedes Lackey
 1987-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 13th 1
 a 19
 able 1

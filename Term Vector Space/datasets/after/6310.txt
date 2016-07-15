@@ -3,6 +3,7 @@
 /m/0d9rl0
 Joe R. Lansdale
 2002-06-01
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 5
 alcohol 1
 ally 1

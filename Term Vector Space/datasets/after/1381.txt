@@ -3,6 +3,7 @@
 /m/02xhp7
 Patrick O'Brian
 
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 38gun 1
 64gun 1
 a 15

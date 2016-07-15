@@ -3,6 +3,7 @@
 /m/02qqx88
 Evangeline Walton
 1972
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 5
 advice 1
 again 2

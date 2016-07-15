@@ -3,6 +3,7 @@
 /m/0gsync
 José Carlos Somoza
 2000
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 a 13
 about 1
 academy 2

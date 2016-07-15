@@ -3,6 +3,7 @@
 /m/06w507p
 Carl Hiaasen
 1989
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 38
 abandon 1
 abandoned 1

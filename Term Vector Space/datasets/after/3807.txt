@@ -3,6 +3,7 @@
 /m/07qgrn
 Elmore Leonard
 1992
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 44yearold 1
 a 4
 africanamerican 1

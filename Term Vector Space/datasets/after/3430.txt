@@ -3,6 +3,7 @@
 /m/06z1nd
 Nancy Garden
 1982-07
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 13
 about 2
 academy 2

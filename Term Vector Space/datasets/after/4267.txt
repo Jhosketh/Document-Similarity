@@ -3,6 +3,7 @@
 /m/08p097
 Robert Ludlum
 1984-02-12
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 because 1
 been 1

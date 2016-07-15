@@ -3,6 +3,7 @@
 /m/09cv89
 Brandon Sanderson
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 accumulate 1
 almost 1

@@ -3,6 +3,7 @@
 /m/09fsyz
 P. G. Wodehouse
 1912-05-01
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 a 2
 and 1
 benjamin 1

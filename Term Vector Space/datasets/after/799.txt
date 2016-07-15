@@ -3,6 +3,7 @@
 /m/01sdtw
 Tom Clancy
 1998-08
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 16
 able 1
 about 3

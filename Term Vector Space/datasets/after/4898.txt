@@ -3,6 +3,7 @@
 /m/09vc7j
 Margaret Atwood
 2005-10-11
+{"/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/0fr3y1": "Parallel novel", "/m/02xlf": "Fiction"}
 21st 1
 a 2
 absence 1

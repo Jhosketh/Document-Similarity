@@ -3,6 +3,7 @@
 /m/027lb61
 Dean Koontz
 1973
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 11 1
 a 4
 ahead 1

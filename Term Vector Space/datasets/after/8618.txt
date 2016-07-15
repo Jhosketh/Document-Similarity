@@ -3,6 +3,7 @@
 /m/027cglz
 Mark Gatiss
 2006
+{"/m/02p0szs": "Historical fiction", "/m/03npn": "Horror", "/m/06wkf": "Spy fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 120s 1
 a 29
 about 2

@@ -3,6 +3,7 @@
 /m/06_0dv
 Brian Keene
 2003-04
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 25
 ability 1
 about 1

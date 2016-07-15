@@ -3,6 +3,7 @@
 /m/0gd5hl
 Michael Cox
 2006-09-07
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 1854 1
 a 7
 after 1

@@ -3,6 +3,7 @@
 /m/0gr_b4
 Robin McKinley
 2003
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 7
 abandoned 1
 abducted 1

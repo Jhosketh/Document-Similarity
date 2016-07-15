@@ -3,6 +3,7 @@
 /m/03d2c1j
 Bruce Cook
 1999
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 american 1
 and 2

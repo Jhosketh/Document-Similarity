@@ -3,6 +3,7 @@
 /m/047pby9
 Janny Wurts
 1992-04-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 22
 able 3
 about 1

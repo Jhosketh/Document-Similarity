@@ -3,6 +3,7 @@
 /m/053f8x
 Tom Robbins
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 17th 1
 8th 2
 a 19

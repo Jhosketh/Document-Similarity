@@ -3,6 +3,7 @@
 /m/0fzkb7
 Fletcher Pratt
 1942
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 american 1
 an 3

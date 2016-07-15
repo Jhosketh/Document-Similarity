@@ -3,6 +3,7 @@
 /m/0gkw2
 Ernest Hemingway
 1929
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 after 3
 afterwards 1

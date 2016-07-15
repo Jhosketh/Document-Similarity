@@ -3,6 +3,7 @@
 /m/0f0q_2
 Tamora Pierce
 1984
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 able 1
 about 2

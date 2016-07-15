@@ -3,6 +3,7 @@
 /m/02qk7x7
 Jodi Picoult
 2007-03-06
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 2006 1
 2007 1
 6 1

@@ -3,6 +3,7 @@
 /m/02768r
 Qian Zhongshu
 1947
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 130s 1
 137 1
 20s 1

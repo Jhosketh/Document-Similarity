@@ -3,6 +3,7 @@
 /m/02z93b6
 Cynthia Harnett
 1951
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 143 1
 a 2
 begins 1

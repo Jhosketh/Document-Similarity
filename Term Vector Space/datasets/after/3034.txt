@@ -3,6 +3,7 @@
 /m/063nmx
 W. Somerset Maugham
 1930
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 about 2
 acquaintanceship 1

@@ -3,6 +3,7 @@
 /m/028kdt
 Chinua Achebe
 
+{"/m/05hgj": "Novel", "/m/0dwly": "Children's literature", "/m/05qgc": "Poetry", "/m/02xlf": "Fiction"}
 a 14
 about 1
 accomplished 1

@@ -3,6 +3,7 @@
 /m/02rc45d
 Corey Ford
 1930
+{"/m/0gf28": "Parody"}
 00 1
 124 1
 a 4

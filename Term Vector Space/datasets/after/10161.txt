@@ -3,6 +3,7 @@
 /m/02r_kcp
 Laurie Halse Anderson
 2007-03-20
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 9
 after 2
 almost 1

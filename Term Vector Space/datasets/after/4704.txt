@@ -3,6 +3,7 @@
 /m/09gsdq
 Richard Paul Russo
 2001-01-09
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 27
 aboard 4
 about 2

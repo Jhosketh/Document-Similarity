@@ -3,6 +3,7 @@
 /m/06d84h
 Michael Crichton
 1994-01
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 about 1
 access 1

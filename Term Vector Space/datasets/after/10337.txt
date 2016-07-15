@@ -3,6 +3,7 @@
 /m/02v_w1t
 K. A. Applegate
 2000
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 10
 absorbed 2
 advanced 1

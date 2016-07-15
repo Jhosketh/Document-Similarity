@@ -3,6 +3,7 @@
 /m/01xv59
 Mary Rodgers
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 1882 1
 a 7
 about 4

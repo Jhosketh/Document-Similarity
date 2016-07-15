@@ -3,6 +3,7 @@
 /m/02pwml9
 R. K. Narayan
 1986
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 about 2
 admits 1

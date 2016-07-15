@@ -3,6 +3,7 @@
 /m/0cyj0h
 George MacDonald Fraser
 1990
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 an 2
 and 1

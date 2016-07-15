@@ -3,6 +3,7 @@
 /m/09v19sd
 Bernard Cornwell
 2009
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 82 1
 a 20
 able 1

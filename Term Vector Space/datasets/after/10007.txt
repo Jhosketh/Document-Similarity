@@ -3,6 +3,7 @@
 /m/02rjp39
 Robert Wilson
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 novel 1
 of 1
 tackles 1

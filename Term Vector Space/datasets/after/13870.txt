@@ -3,6 +3,7 @@
 /m/05t08fc
 H. Warner Munn
 1974-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 abetted 1
 after 1

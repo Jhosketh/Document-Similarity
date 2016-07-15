@@ -3,6 +3,7 @@
 /m/0bsm5
 Anne Rice
 1988-10
+{"/m/03npn": "Horror", "/m/0fdjb": "Supernatural", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 0 1
 a 19
 abducted 1

@@ -3,6 +3,7 @@
 /m/0dh69w
 V. C. Andrews
 1991-06
+{"/m/039vk": "Gothic fiction", "/m/03mfnf": "Young adult literature"}
 a 19
 about 2
 actress 1

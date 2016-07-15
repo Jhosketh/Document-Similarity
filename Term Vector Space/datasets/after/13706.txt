@@ -3,6 +3,7 @@
 /m/0466h03
 Dean Koontz
 2008
+{"/m/0c3351": "Suspense", "/m/059r08": "Psychological novel"}
 34 1
 a 15
 able 1

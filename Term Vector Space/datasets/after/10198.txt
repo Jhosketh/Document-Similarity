@@ -3,6 +3,7 @@
 /m/02vm_7r
 Phoebe Atwood Taylor
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit"}
 a 6
 adventure 1
 and 3

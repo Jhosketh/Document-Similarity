@@ -3,6 +3,7 @@
 /m/026gv46
 Raymond Briggs
 1999-10-07
+{"/m/017fp": "Biography", "/m/0py0z": "Graphic novel"}
 120s 1
 20th 1
 70s 1

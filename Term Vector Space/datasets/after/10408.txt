@@ -3,6 +3,7 @@
 /m/02w9ygh
 Richard Laymon
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 7
 abandoned 1
 abilene 1

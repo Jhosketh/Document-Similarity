@@ -3,6 +3,7 @@
 /m/03m638h
 Douglass Wallop
 
+{"/m/014dfn": "Speculative fiction"}
 150s 1
 a 6
 able 1

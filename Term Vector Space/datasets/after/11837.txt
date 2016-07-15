@@ -3,6 +3,7 @@
 /m/03y05ky
 Colson Whitehead
 2006-03-21
+{"/m/02xlf": "Fiction"}
 a 4
 aberdeen 2
 africanamerican 1

@@ -3,6 +3,7 @@
 /m/09lqsq
 Stephen King
 2006-10-24
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 7
 abiding 1
 ability 2

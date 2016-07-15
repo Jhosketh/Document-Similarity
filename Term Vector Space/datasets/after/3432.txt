@@ -3,6 +3,7 @@
 /m/06z4_d
 Yann Martel
 1996-04
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 after 1
 again 1

@@ -3,6 +3,7 @@
 /m/078wxv
 P. G. Wodehouse
 1963
+{"/m/02yq81": "Comic novel", "/m/02xlf": "Fiction"}
 a 2
 abandon 1
 add 1

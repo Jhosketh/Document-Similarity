@@ -3,6 +3,7 @@
 /m/06_v73h
 R. L. Stine
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 actually 1
 afterwards 1

@@ -3,6 +3,7 @@
 /m/039kff
 Dan Simmons
 1990-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1th 1
 a 25
 abated 1

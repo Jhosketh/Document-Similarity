@@ -3,6 +3,7 @@
 /m/03czcbt
 Meg Cabot
 2007-07-31
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 against 1
 and 2

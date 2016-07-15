@@ -3,6 +3,7 @@
 /m/051cqq
 Hermann Hesse
 1930
+{"/m/02xlf": "Fiction"}
 a 9
 abbot 1
 accuracy 1

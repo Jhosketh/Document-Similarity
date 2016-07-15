@@ -3,6 +3,7 @@
 /m/06356w
 Ross Macdonald
 
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 145 1
 150 1
 155 1

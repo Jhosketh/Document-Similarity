@@ -1,14 +1,14 @@
 # depslib dependency file v1.0
-1467772010 source:c:\users\tifani\documents\github\document-similarity\term vector space\main.cpp
+1467949251 source:c:\users\tifani\documents\github\document-similarity\term vector space\main.cpp
 	<iostream>
 	<string>
 	"Book.h"
 	"Parser.h"
 
-1467856181 source:c:\users\tifani\documents\github\document-similarity\term vector space\src\book.cpp
+1467948519 source:c:\users\tifani\documents\github\document-similarity\term vector space\src\book.cpp
 	"Book.h"
 
-1467856175 c:\users\tifani\documents\github\document-similarity\term vector space\include\book.h
+1467947588 c:\users\tifani\documents\github\document-similarity\term vector space\include\book.h
 	<algorithm>
 	<cctype>
 	<functional>
@@ -28,6 +28,6 @@
 	<vector>
 	"Book.h"
 
-1467770701 source:c:\users\tifani\documents\github\document-similarity\term vector space\src\parser.cpp
+1467947586 source:c:\users\tifani\documents\github\document-similarity\term vector space\src\parser.cpp
 	"Parser.h"
 

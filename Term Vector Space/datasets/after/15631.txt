@@ -3,6 +3,7 @@
 /m/0czwhg
 Kathryn Lasky
 2003-09-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 22
 able 1
 about 2

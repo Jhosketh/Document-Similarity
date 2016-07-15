@@ -3,6 +3,7 @@
 /m/09zncj
 Ruth Rendell
 2005-10-20
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 and 2
 as 1

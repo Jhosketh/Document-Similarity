@@ -3,6 +3,7 @@
 /m/0bvdr5
 Margery Allingham
 1931
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction"}
 25th 1
 a 32
 above 1

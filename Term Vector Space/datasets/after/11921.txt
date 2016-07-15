@@ -3,6 +3,7 @@
 /m/03ygnmk
 David Baldacci
 1999
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 2
 adams 1
 admitted 1

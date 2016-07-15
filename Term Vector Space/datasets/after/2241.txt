@@ -3,6 +3,7 @@
 /m/04jg6j
 Ismail Kadare
 1996-02-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 about 1
 an 1

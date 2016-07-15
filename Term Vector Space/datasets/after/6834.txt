@@ -3,6 +3,7 @@
 /m/0f0j9d
 Chris Riddell
 2001-09-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 16
 about 1
 academe 5

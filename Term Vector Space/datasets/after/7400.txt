@@ -3,6 +3,7 @@
 /m/0g99tw
 John Wyndham
 1979-04
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 6
 and 4
 any 1

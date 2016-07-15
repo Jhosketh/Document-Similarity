@@ -3,6 +3,7 @@
 /m/0bwyj4
 Nina Bawden
 1966
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 2
 alone 1
 and 4

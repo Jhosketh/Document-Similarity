@@ -3,6 +3,7 @@
 /m/0drljg
 Paul Fleischman
 
+{"/m/0hwxm": "Historical novel", "/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1861 1
 a 2
 american 1

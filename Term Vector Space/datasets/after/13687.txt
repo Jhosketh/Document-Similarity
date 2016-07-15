@@ -3,6 +3,7 @@
 /m/05mscnl
 Bruce Marshall
 1945
+{"/m/05hgj": "Novel"}
 108 1
 142 1
 a 7

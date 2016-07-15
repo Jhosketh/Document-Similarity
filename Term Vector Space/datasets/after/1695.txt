@@ -3,6 +3,7 @@
 /m/03g499
 Eric Frank Russell
 1957
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 about 1
 accepts 1

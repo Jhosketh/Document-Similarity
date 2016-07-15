@@ -3,6 +3,7 @@
 /m/07y4bm
 Lucia St. Clair Robson
 1985-05-12
+{"/m/0hfjk": "Western", "/m/0hwxm": "Historical novel"}
 a 4
 adopted 1
 among 1

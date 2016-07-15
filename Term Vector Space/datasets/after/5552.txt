@@ -3,6 +3,7 @@
 /m/0c3fh9
 Margaret Weis
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 abandoned 1
 about 2

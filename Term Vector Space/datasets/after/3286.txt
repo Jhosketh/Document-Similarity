@@ -3,6 +3,7 @@
 /m/06lv_7
 Terry Goodkind
 2006-07-18
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy", "/m/0c3351": "Suspense"}
 3000 1
 a 24
 able 4

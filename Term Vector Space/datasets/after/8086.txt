@@ -3,6 +3,7 @@
 /m/02688n7
 Tracy Hickman
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 200 1
 a 7
 absorbed 1

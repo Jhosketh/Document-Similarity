@@ -3,6 +3,7 @@
 /m/08n0sm
 Diana Wynne Jones
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03qfd": "High fantasy"}
 a 9
 about 1
 accidentally 1

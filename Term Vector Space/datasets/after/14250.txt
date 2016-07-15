@@ -3,6 +3,7 @@
 /m/06w4ccd
 Dean Koontz
 2009
+{"/m/0c3351": "Suspense", "/m/059r08": "Psychological novel"}
 a 14
 abandon 1
 about 1

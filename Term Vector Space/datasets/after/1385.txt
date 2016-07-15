@@ -3,6 +3,7 @@
 /m/02xq0j
 Marianne Fredriksson
 1997-03
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 and 2
 as 1

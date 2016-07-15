@@ -3,6 +3,7 @@
 /m/0bt6qy
 Nathanael West
 1931
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 4
 across 1
 all 1

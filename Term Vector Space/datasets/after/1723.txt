@@ -3,6 +3,7 @@
 /m/03hdl5
 Henry Miller
 1934
+{"/m/012jgz": "Autobiographical novel", "/m/02js9": "Erotica", "/m/05hgj": "Novel"}
 120s 1
 130s 1
 a 5

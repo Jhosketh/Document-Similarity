@@ -3,6 +3,7 @@
 /m/043l0j4
 Jackie Collins
 1990
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 1
 boss 1
 called 1

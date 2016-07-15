@@ -3,6 +3,7 @@
 /m/0gpxxw
 Lin Carter
 
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 60s 1
 a 1
 abdicates 1

@@ -3,6 +3,7 @@
 /m/05hmy2
 Ernesto Sabato
 1948
+{"/m/05hgj": "Novel"}
 146 1
 a 14
 about 5

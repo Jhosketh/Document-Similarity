@@ -3,6 +3,7 @@
 /m/0b6nzb5
 John Ringo
 2009-07-07
+{"/m/05hgj": "Novel", "/m/01smf2": "Military science fiction"}
 a 2
 and 2
 betrayal 1

@@ -3,6 +3,7 @@
 /m/0264fws
 David Stahler, Jr.
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 24
 aback 1
 about 1

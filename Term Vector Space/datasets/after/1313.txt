@@ -3,6 +3,7 @@
 /m/02sn19
 Sidney Sheldon
 1987
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 8
 about 1
 accepts 1

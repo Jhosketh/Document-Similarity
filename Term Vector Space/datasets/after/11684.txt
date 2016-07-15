@@ -3,6 +3,7 @@
 /m/03qj7jv
 Colin Dexter
 1981-06-04
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 31 1
 a 2
 aldate 1

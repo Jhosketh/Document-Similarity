@@ -3,6 +3,7 @@
 /m/01zgb1
 Daniel Defoe
 1722-01
+{"/m/05hgj": "Novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 100 1
 1683 1
 20 1

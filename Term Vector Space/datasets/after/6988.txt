@@ -3,6 +3,7 @@
 /m/0fbryx
 Nevil Shute
 1940
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 130s 1
 a 14
 aboard 1

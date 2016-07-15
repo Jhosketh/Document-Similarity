@@ -3,6 +3,7 @@
 /m/043qqq2
 Bernard Cornwell
 2008-10-01
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 18
 accepts 1
 advance 2

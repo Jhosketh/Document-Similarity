@@ -3,6 +3,7 @@
 /m/04gs6ns
 Kelley Armstrong
 2008-03-25
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel", "/m/08sdrw": "Adventure novel"}
 a 9
 abducted 1
 ability 1

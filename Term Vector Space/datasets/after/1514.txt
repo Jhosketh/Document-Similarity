@@ -3,6 +3,7 @@
 /m/034443
 Jack London
 1906-05
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 22
 accept 1
 across 1

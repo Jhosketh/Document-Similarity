@@ -3,6 +3,7 @@
 /m/0285kyy
 Beatrix Potter
 1911-10
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 26
 able 1
 about 5

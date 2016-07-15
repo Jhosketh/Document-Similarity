@@ -3,6 +3,7 @@
 /m/0bk10h
 D.J. MacHale
 2006-05-16
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 50
 about 2
 accident 3

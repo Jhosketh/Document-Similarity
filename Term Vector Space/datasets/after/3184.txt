@@ -3,6 +3,7 @@
 /m/06fwtr
 Richard A. Knaak
 2001-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 able 1
 actually 1

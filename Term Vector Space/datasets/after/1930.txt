@@ -3,6 +3,7 @@
 /m/03x2f0
 Thomas Hardy
 1873
+{"/m/05hgj": "Novel"}
 a 6
 accompanying 1
 adores 1

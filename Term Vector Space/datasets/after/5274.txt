@@ -3,6 +3,7 @@
 /m/0bk30n
 Piers Anthony
 1988-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 00 2
 1000 1
 a 20

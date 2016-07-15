@@ -3,6 +3,7 @@
 /m/03gvcq5
 Wanda Gág
 1928
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 a 4
 able 1
 after 1

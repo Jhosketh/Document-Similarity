@@ -3,6 +3,7 @@
 /m/0_bnp
 Kazuo Ishiguro
 1989-05
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 20 1
 a 7
 admit 1

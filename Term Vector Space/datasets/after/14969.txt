@@ -3,6 +3,7 @@
 /m/0bzvn4
 Paul Fleischman
 1997
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 78 1
 a 21
 add 1

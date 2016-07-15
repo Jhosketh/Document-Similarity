@@ -3,6 +3,7 @@
 /m/03wc8v9
 Jack L. Chalker
 1982
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 20 1
 a 20
 able 1

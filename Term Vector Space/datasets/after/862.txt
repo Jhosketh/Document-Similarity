@@ -3,6 +3,7 @@
 /m/01x60g
 W. W. Jacobs
 1903
+{"/m/014dfn": "Speculative fiction"}
 200 2
 a 6
 accident 1

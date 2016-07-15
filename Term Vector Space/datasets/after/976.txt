@@ -3,6 +3,7 @@
 /m/0224cd
 Sharon Creech
 1994-06-30
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 13 1
 a 9
 able 1

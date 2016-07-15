@@ -3,6 +3,7 @@
 /m/0285j55
 Michael Dibdin
 1999-09-20
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 11
 adds 1
 agendas 1

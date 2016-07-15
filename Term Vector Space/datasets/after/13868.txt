@@ -3,6 +3,7 @@
 /m/05sytx7
 Derek Landy
 2009-04-06
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 50 1
 a 26
 able 1

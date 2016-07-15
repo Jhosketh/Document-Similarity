@@ -3,6 +3,7 @@
 /m/0fs2q3
 Gordon Burn
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 166 1
 a 2
 alma 2

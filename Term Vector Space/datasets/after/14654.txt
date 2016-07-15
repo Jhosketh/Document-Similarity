@@ -3,6 +3,7 @@
 /m/0bmbbpx
 Kelley Armstrong
 2010-04-06
+{"/m/02vzzv": "Urban fantasy", "/m/072lff": "Paranormal romance"}
 a 5
 able 1
 adjusting 1

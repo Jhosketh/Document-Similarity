@@ -3,6 +3,7 @@
 /m/03k6kh
 David Foster Wallace
 1996-02-01
+{"/m/06n90": "Science Fiction", "/m/05wkc": "Postmodernism", "/m/014dfn": "Speculative fiction", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/0q9mp": "Tragicomedy"}
 a 4
 abuse 1
 acquiring 1

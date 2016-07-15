@@ -3,6 +3,7 @@
 /m/04zwhhg
 Harlan Coben
 2008-04-15
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/07s9rl0": "Drama"}
 a 18
 about 2
 action 1

@@ -3,6 +3,7 @@
 /m/02x0c8k
 Laurie R. King
 1994
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 115 1
 a 1
 accident 1

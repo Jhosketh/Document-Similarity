@@ -3,6 +3,7 @@
 /m/033n0d
 Terry Goodkind
 1994-08-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 15
 ability 1
 able 1

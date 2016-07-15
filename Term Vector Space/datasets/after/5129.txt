@@ -3,6 +3,7 @@
 /m/0b9t77
 Nancy Holder
 2000-04-01
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 3
 all 1
 and 3

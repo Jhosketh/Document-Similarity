@@ -3,6 +3,7 @@
 /m/0g28_w
 Paul B. Thompson
 1990-03-31
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 2000 1
 a 28
 ability 1

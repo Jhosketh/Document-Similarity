@@ -3,6 +3,7 @@
 /m/09nwg8
 Laura Esquivel
 1989
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 21
 able 1
 about 4

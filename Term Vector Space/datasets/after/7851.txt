@@ -3,6 +3,7 @@
 /m/025wn2z
 Michael Morpurgo
 2004
+{"/m/05hgj": "Novel", "/m/098tmk": "War novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 8
 about 2
 account 1

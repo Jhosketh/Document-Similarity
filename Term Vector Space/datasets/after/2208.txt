@@ -3,6 +3,7 @@
 /m/04g88q
 Ken Follett
 1989
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 a 14
 abandons 1
 accuses 2

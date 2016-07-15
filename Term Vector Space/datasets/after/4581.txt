@@ -3,6 +3,7 @@
 /m/098ghq
 Elizabeth George
 1990-10-25
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 13 1
 18 1
 6th 2

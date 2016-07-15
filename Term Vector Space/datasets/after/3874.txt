@@ -3,6 +3,7 @@
 /m/07w5b0
 Ellen Raskin
 1978
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 10000 1
 200 1
 a 2

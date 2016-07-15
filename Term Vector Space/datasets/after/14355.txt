@@ -3,6 +3,7 @@
 /m/076wwmn
 Danielle Steel
 2009-06
+{"/m/05hgj": "Novel"}
 a 6
 aback 1
 accepts 1

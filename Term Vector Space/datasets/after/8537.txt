@@ -3,6 +3,7 @@
 /m/02778nd
 Tracy Hickman
 1994
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 14
 abandoned 1
 abarrach 4

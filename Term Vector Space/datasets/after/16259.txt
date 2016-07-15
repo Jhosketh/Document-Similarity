@@ -3,6 +3,7 @@
 /m/0276mtb
 H. G. Wells
 1898
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/01gw42": "Scientific romance"}
 a 21
 abandons 1
 abiding 1

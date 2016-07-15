@@ -3,6 +3,7 @@
 /m/03vrf_
 Daniel Quinn
 1997-12
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 105 1
 12 1
 17 1

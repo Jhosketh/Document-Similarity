@@ -3,6 +3,7 @@
 /m/027dyt_
 Catherine Crook de Camp
 1988
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 advance 1
 allies 1
 an 1

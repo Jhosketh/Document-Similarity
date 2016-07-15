@@ -3,6 +3,7 @@
 /m/03_34g
 James Clavell
 1993-06
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14 1
 1862 1
 a 3

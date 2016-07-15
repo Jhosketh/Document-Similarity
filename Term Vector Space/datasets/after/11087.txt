@@ -3,6 +3,7 @@
 /m/03cvkfw
 James M. Cain
 1943
+{"/m/0lsxr": "Crime Fiction", "/m/03xj9g": "Hardboiled"}
 about 1
 accident 1
 agent 1

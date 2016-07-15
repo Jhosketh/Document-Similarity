@@ -3,6 +3,7 @@
 /m/02q_03n
 Edward D. Hoch
 1974
+{"/m/0707q": "Short story"}
 122 1
 a 9
 about 1

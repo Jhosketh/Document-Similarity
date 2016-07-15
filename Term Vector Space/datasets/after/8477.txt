@@ -3,6 +3,7 @@
 /m/02731r5
 James Patterson
 2002
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 alex 1
 all 1

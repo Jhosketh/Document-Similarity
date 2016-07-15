@@ -3,6 +3,7 @@
 /m/027zsg0
 Edgar Rice Burroughs
 1964
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 4
 and 2
 been 2

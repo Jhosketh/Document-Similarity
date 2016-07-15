@@ -3,6 +3,7 @@
 /m/02w4frx
 Alistair MacLean
 1974
+{"/m/01jfsb": "Thriller", "/m/0hfjk": "Western", "/m/05hgj": "Novel"}
 1870s 1
 a 5
 aboard 1

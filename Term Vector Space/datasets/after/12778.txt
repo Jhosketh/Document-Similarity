@@ -3,6 +3,7 @@
 /m/04jj0j3
 Colin Dexter
 1994-11-11
+{"/m/0lsxr": "Crime Fiction"}
 a 4
 ancient 1
 and 2

@@ -3,6 +3,7 @@
 /m/02778k_
 Margaret Weis
 1993
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 36
 abarrach 3
 able 1

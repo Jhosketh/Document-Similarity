@@ -3,6 +3,7 @@
 /m/027xlcf
 Lloyd Alexander
 1963
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 1468 1
 1555 1
 1588 1

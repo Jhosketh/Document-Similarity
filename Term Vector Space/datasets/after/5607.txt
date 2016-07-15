@@ -3,6 +3,7 @@
 /m/0c6w3q
 Eoin Colfer
 2006
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 24 1
 a 13
 able 1

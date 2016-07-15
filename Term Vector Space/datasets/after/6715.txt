@@ -3,6 +3,7 @@
 /m/0dsjsh
 Peter S. Beagle
 1968
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 18
 abandoned 1
 about 2

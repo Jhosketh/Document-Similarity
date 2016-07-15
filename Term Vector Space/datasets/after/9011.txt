@@ -3,6 +3,7 @@
 /m/028301j
 Tove Jansson
 1952
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 back 1
 for 2
 go 1

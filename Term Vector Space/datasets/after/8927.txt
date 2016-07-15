@@ -3,6 +3,7 @@
 /m/027zs63
 Edgar Rice Burroughs
 1936
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 4
 adventure 1
 along 1

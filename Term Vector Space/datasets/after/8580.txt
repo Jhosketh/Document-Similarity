@@ -3,6 +3,7 @@
 /m/02796rj
 Brian Jacques
 2007-10-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 3 1
 a 20
 abbey 4

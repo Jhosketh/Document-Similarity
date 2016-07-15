@@ -3,6 +3,7 @@
 /m/0gd_r2
 Sebastian Faulks
 1989-08
+{"/m/0hwxm": "Historical novel"}
 130 1
 a 22
 abroad 2

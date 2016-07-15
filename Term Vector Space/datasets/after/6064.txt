@@ -3,6 +3,7 @@
 /m/0cyhtf
 George MacDonald Fraser
 1982
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1850 1
 1875 1
 a 5

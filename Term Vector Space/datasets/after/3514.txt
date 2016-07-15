@@ -3,6 +3,7 @@
 /m/072yct
 Loren D. Estleman
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 3
 amos 1
 and 1

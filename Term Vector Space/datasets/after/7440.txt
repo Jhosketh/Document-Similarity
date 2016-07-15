@@ -3,6 +3,7 @@
 /m/0gf6qn
 Richard Calder
 1992
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 1 1
 10 1
 11 1

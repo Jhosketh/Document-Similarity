@@ -3,6 +3,7 @@
 /m/02r0s03
 William Boyd
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 102 1
 103 2
 136 2

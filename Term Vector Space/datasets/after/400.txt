@@ -3,6 +3,7 @@
 /m/011ytx
 Joanne Harris
 1999-03-04
+{"/m/05hgj": "Novel", "/m/0127jb": "Magic realism", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 about 1
 an 2

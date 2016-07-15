@@ -3,6 +3,7 @@
 /m/0fqpzr9
 Harriet E. Wilson
 
+{"/m/05hgj": "Novel"}
 a 23
 abbey 2
 abbeys 1

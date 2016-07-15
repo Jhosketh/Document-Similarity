@@ -3,6 +3,7 @@
 /m/0fsz7r
 Irving Wallace
 1972-03-27
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 20th 1
 a 7
 abode 1

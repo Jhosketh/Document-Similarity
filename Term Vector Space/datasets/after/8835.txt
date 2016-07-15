@@ -3,6 +3,7 @@
 /m/027txtm
 Ruth Rendell
 1994-05-26
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 11
 abandon 1
 accept 1

@@ -3,6 +3,7 @@
 /m/04r11v
 Christopher Moore
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0246p": "Comic fantasy", "/m/0pym5": "Absurdist fiction", "/m/09kqc": "Humour"}
 100 1
 11 1
 a 3

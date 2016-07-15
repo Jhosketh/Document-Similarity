@@ -3,6 +3,7 @@
 /m/0dcccq
 Ian Irvine
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 after 1
 against 1

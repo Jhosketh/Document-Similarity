@@ -3,6 +3,7 @@
 /m/0h1923
 Mitch Albom
 2006-09-26
+{"/m/02xlf": "Fiction"}
 a 7
 abuse 1
 accident 2

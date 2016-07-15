@@ -3,6 +3,7 @@
 /m/06x64z
 Roddy Doyle
 1999
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 116 1
 121 1
 a 4

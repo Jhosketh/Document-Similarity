@@ -3,6 +3,7 @@
 /m/05zldgl
 Charlie Higson
 2009-09-03
+{"/m/01jfsb": "Thriller", "/m/03mfnf": "Young adult literature", "/m/03npn": "Horror"}
 3 1
 a 33
 about 1

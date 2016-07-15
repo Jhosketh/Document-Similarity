@@ -3,6 +3,7 @@
 /m/0d9yfm
 Ruth Rendell
 1987-05-21
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 12yearold 1
 14yearold 2
 16 1

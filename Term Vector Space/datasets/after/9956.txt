@@ -3,6 +3,7 @@
 /m/02rbst3
 Lester Dent
 1934-10
+{"/m/08sdrw": "Adventure novel"}
 1 1
 a 24
 abandoned 1

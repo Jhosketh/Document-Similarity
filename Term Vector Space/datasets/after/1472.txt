@@ -3,6 +3,7 @@
 /m/030ywn
 Daniel Handler
 2004-09-21
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/06www": "Steampunk", "/m/05hgj": "Novel", "/m/0pym5": "Absurdist fiction"}
 a 21
 about 2
 accomplices 1

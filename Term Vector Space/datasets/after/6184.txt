@@ -3,6 +3,7 @@
 /m/0d2znm
 Alan Dean Foster
 1985
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 an 1
 and 1

@@ -3,6 +3,7 @@
 /m/08jp5k
 Dav Pilkey
 1999
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/09kqc": "Humour"}
 100 1
 a 16
 able 1

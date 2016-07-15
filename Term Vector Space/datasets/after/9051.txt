@@ -3,6 +3,7 @@
 /m/0285w2l
 MaryJanice Davidson
 
+{"/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 a 9
 abilities 1
 accepts 1

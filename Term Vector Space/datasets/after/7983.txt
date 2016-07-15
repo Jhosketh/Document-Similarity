@@ -3,6 +3,7 @@
 /m/026200k
 Joyce Carol Oates
 1992-05
+{"/m/04rlf": "Music", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 about 2
 accident 2

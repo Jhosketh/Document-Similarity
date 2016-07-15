@@ -3,6 +3,7 @@
 /m/0gcp5d
 Sándor Szathmári
 
+{"/m/026ny": "Dystopia", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/0c082": "Utopian and dystopian fiction"}
 a 11
 according 2
 accordingly 1

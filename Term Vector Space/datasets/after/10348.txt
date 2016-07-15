@@ -3,6 +3,7 @@
 /m/02w11nr
 Robin Cook
 2006
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 9
 afternoonand 1
 agrees 1

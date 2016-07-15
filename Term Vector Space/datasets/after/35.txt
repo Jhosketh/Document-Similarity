@@ -3,6 +3,7 @@
 /m/02y0x
 
 1915
+{"/m/0dwly": "Children's literature", "/m/0pym5": "Absurdist fiction", "/m/0l67h": "Novella", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 24
 abilities 1
 about 2

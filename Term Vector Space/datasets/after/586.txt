@@ -3,6 +3,7 @@
 /m/01ckrb
 Terry Pratchett
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 22
 able 1
 about 6

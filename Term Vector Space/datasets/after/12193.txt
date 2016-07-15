@@ -3,6 +3,7 @@
 /m/043kxvl
 Jackie Collins
 2007
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 a 5
 ace 1
 against 1

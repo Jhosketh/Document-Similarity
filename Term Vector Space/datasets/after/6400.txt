@@ -3,6 +3,7 @@
 /m/0df2tb
 Marion Zimmer Bradley
 2004-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 2500 1
 a 2
 ahnen 1

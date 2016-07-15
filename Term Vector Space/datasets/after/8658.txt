@@ -3,6 +3,7 @@
 /m/027fgpb
 Libba Bray
 2007-12-26
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 24
 aback 1
 absence 1

@@ -3,6 +3,7 @@
 /m/02r9wys
 Vera Chapman
 1976
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 15
 abandoned 1
 about 2

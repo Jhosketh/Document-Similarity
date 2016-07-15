@@ -3,6 +3,7 @@
 /m/080rvy
 Jack Kerouac
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 alchemical 1
 all 2

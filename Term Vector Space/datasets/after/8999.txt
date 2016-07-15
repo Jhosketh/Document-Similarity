@@ -3,6 +3,7 @@
 /m/0282j5d
 Philip Roth
 1981
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16 1
 a 2
 acclaim 1

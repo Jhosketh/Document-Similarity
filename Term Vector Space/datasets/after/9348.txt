@@ -3,6 +3,7 @@
 /m/02pydc7
 Lionel Davidson
 1962
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 15051 1
 a 2
 an 2

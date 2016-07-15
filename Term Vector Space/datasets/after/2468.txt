@@ -3,6 +3,7 @@
 /m/04y9tq
 John Steakley
 1992-05-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 19
 adam 3
 addition 1

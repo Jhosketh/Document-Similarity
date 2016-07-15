@@ -3,6 +3,7 @@
 /m/0btrpy
 Anthony Burgess
 1968-05
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy"}
 a 6
 adolescent 1
 after 2

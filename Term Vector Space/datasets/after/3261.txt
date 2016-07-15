@@ -3,6 +3,7 @@
 /m/06kdnj
 Judith Krantz
 1980
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 16 1
 a 18
 abandon 1

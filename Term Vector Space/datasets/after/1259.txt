@@ -3,6 +3,7 @@
 /m/02p00n
 Robert Jordan
 1993-10-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1000 1
 a 7
 able 1

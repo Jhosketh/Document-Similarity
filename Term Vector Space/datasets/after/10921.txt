@@ -3,6 +3,7 @@
 /m/03chbb4
 Brian Jacques
 2008-10-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 34
 abbess 1
 abbey 9

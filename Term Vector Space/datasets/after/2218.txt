@@ -3,6 +3,7 @@
 /m/04gvr2
 James Clavell
 1962
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel", "/m/0hwxm": "Historical novel"}
 142 1
 145 1
 a 10

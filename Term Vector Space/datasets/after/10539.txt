@@ -3,6 +3,7 @@
 /m/02x9c9n
 Frederic Dannay
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0j5nm": "Whodunit", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 2
 about 1
 also 1

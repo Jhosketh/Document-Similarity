@@ -3,6 +3,7 @@
 /m/073nkd
 Fyodor Dostoyevsky
 1846
+{"/m/02ql9": "Epistolary novel", "/m/014dfn": "Speculative fiction"}
 100 1
 25 1
 a 16

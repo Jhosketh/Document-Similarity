@@ -3,6 +3,7 @@
 /m/0gy1gc6
 Frederik Willem van Eeden
 1900
+{"/m/059r08": "Psychological novel"}
 a 7
 addiction 2
 admitted 1

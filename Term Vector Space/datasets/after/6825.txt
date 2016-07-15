@@ -3,6 +3,7 @@
 /m/0d_vf4
 Daniel Quinn
 
+{"/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 122 1
 a 13
 ad 2

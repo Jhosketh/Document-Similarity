@@ -3,6 +3,7 @@
 /m/08ffjn
 Barry N. Malzberg
 1972
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 4
 absurd 1
 and 2

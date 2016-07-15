@@ -3,6 +3,7 @@
 /m/0fr1mz
 William R. Forstchen
 2004-06-01
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 54th 1
 a 5
 abandoned 1

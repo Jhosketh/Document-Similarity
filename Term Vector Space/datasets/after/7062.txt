@@ -3,6 +3,7 @@
 /m/0fjn_v
 Robin Hobb
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 24
 about 2
 academy 4

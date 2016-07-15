@@ -3,6 +3,7 @@
 /m/04_0qlm
 Katherine Paterson
 1988-04-28
+{"/m/0dwly": "Children's literature"}
 a 10
 able 1
 about 3

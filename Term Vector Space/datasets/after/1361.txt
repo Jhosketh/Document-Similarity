@@ -3,6 +3,7 @@
 /m/02wkk_
 Fred Gipson
 1956
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1860s 1
 a 3
 adopts 1

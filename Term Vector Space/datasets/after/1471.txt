@@ -3,6 +3,7 @@
 /m/030yw9
 Daniel Handler
 2003-09-23
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/06www": "Steampunk", "/m/05hgj": "Novel", "/m/0pym5": "Absurdist fiction"}
 a 26
 about 2
 academy 1

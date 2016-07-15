@@ -3,6 +3,7 @@
 /m/0ctt11
 Dean Koontz
 1994
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 14 1
 a 22
 against 1

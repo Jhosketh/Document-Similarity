@@ -3,6 +3,7 @@
 /m/0f212k
 Patricia Bray
 2002-04-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 5
 accused 1
 after 1

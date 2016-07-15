@@ -3,6 +3,7 @@
 /m/0549_0
 Bruce Chatwin
 1987
+{"/m/014dsx": "Travel", "/m/02xlf": "Fiction", "/m/05h83": "Non-fiction"}
 a 5
 aboriginal 4
 aboriginals 1

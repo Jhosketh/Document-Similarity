@@ -3,6 +3,7 @@
 /m/04gyyp
 John Steinbeck
 1961
+{"/m/05hgj": "Novel"}
 a 14
 able 1
 accept 1

@@ -3,6 +3,7 @@
 /m/03fwn5
 Ben Marcus
 2002-03
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 address 1
 addressing 1

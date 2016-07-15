@@ -3,6 +3,7 @@
 /m/0b4n_y
 Iain Banks
 1989
+{"/m/05hgj": "Novel"}
 a 2
 aboard 1
 about 1

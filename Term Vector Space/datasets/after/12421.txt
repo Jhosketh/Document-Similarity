@@ -3,6 +3,7 @@
 /m/047s823
 Victor Appleton
 1922
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 2 1
 a 2
 alos 1

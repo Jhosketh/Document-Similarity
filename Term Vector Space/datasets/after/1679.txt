@@ -3,6 +3,7 @@
 /m/03fvh7
 Fay Weldon
 
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 13
 abandoned 1
 abnormally 1

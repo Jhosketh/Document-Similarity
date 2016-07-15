@@ -3,6 +3,7 @@
 /m/0byh6f
 Charles R. Saunders
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 about 1
 against 1

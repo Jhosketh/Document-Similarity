@@ -3,6 +3,7 @@
 /m/03jznn
 Kevin J. Anderson
 2001-10-02
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 1
 after 1
 ajidamal 1

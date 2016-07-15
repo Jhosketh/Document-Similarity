@@ -3,6 +3,7 @@
 /m/03gsq8b
 Ray Bradbury
 1955-08
+{"/m/01hmnh": "Fantasy", "/m/0707q": "Short story"}
 a 6
 actually 1
 and 5

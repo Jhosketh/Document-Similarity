@@ -3,6 +3,7 @@
 /m/04178ny
 Murray Leinster
 1953
+{"/m/06n90": "Science Fiction", "/m/03mfnf": "Young adult literature"}
 a 1
 attempts 1
 concerns 1

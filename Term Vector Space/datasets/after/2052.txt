@@ -3,6 +3,7 @@
 /m/044c17
 Brian Jacques
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 about 1
 and 4

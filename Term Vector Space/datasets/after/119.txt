@@ -3,6 +3,7 @@
 /m/0bpn5
 Robert Jordan
 1990-01-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 14
 abandoned 1
 accompanied 1

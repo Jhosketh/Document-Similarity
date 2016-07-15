@@ -3,6 +3,7 @@
 /m/080hhc6
 Amélie Nothomb
 2008
+{"/m/05hgj": "Novel"}
 a 2
 an 2
 and 1

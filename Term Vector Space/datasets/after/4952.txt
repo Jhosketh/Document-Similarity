@@ -3,6 +3,7 @@
 /m/09z2w0
 Ruth Rendell
 1986-02-27
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 3
 actions 1
 after 1

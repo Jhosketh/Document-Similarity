@@ -3,6 +3,7 @@
 /m/0d2d36
 Julie Victoria Jones
 1999-03-30
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 14
 abilities 2
 acts 1

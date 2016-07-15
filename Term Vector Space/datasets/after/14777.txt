@@ -3,6 +3,7 @@
 /m/09k7416
 Peter F. Hamilton
 2010-08-24
+{"/m/06n90": "Science Fiction"}
 24 1
 a 14
 ability 1

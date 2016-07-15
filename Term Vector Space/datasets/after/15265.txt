@@ -3,6 +3,7 @@
 /m/0b__btm
 Brian Moore
 1990-08-01
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 1
 affair 1
 all 1

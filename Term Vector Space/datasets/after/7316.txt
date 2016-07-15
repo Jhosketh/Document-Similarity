@@ -3,6 +3,7 @@
 /m/0g5598
 Donald Hamilton
 1966
+{"/m/06wkf": "Spy fiction"}
 a 2
 accelerate 1
 an 1

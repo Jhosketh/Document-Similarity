@@ -3,6 +3,7 @@
 /m/06kbv1
 Franklin W. Dixon
 1957-01-01
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 3
 adventures 1
 after 1

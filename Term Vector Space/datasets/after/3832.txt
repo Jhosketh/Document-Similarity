@@ -3,6 +3,7 @@
 /m/07s8fz
 Jean Lee Latham
 1955-09-09
+{"/m/027mvb9": "Biographical novel", "/m/0dwly": "Children's literature"}
 a 7
 about 1
 access 1

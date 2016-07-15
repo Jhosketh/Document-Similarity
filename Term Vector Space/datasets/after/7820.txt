@@ -3,6 +3,7 @@
 /m/025vcl6
 Hilari Bell
 2005-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 5
 about 1
 after 1

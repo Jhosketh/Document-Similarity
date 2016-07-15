@@ -3,6 +3,7 @@
 /m/0bsqqk
 Warren Adler
 1981-04
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 12
 acclaim 1
 acts 1

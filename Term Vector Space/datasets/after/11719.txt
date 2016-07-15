@@ -3,6 +3,7 @@
 /m/03qlzxy
 Mike Resnick
 1988-11
+{"/m/014dfn": "Speculative fiction"}
 a 6
 african 1
 an 3

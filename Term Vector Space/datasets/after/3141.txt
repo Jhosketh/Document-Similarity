@@ -3,6 +3,7 @@
 /m/06bqlk
 Ismail Kadare
 1981
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 after 1
 albania 2

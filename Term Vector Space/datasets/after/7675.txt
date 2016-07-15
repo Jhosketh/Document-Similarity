@@ -3,6 +3,7 @@
 /m/0gzt5d
 Wolf Mankowitz
 1953
+{"/m/05hgj": "Novel"}
 a 5
 above 1
 accumulated 1

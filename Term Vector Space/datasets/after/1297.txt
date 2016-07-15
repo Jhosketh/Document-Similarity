@@ -3,6 +3,7 @@
 /m/02r5pg
 Philip Pullman
 1995
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/06www": "Steampunk", "/m/02xlf": "Fiction"}
 12yearold 1
 a 32
 abilitytravels 1

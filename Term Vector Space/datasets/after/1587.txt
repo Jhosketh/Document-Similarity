@@ -3,6 +3,7 @@
 /m/0387hl
 Greg Bear
 1990
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 11 1
 17 1
 2047 1

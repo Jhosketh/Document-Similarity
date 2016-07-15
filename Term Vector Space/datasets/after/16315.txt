@@ -3,6 +3,7 @@
 /m/0h632v4
 Catherynne M. Valente
 
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 accidental 1
 and 6

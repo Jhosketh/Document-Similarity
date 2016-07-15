@@ -3,6 +3,7 @@
 /m/01q1yz
 W. Somerset Maugham
 
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 1 1
 21st 1
 26 2

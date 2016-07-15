@@ -3,6 +3,7 @@
 /m/027g7td
 Tawni O'Dell
 2004-06-17
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 admires 1
 almost 2

@@ -3,6 +3,7 @@
 /m/0f95m9
 Willa Cather
 1925
+{"/m/05hgj": "Novel"}
 a 4
 added 1
 addresses 1

@@ -3,6 +3,7 @@
 /m/0bz0_t
 Robert Joseph Levy
 2006-06-27
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 against 1
 alex 2

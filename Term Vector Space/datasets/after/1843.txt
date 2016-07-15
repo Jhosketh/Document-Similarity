@@ -3,6 +3,7 @@
 /m/03qfmn
 Tom Clancy
 
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 6
 academy 1
 accepts 1

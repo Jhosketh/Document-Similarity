@@ -3,6 +3,7 @@
 /m/027kt60
 Gordon Thomas
 1991
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 6
 able 1
 about 1

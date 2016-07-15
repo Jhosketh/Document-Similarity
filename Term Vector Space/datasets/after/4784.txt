@@ -3,6 +3,7 @@
 /m/09nvyx
 Diana Wynne Jones
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 11
 ability 2
 able 2

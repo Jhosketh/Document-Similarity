@@ -3,6 +3,7 @@
 /m/04wv56
 Mervyn Peake
 1950
+{"/m/039vk": "Gothic fiction", "/m/057pyk": "Fantasy of manners", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 25
 abandoned 1
 about 1

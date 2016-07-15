@@ -3,6 +3,7 @@
 /m/01ydrq
 L. Frank Baum
 1910
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 14
 accompanied 1
 adventures 1

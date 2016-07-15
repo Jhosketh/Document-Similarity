@@ -3,6 +3,7 @@
 /m/09t84p
 Diana Wynne Jones
 1976
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 accidentally 1
 across 1

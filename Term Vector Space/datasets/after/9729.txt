@@ -3,6 +3,7 @@
 /m/02qvdtx
 Armistead Maupin
 2007-06
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10s 1
 170s 1
 180s 2

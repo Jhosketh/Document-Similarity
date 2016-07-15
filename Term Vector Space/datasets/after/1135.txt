@@ -3,6 +3,7 @@
 /m/02d_q5
 Jasper Fforde
 2002
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 25
 abandoned 1
 abel 1

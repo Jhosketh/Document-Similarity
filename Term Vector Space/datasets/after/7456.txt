@@ -3,6 +3,7 @@
 /m/0gh3sk
 Nadine Gordimer
 1974
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 actual 1
 actually 1

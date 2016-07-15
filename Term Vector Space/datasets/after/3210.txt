@@ -3,6 +3,7 @@
 /m/06hkyf
 Joris-Karl Huysmans
 1884-05
+{"/m/05hgj": "Novel"}
 a 6
 academically 1
 adores 1

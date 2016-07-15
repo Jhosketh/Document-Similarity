@@ -3,6 +3,7 @@
 /m/02z085h
 Ivan Southall
 1971-08
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 14yearold 1
 a 5
 and 3

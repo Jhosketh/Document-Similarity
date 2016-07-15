@@ -3,6 +3,7 @@
 /m/03n1sv
 Tim O'Brien
 1978-01
+{"/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 a 7
 actions 1
 after 1

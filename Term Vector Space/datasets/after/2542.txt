@@ -3,6 +3,7 @@
 /m/051vs6
 Gabriel García Márquez
 2004
+{"/m/05hgj": "Novel"}
 0th 1
 a 1
 an 1

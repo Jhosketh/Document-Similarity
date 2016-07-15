@@ -3,6 +3,7 @@
 /m/07f6xl
 Conn Iggulden
 2005-01-03
+{"/m/0mz2": "Alternate history", "/m/0hwxm": "Historical novel"}
 a 9
 after 4
 alea 1

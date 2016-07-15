@@ -3,6 +3,7 @@
 /m/0gmnj
 Booth Tarkington
 1921-06
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 300 1
 350 1
 a 26

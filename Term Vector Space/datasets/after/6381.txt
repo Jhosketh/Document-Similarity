@@ -3,6 +3,7 @@
 /m/0dd5md
 Mark Winegardner
 2004-11-16
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2006 1
 after 1
 also 1

@@ -3,6 +3,7 @@
 /m/054sk0
 Lucy Maud Montgomery
 1939
+{"/m/05hgj": "Novel"}
 a 9
 about 1
 adventures 1

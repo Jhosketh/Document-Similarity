@@ -3,6 +3,7 @@
 /m/072y44
 Andy McNab
 1997
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 1
 agency 1
 american 1

@@ -3,6 +3,7 @@
 /m/08ybt7
 Greg Bear
 1999-08-31
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 486 1
 5 1
 a 19

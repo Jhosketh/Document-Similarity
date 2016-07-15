@@ -3,6 +3,7 @@
 /m/03b_bff
 Christie Golden
 1991
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 8
 about 1
 access 1

@@ -3,6 +3,7 @@
 /m/05p3w6_
 Chris Riddell
 2009-02-05
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature"}
 12 2
 500 1
 60 1

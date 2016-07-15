@@ -3,6 +3,7 @@
 /m/02p92v8
 C. J. Cherryh
 1978
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 16
 accepts 1
 accompanied 1

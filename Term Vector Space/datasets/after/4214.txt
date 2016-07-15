@@ -3,6 +3,7 @@
 /m/08k2gv
 William Makepeace Thackeray
 1852
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1718 1
 a 1
 accept 1

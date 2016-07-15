@@ -3,6 +3,7 @@
 /m/01tr9s
 William Faulkner
 1929
+{"/m/05hgj": "Novel"}
 a 8
 action 1
 acts 1

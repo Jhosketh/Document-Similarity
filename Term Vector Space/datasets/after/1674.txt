@@ -3,6 +3,7 @@
 /m/03fm3z
 Arthur Conan Doyle
 1912
+{"/m/06n90": "Science Fiction", "/m/08g5mv": "Lost World", "/m/014dfn": "Speculative fiction", "/m/01gw42": "Scientific romance"}
 200000 1
 a 15
 about 2

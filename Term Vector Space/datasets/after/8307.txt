@@ -3,6 +3,7 @@
 /m/026ncts
 Georges Bataille
 1957
+{"/m/02p0szs": "Historical fiction"}
 a 12
 abject 1
 activist 1

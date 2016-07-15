@@ -3,6 +3,7 @@
 /m/04sxt4
 Ray Bradbury
 
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/070l2": "Soft science fiction"}
 100 1
 23 1
 54yearold 1

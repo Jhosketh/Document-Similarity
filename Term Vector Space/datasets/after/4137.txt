@@ -3,6 +3,7 @@
 /m/08c31l
 Ross Macdonald
 1973-05
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction"}
 a 7
 afloat 1
 an 1

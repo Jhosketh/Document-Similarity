@@ -3,6 +3,7 @@
 /m/0282mtl
 Tove Jansson
 1970
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 174 7
 54 1
 a 21

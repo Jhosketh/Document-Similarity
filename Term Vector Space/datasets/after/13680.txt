@@ -3,6 +3,7 @@
 /m/05mrd_0
 Paul Laurence Dunbar
 1902
+{"/m/05hgj": "Novel"}
 a 17
 able 1
 about 2

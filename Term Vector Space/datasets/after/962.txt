@@ -3,6 +3,7 @@
 /m/0218_v
 Sinclair Lewis
 1925
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 all 1
 along 1

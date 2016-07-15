@@ -3,6 +3,7 @@
 /m/08zzbh
 Eric Kraft
 
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 a 7
 acts 1
 an 1

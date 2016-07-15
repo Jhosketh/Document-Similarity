@@ -3,6 +3,7 @@
 /m/027drq7
 Jaclyn Moriarty
 2000
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 15yearoldgirl 1
 a 24
 about 3

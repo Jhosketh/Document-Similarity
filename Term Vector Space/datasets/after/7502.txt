@@ -3,6 +3,7 @@
 /m/0gn8v5
 Alejo Carpentier
 1949
+{"/m/0127jb": "Magic realism", "/m/0hwxm": "Historical novel"}
 143 1
 a 32
 ability 2

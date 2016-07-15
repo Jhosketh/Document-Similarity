@@ -3,6 +3,7 @@
 /m/0c03_d
 Rex Stout
 1953
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 10000 1
 430 1
 a 47

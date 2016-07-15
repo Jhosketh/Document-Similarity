@@ -3,6 +3,7 @@
 /m/01yhyr
 Margaret Atwood
 1993-09
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 abuses 1
 accounts 1

@@ -3,6 +3,7 @@
 /m/03clnvx
 Ted Dekker
 2005-05-17
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 ability 3
 about 1

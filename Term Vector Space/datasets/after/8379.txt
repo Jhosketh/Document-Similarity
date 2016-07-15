@@ -3,6 +3,7 @@
 /m/026vpp4
 Martin Caidin
 1974
+{"/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction", "/m/06n90": "Science Fiction", "/m/06wkf": "Spy fiction"}
 a 2
 also 1
 an 2

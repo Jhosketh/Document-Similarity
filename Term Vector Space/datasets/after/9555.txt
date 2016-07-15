@@ -3,6 +3,7 @@
 /m/02qhk3b
 Philip Kerr
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 3
 across 1
 against 1

@@ -3,6 +3,7 @@
 /m/0btc7
 Jonathan Swift
 1726
+{"/m/06n90": "Science Fiction", "/m/06nbt": "Satire", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction"}
 112 1
 121 1
 13 1

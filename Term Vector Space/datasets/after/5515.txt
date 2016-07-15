@@ -3,6 +3,7 @@
 /m/0c09_g
 Tami Hoag
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 accident 2
 affairs 1

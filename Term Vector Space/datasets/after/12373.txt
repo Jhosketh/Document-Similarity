@@ -3,6 +3,7 @@
 /m/047fdv7
 L. Ron Hubbard
 1950
+{"/m/06n90": "Science Fiction"}
 a 4
 aboard 3
 after 1

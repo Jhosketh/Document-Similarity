@@ -3,6 +3,7 @@
 /m/0bd5lr
 Sarah Waters
 2002-02-04
+{"/m/039vk": "Gothic fiction", "/m/0lsxr": "Crime Fiction", "/m/02p0szs": "Historical fiction"}
 a 46
 abandoned 1
 abandoning 1

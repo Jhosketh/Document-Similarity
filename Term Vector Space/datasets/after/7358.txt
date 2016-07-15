@@ -3,6 +3,7 @@
 /m/0g6w5d
 Bernard Cornwell
 1990
+{"/m/0hwxm": "Historical novel"}
 1820 1
 a 3
 after 1

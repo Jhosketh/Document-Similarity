@@ -3,6 +3,7 @@
 /m/03c5wh9
 Maeve Binchy
 1982
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 8
 after 2
 age 1

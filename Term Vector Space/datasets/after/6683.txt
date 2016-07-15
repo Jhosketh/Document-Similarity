@@ -3,6 +3,7 @@
 /m/0dqtzn
 Håkan Nesser
 1994
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 10s 1
 30year 1
 a 12

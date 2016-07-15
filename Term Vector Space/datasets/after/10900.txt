@@ -3,6 +3,7 @@
 /m/03cgqc2
 Francine Rivers
 1991
+{"/m/0hfjk": "Western", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 10 1
 16yearold 1
 1835 1

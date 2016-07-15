@@ -3,6 +3,7 @@
 /m/02_pyf
 Marguerite Yourcenar
 1951
+{"/m/05hgj": "Novel", "/m/0hwxm": "Historical novel"}
 a 11
 accepts 1
 accession 1

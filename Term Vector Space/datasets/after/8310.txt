@@ -3,6 +3,7 @@
 /m/026nm2k
 Valerie Martin
 1990
+{"/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0fr3y1": "Parallel novel"}
 a 1
 about 1
 amongst 1

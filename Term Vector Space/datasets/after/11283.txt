@@ -3,6 +3,7 @@
 /m/03grjr0
 Ann Radcliffe
 1789
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 abandon 1
 able 1

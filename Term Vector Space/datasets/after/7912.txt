@@ -3,6 +3,7 @@
 /m/025zcxv
 Virginia Woolf
 1937
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 118 1
 1880 1
 a 38

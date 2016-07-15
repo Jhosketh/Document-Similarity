@@ -3,6 +3,7 @@
 /m/02rc0lx
 Jodi Picoult
 2003-04-08
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 abenaki 2
 able 1

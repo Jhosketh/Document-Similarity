@@ -3,6 +3,7 @@
 /m/0256z_
 Harry Mulisch
 1992-10
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 133 2
 146 1
 16 1

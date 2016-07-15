@@ -3,6 +3,7 @@
 /m/0j6sy
 Philip Roth
 2000-05
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 34yearold 1
 71 1
 a 8

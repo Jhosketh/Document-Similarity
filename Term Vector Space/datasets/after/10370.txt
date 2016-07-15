@@ -3,6 +3,7 @@
 /m/02w4v7j
 Michael Connelly
 
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction"}
 25 1
 500000 1
 a 13

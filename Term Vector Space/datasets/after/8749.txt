@@ -3,6 +3,7 @@
 /m/027ldqf
 Robert Muchamore
 2005-04-14
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature"}
 14yearold 1
 a 4
 across 1

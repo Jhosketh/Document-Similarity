@@ -3,6 +3,7 @@
 /m/09p6_v
 Ted Lewis
 1970-02-09
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 a 1
 ambiguous 1
 among 1

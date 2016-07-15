@@ -3,6 +3,7 @@
 /m/0c5p44
 Upamanyu Chatterjee
 1988-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 administration 1
 agastya 2

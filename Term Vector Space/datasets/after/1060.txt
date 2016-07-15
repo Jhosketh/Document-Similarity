@@ -3,6 +3,7 @@
 /m/0277xy
 Katherine Dunn
 1989
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 against 1
 also 1

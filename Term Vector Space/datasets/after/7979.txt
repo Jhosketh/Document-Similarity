@@ -3,6 +3,7 @@
 /m/0261jn0
 Leopold von Sacher-Masoch
 1870
+{"/m/02js9": "Erotica", "/m/01qxvh": "Romance novel"}
 a 12
 about 1
 accede 1

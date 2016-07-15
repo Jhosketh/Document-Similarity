@@ -3,6 +3,7 @@
 /m/0d4gkp
 Orson Scott Card
 2008-11-11
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 15
 abra 1
 accompany 1

@@ -3,6 +3,7 @@
 /m/0ctf0b
 Bernard Cornwell
 2006-05-22
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 878 1
 881 1
 a 8

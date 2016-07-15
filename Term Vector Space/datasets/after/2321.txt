@@ -3,6 +3,7 @@
 /m/04pbgr
 John Gardner
 1986-06-26
+{"/m/06wkf": "Spy fiction"}
 a 5
 after 1
 agents 1

@@ -3,6 +3,7 @@
 /m/02q6wkt
 Martin Cruz Smith
 2007-06-19
+{"/m/0lsxr": "Crime Fiction"}
 a 3
 and 1
 assigned 1

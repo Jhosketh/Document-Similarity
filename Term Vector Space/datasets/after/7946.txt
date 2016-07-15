@@ -3,6 +3,7 @@
 /m/02607_g
 John Buchan, 1st Baron Tweedsmuir
 1925
+{"/m/05hgj": "Novel"}
 a 7
 about 1
 adventurer 1

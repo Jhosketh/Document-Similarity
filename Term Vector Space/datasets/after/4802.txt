@@ -3,6 +3,7 @@
 /m/09pb7q
 Christopher Golden
 1999-10
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 able 1
 also 1

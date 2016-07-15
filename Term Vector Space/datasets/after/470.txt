@@ -3,6 +3,7 @@
 /m/015c5q
 Ian Fleming
 1964-10-22
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 15
 actions 1
 aeroplane 1

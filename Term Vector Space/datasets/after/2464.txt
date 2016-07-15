@@ -3,6 +3,7 @@
 /m/04y8c8
 Robin Hobb
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 able 1
 accompanied 1

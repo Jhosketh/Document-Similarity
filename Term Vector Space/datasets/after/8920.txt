@@ -3,6 +3,7 @@
 /m/027zr_7
 Edgar Rice Burroughs
 1929
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 3
 africa 1
 also 1

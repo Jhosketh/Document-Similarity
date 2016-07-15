@@ -3,6 +3,7 @@
 /m/0gmbs10
 Charlaine Harris
 
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 4
 about 1
 adele 1

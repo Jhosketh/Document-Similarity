@@ -3,6 +3,7 @@
 /m/0h_bm26
 Colin Bateman
 2011-10-13
+{"/m/0lsxr": "Crime Fiction", "/m/0vgkd": "Black comedy"}
 a 5
 across 1
 although 1

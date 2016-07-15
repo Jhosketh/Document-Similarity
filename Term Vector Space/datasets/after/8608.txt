@@ -3,6 +3,7 @@
 /m/027by4_
 Louis Sachar
 1989
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/04rjg": "Mathematics"}
 1 1
 11 1
 4 1

@@ -3,6 +3,7 @@
 /m/09_5g3
 Luigi Pirandello
 1926
+{"/m/05hgj": "Novel"}
 20th 1
 a 21
 abandon 1

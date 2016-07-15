@@ -3,6 +3,7 @@
 /m/04s3jk
 Elizabeth Gaskell
 1948
+{"/m/02n4kr": "Mystery", "/m/0blvpd": "Industrial novel", "/m/02xlf": "Fiction"}
 a 14
 affections 1
 after 6

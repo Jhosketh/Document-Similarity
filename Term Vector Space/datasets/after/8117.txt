@@ -3,6 +3,7 @@
 /m/0269vv0
 Diana Wynne Jones
 2006
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 acquires 1
 all 1

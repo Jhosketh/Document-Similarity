@@ -3,6 +3,7 @@
 /m/02qz51f
 Phyllis Ann Karr
 1982-12-01
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy"}
 a 10
 accuracy 1
 accused 1

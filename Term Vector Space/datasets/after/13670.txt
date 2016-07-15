@@ -3,6 +3,7 @@
 /m/05msrgs
 Bruce Marshall
 1960
+{"/m/05hgj": "Novel"}
 a 10
 about 1
 accountant 1

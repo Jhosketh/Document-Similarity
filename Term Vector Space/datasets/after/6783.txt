@@ -3,6 +3,7 @@
 /m/0dxqts
 Glen Cook
 1994-03
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 actually 2
 again 1

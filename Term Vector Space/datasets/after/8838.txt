@@ -3,6 +3,7 @@
 /m/027ty7r
 Ruth Rendell
 1986-03-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 5
 and 3
 at 1

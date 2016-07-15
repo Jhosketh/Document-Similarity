@@ -3,6 +3,7 @@
 /m/0f4023
 Dave Wolverton
 1998-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 2 1
 20 1
 3 1

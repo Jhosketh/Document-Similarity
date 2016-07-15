@@ -3,6 +3,7 @@
 /m/0dc8qq
 Ruth Rendell
 1980-04
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 104754 1
 46 1
 a 5

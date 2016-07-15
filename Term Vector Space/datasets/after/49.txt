@@ -3,6 +3,7 @@
 /m/04fpm
 Kim Stanley Robinson
 1984
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 2248 1
 a 5
 an 1

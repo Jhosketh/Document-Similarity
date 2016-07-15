@@ -3,6 +3,7 @@
 /m/05msbyx
 Bruce Marshall
 1937
+{"/m/05hgj": "Novel"}
 a 6
 accountant 1
 additional 1

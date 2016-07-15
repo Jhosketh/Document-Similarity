@@ -3,6 +3,7 @@
 /m/0286xf4
 Elizabeth Bowen
 1929
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 12 1
 a 15
 acquaintance 1

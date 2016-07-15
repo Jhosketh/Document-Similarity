@@ -3,6 +3,7 @@
 /m/03d6p9x
 Jo Walton
 2006-08-08
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 16
 ability 1
 accepts 1

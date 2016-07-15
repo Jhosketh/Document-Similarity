@@ -3,6 +3,7 @@
 /m/0413gdp
 Mary Higgins Clark
 
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 accident 1
 adam 2

@@ -3,6 +3,7 @@
 /m/0963t5
 Peter Farrelly
 1988-04
+{"/m/012jgz": "Autobiographical novel"}
 a 5
 academy 1
 after 1

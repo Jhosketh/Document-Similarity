@@ -3,6 +3,7 @@
 /m/04y8rn7
 Enid Blyton
 1960
+{"/m/02n4kr": "Mystery", "/m/08sdrw": "Adventure novel"}
 a 3
 ability 1
 americans 1

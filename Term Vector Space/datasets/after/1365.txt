@@ -3,6 +3,7 @@
 /m/02wq06
 Arthur C. Clarke
 1986
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 160s 1
 2 2
 3600 1

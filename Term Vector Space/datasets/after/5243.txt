@@ -3,6 +3,7 @@
 /m/0bhxp6
 Louis L'Amour
 1984-05-01
+{"/m/0hwxm": "Historical novel"}
 a 50
 abdullah 1
 according 1

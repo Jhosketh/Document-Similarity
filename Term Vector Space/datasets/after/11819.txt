@@ -3,6 +3,7 @@
 /m/03wfxdz
 Eric Frank Russell
 1943
+{"/m/06n90": "Science Fiction"}
 a 2
 actions 1
 after 1

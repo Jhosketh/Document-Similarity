@@ -3,6 +3,7 @@
 /m/092brn
 Irene Hunt
 1970-01
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 15 1
 150 1
 18 1

@@ -3,6 +3,7 @@
 /m/04ckbf
 Sebastian Faulks
 
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel"}
 118 2
 16 1
 a 18

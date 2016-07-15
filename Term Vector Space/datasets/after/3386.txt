@@ -3,6 +3,7 @@
 /m/06vmqg
 Guy Delisle
 
+{"/m/016chh": "Memoir", "/m/0py0z": "Graphic novel"}
 a 2
 absence 1
 accompanied 1

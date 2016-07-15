@@ -3,6 +3,7 @@
 /m/06x8sr
 Sue Monk Kidd
 2003-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14yearold 1
 164 1
 a 36

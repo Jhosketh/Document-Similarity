@@ -3,6 +3,7 @@
 /m/03cv73_
 Julio Cortázar
 1960
+{"/m/05hgj": "Novel"}
 a 6
 accept 1
 aires 1

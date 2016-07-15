@@ -3,6 +3,7 @@
 /m/0850k8
 Harry Turtledove
 1990-05
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1 1
 176 1
 a 5

@@ -3,6 +3,7 @@
 /m/0g93tx
 David Weber
 1996-03
+{"/m/070yc": "Space opera", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/01smf2": "Military science fiction"}
 100 1
 2 1
 20 1

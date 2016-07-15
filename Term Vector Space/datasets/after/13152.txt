@@ -3,6 +3,7 @@
 /m/04ycytl
 Robert Muchamore
 2010-09
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature"}
 2004 1
 a 16
 abdullah 5

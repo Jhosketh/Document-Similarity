@@ -3,6 +3,7 @@
 /m/05zvcrh
 Mollie Hunter
 1974-05
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 8storey 1
 a 12
 abducted 1

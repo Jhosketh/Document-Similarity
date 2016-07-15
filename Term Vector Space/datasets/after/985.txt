@@ -3,6 +3,7 @@
 /m/022kyh
 James Ellroy
 2001-05-08
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/0c3351": "Suspense"}
 163 1
 22 1
 a 4

@@ -3,6 +3,7 @@
 /m/0bhvgz
 Elizabeth George Speare
 1983-02
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 13yearold 1
 1768 1
 183 1

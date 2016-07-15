@@ -3,6 +3,7 @@
 /m/04f1nbs
 Vince Flynn
 2000-06-01
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 5
 also 1
 america 1

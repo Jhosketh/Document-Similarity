@@ -3,6 +3,7 @@
 /m/03b_ds0
 Tillie Olsen
 1974
+{"/m/05hgj": "Novel"}
 a 17
 able 1
 about 2

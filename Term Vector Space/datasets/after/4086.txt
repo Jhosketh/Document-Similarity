@@ -3,6 +3,7 @@
 /m/08782v
 Adam Roberts
 2003
+{"/m/0gf28": "Parody", "/m/014dfn": "Speculative fiction"}
 a 6
 accepts 1
 actually 1

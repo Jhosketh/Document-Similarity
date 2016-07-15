@@ -3,6 +3,7 @@
 /m/0hzm5kc
 Valerio Massimo Manfredi
 
+{"/m/0hwxm": "Historical novel"}
 a 4
 adoptive 1
 after 1

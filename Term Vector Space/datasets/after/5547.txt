@@ -3,6 +3,7 @@
 /m/0c34ct
 Stephenie Meyer
 2005-10-05
+{"/m/0kflf": "Vampire fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 13
 affected 1
 after 2

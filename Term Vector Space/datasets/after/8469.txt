@@ -3,6 +3,7 @@
 /m/02729m4
 Lindsey Davis
 2005
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 action 1
 advised 1

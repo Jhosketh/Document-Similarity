@@ -3,6 +3,7 @@
 /m/03cd6p3
 Chitra Banerjee Divakaruni
 2003
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 28
 abhaydatta 19
 able 1

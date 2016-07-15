@@ -3,6 +3,7 @@
 /m/03c2gn4
 Don Winslow
 2006-09-26
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 about 1
 ago 1

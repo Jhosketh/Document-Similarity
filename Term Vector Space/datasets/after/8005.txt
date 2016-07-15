@@ -3,6 +3,7 @@
 /m/0263b7y
 Patricia Cornwell
 1996
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 amongst 1
 and 2

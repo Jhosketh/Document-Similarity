@@ -3,6 +3,7 @@
 /m/02qh1r
 Fyodor Dostoyevsky
 1869
+{"/m/05hgj": "Novel"}
 100000 3
 75000 1
 a 31

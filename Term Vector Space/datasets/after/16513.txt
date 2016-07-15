@@ -3,6 +3,7 @@
 /m/0j27lky
 Rick Riordan
 2012-08-14
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/0707q": "Short story"}
 a 9
 adventures 1
 after 1

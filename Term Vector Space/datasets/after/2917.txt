@@ -3,6 +3,7 @@
 /m/05x466
 C. S. Forester
 1945
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 145 1
 1th 1
 a 11

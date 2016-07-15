@@ -3,6 +3,7 @@
 /m/09c55p
 Charles Dickens
 1859
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 14 1
 16 1
 178 1

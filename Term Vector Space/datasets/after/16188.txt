@@ -3,6 +3,7 @@
 /m/0gwznlm
 Thomas Glavinic
 2006
+{"/m/0488wh": "Literary fiction"}
 a 4
 actions 1
 activities 1

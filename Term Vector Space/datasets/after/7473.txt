@@ -3,6 +3,7 @@
 /m/0gkvm7
 Anthony Burgess
 1971
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction"}
 a 13
 acquired 1
 across 1

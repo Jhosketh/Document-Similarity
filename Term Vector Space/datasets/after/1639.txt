@@ -3,6 +3,7 @@
 /m/03cr1j
 Gregory Benford
 1980
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/07s2s": "Time travel"}
 162 1
 162163 1
 163 1

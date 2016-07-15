@@ -3,6 +3,7 @@
 /m/043jz_z
 Neil Gaiman
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 10
 after 1
 aids 1

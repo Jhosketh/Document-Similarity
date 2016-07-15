@@ -3,6 +3,7 @@
 /m/026w5cb
 Colin Dann
 1979
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 66
 abilities 1
 able 1

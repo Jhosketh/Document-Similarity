@@ -3,6 +3,7 @@
 /m/03d7yfc
 Barbara Pym
 1953
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 academic 1
 an 4

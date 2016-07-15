@@ -3,6 +3,7 @@
 /m/026zggm
 Faith Hunter
 2006-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 able 1
 about 1

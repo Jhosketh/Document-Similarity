@@ -3,6 +3,7 @@
 /m/0265vqb
 Colson Whitehead
 2001-05-15
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 abuser 1
 accomplished 1

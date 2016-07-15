@@ -3,6 +3,7 @@
 /m/04lh4sj
 Aravind Adiga
 2008-04-22
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 15
 able 1
 about 1

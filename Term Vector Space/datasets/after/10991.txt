@@ -3,6 +3,7 @@
 /m/03cmcll
 Kin Platt
 1961
+{"/m/02n4kr": "Mystery", "/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature"}
 a 8
 adventure 1
 after 1

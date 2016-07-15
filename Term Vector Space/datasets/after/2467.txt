@@ -3,6 +3,7 @@
 /m/04y9h2
 Robin Hobb
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 18th 1
 a 25
 abound 1

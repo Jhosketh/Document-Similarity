@@ -3,6 +3,7 @@
 /m/09v4lpc
 Joe Hill
 2010-02-16
+{"/m/039vk": "Gothic fiction", "/m/0134b1": "Contemporary fantasy", "/m/02xlf": "Fiction"}
 26yearold 1
 a 54
 ablaze 1

@@ -3,6 +3,7 @@
 /m/0dvcwp
 Elmore Leonard
 1977-05
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 8 1
 a 9
 along 1

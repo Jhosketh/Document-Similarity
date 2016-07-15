@@ -3,6 +3,7 @@
 /m/0g569b
 Donald Hamilton
 1972
+{"/m/06wkf": "Spy fiction"}
 a 2
 also 1
 and 2

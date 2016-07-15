@@ -3,6 +3,7 @@
 /m/0dch98
 Margaret Haddix
 1995
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 13yearold 1
 16 3
 1840 1

@@ -3,6 +3,7 @@
 /m/02r87k1
 David Gemmell
 1990
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 accomplished 1
 alexander 1

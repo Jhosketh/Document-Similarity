@@ -3,6 +3,7 @@
 /m/07qhg_
 Rob Grant
 2000-11-02
+{"/m/06n90": "Science Fiction", "/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy"}
 0 1
 20 1
 50 1

@@ -3,6 +3,7 @@
 /m/0c_c60
 Judy Blume
 1977
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 11
 about 1
 accompanied 1

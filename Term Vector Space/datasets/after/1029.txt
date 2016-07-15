@@ -3,6 +3,7 @@
 /m/025njm
 G. K. Chesterton
 1908
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 1
 383 1
 a 10

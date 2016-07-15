@@ -3,6 +3,7 @@
 /m/02qssp6
 Julia Golding
 2006-01-02
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 13yearold 1
 18th 1
 2 1

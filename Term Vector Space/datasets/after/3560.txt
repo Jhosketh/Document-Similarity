@@ -3,6 +3,7 @@
 /m/076c86
 Steve Jackson
 
+{"/m/03ff00": "Gamebook"}
 a 3
 allow 1
 alternate 1

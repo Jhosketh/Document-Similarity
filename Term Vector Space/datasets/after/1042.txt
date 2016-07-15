@@ -3,6 +3,7 @@
 /m/026h6d
 Barry Hughart
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 750 1
 a 4
 abbot 1

@@ -3,6 +3,7 @@
 /m/0859lh
 Tsitsi Dangarembga
 1988
+{"/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 a 12
 about 1
 administered 1

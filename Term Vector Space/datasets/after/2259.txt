@@ -3,6 +3,7 @@
 /m/04ks5c
 Robert R. McCammon
 1989-10-12
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/098tmk": "War novel"}
 142 2
 144 2
 a 20

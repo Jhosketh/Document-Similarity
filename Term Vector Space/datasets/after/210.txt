@@ -3,6 +3,7 @@
 /m/0g8_z
 Robert A. Heinlein
 1949
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 12 1
 a 13
 able 1

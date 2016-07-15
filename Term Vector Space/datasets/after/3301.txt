@@ -3,6 +3,7 @@
 /m/06mr6x
 Helen Gurley Brown
 1962
+{"/m/05qfh": "Psychology", "/m/06ms6": "Sociology"}
 1 1
 10 1
 11 1

@@ -3,6 +3,7 @@
 /m/04jc0_b
 André Franquin
 1973
+
 a 5
 acquired 1
 all 1

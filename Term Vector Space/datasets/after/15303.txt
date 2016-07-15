@@ -3,6 +3,7 @@
 /m/0c419th
 John David Morley
 2005
+{"/m/04z2hx": "Travel literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 2
 agent 1
 amateur 1

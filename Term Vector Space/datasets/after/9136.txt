@@ -3,6 +3,7 @@
 /m/02ph_m2
 Jonathan Carroll
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 able 2
 about 1

@@ -3,6 +3,7 @@
 /m/02z158j
 Rosemary Sutcliff
 1961
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 7
 accommodation 1
 after 1

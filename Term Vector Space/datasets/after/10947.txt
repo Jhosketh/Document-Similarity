@@ -3,6 +3,7 @@
 /m/03ckct3
 Spike Milligan
 1971
+{"/m/02yq81": "Comic novel", "/m/0xdf": "Autobiography", "/m/06nbt": "Satire"}
 1 1
 13 1
 140 2

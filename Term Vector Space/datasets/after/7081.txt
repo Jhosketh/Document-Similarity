@@ -3,6 +3,7 @@
 /m/0fl9jk
 Jasper Fforde
 2007
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 2011 1
 a 7
 advisors 1

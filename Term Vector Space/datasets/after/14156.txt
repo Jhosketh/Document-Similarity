@@ -3,6 +3,7 @@
 /m/065yv_3
 Desmond Bagley
 1985
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 300ton 1
 a 6
 after 1

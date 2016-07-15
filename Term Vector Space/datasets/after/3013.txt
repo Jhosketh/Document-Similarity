@@ -3,6 +3,7 @@
 /m/062hcb
 Mark Twain
 1896
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0mz2": "Alternate history"}
 1410 1
 1415 1
 142 2

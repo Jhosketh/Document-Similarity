@@ -3,6 +3,7 @@
 /m/0glnzt8
 Jean M. Auel
 
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 1 1
 2 1
 20 1

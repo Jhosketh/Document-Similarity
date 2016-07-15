@@ -3,6 +3,7 @@
 /m/0cvpmj
 Philip K. Dick
 1960
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 157 2
 180 1
 2012 2

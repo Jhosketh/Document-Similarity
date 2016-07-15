@@ -3,6 +3,7 @@
 /m/0gmh1xq
 Damon Knight
 1965
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 2521 1
 a 6
 after 1

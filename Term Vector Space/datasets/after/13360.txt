@@ -3,6 +3,7 @@
 /m/0520hqp
 Hubert Selby, Jr.
 1971
+{"/m/02xlf": "Fiction"}
 a 2
 and 3
 cell 1

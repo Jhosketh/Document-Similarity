@@ -3,6 +3,7 @@
 /m/0j28pk5
 Hermann Löns
 
+{"/m/05hgj": "Novel"}
 121 1
 a 2
 alliance 1

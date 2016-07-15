@@ -3,6 +3,7 @@
 /m/01m06z
 Frederick Forsyth
 1971-06-07
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 140 1
 163 1
 18 1

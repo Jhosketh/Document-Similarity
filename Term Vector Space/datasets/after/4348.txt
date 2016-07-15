@@ -3,6 +3,7 @@
 /m/025sl_n
 Jerry B. Jenkins
 
+{"/m/05hgj": "Novel", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1000 1
 a 5
 abyss 1

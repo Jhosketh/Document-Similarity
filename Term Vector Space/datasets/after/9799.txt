@@ -3,6 +3,7 @@
 /m/02q_350
 Edward D. Hoch
 1975
+{"/m/0707q": "Short story"}
 a 4
 about 2
 actually 1

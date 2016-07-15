@@ -3,6 +3,7 @@
 /m/04cs8sx
 Émile Zola
 1895
+{"/m/059r08": "Psychological novel"}
 a 2
 allpowerful 1
 and 3

@@ -3,6 +3,7 @@
 /m/09816n
 Bernard Cornwell
 1998-11-19
+{"/m/0hwxm": "Historical novel"}
 1803 1
 a 2
 above 1

@@ -3,6 +3,7 @@
 /m/0mdtl
 Mark Z. Danielewski
 2000-10-10
+{"/m/02ql9": "Epistolary novel", "/m/014dfn": "Speculative fiction", "/m/0l67h": "Novella"}
 a 4
 appear 1
 as 2

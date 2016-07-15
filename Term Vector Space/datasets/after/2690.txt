@@ -3,6 +3,7 @@
 /m/05b_kj
 Herman Wouk
 1978
+{"/m/098tmk": "War novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 13 1
 141 1
 142 3

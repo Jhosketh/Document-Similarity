@@ -3,6 +3,7 @@
 /m/04wh6b
 John Polidori
 1819-04-01
+{"/m/02n4kr": "Mystery", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 about 2
 accompanies 1

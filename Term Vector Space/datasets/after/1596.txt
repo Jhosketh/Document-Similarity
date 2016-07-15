@@ -3,6 +3,7 @@
 /m/038dbg
 David Eddings
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 2000 1
 5 1
 a 16

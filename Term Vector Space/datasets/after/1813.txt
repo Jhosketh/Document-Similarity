@@ -3,6 +3,7 @@
 /m/03nb4s
 George Barr McCutcheon
 1902
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 a 7
 about 1
 absorbed 1

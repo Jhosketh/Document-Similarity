@@ -3,6 +3,7 @@
 /m/025ttwt
 Philip Pullman
 
+{"/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 1872 1
 a 23
 about 3

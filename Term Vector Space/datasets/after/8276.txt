@@ -3,6 +3,7 @@
 /m/026ktrn
 Don DeLillo
 2007-05-15
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 1
 11 2
 170s 1

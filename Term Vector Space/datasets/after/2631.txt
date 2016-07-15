@@ -3,6 +3,7 @@
 /m/057607
 C. S. Forester
 1952
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1802 1
 1803 1
 a 12

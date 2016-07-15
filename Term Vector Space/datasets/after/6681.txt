@@ -3,6 +3,7 @@
 /m/0dqmlp
 William Faulkner
 1927
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 a 25
 abilities 1
 able 1

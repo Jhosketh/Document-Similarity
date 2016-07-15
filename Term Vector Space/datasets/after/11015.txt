@@ -3,6 +3,7 @@
 /m/03cnm_6
 James Baldwin
 1976
+{"/m/05hgj": "Novel", "/m/0l67h": "Novella"}
 a 6
 aegis 1
 again 1

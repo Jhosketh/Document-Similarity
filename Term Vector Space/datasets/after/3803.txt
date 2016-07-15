@@ -3,6 +3,7 @@
 /m/07q42h
 Peter Goldsworthy
 1989
+{"/m/01jym": "Bildungsroman"}
 a 9
 ability 1
 about 1

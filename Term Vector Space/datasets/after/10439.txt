@@ -3,6 +3,7 @@
 /m/02wyz5d
 Dan Gutman
 1999
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/06bvp": "Religion"}
 147 2
 7 1
 a 8

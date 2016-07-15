@@ -3,6 +3,7 @@
 /m/0crbfb
 C. S. Forester
 1943
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 6
 aft 1
 afternoon 1

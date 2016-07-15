@@ -3,6 +3,7 @@
 /m/02rkmg4
 Peter Robinson
 2005-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 5
 abandons 1
 address 1

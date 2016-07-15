@@ -3,6 +3,7 @@
 /m/04wv93
 Mervyn Peake
 1959
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 26
 across 1
 affair 1

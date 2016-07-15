@@ -3,6 +3,7 @@
 /m/02rbyrt
 
 1974
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 a 4
 and 2
 army 1

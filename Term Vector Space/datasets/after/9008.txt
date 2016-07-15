@@ -3,6 +3,7 @@
 /m/0282vpj
 Ann Rinaldi
 1997
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 14yearold 1
 15 1
 1865 2

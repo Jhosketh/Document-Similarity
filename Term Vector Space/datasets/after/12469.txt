@@ -3,6 +3,7 @@
 /m/046c8f9
 Holly Lisle
 1992-08-01
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 act 1
 actually 1

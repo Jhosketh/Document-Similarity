@@ -3,6 +3,7 @@
 /m/02815q7
 Natsuo Kirino
 2007-02-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 adopts 1
 after 1

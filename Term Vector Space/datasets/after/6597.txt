@@ -3,6 +3,7 @@
 /m/0dlgf_
 Scott Turow
 1987
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 2010 1
 4 1
 a 4

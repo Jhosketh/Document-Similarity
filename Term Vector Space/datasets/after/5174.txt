@@ -3,6 +3,7 @@
 /m/0bcfbk
 Mary Renault
 
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 13
 advances 1
 after 2

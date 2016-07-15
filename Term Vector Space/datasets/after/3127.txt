@@ -3,6 +3,7 @@
 /m/069kww
 Lois McMaster Bujold
 2001-08
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 1 1
 a 11
 afterward 1

@@ -3,6 +3,7 @@
 /m/04hwsb
 Malcolm X
 1965
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 125165 1
 146152 1
 152163 1

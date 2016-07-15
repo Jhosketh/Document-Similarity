@@ -3,6 +3,7 @@
 /m/0cp1654
 Ken Follett
 2010-09-28
+{"/m/0hwxm": "Historical novel"}
 111 1
 a 10
 aberowen 2

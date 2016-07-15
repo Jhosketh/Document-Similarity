@@ -3,6 +3,7 @@
 /m/02tjsj
 Edith Wharton
 1911
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 25
 about 1
 accident 2

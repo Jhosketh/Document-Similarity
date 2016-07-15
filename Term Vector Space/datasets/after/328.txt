@@ -3,6 +3,7 @@
 /m/0kkx2
 Neil Gaiman
 
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0py0z": "Graphic novel"}
 1 1
 11 1
 13 1

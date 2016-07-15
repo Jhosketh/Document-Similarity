@@ -3,6 +3,7 @@
 /m/021r3c
 Roald Dahl
 1972-09
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 358 1
 a 21
 aboard 1

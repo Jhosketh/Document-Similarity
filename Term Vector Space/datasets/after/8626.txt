@@ -3,6 +3,7 @@
 /m/027dbpb
 Pete Hautman
 
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 16yearold 1
 a 4
 ability 1

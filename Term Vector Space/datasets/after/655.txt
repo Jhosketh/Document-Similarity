@@ -3,6 +3,7 @@
 /m/01hgm4
 George Eliot
 1876
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1864 2
 1865 2
 1866 1

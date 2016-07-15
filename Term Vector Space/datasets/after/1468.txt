@@ -3,6 +3,7 @@
 /m/030ytl
 Daniel Handler
 2001-03
+{"/m/05hgj": "Novel", "/m/0pym5": "Absurdist fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/039vk": "Gothic fiction", "/m/06www": "Steampunk"}
 46 1
 50 2
 66 1

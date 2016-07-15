@@ -3,6 +3,7 @@
 /m/08g7tg
 Günter Grass
 1963
+{"/m/05hgj": "Novel"}
 a 8
 about 1
 account 1

@@ -3,6 +3,7 @@
 /m/03mf0zd
 Geraldine Brooks
 2008-01-01
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 across 1
 all 1
 also 1

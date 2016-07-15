@@ -3,6 +3,7 @@
 /m/058f7d
 Cormac McCarthy
 1974
+{"/m/039vk": "Gothic fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160s 1
 a 5
 about 1

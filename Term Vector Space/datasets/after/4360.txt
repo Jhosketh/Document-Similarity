@@ -3,6 +3,7 @@
 /m/08vrgq
 E. Nesbit
 1907
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 actually 1
 admits 1

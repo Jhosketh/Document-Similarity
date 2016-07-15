@@ -3,6 +3,7 @@
 /m/027w0cv
 Thomas Mann
 1951
+{"/m/05hgj": "Novel"}
 17 1
 a 25
 abbot 4

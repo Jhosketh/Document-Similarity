@@ -3,6 +3,7 @@
 /m/03czc7c
 Edgar Rice Burroughs
 1925-03-21
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 20 1
 a 35
 about 1

@@ -3,6 +3,7 @@
 /m/0b8q29
 Samuel R. Delany
 1966
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/0l67h": "Novella"}
 a 19
 ability 1
 actually 1

@@ -3,6 +3,7 @@
 /m/0g3h3h
 Vladimir Vladimirovich Nabokov
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16year 1
 a 14
 about 1

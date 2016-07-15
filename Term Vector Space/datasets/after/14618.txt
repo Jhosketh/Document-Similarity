@@ -3,6 +3,7 @@
 /m/09glxwc
 Raymond E. Feist
 1999-09-06
+{"/m/01hmnh": "Fantasy"}
 a 16
 admiral 1
 agents 2

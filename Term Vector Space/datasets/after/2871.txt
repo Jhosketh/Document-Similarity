@@ -3,6 +3,7 @@
 /m/05skt3
 Robert Tressell
 1914-04-23
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 all 1
 and 4

@@ -3,6 +3,7 @@
 /m/04wpmc
 Mervyn Peake
 1956
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 77th 1
 a 1
 an 1

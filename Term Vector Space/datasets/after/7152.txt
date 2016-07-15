@@ -3,6 +3,7 @@
 /m/0fr6k1
 Gary Shteyngart
 2006-05-02
+{"/m/05hgj": "Novel"}
 a 8
 absurdistan 3
 absurdsvan 1

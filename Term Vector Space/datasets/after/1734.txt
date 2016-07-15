@@ -3,6 +3,7 @@
 /m/03hgss
 John Fowles
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 ability 1
 about 1

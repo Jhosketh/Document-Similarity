@@ -3,6 +3,7 @@
 /m/0gky98d
 Raymond E. Feist
 2005-04-01
+{"/m/01hmnh": "Fantasy"}
 a 1
 agents 1
 an 1

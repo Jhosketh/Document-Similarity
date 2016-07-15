@@ -3,6 +3,7 @@
 /m/0h4kb
 Stephen King
 1982
+{"/m/0l67h": "Novella"}
 160 1
 160s 1
 40 1

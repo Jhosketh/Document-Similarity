@@ -3,6 +3,7 @@
 /m/08tnmc
 Cormac McCarthy
 2005-07-19
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 21yearold 1
 24 1
 50s 1

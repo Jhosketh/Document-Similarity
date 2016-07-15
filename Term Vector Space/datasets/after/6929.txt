@@ -3,6 +3,7 @@
 /m/0f8c6w
 Will Self
 2006-06-01
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 28
 access 1
 accordance 1

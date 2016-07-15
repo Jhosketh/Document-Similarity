@@ -3,6 +3,7 @@
 /m/09z769
 Joseph Conrad
 1902
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0c3351": "Suspense"}
 a 4
 aboard 1
 according 1

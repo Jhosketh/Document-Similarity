@@ -3,6 +3,7 @@
 /m/0ctfz7
 Joe Dever
 1987
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 against 2
 all 1
 allies 1

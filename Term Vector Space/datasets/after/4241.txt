@@ -3,6 +3,7 @@
 /m/08mdk6
 George Eliot
 
+{"/m/0276pxr": "Social novel", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0blvpd": "Industrial novel", "/m/0c3351": "Suspense"}
 1832 1
 a 11
 about 2

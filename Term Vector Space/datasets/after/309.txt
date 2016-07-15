@@ -3,6 +3,7 @@
 /m/0jqbz
 Harper Lee
 1960-07-11
+{"/m/02xlf": "Fiction"}
 a 10
 about 4
 accepts 1

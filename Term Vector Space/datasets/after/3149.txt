@@ -3,6 +3,7 @@
 /m/06cd1k
 Anita Shreve
 1997-01-01
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1873 2
 1thcentury 1
 a 9

@@ -3,6 +3,7 @@
 /m/094w8k
 Mark Twain
 1880
+{"/m/014dsx": "Travel", "/m/017fp": "Biography", "/m/02xlf": "Fiction", "/m/0xdf": "Autobiography", "/m/04z2hx": "Travel literature"}
 a 5
 also 1
 an 1

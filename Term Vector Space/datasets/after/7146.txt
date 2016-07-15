@@ -3,6 +3,7 @@
 /m/0fr1f1
 James Frey
 2005-06-16
+{"/m/02xlf": "Fiction", "/m/016chh": "Memoir"}
 1 1
 2 1
 a 4

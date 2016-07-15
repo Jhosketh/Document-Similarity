@@ -3,6 +3,7 @@
 /m/02q6lc5
 Enid Blyton
 1944
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 8
 accompanied 1
 accompany 1

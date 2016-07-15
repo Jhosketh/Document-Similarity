@@ -3,6 +3,7 @@
 /m/0gyrkbs
 Mochtar Lubis
 
+{"/m/05hgj": "Novel"}
 a 2
 academics 1
 accident 1

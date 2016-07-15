@@ -3,6 +3,7 @@
 /m/06408gr
 Raymond E. Feist
 1995
+{"/m/01hmnh": "Fantasy"}
 a 15
 after 4
 aids 1

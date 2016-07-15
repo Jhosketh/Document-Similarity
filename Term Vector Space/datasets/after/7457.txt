@@ -3,6 +3,7 @@
 /m/0gh7r9
 Gael Baudino
 1989
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 14
 abandon 1
 able 1

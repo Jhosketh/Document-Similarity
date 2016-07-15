@@ -3,6 +3,7 @@
 /m/0b8mwb
 P. G. Wodehouse
 1965-01-13
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 100 1
 700 1
 8000 1

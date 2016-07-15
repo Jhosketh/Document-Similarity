@@ -3,6 +3,7 @@
 /m/0j9q2rv
 J. K. Rowling
 2012-09-27
+{"/m/01hmnh": "Fantasy", "/m/0q9mp": "Tragicomedy", "/m/02xlf": "Fiction", "/m/0vgkd": "Black comedy"}
 a 10
 about 1
 addict 1

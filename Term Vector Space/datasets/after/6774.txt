@@ -3,6 +3,7 @@
 /m/0dxlxt
 Virginia Woolf
 1915-03-26
+{"/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 after 1
 ambrose 1

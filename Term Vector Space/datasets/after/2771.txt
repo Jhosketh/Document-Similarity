@@ -3,6 +3,7 @@
 /m/05k6t4
 Richard Matheson
 1971
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 4
 ability 1
 about 1

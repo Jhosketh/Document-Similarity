@@ -3,6 +3,7 @@
 /m/02x0p7
 John Sladek
 1970
+{"/m/06n90": "Science Fiction"}
 170s 2
 a 7
 accident 1

@@ -3,6 +3,7 @@
 /m/02v_v25
 Franklin W. Dixon
 1968
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 4
 about 1
 all 1

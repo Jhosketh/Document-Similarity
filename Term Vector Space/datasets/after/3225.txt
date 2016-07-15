@@ -3,6 +3,7 @@
 /m/06k84q
 Iain Banks
 1993
+{"/m/05hgj": "Novel"}
 a 6
 about 2
 adaptation 1

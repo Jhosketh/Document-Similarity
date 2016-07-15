@@ -3,6 +3,7 @@
 /m/08t15b
 Jonathan Stroud
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 8
 abilities 1
 advocate 2

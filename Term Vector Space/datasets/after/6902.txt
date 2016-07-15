@@ -3,6 +3,7 @@
 /m/0f451p
 Dave Wolverton
 2003-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 3
 able 1
 after 1

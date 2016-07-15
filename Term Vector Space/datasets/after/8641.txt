@@ -3,6 +3,7 @@
 /m/027dw_6
 Daniel Pinkwater
 1977
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 178 1
 180s 1
 34seagull34 1

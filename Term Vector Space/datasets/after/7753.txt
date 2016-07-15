@@ -3,6 +3,7 @@
 /m/0h3t8t
 Scott Westerfeld
 2005-05-05
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 500 1
 a 19
 about 2

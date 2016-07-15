@@ -3,6 +3,7 @@
 /m/02wyc1q
 Diana Wynne Jones
 1974
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 15
 able 1
 about 2

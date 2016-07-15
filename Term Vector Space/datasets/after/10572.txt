@@ -3,6 +3,7 @@
 /m/02z10_b
 Michael Connelly
 1997-02
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 17 1
 a 2
 and 2

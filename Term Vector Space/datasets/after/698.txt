@@ -3,6 +3,7 @@
 /m/01kd_g
 Peter Carey
 1988
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 400nbspkm 1
 a 5
 an 1

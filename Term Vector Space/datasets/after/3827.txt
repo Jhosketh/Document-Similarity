@@ -3,6 +3,7 @@
 /m/07rmhv
 Diana Wynne Jones
 1981
+{"/m/048945": "Ghost story", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 abusive 1
 accident 2

@@ -3,6 +3,7 @@
 /m/0cxz_j
 Clive Cussler
 2004
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel"}
 114 1
 a 34
 about 1

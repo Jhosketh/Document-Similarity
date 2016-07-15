@@ -3,6 +3,7 @@
 /m/07pzw
 Oscar Wilde
 1890
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 18 3
 a 15
 abilities 1

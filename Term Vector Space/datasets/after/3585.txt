@@ -3,6 +3,7 @@
 /m/077kq2
 Matthew Reilly
 2005
+{"/m/01jfsb": "Thriller", "/m/017rf8": "Techno-thriller", "/m/03npn": "Horror"}
 500 1
 82nd 1
 a 14

@@ -3,6 +3,7 @@
 /m/02d_9z
 Mario Vargas Llosa
 2001
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 137 1
 16 2
 161 3

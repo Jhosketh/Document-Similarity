@@ -3,6 +3,7 @@
 /m/026t3gf
 Karl Edward Wagner
 
+{"/m/0dz8b": "Sword and sorcery", "/m/01hmnh": "Fantasy"}
 a 1
 acheron 1
 at 1

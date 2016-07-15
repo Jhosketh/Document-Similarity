@@ -3,6 +3,7 @@
 /m/09k6618
 Eleanor Updale
 2004-04-30
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature"}
 1875 1
 43 1
 a 21

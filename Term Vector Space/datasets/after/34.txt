@@ -3,6 +3,7 @@
 /m/02y0f
 Franz Kafka
 1925
+{"/m/02xlf": "Fiction", "/m/0pym5": "Absurdist fiction", "/m/05hgj": "Novel"}
 a 40
 about 4
 acquitted 1

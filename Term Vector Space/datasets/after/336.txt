@@ -3,6 +3,7 @@
 /m/0ks36
 Jeffrey Eugenides
 1993
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 13yearold 1
 14yearold 1
 15yearold 1

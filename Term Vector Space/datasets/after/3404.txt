@@ -3,6 +3,7 @@
 /m/06wzby
 Anne Rice
 1993-09-12
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 2 1
 a 14
 aaron 1

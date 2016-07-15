@@ -3,6 +3,7 @@
 /m/08h58x
 Beatrice Sparks
 1998-07
+{"/m/03mfnf": "Young adult literature"}
 a 7
 about 1
 adoption 1

@@ -3,6 +3,7 @@
 /m/02pl6z3
 David Anthony Durham
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 6
 acacia 2
 acacian 1

@@ -3,6 +3,7 @@
 /m/0h690w8
 Paul van Herck
 1968
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 3
 an 1
 and 1

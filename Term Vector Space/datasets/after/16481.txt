@@ -3,6 +3,7 @@
 /m/0hzr9f4
 Valerio Massimo Manfredi
 
+{"/m/0hwxm": "Historical novel"}
 a 6
 about 2
 adapting 1

@@ -3,6 +3,7 @@
 /m/02r5kk5
 Hugh Walters
 1963
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 1
 acceleration 1
 account 1

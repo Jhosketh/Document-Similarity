@@ -3,6 +3,7 @@
 /m/0bs7dnj
 Elisabeth Reichart
 1989
+{"/m/059r08": "Psychological novel", "/m/0hwxm": "Historical novel"}
 a 24
 abandonment 1
 ability 1

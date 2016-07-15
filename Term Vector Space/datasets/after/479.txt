@@ -3,6 +3,7 @@
 /m/015jfx
 Gaston Leroux
 
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 a 22
 abductor 1
 about 1

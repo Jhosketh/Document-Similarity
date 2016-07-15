@@ -3,6 +3,7 @@
 /m/0289sb4
 Pamela Aidan
 2004
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 10
 able 1
 accepts 1

@@ -3,6 +3,7 @@
 /m/04n3sb
 Tad Williams
 1990-08
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 6
 abandoning 1
 able 1

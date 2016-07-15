@@ -3,6 +3,7 @@
 /m/0c0fyz
 Jules Verne
 1877-04
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel"}
 a 10
 aberfoyle 2
 accompanying 1

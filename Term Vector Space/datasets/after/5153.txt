@@ -3,6 +3,7 @@
 /m/0bbb32
 Jeff Mariotte
 2003-04-01
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 and 2
 angel 2

@@ -3,6 +3,7 @@
 /m/086g6h
 Philip K. Dick
 1964
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 18
 abc 1
 abilities 2

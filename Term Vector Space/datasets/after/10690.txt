@@ -3,6 +3,7 @@
 /m/03b_th3
 Rosemary Sutcliff
 1951
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/0hwxm": "Historical novel"}
 10yearold 1
 a 9
 adapts 1

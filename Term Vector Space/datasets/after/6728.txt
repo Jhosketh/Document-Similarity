@@ -3,6 +3,7 @@
 /m/0dtd6m
 James Redfield
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction"}
 a 6
 about 1
 according 2

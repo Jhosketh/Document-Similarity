@@ -3,6 +3,7 @@
 /m/0407nsj
 Scott Turow
 1999
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 2
 admits 1
 advice 1

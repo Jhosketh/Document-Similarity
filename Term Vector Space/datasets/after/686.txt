@@ -3,6 +3,7 @@
 /m/01jw9r
 John Fowles
 1969
+{"/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel"}
 1thcentury 1
 a 16
 abandoned 1

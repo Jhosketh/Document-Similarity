@@ -3,6 +3,7 @@
 /m/019171
 T. H. White
 1939-01-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 1
 accuracy 1
 adventures 1

@@ -3,6 +3,7 @@
 /m/02vp_sf
 Anchee Min
 
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1875 1
 214 1
 a 5

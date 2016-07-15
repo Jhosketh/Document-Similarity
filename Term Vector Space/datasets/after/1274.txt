@@ -3,6 +3,7 @@
 /m/02q8z1
 S. E. Hinton
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 18
 abandoned 1
 about 2

@@ -3,6 +3,7 @@
 /m/0bx1l0
 Christopher Moore
 2006-03-21
+{"/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/0pym5": "Absurdist fiction", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 4
 after 1
 all 1

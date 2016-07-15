@@ -3,6 +3,7 @@
 /m/02q429s
 John Flanagan
 2006-05-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 20 1
 a 15
 about 1

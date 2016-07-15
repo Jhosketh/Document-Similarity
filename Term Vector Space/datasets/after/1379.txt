@@ -3,6 +3,7 @@
 /m/02xdt2
 Evelyn Waugh
 1934
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 130s 1
 303 1
 a 15

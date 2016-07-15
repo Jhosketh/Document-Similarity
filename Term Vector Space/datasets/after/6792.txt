@@ -3,6 +3,7 @@
 /m/0dy3_f
 William Barton
 1995-03-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia", "/m/01smf2": "Military science fiction"}
 100000 1
 20 1
 a 12

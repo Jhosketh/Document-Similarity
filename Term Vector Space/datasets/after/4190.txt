@@ -3,6 +3,7 @@
 /m/08h84f
 Clive Cussler
 1975
+{"/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 0 1
 a 22
 abducted 1

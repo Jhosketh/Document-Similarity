@@ -3,6 +3,7 @@
 /m/06c_78
 Henning Mankell
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 10s 1
 2000s 1
 2008 1

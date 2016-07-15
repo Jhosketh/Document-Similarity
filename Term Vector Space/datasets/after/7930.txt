@@ -3,6 +3,7 @@
 /m/025_6xc
 Katherine Kurtz
 2000
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1128 1
 a 11
 abandon 1

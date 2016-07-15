@@ -3,6 +3,7 @@
 /m/040t6s
 Susanna Clarke
 2004-09-08
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 180 1
 1806 1
 1816 1

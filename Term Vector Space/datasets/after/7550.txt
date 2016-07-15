@@ -3,6 +3,7 @@
 /m/0grrw2
 Lin Carter
 
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/0707q": "Short story", "/m/0dz8b": "Sword and sorcery"}
 60 1
 a 1
 again 1

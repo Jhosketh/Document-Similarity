@@ -3,6 +3,7 @@
 /m/03cprqd
 Velma Wallis
 
+{"/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/06ms6": "Sociology", "/m/02xlf": "Fiction"}
 75yearold 1
 80yearold 1
 a 14

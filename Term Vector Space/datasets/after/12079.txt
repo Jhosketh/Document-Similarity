@@ -3,6 +3,7 @@
 /m/0416fxc
 Peter Straub
 1982
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 180 1
 a 9
 abilities 1

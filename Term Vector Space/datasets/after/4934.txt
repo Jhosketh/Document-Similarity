@@ -3,6 +3,7 @@
 /m/09xpdl
 Keith R. A. DeCandido
 2006-08-29
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 177 1
 a 3
 against 1

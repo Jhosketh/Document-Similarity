@@ -3,6 +3,7 @@
 /m/02ppctk
 Octave Mirbeau
 1913
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 113 1
 a 2
 adventures 1

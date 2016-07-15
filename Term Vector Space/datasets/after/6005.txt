@@ -3,6 +3,7 @@
 /m/0cvd1w
 Dean Koontz
 2000
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0c3351": "Suspense"}
 a 5
 and 4
 baby 1

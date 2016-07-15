@@ -3,6 +3,7 @@
 /m/02mp73
 Stephen King
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 100 1
 a 12
 abusive 1

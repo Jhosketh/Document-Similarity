@@ -3,6 +3,7 @@
 /m/0336z1
 William Novak
 1985-01
+{"/m/0xdf": "Autobiography", "/m/05h83": "Non-fiction"}
 1 1
 13 1
 15 1

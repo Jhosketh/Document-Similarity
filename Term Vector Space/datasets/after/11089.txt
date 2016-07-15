@@ -3,6 +3,7 @@
 /m/03cvvnj
 Alistair MacLean
 1969
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 3
 about 1
 all 1

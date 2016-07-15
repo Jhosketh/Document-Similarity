@@ -3,6 +3,7 @@
 /m/03y8qlk
 Bayard Taylor
 1870
+{"/m/05hgj": "Novel"}
 a 2
 an 1
 and 1

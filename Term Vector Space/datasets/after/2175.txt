@@ -3,6 +3,7 @@
 /m/04c_lh
 Philip K. Dick
 1956
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia"}
 172 1
 185 1
 2114 1

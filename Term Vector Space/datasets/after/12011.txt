@@ -3,6 +3,7 @@
 /m/0408wps
 L. Ron Hubbard
 1948
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 100000 1
 30 1
 a 13

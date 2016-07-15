@@ -3,6 +3,7 @@
 /m/0fv2c1
 David Liss
 2004
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 1721 1
 a 6
 according 1

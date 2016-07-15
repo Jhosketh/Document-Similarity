@@ -3,6 +3,7 @@
 /m/0479713
 Sally Gardner
 2005-08-04
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 2nd 1
 a 8
 adventure 1

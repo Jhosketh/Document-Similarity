@@ -3,6 +3,7 @@
 /m/063_67
 Piers Anthony
 1979-07
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 12 1
 800 1
 a 5

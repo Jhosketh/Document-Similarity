@@ -3,6 +3,7 @@
 /m/0fvjjx
 Paul B. Thompson
 1989-09-28
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 17
 abandonedand 1
 about 1

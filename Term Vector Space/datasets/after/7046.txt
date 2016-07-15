@@ -3,6 +3,7 @@
 /m/0fh847
 S. E. Hinton
 1988
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 20
 accident 1
 accomplice 1

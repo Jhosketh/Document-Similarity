@@ -3,6 +3,7 @@
 /m/053tc2
 Anne Frank
 1947
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0dwly": "Children's literature", "/m/03qfd": "High fantasy"}
 13th 1
 14 1
 142 1

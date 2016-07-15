@@ -3,6 +3,7 @@
 /m/04lbk6
 Gregory Maguire
 1995
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0fr3y1": "Parallel novel"}
 2 1
 3 2
 a 73

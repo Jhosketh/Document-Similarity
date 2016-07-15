@@ -3,6 +3,7 @@
 /m/0bmy24
 Arthur Ransome
 1930-12-01
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 12 1
 a 13
 about 1

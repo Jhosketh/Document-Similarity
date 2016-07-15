@@ -3,6 +3,7 @@
 /m/04zykll
 Roberto Bolaño
 1996
+{"/m/05hgj": "Novel"}
 173 1
 a 6
 act 1

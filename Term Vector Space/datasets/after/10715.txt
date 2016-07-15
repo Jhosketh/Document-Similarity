@@ -3,6 +3,7 @@
 /m/03c1km5
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 after 1
 all 1

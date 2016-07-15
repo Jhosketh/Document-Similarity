@@ -3,6 +3,7 @@
 /m/03qny4m
 Mercedes Lackey
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 ability 1
 about 1

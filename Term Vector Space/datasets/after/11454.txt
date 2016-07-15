@@ -3,6 +3,7 @@
 /m/03h5z6j
 Ellen Hopkins
 2007
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 2
 abandoned 1
 about 1

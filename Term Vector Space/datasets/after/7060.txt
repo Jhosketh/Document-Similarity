@@ -3,6 +3,7 @@
 /m/0fjgg8
 Jacques Futrelle
 1909
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 a 3
 about 1
 absolutely 1

@@ -3,6 +3,7 @@
 /m/06w8lmw
 Catherynne M. Valente
 2009-03
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 after 1
 all 1

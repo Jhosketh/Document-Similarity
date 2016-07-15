@@ -3,6 +3,7 @@
 /m/0cgs_h
 Catherine Asaro
 2004
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 3
 adventures 1
 after 1

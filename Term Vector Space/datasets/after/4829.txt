@@ -3,6 +3,7 @@
 /m/09pnfy
 Billie Letts
 1995-08-17
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 7 2
 777 1
 a 18

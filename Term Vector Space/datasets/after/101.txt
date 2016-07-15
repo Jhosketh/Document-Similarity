@@ -3,6 +3,7 @@
 /m/084fc
 Samuel Beckett
 1952
+{"/m/05qgc": "Poetry", "/m/07s9rl0": "Drama", "/m/02xlf": "Fiction", "/m/0pym5": "Absurdist fiction", "/m/05qp9": "Play"}
 a 36
 abandon 1
 about 5

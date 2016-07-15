@@ -3,6 +3,7 @@
 /m/02rjqzf
 Simon Scarrow
 2007-05-31
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 a 3
 accused 1
 aftermath 1

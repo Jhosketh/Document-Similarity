@@ -3,6 +3,7 @@
 /m/027nr3
 Kate Chopin
 1899
+{"/m/01qxvh": "Romance novel", "/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/0l67h": "Novella", "/m/05hgj": "Novel"}
 a 20
 about 1
 active 1

@@ -3,6 +3,7 @@
 /m/0h7c2y
 Katherine Kurtz
 1985
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1124 2
 a 9
 accede 1

@@ -3,6 +3,7 @@
 /m/06w4zg7
 Denys Watkins-Pitchford
 1942
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 1
 after 2
 against 1

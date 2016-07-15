@@ -3,6 +3,7 @@
 /m/0h3wzwf
 Richelle Mead
 2008-08-01
+{"/m/02vzzv": "Urban fantasy", "/m/072lff": "Paranormal romance"}
 a 50
 abducted 3
 abduction 1

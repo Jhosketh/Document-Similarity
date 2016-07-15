@@ -3,6 +3,7 @@
 /m/045s0b
 Tad Williams
 1996-12-05
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 21st 1
 a 49
 about 2

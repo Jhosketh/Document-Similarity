@@ -3,6 +3,7 @@
 /m/0d7qz
 Philip K. Dick
 1982
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 16 1
 160s 1
 170s 1

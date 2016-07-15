@@ -3,6 +3,7 @@
 /m/026dx5v
 Kit Pearson
 1996
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 18
 able 1
 about 2

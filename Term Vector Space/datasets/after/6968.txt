@@ -3,6 +3,7 @@
 /m/0fb134
 Elizabeth Gray Vining
 1943
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 7
 across 1
 adam 14

@@ -3,6 +3,7 @@
 /m/02x5__0
 Patrick Rothfuss
 2007-03-27
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03dw_3": "Heroic fantasy", "/m/02xlf": "Fiction"}
 a 36
 abenthy 3
 about 3

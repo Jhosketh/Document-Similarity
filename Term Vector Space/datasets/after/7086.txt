@@ -3,6 +3,7 @@
 /m/0flqlh
 F. Paul Wilson
 1990-03
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 141 1
 20s 1
 a 12

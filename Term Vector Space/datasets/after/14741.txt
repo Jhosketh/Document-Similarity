@@ -3,6 +3,7 @@
 /m/09g6gw5
 Leslie Barringer
 1935
+{"/m/0hwxm": "Historical novel"}
 118 1
 a 9
 acquires 1

@@ -3,6 +3,7 @@
 /m/02rzn3c
 Martin Amis
 2006
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2004 1
 a 2
 american 1

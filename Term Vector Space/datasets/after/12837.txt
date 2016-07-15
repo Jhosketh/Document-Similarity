@@ -3,6 +3,7 @@
 /m/04yl1zm
 P. D. James
 2008
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 2
 after 1
 against 1

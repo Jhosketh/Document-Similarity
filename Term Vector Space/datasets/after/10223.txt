@@ -3,6 +3,7 @@
 /m/02vpfj4
 Jeffery Deaver
 2001-04-03
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 137 1
 2000 1
 5 1

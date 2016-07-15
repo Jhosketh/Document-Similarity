@@ -3,6 +3,7 @@
 /m/02pyjt8
 Lionel Davidson
 1976
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 4
 an 1
 and 3

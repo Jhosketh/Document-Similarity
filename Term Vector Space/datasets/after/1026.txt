@@ -3,6 +3,7 @@
 /m/025cwz
 Elmore Leonard
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 200000 2
 300000 2
 500000 2

@@ -3,6 +3,7 @@
 /m/0c1p__
 Elizabeth Ann Scarborough
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 5
 aari 1
 acorna 2

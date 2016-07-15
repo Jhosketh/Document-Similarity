@@ -3,6 +3,7 @@
 /m/0dbmnb
 Mo Hayder
 2006-04-03
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 about 2
 almost 1

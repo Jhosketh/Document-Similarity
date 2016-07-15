@@ -3,6 +3,7 @@
 /m/019s5h
 Margaret Wise Brown
 1947
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 7 1
 810 1
 a 9

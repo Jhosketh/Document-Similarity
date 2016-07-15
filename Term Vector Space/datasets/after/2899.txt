@@ -3,6 +3,7 @@
 /m/05vzly
 James Agee
 1956
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 115 1
 a 4
 accident 1

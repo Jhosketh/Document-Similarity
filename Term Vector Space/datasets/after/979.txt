@@ -3,6 +3,7 @@
 /m/0227cl
 Sinclair Lewis
 1920
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 about 1
 admit 2

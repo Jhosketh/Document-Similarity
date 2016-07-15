@@ -3,6 +3,7 @@
 /m/03hdps
 Willa Cather
 1927
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 abstemious 1
 acquired 1

@@ -3,6 +3,7 @@
 /m/0lghc
 Andrew Greeley
 1942
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 affected 1
 aftermath 1

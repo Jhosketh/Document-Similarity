@@ -3,6 +3,7 @@
 /m/0gs37g
 Rex Stout
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 160s 1
 2 1
 6 1

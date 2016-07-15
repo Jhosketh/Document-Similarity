@@ -3,6 +3,7 @@
 /m/071lgp
 Henry James
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 about 1
 admires 1

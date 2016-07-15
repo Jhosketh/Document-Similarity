@@ -3,6 +3,7 @@
 /m/03gxjgm
 Mercedes Lackey
 1005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 abilities 2
 able 3

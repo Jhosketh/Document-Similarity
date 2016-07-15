@@ -3,6 +3,7 @@
 /m/0ctszn
 Dean Koontz
 1993
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 10s 1
 a 5
 after 2

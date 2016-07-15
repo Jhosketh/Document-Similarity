@@ -3,6 +3,7 @@
 /m/08fhl2
 Yasunari Kawabata
 1954
+{"/m/05hgj": "Novel"}
 a 18
 age 1
 alternates 1

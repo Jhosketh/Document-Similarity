@@ -3,6 +3,7 @@
 /m/076t7n7
 Robert B. Parker
 1985
+{"/m/028v3": "Detective fiction", "/m/014dfn": "Speculative fiction"}
 an 1
 and 1
 believes 1

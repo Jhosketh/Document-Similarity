@@ -3,6 +3,7 @@
 /m/048l5x
 Aldous Huxley
 1936
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 and 1
 anthony 1
 as 1

@@ -3,6 +3,7 @@
 /m/0d7cmm
 Anthony Horowitz
 
+{"/m/01jfsb": "Thriller", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 16
 acquire 1
 affected 1

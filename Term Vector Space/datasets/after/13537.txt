@@ -3,6 +3,7 @@
 /m/03fm37
 Michael Crichton
 1995-09
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/017rf8": "Techno-thriller", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 12
 abandoned 2
 abducted 1

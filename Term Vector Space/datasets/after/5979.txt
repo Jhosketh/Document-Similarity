@@ -3,6 +3,7 @@
 /m/0ctspg
 Dean Koontz
 1987
+{"/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 20 1
 a 13
 abilities 1

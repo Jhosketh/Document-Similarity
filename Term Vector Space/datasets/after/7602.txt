@@ -3,6 +3,7 @@
 /m/0gtxd8
 Patrick D. Smith
 1984
+{"/m/02p0szs": "Historical fiction"}
 a 2
 after 1
 amass 1

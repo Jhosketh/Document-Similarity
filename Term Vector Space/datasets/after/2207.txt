@@ -3,6 +3,7 @@
 /m/04g6x3
 Terry Goodkind
 2003-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 a 12
 abilities 1
 able 1

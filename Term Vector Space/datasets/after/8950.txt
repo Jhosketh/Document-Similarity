@@ -3,6 +3,7 @@
 /m/027_xfz
 Minette Walters
 2003-11-07
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 170 1
 a 6
 an 1

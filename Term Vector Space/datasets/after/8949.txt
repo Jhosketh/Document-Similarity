@@ -3,6 +3,7 @@
 /m/027_x2m
 Minette Walters
 2000-10-20
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 178 1
 a 3
 abuser 1

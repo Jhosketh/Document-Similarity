@@ -3,6 +3,7 @@
 /m/043ngl9
 Hal Clement
 1973
+{"/m/03lrw": "Hard science fiction"}
 a 7
 ammonia 1
 and 2

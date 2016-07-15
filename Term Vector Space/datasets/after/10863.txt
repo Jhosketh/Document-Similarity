@@ -3,6 +3,7 @@
 /m/03cdc0g
 Mario Puzo
 2000
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 16 1
 51 1
 a 20

@@ -3,6 +3,7 @@
 /m/0297f
 Miguel de Cervantes
 1605
+{"/m/0gf28": "Parody", "/m/0dwly": "Children's literature", "/m/059r08": "Psychological novel", "/m/06nbt": "Satire", "/m/011ys5": "Farce", "/m/0g_jj": "Picaresque novel", "/m/02xlf": "Fiction"}
 20th 1
 a 47
 about 6

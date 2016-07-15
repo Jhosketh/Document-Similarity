@@ -3,6 +3,7 @@
 /m/0dllvg9
 John Scalzi
 2009
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 5
 accomplished 1
 an 1

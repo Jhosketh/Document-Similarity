@@ -3,6 +3,7 @@
 /m/02qmjsv
 Fiona McIntosh
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 29
 accompanies 1
 adopted 1

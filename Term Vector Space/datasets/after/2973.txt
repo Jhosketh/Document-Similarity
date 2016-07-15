@@ -3,6 +3,7 @@
 /m/060f6t
 Heinrich Böll
 1974
+{"/m/05hgj": "Novel"}
 a 8
 about 1
 accomplice 1

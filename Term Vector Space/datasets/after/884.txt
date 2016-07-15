@@ -3,6 +3,7 @@
 /m/01y8vz
 Robert Silverberg
 1984
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 about 1
 adventures 1

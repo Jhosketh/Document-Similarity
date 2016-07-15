@@ -3,6 +3,7 @@
 /m/0d9d7b
 Ruth Rendell
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 37
 about 2
 abusing 1

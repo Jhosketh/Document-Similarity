@@ -3,6 +3,7 @@
 /m/042vzk
 Bruce Chatwin
 1982
+{"/m/05hgj": "Novel"}
 a 3
 again 1
 alive 1

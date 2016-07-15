@@ -3,6 +3,7 @@
 /m/02_rwc
 Robert Jordan
 1998-10-20
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 5 1
 a 3
 absent 2

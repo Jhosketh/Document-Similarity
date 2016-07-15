@@ -3,6 +3,7 @@
 /m/09m6wn
 Graham Greene
 1973
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/06wkf": "Spy fiction", "/m/0c3351": "Suspense"}
 a 29
 about 3
 accept 1

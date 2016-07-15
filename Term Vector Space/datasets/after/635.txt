@@ -3,6 +3,7 @@
 /m/01g985
 Władysław Szpilman
 1999
+{"/m/0xdf": "Autobiography", "/m/05h83": "Non-fiction", "/m/016chh": "Memoir", "/m/02gsv": "Personal journal"}
 12 1
 13 3
 130s 1

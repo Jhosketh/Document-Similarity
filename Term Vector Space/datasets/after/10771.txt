@@ -3,6 +3,7 @@
 /m/03c4v_h
 David Liss
 2003-03
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 0 2
 1500 1
 2000 1

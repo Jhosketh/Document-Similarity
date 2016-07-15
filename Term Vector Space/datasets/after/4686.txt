@@ -3,6 +3,7 @@
 /m/09fjyp
 Haruki Murakami
 1994-01
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 13yearold 1
 a 15
 actor 1

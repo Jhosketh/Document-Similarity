@@ -3,6 +3,7 @@
 /m/02rb94z
 Rob Thurman
 2007-03-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 abbagor 3
 ability 4

@@ -3,6 +3,7 @@
 /m/0h2c5g
 Robert Bloch
 
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/05qgc": "Poetry", "/m/02xlf": "Fiction"}
 a 4
 as 1
 asylum 1

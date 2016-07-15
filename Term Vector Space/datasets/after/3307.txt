@@ -3,6 +3,7 @@
 /m/06nckz
 Stephen Baxter
 1996-11-21
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 10 2
 11 1
 12 1

@@ -3,6 +3,7 @@
 /m/0gw559
 Carolyn Keene
 1964
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0dwly": "Children's literature"}
 a 4
 an 2
 and 5

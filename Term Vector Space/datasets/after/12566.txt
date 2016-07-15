@@ -3,6 +3,7 @@
 /m/026cgb_
 Sinclair Smith
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/01qxvh": "Romance novel", "/m/01z4y": "Comedy"}
 12 1
 a 9
 aaron 1

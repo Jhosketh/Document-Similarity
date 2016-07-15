@@ -3,6 +3,7 @@
 /m/0407s8x
 Sherwood Smith
 2008-03-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 abducted 1
 about 2

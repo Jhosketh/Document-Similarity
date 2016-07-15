@@ -3,6 +3,7 @@
 /m/0968hf
 Amelia Atwater-Rhodes
 
+{"/m/039vk": "Gothic fiction", "/m/0kflf": "Vampire fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 1684 1
 300 1
 a 11

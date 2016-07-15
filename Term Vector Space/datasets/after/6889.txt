@@ -3,6 +3,7 @@
 /m/0f3n8m
 Beverly Cleary
 1979
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 academy 1
 afraid 1

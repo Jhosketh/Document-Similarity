@@ -3,6 +3,7 @@
 /m/03gr90w
 Bram Stoker
 1875
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 2
 after 1
 against 1

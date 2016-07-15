@@ -3,6 +3,7 @@
 /m/09zjrj
 Jack Higgins
 1976-08-09
+{"/m/01jfsb": "Thriller", "/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 144 1
 a 6
 after 1

@@ -3,6 +3,7 @@
 /m/0dccgt
 Barbara Mertz
 1991
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 187 1
 3000 1
 a 10

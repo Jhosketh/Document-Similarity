@@ -3,6 +3,7 @@
 /m/0bwj05
 Lucy Maud Montgomery
 1931
+{"/m/05hgj": "Novel"}
 14 1
 a 10
 about 1

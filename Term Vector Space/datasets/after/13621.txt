@@ -3,6 +3,7 @@
 /m/05h4mh5
 Edgar Rice Burroughs
 1921-10-06
+{"/m/025txgl": "Western fiction"}
 a 7
 about 1
 action 1

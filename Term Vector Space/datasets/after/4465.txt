@@ -3,6 +3,7 @@
 /m/092fq8
 Jerry Pournelle
 2005-02-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 2007 1
 a 6
 after 1

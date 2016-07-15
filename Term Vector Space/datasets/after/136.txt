@@ -3,6 +3,7 @@
 /m/0c3m3
 Greg Bear
 1985
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 abandon 1
 aggregate 1

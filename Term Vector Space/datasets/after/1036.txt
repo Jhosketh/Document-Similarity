@@ -3,6 +3,7 @@
 /m/02658n
 Yann Martel
 2001-09
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 227 1
 a 20
 about 1

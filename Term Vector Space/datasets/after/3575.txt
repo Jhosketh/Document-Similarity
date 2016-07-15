@@ -3,6 +3,7 @@
 /m/077332
 Agatha Christie
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 about 1
 and 1
 between 1

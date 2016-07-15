@@ -3,6 +3,7 @@
 /m/07bn88
 Isabel Allende
 2005-05-01
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 1840 1
 a 46
 abided 1

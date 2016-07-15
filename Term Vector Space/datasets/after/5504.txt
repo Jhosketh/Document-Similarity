@@ -3,6 +3,7 @@
 /m/0b_zrg
 Kenneth Oppel
 1997-04-24
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 33
 abandoned 1
 about 4

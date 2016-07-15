@@ -3,6 +3,7 @@
 /m/043khzj
 Marcus Sedgwick
 2007-08-06
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 a 7
 account 1
 advances 1

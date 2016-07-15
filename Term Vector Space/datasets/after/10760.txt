@@ -3,6 +3,7 @@
 /m/03c3972
 Arthur Conan Doyle
 1890
+{"/m/05hgj": "Novel"}
 25 1
 40000 1
 a 15

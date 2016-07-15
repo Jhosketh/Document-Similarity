@@ -3,6 +3,7 @@
 /m/093ngl
 Samit Basu
 2004-01-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 19
 abduct 1
 about 2

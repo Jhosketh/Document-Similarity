@@ -3,6 +3,7 @@
 /m/04wwm_
 Alan Hollinghurst
 1988-08-12
+{"/m/02xlf": "Fiction"}
 21 1
 a 66
 abandoned 1

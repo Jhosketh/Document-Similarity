@@ -3,6 +3,7 @@
 /m/093h12
 Joan Didion
 1970
+{"/m/02xlf": "Fiction"}
 31yearold 1
 4yearold 1
 a 17

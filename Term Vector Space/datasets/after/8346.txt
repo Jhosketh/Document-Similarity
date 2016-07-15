@@ -3,6 +3,7 @@
 /m/026sfwg
 Tony Hillerman
 1993
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 a 5
 and 2
 assigned 1

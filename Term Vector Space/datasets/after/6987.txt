@@ -3,6 +3,7 @@
 /m/0fbr5c
 Gabriel García Márquez
 1955
+{"/m/0l67h": "Novella"}
 a 14
 accompany 1
 actually 1

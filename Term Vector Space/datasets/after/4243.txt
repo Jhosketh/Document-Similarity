@@ -3,6 +3,7 @@
 /m/08mnt3
 Michael Foreman
 1993-10-07
+{"/m/098tmk": "War novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 114 1
 138 1
 18 1

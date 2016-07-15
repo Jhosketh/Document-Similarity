@@ -3,6 +3,7 @@
 /m/0d4cmw
 James Bassett
 1962
+{"/m/098tmk": "War novel"}
 a 19
 aboard 2
 about 1

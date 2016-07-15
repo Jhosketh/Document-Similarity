@@ -3,6 +3,7 @@
 /m/07d7f1
 Mark Twain
 1899-12
+{"/m/02xlf": "Fiction"}
 1 2
 20 1
 40000 1

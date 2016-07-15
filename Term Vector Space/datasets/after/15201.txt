@@ -3,6 +3,7 @@
 /m/0bwm99s
 Robert Westall
 1981
+{"/m/048945": "Ghost story", "/m/0dwly": "Children's literature", "/m/059r08": "Psychological novel"}
 a 8
 across 1
 actions 1

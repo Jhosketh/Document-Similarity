@@ -3,6 +3,7 @@
 /m/026w188
 Russell Hoban
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/06mq7": "Science", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 across 2
 after 2

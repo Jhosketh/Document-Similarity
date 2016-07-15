@@ -3,6 +3,7 @@
 /m/040f_6
 William Faulkner
 1931
+{"/m/02xlf": "Fiction"}
 12 1
 151 1
 20th 1

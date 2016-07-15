@@ -3,6 +3,7 @@
 /m/098_fd
 Joy Kogawa
 1981
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 172 1
 36 1
 a 6

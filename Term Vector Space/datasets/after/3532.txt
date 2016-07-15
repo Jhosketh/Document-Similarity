@@ -3,6 +3,7 @@
 /m/074242
 Terry Brooks
 2001-09-18
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 above 1
 access 1

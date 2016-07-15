@@ -3,6 +3,7 @@
 /m/06dvj0
 Alexandra Ripley
 1991-09
+{"/m/014dsx": "Travel", "/m/05hgj": "Novel", "/m/03g3w": "History", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 a 39
 abound 1
 about 5

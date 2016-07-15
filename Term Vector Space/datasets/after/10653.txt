@@ -3,6 +3,7 @@
 /m/02z9dts
 Diana Gabaldon
 
+{"/m/0l67h": "Novella", "/m/0hwxm": "Historical novel"}
 a 4
 abbey 1
 and 3

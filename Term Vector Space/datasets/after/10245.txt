@@ -3,6 +3,7 @@
 /m/02vqlkq
 Andrew Greeley
 1995-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 description 1
 outline 1
 plot 1

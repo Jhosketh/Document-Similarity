@@ -3,6 +3,7 @@
 /m/04pwz4
 Charles Dickens
 1845
+{"/m/0l67h": "Novella"}
 a 10
 acts 1
 actually 1

@@ -3,6 +3,7 @@
 /m/0c4d_b
 Beatrix Potter
 1906
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 26
 about 1
 again 1

@@ -3,6 +3,7 @@
 /m/0d4rgz
 Janny Wurts
 2007-11-05
+{"/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 7
 across 1
 against 1

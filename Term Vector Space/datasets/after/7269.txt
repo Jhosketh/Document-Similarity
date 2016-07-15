@@ -3,6 +3,7 @@
 /m/0g1jm8
 Tim Powers
 1989-09
+{"/m/01hmnh": "Fantasy", "/m/035qb4": "Historical fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 13
 able 2
 about 1

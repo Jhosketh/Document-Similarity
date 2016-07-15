@@ -3,6 +3,7 @@
 /m/05rkqc
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 accomplice 1
 actress 1

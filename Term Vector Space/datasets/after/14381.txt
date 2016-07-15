@@ -3,6 +3,7 @@
 /m/076v_n4
 Danielle Steel
 2003-11
+{"/m/05hgj": "Novel"}
 a 3
 allows 1
 an 3

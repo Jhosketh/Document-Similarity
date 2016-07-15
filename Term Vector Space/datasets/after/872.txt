@@ -3,6 +3,7 @@
 /m/01xrd_
 Terry Pratchett
 1990
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 13yearold 1
 a 19
 abandoned 1

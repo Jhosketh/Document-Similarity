@@ -3,6 +3,7 @@
 /m/0cfvd
 Albert Camus
 
+{"/m/0lsxr": "Crime Fiction", "/m/02m4t": "Existentialism", "/m/02xlf": "Fiction", "/m/0pym5": "Absurdist fiction", "/m/0c3351": "Suspense"}
 a 18
 able 3
 about 1

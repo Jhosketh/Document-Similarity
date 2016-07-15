@@ -3,6 +3,7 @@
 /m/0f2z7p
 Beverly Cleary
 1967
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 alan 2
 also 1

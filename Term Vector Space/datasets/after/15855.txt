@@ -3,6 +3,7 @@
 /m/04y01c
 Roger Zelazny
 1965-10
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 4 1
 a 12
 about 1

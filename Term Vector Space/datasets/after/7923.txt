@@ -3,6 +3,7 @@
 /m/025zmk7
 James Ellroy
 1986-10
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 a 34
 about 3
 abruptly 1

@@ -3,6 +3,7 @@
 /m/03dsb8
 Richard Condon
 1990-01
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 an 1
 and 2

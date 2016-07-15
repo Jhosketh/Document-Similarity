@@ -3,6 +3,7 @@
 /m/0dgnxsj
 Iain Banks
 2010-10-07
+{"/m/06n90": "Science Fiction"}
 270 1
 70 1
 a 21

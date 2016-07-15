@@ -3,6 +3,7 @@
 /m/03g_vks
 James Patterson
 
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 106 1
 a 11
 adopts 1

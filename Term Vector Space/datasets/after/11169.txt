@@ -3,6 +3,7 @@
 /m/03d29b5
 John Grisham
 2008-01-29
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 3 1
 38 1
 a 7

@@ -3,6 +3,7 @@
 /m/04gpw_w
 Barbara Hambly
 1991-02-01
+{"/m/06n90": "Science Fiction"}
 a 2
 advances 1
 and 2

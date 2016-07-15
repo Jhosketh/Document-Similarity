@@ -3,6 +3,7 @@
 /m/02qxk27
 Louis Sachar
 1994
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/04rjg": "Mathematics"}
 10 2
 100 2
 1000 1

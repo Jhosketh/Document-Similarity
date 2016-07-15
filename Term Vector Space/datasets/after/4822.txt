@@ -3,6 +3,7 @@
 /m/09pfky
 Henry Mackenzie
 1771
+{"/m/02xlf": "Fiction", "/m/037mh8": "Philosophy"}
 a 22
 acquaintance 1
 acquire 2

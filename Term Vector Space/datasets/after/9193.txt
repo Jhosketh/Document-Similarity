@@ -3,6 +3,7 @@
 /m/02pn130
 Jim Butcher
 2001-01-01
+{"/m/0lsxr": "Crime Fiction", "/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 about 2
 adviser 1

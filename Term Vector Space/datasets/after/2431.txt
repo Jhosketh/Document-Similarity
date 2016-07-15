@@ -3,6 +3,7 @@
 /m/04w_zk
 Michael Chabon
 1988-04
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 adventure 1
 adventures 1

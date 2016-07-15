@@ -3,6 +3,7 @@
 /m/06xz23
 Beverly Cleary
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 6
 accept 1
 also 1

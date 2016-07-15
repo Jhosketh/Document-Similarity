@@ -3,6 +3,7 @@
 /m/055y1t
 Victor Hugo
 
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 15 2
 160 2
 1682 1

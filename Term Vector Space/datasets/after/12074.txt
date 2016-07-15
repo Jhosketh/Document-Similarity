@@ -3,6 +3,7 @@
 /m/04167y4
 Thomas Gifford
 1990-08
+{"/m/01jfsb": "Thriller"}
 182 1
 a 5
 activist 1

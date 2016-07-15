@@ -3,6 +3,7 @@
 /m/05gn8r
 Kelley Armstrong
 2001-10-01
+{"/m/03npn": "Horror", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 16
 adexec 1
 after 1

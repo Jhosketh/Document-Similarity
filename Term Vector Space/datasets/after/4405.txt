@@ -3,6 +3,7 @@
 /m/08zrpv
 Douglas Coupland
 2006-05-09
+{"/m/02ql9": "Epistolary novel", "/m/06nbt": "Satire", "/m/02xlf": "Fiction"}
 a 14
 abandon 1
 able 1

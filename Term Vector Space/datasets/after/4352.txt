@@ -3,6 +3,7 @@
 /m/08tw69
 Saul Bellow
 1944
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 acts 1
 along 1

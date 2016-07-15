@@ -3,6 +3,7 @@
 /m/02x42x7
 Sherwood Smith
 1997-04-01
+{"/m/057pyk": "Fantasy of manners", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 alike 1
 alliances 1

@@ -3,6 +3,7 @@
 /m/05p_wv
 Samuel R. Delany
 1994
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 173 1
 180s 1
 a 4

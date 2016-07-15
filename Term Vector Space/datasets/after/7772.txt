@@ -3,6 +3,7 @@
 /m/0h5n0h
 George Sand
 1831
+{"/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 1830 1
 a 6
 accept 1

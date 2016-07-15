@@ -3,6 +3,7 @@
 /m/0bv29r
 Cornelia Funke
 2000
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 21
 abandoned 2
 ability 1

@@ -3,6 +3,7 @@
 /m/02v_1f
 Fyodor Dostoyevsky
 1880-11
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 49
 able 1
 about 1

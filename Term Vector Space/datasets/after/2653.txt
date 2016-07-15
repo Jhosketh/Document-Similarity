@@ -3,6 +3,7 @@
 /m/058fgy
 Cormac McCarthy
 1994-06
+{"/m/02xlf": "Fiction"}
 22 1
 a 20
 across 1

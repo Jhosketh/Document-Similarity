@@ -3,6 +3,7 @@
 /m/0g7tz
 Philip K. Dick
 1974
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia", "/m/05hgj": "Novel"}
 30 1
 46th 1
 a 37

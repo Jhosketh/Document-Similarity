@@ -3,6 +3,7 @@
 /m/02cx44
 Gabriel García Márquez
 1975
+{"/m/05hgj": "Novel"}
 alongside 1
 and 6
 are 1

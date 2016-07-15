@@ -3,6 +3,7 @@
 /m/05dmr_
 Ryu Murakami
 1997
+{"/m/05hgj": "Novel"}
 2 1
 a 2
 accompanying 1

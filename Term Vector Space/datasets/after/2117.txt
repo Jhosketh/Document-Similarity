@@ -3,6 +3,7 @@
 /m/047yzb
 Jon Krakauer
 1996
+{"/m/014dsx": "Travel", "/m/017fp": "Biography", "/m/04z2hx": "Travel literature", "/m/014dfn": "Speculative fiction", "/m/05h83": "Non-fiction", "/m/0xdf": "Autobiography"}
 10 1
 11 1
 12 1

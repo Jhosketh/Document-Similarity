@@ -3,6 +3,7 @@
 /m/027glm8
 Georgette Heyer
 1938
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 21yearold 1
 a 1
 after 1

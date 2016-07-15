@@ -3,6 +3,7 @@
 /m/027txp4
 Ruth Rendell
 1996-03-28
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 6
 and 3
 befriends 1

@@ -3,6 +3,7 @@
 /m/080pw5j
 Herta Müller
 1993
+{"/m/05hgj": "Novel", "/m/01jym": "Bildungsroman"}
 a 11
 acquire 1
 acting 1

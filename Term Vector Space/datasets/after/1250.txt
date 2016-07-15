@@ -3,6 +3,7 @@
 /m/02nl51
 Robert Louis Stevenson
 1888
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/02p0szs": "Historical fiction"}
 14221461 1
 14551487 1
 14701471 1

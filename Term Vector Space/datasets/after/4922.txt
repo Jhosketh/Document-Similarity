@@ -3,6 +3,7 @@
 /m/09ws61
 Conn Iggulden
 2006-01-02
+{"/m/0mz2": "Alternate history", "/m/0hwxm": "Historical novel"}
 a 19
 actions 1
 acts 1

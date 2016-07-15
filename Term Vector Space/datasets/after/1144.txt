@@ -3,6 +3,7 @@
 /m/02fwtj
 Philip Roth
 1997-05-12
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14 1
 168 1
 173 1

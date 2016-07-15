@@ -3,6 +3,7 @@
 /m/02v_qxq
 Jack Womack
 1993
+{"/m/026ny": "Dystopia", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c082": "Utopian and dystopian fiction"}
 107 1
 141 1
 144 1

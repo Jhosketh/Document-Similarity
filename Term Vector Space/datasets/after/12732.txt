@@ -3,6 +3,7 @@
 /m/04jbq83
 Caroline Lawrence
 2005
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 a 8
 abductees 1
 able 1

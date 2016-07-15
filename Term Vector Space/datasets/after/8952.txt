@@ -3,6 +3,7 @@
 /m/027_xql
 Minette Walters
 2006-03-03
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 124 1
 a 1
 and 3

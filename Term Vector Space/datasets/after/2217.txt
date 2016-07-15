@@ -3,6 +3,7 @@
 /m/04gn_h
 Alex Haley
 1976-08-17
+{"/m/012jgz": "Autobiographical novel", "/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/05hgj": "Novel"}
 1767 1
 1865alex 1
 a 4

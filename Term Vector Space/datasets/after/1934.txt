@@ -3,6 +3,7 @@
 /m/03x7ct
 Richard Mason
 1957
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 after 1
 although 1

@@ -3,6 +3,7 @@
 /m/02z6zg
 Iain Banks
 1985-03-07
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 admiral 1
 ago 1

@@ -3,6 +3,7 @@
 /m/0br0s0
 Tove Jansson
 1948
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 13
 absentmindedly 1
 after 1

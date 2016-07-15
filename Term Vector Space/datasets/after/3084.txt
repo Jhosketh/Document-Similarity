@@ -3,6 +3,7 @@
 /m/06660w
 Joaquim Maria Machado de Assis
 1881
+{"/m/05hgj": "Novel"}
 20th 1
 a 5
 about 1

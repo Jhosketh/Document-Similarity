@@ -3,6 +3,7 @@
 /m/012mhj
 Isaac Asimov
 1955
+{"/m/05hgj": "Novel", "/m/07s2s": "Time travel", "/m/014dfn": "Speculative fiction", "/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 132 3
 145 1
 20th 1

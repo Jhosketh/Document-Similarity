@@ -3,6 +3,7 @@
 /m/03bzngg
 Jodi Picoult
 2001
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 a 21
 abandons 1
 about 2

@@ -3,6 +3,7 @@
 /m/0267t3p
 Dan Simmons
 1996-02
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 274 2
 3 1
 5 1

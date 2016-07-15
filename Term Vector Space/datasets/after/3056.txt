@@ -3,6 +3,7 @@
 /m/064gxq
 Terry Brooks
 1990-03
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 32
 about 3
 accomplish 1

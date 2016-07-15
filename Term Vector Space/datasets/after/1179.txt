@@ -3,6 +3,7 @@
 /m/02k1xh
 Umberto Eco
 2000
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1155 1
 1204 1
 15 1

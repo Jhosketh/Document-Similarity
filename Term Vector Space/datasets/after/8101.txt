@@ -3,6 +3,7 @@
 /m/0268zpr
 Lise Leroux
 1961
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 6
 abroad 1
 an 1

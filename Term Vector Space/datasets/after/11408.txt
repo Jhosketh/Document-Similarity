@@ -3,6 +3,7 @@
 /m/03h1848
 Bruce Cook
 2000
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 1
 aliens 1
 and 1

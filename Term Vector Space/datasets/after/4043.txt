@@ -3,6 +3,7 @@
 /m/02wv9h4
 Gillian Rubinstein
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 abductors 1
 abilities 1

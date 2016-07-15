@@ -3,6 +3,7 @@
 /m/03chfcr
 Christopher Brookmyre
 2005
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/0vgkd": "Black comedy", "/m/0c3351": "Suspense"}
 46yearold 1
 a 2
 aided 1

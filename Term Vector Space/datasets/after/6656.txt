@@ -3,6 +3,7 @@
 /m/0dpn67
 Peter O'Donnell
 1976-05-06
+{"/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 about 1
 after 1

@@ -3,6 +3,7 @@
 /m/027g5ny
 Katherine Roberts
 
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 20
 about 2
 accept 1

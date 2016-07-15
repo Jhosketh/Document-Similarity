@@ -3,6 +3,7 @@
 /m/03d6d9f
 James Baldwin
 1979
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 africa 1
 and 2

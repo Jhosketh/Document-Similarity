@@ -3,6 +3,7 @@
 /m/0bwm91
 Nevil Shute
 1932
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 130 1
 a 33
 abbot 1

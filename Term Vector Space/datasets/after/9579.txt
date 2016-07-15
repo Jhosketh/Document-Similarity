@@ -3,6 +3,7 @@
 /m/02qjx52
 Poul Anderson
 1973
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 16
 abbreviate 1
 about 1

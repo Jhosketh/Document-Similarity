@@ -3,6 +3,7 @@
 /m/0264j2z
 Robert McCloskey
 1948
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 a 7
 act 1
 actions 1

@@ -3,6 +3,7 @@
 /m/03_w0r
 James D. Houston
 1972
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0dwly": "Children's literature", "/m/05h83": "Non-fiction", "/m/016chh": "Memoir"}
 066 1
 11070 1
 141 2

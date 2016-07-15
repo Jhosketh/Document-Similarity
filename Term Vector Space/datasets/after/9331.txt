@@ -3,6 +3,7 @@
 /m/02pxr_1
 Gene Yang
 2006-09
+{"/m/0dwly": "Children's literature", "/m/0py0z": "Graphic novel"}
 a 4
 academic 1
 accent 1

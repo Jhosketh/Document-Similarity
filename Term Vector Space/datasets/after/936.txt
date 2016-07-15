@@ -3,6 +3,7 @@
 /m/01_y0h
 Sebastian Junger
 1997-05-17
+{"/m/05h0n": "Nature", "/m/017fp": "Biography"}
 11 1
 a 4
 aboard 2

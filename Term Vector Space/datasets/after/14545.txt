@@ -3,6 +3,7 @@
 /m/080b896
 Charlaine Harris
 2010-05-04
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 able 1
 adolescent 1

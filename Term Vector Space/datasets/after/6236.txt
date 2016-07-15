@@ -3,6 +3,7 @@
 /m/0d6dcv
 Ruth Rendell
 1992-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 6
 agatha 1
 already 1

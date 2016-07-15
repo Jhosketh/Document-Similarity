@@ -3,6 +3,7 @@
 /m/04n02yr
 Lilian Jackson Braun
 2003
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 82 1
 a 4
 about 1

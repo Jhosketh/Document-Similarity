@@ -3,6 +3,7 @@
 /m/02y48b
 Donatien Alphonse François de Sade, Marquis de Sade
 1797
+{"/m/039vk": "Gothic fiction", "/m/02js9": "Erotica"}
 13 2
 1767 1
 30 1

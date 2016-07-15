@@ -3,6 +3,7 @@
 /m/02wlj1
 Thomas Hughes
 1857
+{"/m/09tvt3": "School story", "/m/0dwly": "Children's literature", "/m/04bc5fq": "English public-school stories", "/m/04bc5fy": "Boys' school stories", "/m/05hgj": "Novel"}
 a 15
 academically 1
 according 1

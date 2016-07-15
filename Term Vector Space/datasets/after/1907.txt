@@ -3,6 +3,7 @@
 /m/03vkf8
 David Brin
 1987
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10000 1
 100000 1
 248 1

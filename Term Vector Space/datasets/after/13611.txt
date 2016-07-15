@@ -3,6 +3,7 @@
 /m/05f6nxd
 William Hurrell Mallock
 
+{"/m/06nbt": "Satire", "/m/0c082": "Utopian and dystopian fiction"}
 a 16
 abroad 1
 age 1

@@ -3,6 +3,7 @@
 /m/0b6p034
 Robert B. Parker
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction"}
 a 10
 able 1
 about 1

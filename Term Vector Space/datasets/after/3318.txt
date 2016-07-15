@@ -3,6 +3,7 @@
 /m/06p6rh
 Raul Pompéia
 1888
+{"/m/05hgj": "Novel"}
 a 7
 accept 1
 afterhe 1

@@ -3,6 +3,7 @@
 /m/0j_mj
 Edwin Abbott Abbott
 1884
+{"/m/06n90": "Science Fiction", "/m/0l67h": "Novella", "/m/014dfn": "Speculative fiction", "/m/06mq7": "Science", "/m/02xlf": "Fiction", "/m/04rjg": "Mathematics", "/m/01gw42": "Scientific romance"}
 a 14
 able 1
 about 2

@@ -3,6 +3,7 @@
 /m/07_20v
 Rob Grant
 1989-11-02
+{"/m/06n90": "Science Fiction", "/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction"}
 2180 1
 25th 1
 5 6

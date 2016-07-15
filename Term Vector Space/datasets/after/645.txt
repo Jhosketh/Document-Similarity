@@ -3,6 +3,7 @@
 /m/01gvq9
 Graham Greene
 1969
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 absence 1
 acquaintances 1

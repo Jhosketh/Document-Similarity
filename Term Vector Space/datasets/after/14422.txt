@@ -3,6 +3,7 @@
 /m/07k4_8h
 Edith Pargeter
 1981-05
+{"/m/0lsxr": "Crime Fiction", "/m/0py65": "Historical whodunnit"}
 113 3
 13 1
 30 1

@@ -3,6 +3,7 @@
 /m/04f0xln
 Gordon Korman
 1982
+{"/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel"}
 a 18
 across 1
 actually 1

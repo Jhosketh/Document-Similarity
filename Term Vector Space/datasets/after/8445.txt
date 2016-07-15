@@ -3,6 +3,7 @@
 /m/0270q5z
 Edward Plunkett, 18th Baron Dunsany
 1924
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 abandoning 1
 all 1

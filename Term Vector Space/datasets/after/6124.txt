@@ -3,6 +3,7 @@
 /m/0d0lvh
 John Farris
 1976
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 5
 age 1
 and 4

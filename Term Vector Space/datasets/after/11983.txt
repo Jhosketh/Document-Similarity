@@ -3,6 +3,7 @@
 /m/0406f6n
 Jason Goodwin
 2006-05-16
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 1826 1
 a 5
 against 1

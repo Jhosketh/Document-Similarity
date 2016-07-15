@@ -3,6 +3,7 @@
 /m/0438_v
 Yukio Mishima
 1966
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 1
 10 1
 104 1

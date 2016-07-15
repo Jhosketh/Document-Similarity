@@ -3,6 +3,7 @@
 /m/0980zp
 Bernard Cornwell
 1997-06-02
+{"/m/0hwxm": "Historical novel"}
 200 1
 2000 1
 a 8

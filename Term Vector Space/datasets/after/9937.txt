@@ -3,6 +3,7 @@
 /m/02r974w
 William Morris
 1894
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 adventure 1
 after 1

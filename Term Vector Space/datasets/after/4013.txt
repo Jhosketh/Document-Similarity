@@ -3,6 +3,7 @@
 /m/083pnq
 H. G. Wells
 1901
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/06www": "Steampunk", "/m/01gw42": "Scientific romance"}
 1 1
 a 23
 about 5

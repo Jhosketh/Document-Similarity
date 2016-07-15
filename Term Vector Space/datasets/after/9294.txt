@@ -3,6 +3,7 @@
 /m/02pv16q
 Chris Riddell
 1998-10-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 26
 abandoned 1
 about 3

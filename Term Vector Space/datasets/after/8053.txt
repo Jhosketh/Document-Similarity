@@ -3,6 +3,7 @@
 /m/0kvc03
 Gerald McDermott
 
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 a 2
 acknowledges 1
 adults 1

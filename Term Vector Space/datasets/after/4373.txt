@@ -3,6 +3,7 @@
 /m/08x12t
 Lloyd Alexander
 1966
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 18 1
 a 36
 abandoned 1

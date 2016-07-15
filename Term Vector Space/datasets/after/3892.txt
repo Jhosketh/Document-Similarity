@@ -3,6 +3,7 @@
 /m/07x9bp
 Kate Tremayne
 1999-11-25
+{"/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 1767 1
 a 4
 according 1

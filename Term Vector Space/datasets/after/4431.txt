@@ -3,6 +3,7 @@
 /m/090xbl
 Patrick White
 1957
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1845 1
 a 8
 aborigines 1

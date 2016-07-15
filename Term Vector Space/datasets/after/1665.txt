@@ -3,6 +3,7 @@
 /m/03f376
 Michael Crichton
 1992-01-27
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 23 1
 45th 1
 46th 2

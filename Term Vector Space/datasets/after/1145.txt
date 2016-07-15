@@ -3,6 +3,7 @@
 /m/02g17y
 David Graham
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 1200 1
 a 23
 able 1

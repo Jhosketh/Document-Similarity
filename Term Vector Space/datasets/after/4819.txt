@@ -3,6 +3,7 @@
 /m/09pbm3
 Christopher Golden
 2002-07
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 about 1
 actions 1

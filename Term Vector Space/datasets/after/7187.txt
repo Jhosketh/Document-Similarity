@@ -3,6 +3,7 @@
 /m/0fvqmb
 Frederick Forsyth
 2006
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2 2
 a 21
 able 1

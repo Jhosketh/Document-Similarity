@@ -3,6 +3,7 @@
 /m/03zxmp
 Clive Barker
 2001
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 120s 1
 2000 1
 a 7

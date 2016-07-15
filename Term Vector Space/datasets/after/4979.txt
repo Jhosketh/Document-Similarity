@@ -3,6 +3,7 @@
 /m/09zvwl
 Janet Evanovich
 2001-06-19
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 adds 1
 aid 1

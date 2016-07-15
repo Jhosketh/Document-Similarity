@@ -3,6 +3,7 @@
 /m/03y8tnr
 Robert James Waller
 2002-04
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 3
 affair 1
 again 1

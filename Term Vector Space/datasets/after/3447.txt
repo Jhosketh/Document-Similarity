@@ -3,6 +3,7 @@
 /m/06_j3f
 Freeman Wills Crofts
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 4
 action 1
 agents 1

@@ -3,6 +3,7 @@
 /m/02xs_s
 Nikolai Gogol
 1842
+{"/m/02xlf": "Fiction"}
 1th 1
 400 1
 a 17

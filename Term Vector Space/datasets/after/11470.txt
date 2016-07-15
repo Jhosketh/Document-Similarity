@@ -3,6 +3,7 @@
 /m/03hhl2f
 Bernard Werber
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 37 1
 a 6
 adjemian 2

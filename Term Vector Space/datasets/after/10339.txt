@@ -3,6 +3,7 @@
 /m/02w06s8
 Francisco Jimenez
 1997
+{"/m/012jgz": "Autobiographical novel", "/m/0dwly": "Children's literature"}
 a 18
 about 1
 account 1

@@ -3,6 +3,7 @@
 /m/0ddh91q
 Gordon Dahlquist
 2007
+{"/m/05hgj": "Novel", "/m/06www": "Steampunk"}
 a 3
 adventures 1
 alternative 2

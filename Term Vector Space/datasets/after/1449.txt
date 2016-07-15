@@ -3,6 +3,7 @@
 /m/02p2sl0
 Patrick O'Brian
 1999
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 30
 aboard 2
 about 2

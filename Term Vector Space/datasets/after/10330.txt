@@ -3,6 +3,7 @@
 /m/02v_k3f
 Marcus Sedgwick
 2003-07-17
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 15 2
 a 16
 about 2

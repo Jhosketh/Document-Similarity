@@ -3,6 +3,7 @@
 /m/02rprvk
 Frances Hardinge
 2007-05-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 9
 accident 1
 all 2

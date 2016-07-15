@@ -3,6 +3,7 @@
 /m/03l3rs
 Wallace Stegner
 1971
+{"/m/05hgj": "Novel"}
 a 4
 active 1
 add 1

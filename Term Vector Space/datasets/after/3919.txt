@@ -3,6 +3,7 @@
 /m/07y2f7
 Carrie Fisher
 2004-01
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 a 16
 ability 1
 about 1

@@ -3,6 +3,7 @@
 /m/03c8x2c
 Harlan Coben
 2004-04
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 4
 about 1
 after 1

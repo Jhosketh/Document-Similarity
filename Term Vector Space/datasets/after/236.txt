@@ -3,6 +3,7 @@
 /m/0gnkp
 Sinclair Lewis
 1929
+{"/m/05hgj": "Novel"}
 125 1
 127 1
 a 17

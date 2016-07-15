@@ -3,6 +3,7 @@
 /m/0ccdwr
 Ann Turnbull
 2006
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 8
 after 1
 alive 1

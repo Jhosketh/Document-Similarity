@@ -3,6 +3,7 @@
 /m/047p3yj
 Meg Rosoff
 2006-08-03
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/0127jb": "Magic realism"}
 a 1
 acquires 1
 adopted 1

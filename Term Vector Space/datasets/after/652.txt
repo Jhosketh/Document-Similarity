@@ -3,6 +3,7 @@
 /m/01hdys
 William Faulkner
 1929
+{"/m/039vk": "Gothic fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 10 1
 100 1
 110 1

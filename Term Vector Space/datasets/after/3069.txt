@@ -3,6 +3,7 @@
 /m/065922
 Walter Scott
 1825-06-22
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 20
 abandoned 1
 about 1

@@ -3,6 +3,7 @@
 /m/03czt6q
 Amanda Filipacchi
 1993
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 about 1
 advances 1

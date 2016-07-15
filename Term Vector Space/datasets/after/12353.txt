@@ -3,6 +3,7 @@
 /m/047txwz
 Janny Wurts
 1990-09-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 acoma 3
 acquiring 1

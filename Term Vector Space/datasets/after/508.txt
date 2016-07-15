@@ -3,6 +3,7 @@
 /m/017d_b
 Frank Herbert
 1982
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 16 1
 20 1
 a 8

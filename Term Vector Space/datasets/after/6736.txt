@@ -3,6 +3,7 @@
 /m/0dv8fz
 Troy Denning
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 after 1
 agent 1

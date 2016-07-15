@@ -3,6 +3,7 @@
 /m/04gj21v
 
 1976
+{"/m/02yq81": "Comic novel", "/m/0xdf": "Autobiography", "/m/06nbt": "Satire"}
 143 1
 a 8
 about 2

@@ -3,6 +3,7 @@
 /m/0285jy7
 Michael Dibdin
 2005-08-04
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 11
 about 1
 academic 1

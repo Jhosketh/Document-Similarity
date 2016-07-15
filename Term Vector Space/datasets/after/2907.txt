@@ -3,6 +3,7 @@
 /m/05wh9r
 Bruce Sterling
 1988
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 20232025 1
 21st 1
 a 28

@@ -3,6 +3,7 @@
 /m/025zp5w
 Philippa Gregory
 2006
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 153 1
 1536 1
 300 1

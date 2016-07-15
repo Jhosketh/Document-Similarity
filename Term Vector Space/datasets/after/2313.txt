@@ -3,6 +3,7 @@
 /m/04p4j3
 Salman Rushdie
 1990-09-27
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0127jb": "Magic realism", "/m/05hgj": "Novel"}
 a 45
 able 1
 about 2

@@ -3,6 +3,7 @@
 /m/01zpn_
 George Orwell
 1934-10
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 120s 1
 35yearold 1
 a 42

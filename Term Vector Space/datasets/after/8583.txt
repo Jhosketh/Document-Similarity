@@ -3,6 +3,7 @@
 /m/0279csk
 Alessandro Baricco
 1996
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1th 1
 a 3
 african 1

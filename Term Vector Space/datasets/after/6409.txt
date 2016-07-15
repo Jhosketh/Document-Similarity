@@ -3,6 +3,7 @@
 /m/0df83t
 Lane Smith
 1989
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 3
 after 1
 and 5

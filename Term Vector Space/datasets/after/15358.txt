@@ -3,6 +3,7 @@
 /m/0ch5jvb
 Rebecca Stead
 2007
+{"/m/02n4kr": "Mystery", "/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 a 9
 abilities 1
 ability 1

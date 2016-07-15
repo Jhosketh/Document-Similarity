@@ -3,6 +3,7 @@
 /m/03m6t9l
 Carson McCullers
 1941
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 after 1
 alison 1

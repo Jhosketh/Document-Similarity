@@ -3,6 +3,7 @@
 /m/09g7vz9
 Michelle Paver
 2006
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 11
 about 2
 acolyte 1

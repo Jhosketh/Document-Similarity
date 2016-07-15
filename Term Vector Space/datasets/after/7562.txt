@@ -3,6 +3,7 @@
 /m/0gs5yc
 Caroline B. Cooney
 2001-10-09
+{"/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 100 1
 15 1
 a 2

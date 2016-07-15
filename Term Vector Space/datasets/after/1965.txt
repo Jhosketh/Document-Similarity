@@ -3,6 +3,7 @@
 /m/03zvmd
 Larry McMurtry
 1997
+{"/m/0hfjk": "Western", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 11
 able 1
 accompanied 1

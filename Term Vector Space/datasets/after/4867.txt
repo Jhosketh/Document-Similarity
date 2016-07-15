@@ -3,6 +3,7 @@
 /m/09rql2
 Gottfried Keller
 
+{"/m/01jym": "Bildungsroman"}
 a 7
 abandoning 1
 activities 1

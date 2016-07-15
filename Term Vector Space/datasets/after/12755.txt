@@ -3,6 +3,7 @@
 /m/04jjpl7
 Melissa Marr
 2008-04-24
+{"/m/02vzzv": "Urban fantasy", "/m/03mfnf": "Young adult literature"}
 17 1
 a 16
 adjusted 1

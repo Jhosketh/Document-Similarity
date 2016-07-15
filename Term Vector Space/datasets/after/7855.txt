@@ -3,6 +3,7 @@
 /m/025wqfc
 Scott Lynch
 2007-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 3
 against 1
 all 2

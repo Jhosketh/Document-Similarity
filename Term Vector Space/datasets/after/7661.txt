@@ -3,6 +3,7 @@
 /m/0gz3jw
 Judith Guest
 1976-07
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/059r08": "Psychological novel"}
 175 1
 a 10
 about 1

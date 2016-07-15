@@ -3,6 +3,7 @@
 /m/09c574
 Booth Tarkington
 
+{"/m/02xlf": "Fiction"}
 20th 1
 a 4
 affections 1

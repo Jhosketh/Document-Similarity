@@ -3,6 +3,7 @@
 /m/02rf17
 Halldór Laxness
 1934
+{"/m/05hgj": "Novel"}
 874 1
 a 13
 add 1

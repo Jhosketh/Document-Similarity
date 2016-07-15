@@ -3,6 +3,7 @@
 /m/04tzb2
 Brian Jacques
 1998
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 abbess 1
 abbey 1

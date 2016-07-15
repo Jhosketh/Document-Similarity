@@ -3,6 +3,7 @@
 /m/0cdjc2
 D.J. MacHale
 2004-08-03
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1th 1
 a 6
 according 1

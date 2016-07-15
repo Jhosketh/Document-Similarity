@@ -3,6 +3,7 @@
 /m/0d6mpy
 Georgette Heyer
 1953
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 7
 absence 2
 accept 2

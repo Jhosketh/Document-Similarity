@@ -3,6 +3,7 @@
 /m/0g90w9
 Timothy Zahn
 1999-08-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 32
 aboard 3
 about 2

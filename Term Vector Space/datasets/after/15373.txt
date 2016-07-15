@@ -3,6 +3,7 @@
 /m/0ch5q99
 Robert Silverberg
 1972
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 100 1
 21 1
 a 17

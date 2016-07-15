@@ -3,6 +3,7 @@
 /m/07xpzz
 Sidney Sheldon
 1982
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 124 1
 150 1
 182 2

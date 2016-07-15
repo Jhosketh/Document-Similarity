@@ -3,6 +3,7 @@
 /m/0d0lc7
 Victor Canning
 
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 3
 about 1
 alive 2

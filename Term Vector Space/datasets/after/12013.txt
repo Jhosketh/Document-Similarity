@@ -3,6 +3,7 @@
 /m/0408x_1
 Bruce Cook
 2001
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 1
 and 1
 anglia 1

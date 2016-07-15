@@ -3,6 +3,7 @@
 /m/09pb03
 Arthur Byron Cover
 1998-03-01
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 162 2
 17 1
 a 1

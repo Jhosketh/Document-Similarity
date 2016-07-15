@@ -3,6 +3,7 @@
 /m/0468p6
 Stephen King
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 185 1
 a 20
 able 1

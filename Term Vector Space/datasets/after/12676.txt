@@ -3,6 +3,7 @@
 /m/04gt_bg
 John Grisham
 2009-01-27
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 17
 accept 1
 access 1

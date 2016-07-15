@@ -3,6 +3,7 @@
 /m/0dbg4s
 Bernard Cornwell
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 8
 about 1
 acclamation 1

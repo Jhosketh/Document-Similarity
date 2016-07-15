@@ -3,6 +3,7 @@
 /m/06cdw8
 Julian Barnes
 1985
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 4
 affected 1
 also 1

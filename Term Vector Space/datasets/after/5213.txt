@@ -3,6 +3,7 @@
 /m/0bfw5f
 Rebecca Reisert
 2001-10
+{"/m/03g3w": "History", "/m/05hgj": "Novel", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0fr3y1": "Parallel novel"}
 a 2
 against 1
 and 1

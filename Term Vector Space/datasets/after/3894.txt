@@ -3,6 +3,7 @@
 /m/07xdpz
 Kate Tremayne
 2000-12-07
+{"/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 1
 adam 1
 also 1

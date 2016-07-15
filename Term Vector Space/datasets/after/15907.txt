@@ -3,6 +3,7 @@
 /m/0gg674k
 Becca Fitzpatrick
 
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 11 1
 a 30
 abandoned 1

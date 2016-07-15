@@ -3,6 +3,7 @@
 /m/05x2kt
 John Buchan, 1st Baron Tweedsmuir
 1919
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 118 1
 a 71
 about 1

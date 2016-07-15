@@ -3,6 +3,7 @@
 /m/05p7pzc
 Irvine Welsh
 2008
+{"/m/05hgj": "Novel"}
 10yearold 1
 a 8
 abandons 1

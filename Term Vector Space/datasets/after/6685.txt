@@ -3,6 +3,7 @@
 /m/0dqwkv
 Doris Lessing
 1974
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 able 1
 about 1

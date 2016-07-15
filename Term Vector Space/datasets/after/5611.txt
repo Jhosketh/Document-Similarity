@@ -3,6 +3,7 @@
 /m/0c74hy
 Octave Mirbeau
 1899
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 accompanied 1
 account 1

@@ -3,6 +3,7 @@
 /m/0557lq8
 David Weber
 2009-02
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 53
 aboard 2
 about 3

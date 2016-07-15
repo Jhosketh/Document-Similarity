@@ -3,6 +3,7 @@
 /m/0hhr7sc
 Anne McCaffrey
 1984
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature"}
 43 1
 a 5
 about 2

@@ -3,6 +3,7 @@
 /m/0f09_2
 C. J. Cherryh
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 accused 1
 affair 1

@@ -3,6 +3,7 @@
 /m/0dpn89
 Peter O'Donnell
 1978-10-05
+{"/m/014dfn": "Speculative fiction", "/m/06wkf": "Spy fiction"}
 a 5
 adrift 1
 advances 1

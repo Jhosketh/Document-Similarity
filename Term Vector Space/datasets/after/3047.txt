@@ -3,6 +3,7 @@
 /m/06476t
 Franklin W. Dixon
 1927-06-01
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 15 1
 a 18
 abandoned 1

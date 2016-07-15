@@ -3,6 +3,7 @@
 /m/04zzwgp
 Howard Fast
 1977
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 12 1
 120s 1
 a 20

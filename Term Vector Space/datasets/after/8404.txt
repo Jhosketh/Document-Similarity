@@ -3,6 +3,7 @@
 /m/026xq1z
 Chris Riddell
 2006-09-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 5
 aboard 1
 against 1

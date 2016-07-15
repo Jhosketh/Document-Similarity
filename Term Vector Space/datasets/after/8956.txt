@@ -3,6 +3,7 @@
 /m/02800b5
 Lauren Weisberger
 2005
+{"/m/03h09f": "Chick lit", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160s 1
 8 1
 a 9

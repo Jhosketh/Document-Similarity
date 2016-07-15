@@ -3,6 +3,7 @@
 /m/02pg0d
 Lois Duncan
 1978-04
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 24
 abandon 1
 accepts 1

@@ -3,6 +3,7 @@
 /m/0fdt5
 Charlotte Brontë
 1847-10-16
+{"/m/05hgj": "Novel", "/m/02p6xz3": "Social criticism", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman", "/m/039vk": "Gothic fiction"}
 13 1
 20000 1
 2011 1

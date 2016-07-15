@@ -3,6 +3,7 @@
 /m/020wl9
 L. Frank Baum
 1917
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 20
 about 1
 across 2

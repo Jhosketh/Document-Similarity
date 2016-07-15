@@ -3,6 +3,7 @@
 /m/0263vy
 Thomas Hardy
 1886
+{"/m/05hgj": "Novel"}
 21 1
 a 40
 about 6

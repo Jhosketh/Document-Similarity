@@ -3,6 +3,7 @@
 /m/02vpg6h
 Andrew Greeley
 1994-11
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 description 1
 outline 1
 plot 1

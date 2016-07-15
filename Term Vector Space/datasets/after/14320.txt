@@ -3,6 +3,7 @@
 /m/06_vwp_
 Jonathan Stroud
 2009
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 accept 1
 actions 1

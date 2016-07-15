@@ -3,6 +3,7 @@
 /m/025wb1p
 William Goldman
 1976-08
+{"/m/03npn": "Horror", "/m/05hgj": "Novel"}
 a 8
 about 1
 actually 1

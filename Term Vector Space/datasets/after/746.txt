@@ -3,6 +3,7 @@
 /m/01nxb_
 Stephen King
 1986-09-15
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 157 1
 184 1
 a 40

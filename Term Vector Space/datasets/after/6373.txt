@@ -3,6 +3,7 @@
 /m/0dc_gw
 Ruth Rendell
 1971-03-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 20 1
 a 2
 about 1

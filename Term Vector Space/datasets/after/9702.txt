@@ -3,6 +3,7 @@
 /m/02qt1s3
 Yasunari Kawabata
 1964
+{"/m/0127jb": "Magic realism", "/m/0l67h": "Novella"}
 a 3
 actions 1
 and 5

@@ -3,6 +3,7 @@
 /m/01swpk
 Erich Maria Remarque
 1937
+{"/m/098tmk": "War novel", "/m/05hgj": "Novel"}
 a 10
 abrupt 1
 actual 1

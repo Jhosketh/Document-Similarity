@@ -3,6 +3,7 @@
 /m/014cyx
 Émile Zola
 1871-02
+{"/m/05hgj": "Novel"}
 166 1
 1th 1
 a 20

@@ -3,6 +3,7 @@
 /m/082m94
 Anthony Burgess
 1985-09-01
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 1
 abrahamic 1
 after 1

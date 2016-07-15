@@ -3,6 +3,7 @@
 /m/02mm4z
 Stephen King
 1983-11-14
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 31
 able 1
 about 6

@@ -3,6 +3,7 @@
 /m/02x87pj
 Laura Ingalls Wilder
 1939
+{"/m/0hfjk": "Western", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 187 1
 a 17
 adolescence 1

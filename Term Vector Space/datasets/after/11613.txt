@@ -3,6 +3,7 @@
 /m/03nrhp6
 James Norman Hall
 1934
+{"/m/03g3w": "History", "/m/05hgj": "Novel"}
 178 1
 1808 1
 a 2

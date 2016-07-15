@@ -3,6 +3,7 @@
 /m/06n5ry
 Roald Dahl
 1991
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 after 1
 all 2

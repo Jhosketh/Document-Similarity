@@ -3,6 +3,7 @@
 /m/026hqm2
 John Buchan, 1st Baron Tweedsmuir
 
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 15
 action 1
 addicted 1

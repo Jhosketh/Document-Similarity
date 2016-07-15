@@ -3,6 +3,7 @@
 /m/099b9_
 Gary A. Braunbeck
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 28
 abuse 1
 accident 2

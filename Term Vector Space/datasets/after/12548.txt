@@ -3,6 +3,7 @@
 /m/09v22gf
 Fritz Leiber
 1970
+{"/m/01hmnh": "Fantasy"}
 across 1
 adventure 1
 afterwards 1

@@ -3,6 +3,7 @@
 /m/0cyhn8
 George MacDonald Fraser
 1977
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 9
 accompany 1
 advisor 1

@@ -3,6 +3,7 @@
 /m/036vv4
 Hermann Hesse
 1919
+{"/m/05hgj": "Novel", "/m/0dwly": "Children's literature", "/m/04fqp": "K\u00fcnstlerroman", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 accompanied 1
 against 1

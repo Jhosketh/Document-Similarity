@@ -3,6 +3,7 @@
 /m/02x7f60
 Judith Krantz
 
+{"/m/0d6gr": "Reference", "/m/02xlf": "Fiction"}
 1 1
 10000 1
 a 24

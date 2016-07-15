@@ -3,6 +3,7 @@
 /m/08mz1c
 Margery Allingham
 1929
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 28
 abbershaw 14
 about 2

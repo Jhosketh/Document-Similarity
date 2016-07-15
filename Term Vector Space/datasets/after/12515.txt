@@ -3,6 +3,7 @@
 /m/04csd_b
 Colin Dexter
 1999-09-15
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 as 1
 at 1
 cardiac 1

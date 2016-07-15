@@ -3,6 +3,7 @@
 /m/07fxvh
 Marilynne Robinson
 1980
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 154 1
 20th 1
 a 8

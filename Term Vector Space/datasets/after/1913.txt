@@ -3,6 +3,7 @@
 /m/03vtpp
 William S. Burroughs
 1981
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 18th 1
 20th 1
 a 4

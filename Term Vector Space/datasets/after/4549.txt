@@ -3,6 +3,7 @@
 /m/096xmy
 Jane Austen
 1814-07
+{"/m/01jym": "Bildungsroman", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 10 1
 12 1
 16 1

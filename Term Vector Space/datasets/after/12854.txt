@@ -3,6 +3,7 @@
 /m/04lgkr7
 John P. Marquand
 
+{"/m/06wkf": "Spy fiction", "/m/08sdrw": "Adventure novel"}
 a 14
 abandoned 1
 about 1

@@ -3,6 +3,7 @@
 /m/0d26w3
 Arthur Ransome
 1940
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 7
 aboard 1
 adrift 2

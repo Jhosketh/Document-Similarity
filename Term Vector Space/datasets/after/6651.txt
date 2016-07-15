@@ -3,6 +3,7 @@
 /m/0dpm9g
 Chris Van Allsburg
 1993-10-25
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 7
 about 2
 after 1

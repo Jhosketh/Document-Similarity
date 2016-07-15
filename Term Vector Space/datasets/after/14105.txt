@@ -3,6 +3,7 @@
 /m/064m_qp
 Katherine Howe
 2009-06-09
+{"/m/0hwxm": "Historical novel"}
 a 7
 abandoned 1
 an 1

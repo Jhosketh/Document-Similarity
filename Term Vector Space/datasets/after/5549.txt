@@ -3,6 +3,7 @@
 /m/0c3ds_
 G. K. Chesterton
 1912
+{"/m/02n4kr": "Mystery", "/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy"}
 a 12
 absconded 1
 accompanied 1

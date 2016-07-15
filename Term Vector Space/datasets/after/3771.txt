@@ -3,6 +3,7 @@
 /m/07mn13
 P. G. Wodehouse
 1902-09-18
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/01z4y": "Comedy", "/m/02yq81": "Comic novel", "/m/09kqc": "Humour", "/m/02xlf": "Fiction"}
 a 1
 after 1
 and 3

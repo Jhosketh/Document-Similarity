@@ -3,6 +3,7 @@
 /m/02qx6r3
 Steven Pressfield
 
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 125 1
 a 1
 abandoned 1

@@ -3,6 +3,7 @@
 /m/01zpjz
 H. Rider Haggard
 1887
+{"/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction", "/m/050z5g": "Chivalric romance"}
 2000 1
 25 1
 25th 1

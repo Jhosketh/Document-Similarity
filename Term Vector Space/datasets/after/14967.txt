@@ -3,6 +3,7 @@
 /m/0b6j__f
 Charlie Huston
 2009-10-13
+{"/m/01jfsb": "Thriller", "/m/028v3": "Detective fiction", "/m/02vzzv": "Urban fantasy", "/m/0134b1": "Contemporary fantasy", "/m/03xj9g": "Hardboiled"}
 a 1
 arc 1
 as 1

@@ -3,6 +3,7 @@
 /m/04jgzy
 Walter B. Gibson
 1939-09
+{"/m/08sdrw": "Adventure novel"}
 a 2
 acquired 1
 aircraft 2

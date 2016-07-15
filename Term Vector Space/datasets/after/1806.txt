@@ -3,6 +3,7 @@
 /m/03n4q3
 Thomas Anstey Guthrie
 1882
+{"/m/01hmnh": "Fantasy"}
 a 5
 about 1
 academic 1

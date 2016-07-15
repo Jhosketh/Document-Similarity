@@ -3,6 +3,7 @@
 /m/07kx2p
 Sherwood Anderson
 1920
+{"/m/05hgj": "Novel"}
 america 1
 an 1
 bank 1

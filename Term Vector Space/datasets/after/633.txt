@@ -3,6 +3,7 @@
 /m/01g5nl
 Virginia Woolf
 1925-05-14
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 about 2
 act 1

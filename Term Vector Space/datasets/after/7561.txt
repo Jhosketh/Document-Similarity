@@ -3,6 +3,7 @@
 /m/0gs5qg
 Terry Brooks
 1988
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 10
 abernathy 6
 act 1

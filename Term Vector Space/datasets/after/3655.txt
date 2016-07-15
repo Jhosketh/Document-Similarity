@@ -3,6 +3,7 @@
 /m/07f40p
 Lewis Grassic Gibbon
 1932
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 aberdeen 1
 able 1

@@ -3,6 +3,7 @@
 /m/030yv8
 Daniel Handler
 2001-05
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/06www": "Steampunk", "/m/0pym5": "Absurdist fiction"}
 13th 1
 a 30
 about 2

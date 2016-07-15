@@ -3,6 +3,7 @@
 /m/02qy2p6
 Julie Bertagna
 2002-08
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 15yearold 1
 20th 1
 2100 1

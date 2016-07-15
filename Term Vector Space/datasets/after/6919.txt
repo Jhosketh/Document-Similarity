@@ -3,6 +3,7 @@
 /m/0f6jgr
 Laurell K. Hamilton
 2000-10-03
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 10
 about 1
 after 1

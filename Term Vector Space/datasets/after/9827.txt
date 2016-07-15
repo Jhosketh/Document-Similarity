@@ -3,6 +3,7 @@
 /m/02r1j_g
 Edward Irving Wortis
 2006-09
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 a 7
 after 1
 again 1

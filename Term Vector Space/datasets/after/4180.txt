@@ -3,6 +3,7 @@
 /m/08g9p4
 S. E. Hinton
 
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 9
 adultery 1
 adventure 1

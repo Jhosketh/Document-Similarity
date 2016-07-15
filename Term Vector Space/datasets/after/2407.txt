@@ -3,6 +3,7 @@
 /m/04v6z_
 Ernest Hemingway
 1935
+{"/m/014dsx": "Travel", "/m/017fp": "Biography", "/m/04z2hx": "Travel literature", "/m/05h83": "Non-fiction", "/m/02xlf": "Fiction", "/m/0xdf": "Autobiography"}
 1 1
 2 1
 3 1

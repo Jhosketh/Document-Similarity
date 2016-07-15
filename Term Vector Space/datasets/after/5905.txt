@@ -3,6 +3,7 @@
 /m/0cqnx6
 Alistair MacLean
 1959
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 20
 abandon 1
 abandoned 1

@@ -3,6 +3,7 @@
 /m/09mhlx
 Wally Lamb
 1998-06
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 able 1
 about 3

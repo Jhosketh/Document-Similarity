@@ -3,6 +3,7 @@
 /m/0h_d2by
 Boris Akunin
 
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/03g3w": "History"}
 a 6
 acting 1
 all 1

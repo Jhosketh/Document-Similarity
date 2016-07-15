@@ -3,6 +3,7 @@
 /m/0czdd77
 Barbara Mertz
 1977
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 18 1
 1860 1
 a 1

@@ -3,6 +3,7 @@
 /m/0gwzwcg
 Thomas Glavinic
 1998
+{"/m/0488wh": "Literary fiction"}
 110 3
 a 3
 account 1

@@ -3,6 +3,7 @@
 /m/0c9hrj
 Emilio Salgari
 
+{"/m/08sdrw": "Adventure novel"}
 a 1
 against 1
 ally 1

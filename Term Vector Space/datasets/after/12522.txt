@@ -3,6 +3,7 @@
 /m/04cqnmf
 Caroline Lawrence
 2008
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 a 10
 accomplished 1
 adventure 1

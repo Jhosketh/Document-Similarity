@@ -3,6 +3,7 @@
 /m/06wyp0
 Jacquelyn Mitchard
 1996-06
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 7yearold 1
 a 10
 abducted 1

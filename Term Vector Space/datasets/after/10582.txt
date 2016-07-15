@@ -3,6 +3,7 @@
 /m/02z1lys
 Carlos Ruiz Zafón
 1993
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/03mfnf": "Young adult literature"}
 1 1
 10 1
 11 1

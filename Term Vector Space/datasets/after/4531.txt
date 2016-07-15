@@ -3,6 +3,7 @@
 /m/095sr1
 Edward Irving Wortis
 2002-06
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/0hwxm": "Historical novel"}
 1377 1
 13yearold 1
 a 10

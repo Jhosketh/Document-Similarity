@@ -3,6 +3,7 @@
 /m/02qn6pd
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 3
 accept 1
 action 1

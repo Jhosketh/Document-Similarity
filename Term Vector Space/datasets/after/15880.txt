@@ -3,6 +3,7 @@
 /m/0gg6qvv
 Alastair Reynolds
 2012-01-19
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 2160s 1
 a 6
 access 1

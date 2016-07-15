@@ -3,6 +3,7 @@
 /m/0390gr
 Apuleius
 
+{"/m/0g_jj": "Picaresque novel"}
 a 48
 abandons 1
 about 6

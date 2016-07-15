@@ -3,6 +3,7 @@
 /m/0dxpl2
 Glen Cook
 1987-08
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 14
 able 1
 accident 1

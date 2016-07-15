@@ -3,6 +3,7 @@
 /m/02zlm
 Mary Shelley
 
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02ql9": "Epistolary novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction", "/m/0c3351": "Suspense"}
 1831 1
 4 1
 a 41

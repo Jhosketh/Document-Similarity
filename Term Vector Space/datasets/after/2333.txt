@@ -3,6 +3,7 @@
 /m/04phy2
 Raymond Benson
 2000-05-04
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 007 2
 17 1
 a 5

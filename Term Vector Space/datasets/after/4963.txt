@@ -3,6 +3,7 @@
 /m/09z9qc
 John Maxwell Coetzee
 1983
+{"/m/05hgj": "Novel"}
 a 20
 abandoned 1
 able 1

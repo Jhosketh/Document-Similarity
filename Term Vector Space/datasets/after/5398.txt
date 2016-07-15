@@ -3,6 +3,7 @@
 /m/0btqzm
 Raymond E. Feist
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 10000 1
 a 13
 acclimated 1

@@ -3,6 +3,7 @@
 /m/053yjr5
 Anya Seton
 1944
+{"/m/03g3w": "History", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel"}
 1844 1
 a 12
 accepts 1

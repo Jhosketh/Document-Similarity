@@ -3,6 +3,7 @@
 /m/02q8snq
 James Gordon Farrell
 1978
+{"/m/02xlf": "Fiction"}
 a 3
 action 1
 and 2

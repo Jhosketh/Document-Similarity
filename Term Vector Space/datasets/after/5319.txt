@@ -3,6 +3,7 @@
 /m/0bmvtt
 Stel Pavlou
 
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 2004 1
 27 1
 3000 1

@@ -3,6 +3,7 @@
 /m/03l3wd
 Edith Wharton
 1905-10-14
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10000 1
 a 11
 abandon 1

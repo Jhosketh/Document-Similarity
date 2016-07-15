@@ -3,6 +3,7 @@
 /m/011_bt
 Pat Barker
 1995
+{"/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 a 7
 able 1
 about 1

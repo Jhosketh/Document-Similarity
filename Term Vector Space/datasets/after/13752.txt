@@ -3,6 +3,7 @@
 /m/05pcb34
 Christos Tsiolkas
 2008
+{"/m/05hgj": "Novel"}
 a 8
 across 1
 adulterous 1

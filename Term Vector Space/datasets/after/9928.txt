@@ -3,6 +3,7 @@
 /m/02r8m4k
 Frederic Dannay
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 20000odd 1
 a 6
 all 1

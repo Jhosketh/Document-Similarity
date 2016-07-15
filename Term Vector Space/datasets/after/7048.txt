@@ -3,6 +3,7 @@
 /m/0fhb0x
 Mercedes Lackey
 1990
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 20
 ability 2
 able 1

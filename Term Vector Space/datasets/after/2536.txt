@@ -3,6 +3,7 @@
 /m/0512pn
 Hermann Hesse
 1932
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 18
 aberration 1
 account 1

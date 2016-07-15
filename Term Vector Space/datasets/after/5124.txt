@@ -3,6 +3,7 @@
 /m/0b9nws
 A. J. Cronin
 1935
+{"/m/05hgj": "Novel"}
 a 14
 about 1
 accept 1

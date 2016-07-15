@@ -3,6 +3,7 @@
 /m/0gjb_0j
 
 
+{"/m/0488wh": "Literary fiction", "/m/01jym": "Bildungsroman"}
 a 3
 after 1
 alice 3

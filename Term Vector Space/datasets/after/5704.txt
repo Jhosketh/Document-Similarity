@@ -3,6 +3,7 @@
 /m/0ccd8s
 Thomas Harris
 1988
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 183 1
 a 30
 about 4

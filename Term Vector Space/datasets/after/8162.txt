@@ -3,6 +3,7 @@
 /m/026fbyy
 Halldór Laxness
 1948
+{"/m/05hgj": "Novel"}
 a 4
 about 1
 above 1

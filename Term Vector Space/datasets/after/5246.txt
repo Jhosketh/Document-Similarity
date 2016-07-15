@@ -3,6 +3,7 @@
 /m/0bj62l
 P. G. Wodehouse
 1969-09-25
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 16
 adds 1
 after 3

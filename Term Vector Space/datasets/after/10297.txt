@@ -3,6 +3,7 @@
 /m/04y5p_4
 Graham Greene
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 about 1
 acting 1

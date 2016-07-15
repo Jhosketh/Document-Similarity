@@ -3,6 +3,7 @@
 /m/04r31z
 Louis Cha
 1959-05-20
+{"/m/08322": "Wuxia", "/m/01qxvh": "Romance novel"}
 a 5
 adventures 1
 after 3

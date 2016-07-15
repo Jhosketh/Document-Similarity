@@ -3,6 +3,7 @@
 /m/03d6ydb
 Jackie Kay
 1998
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 accept 1
 acceptance 1

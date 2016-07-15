@@ -3,6 +3,7 @@
 /m/05mgnz
 Dan Simmons
 1989
+{"/m/01rvlb": "Science fantasy", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/070yc": "Space opera", "/m/02xlf": "Fiction"}
 28th 1
 a 74
 abductors 1

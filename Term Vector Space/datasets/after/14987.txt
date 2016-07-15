@@ -3,6 +3,7 @@
 /m/0b76mzs
 Iain Pears
 
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 10 1
 153 1
 180 3

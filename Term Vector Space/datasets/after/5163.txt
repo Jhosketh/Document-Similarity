@@ -3,6 +3,7 @@
 /m/0bbhpj
 Alistair MacLean
 1962
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction"}
 16 1
 a 10
 after 2

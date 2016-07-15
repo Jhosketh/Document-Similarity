@@ -3,6 +3,7 @@
 /m/0966c3
 Richard Bach
 1977
+{"/m/012lzc": "Self-help", "/m/070wm": "Spirituality", "/m/0xdf": "Autobiography", "/m/014dfn": "Speculative fiction", "/m/017fp": "Biography"}
 151 1
 1571744215 1
 781571744210 1

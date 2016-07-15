@@ -3,6 +3,7 @@
 /m/0293n1
 Carl Hiaasen
 1986
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 1 1
 a 34
 aback 1

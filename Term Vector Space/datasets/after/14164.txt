@@ -3,6 +3,7 @@
 /m/065xz04
 Siobhan Dowd
 2008-09-09
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 180s 1
 50 1
 80 1

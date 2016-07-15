@@ -3,6 +3,7 @@
 /m/09gpph4
 
 
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel", "/m/02w06c6": "Historical romance"}
 1748 1
 1840s 1
 a 8

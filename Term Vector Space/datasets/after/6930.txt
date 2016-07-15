@@ -3,6 +3,7 @@
 /m/0f8d5p
 Natsuo Kirino
 2004-09-30
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 accepted 1
 after 2

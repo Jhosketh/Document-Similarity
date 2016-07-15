@@ -3,6 +3,7 @@
 /m/06lw82
 Madeleine L'Engle
 1965-01-01
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 12yearold 1
 a 11
 about 4

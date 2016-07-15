@@ -3,6 +3,7 @@
 /m/0270zyl
 Muriel Spark
 1960-12
+{"/m/02xlf": "Fiction"}
 a 11
 aborted 1
 actress 1

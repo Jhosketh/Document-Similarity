@@ -3,6 +3,7 @@
 /m/026gd78
 Carlos Fuentes
 1962
+{"/m/05hgj": "Novel", "/m/0127jb": "Magic realism"}
 a 15
 able 1
 about 1

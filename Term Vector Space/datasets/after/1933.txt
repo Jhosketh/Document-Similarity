@@ -3,6 +3,7 @@
 /m/03x7bd
 Flannery O'Connor
 1952-05-15
+{"/m/05hgj": "Novel"}
 1 1
 a 52
 abandoned 1

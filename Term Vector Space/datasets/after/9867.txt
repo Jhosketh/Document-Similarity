@@ -3,6 +3,7 @@
 /m/02r4y7l
 F. Scott Fitzgerald
 
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 a 15
 accepts 1
 accidentally 1

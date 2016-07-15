@@ -3,6 +3,7 @@
 /m/040468b
 Sinclair Lewis
 1947
+{"/m/06nbt": "Satire"}
 a 5
 able 1
 admits 1

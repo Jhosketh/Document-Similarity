@@ -3,6 +3,7 @@
 /m/05xzkg
 Lester del Rey
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 and 5
 arm 1

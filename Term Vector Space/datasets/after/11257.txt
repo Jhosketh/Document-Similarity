@@ -3,6 +3,7 @@
 /m/03d8kpc
 Steven Mark Sachs
 1997-06-25
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 10
 about 2
 academy 1

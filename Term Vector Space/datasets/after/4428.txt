@@ -3,6 +3,7 @@
 /m/090gbc
 Samuel Shellabarger
 1947
+{"/m/0hwxm": "Historical novel"}
 a 17
 about 1
 accept 1

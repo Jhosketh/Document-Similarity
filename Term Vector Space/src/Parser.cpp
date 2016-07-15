@@ -34,8 +34,8 @@ std::vector<Book> Parser::parseData(std::string path) {
                 getline(ss, item, DELIMITER);
                 book.setPublicationDate(item);
 
-                getline(ss, item, DELIMITER);
-                // book genre
+                getline(ss, item, DELIMITER); //TODO book genre
+                book.setGenres(item);
 
                 getline(ss, item, DELIMITER);
                 book.setSummary(item);

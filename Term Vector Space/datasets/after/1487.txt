@@ -3,6 +3,7 @@
 /m/031twv
 Karel Čapek
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 7
 absolute 7
 absurd 1

@@ -3,6 +3,7 @@
 /m/06kz4g
 Jasper Kent
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 2
 17 2
 2 2

@@ -3,6 +3,7 @@
 /m/05p9sgk
 Doris Lessing
 
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 15
 able 1
 adult 1

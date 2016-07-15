@@ -3,6 +3,7 @@
 /m/01hwrd
 Irvine Welsh
 1993
+{"/m/014dsx": "Travel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 1
 20th 1
 63 1

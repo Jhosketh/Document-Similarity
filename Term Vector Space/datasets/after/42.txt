@@ -3,6 +3,7 @@
 /m/03dj5
 Margaret Mitchell
 1936-06-30
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 186 1
 18611865 1
 1863 1

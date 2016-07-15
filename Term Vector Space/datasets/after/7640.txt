@@ -3,6 +3,7 @@
 /m/0gxjy9
 Anthony Horowitz
 
+{"/m/01jfsb": "Thriller", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 22
 about 4
 accidents 1

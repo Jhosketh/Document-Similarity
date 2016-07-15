@@ -3,6 +3,7 @@
 /m/0bpy44
 Leigh Brackett
 1964
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/09kqc": "Humour"}
 1 2
 10 2
 11 2

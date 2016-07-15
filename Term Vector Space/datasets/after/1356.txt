@@ -3,6 +3,7 @@
 /m/02w8x4
 Jasper Fforde
 2003
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 23rd 1
 a 25
 advance 1

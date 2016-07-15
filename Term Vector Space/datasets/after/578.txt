@@ -3,6 +3,7 @@
 /m/01c5tb
 Fyodor Dostoyevsky
 1867
+{"/m/05hgj": "Novel"}
 a 22
 about 1
 absolved 1

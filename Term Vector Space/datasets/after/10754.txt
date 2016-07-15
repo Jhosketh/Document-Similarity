@@ -3,6 +3,7 @@
 /m/03c2x7h
 Frederic Dannay
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit"}
 a 6
 adams 1
 age 1

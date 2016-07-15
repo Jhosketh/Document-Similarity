@@ -3,6 +3,7 @@
 /m/080jh9w
 William Makepeace Thackeray
 1859
+{"/m/0hwxm": "Historical novel"}
 a 2
 against 1
 also 1

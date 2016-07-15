@@ -3,6 +3,7 @@
 /m/0f8rxj
 Maxine Paetro
 2005-05-02
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 17
 about 1
 after 3

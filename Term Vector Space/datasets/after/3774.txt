@@ -3,6 +3,7 @@
 /m/07mxtg
 Gary Gygax
 1981
+{"/m/06c9r": "Role-playing game"}
 a 21
 able 1
 active 1

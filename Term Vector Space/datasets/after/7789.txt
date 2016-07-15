@@ -3,6 +3,7 @@
 /m/0h6l4h
 Katherine Kurtz
 1981
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 17 2
 18 1
 a 17

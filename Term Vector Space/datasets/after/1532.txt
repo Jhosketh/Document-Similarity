@@ -3,6 +3,7 @@
 /m/035dq2
 Aaron Allston
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 6
 able 1
 acquiesce 1

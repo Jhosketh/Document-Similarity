@@ -3,6 +3,7 @@
 /m/0285830
 Jack Ketchum
 
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction"}
 160s 1
 a 5
 abuse 1

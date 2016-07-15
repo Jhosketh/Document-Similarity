@@ -3,6 +3,7 @@
 /m/05f2s_
 Jorge Luis Borges
 1945-09
+{"/m/014dfn": "Speculative fiction", "/m/0707q": "Short story"}
 a 9
 aleph 7
 all 1

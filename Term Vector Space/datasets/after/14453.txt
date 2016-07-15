@@ -3,6 +3,7 @@
 /m/01t34x
 Ruth Sawyer
 1915
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 children 1
 giant 1

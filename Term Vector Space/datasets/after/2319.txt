@@ -3,6 +3,7 @@
 /m/04pbb6
 John Gardner
 1983-07-07
+{"/m/06wkf": "Spy fiction"}
 a 6
 action 2
 adolf 1

@@ -3,6 +3,7 @@
 /m/09pp8n
 Gwyn Hyman Rubio
 1998
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150s160s 1
 300 1
 a 9

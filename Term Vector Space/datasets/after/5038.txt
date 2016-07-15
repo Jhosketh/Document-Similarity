@@ -3,6 +3,7 @@
 /m/0b397n
 Alfred Toombs
 
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy"}
 a 1
 alienating 1
 and 4

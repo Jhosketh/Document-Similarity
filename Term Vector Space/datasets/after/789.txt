@@ -3,6 +3,7 @@
 /m/01rqrz
 Frederick Forsyth
 1984-08
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 168 1
 186 1
 a 29

@@ -3,6 +3,7 @@
 /m/04q7_2c
 Nicholas Sparks
 1999-10
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 17yearold 1
 247 1
 40 1

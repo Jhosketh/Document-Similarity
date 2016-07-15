@@ -3,6 +3,7 @@
 /m/0dn_nz
 Guy Gavriel Kay
 1986
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 21
 ability 1
 able 1

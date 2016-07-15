@@ -3,6 +3,7 @@
 /m/03hgz0
 E. L. Doctorow
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 7
 abandoned 2
 adopts 1

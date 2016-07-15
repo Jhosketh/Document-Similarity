@@ -3,6 +3,7 @@
 /m/096885
 H. G. Wells
 1905
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2000 1
 26000 1
 a 16

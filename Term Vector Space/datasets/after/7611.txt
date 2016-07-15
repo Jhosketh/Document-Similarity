@@ -3,6 +3,7 @@
 /m/0gvx9n
 Boris Akunin
 2000
+{"/m/05hgj": "Novel"}
 181 1
 a 2
 an 1

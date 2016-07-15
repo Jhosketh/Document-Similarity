@@ -3,6 +3,7 @@
 /m/0dxmhb
 Diana Wynne Jones
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 11
 above 1
 according 1

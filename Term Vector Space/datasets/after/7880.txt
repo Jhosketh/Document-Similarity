@@ -3,6 +3,7 @@
 /m/025xt5t
 Terry Southern
 1959
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 a 22
 about 1
 across 1

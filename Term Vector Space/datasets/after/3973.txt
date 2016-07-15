@@ -3,6 +3,7 @@
 /m/080qch
 John Maddox Roberts
 2002-05
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 6
 abandon 1
 absence 1

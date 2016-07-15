@@ -3,6 +3,7 @@
 /m/0jr96
 James M. Cain
 1941
+{"/m/02n4kr": "Mystery", "/m/03xj9g": "Hardboiled", "/m/05hgj": "Novel", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 130s 1
 a 17
 accepts 1

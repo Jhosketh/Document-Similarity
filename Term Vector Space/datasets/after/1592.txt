@@ -3,6 +3,7 @@
 /m/038903
 Janny Wurts
 1932
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 actions 1
 after 1

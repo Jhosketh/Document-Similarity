@@ -3,6 +3,7 @@
 /m/09g9ntn
 Sophie Kinsella
 
+{"/m/03h09f": "Chick lit", "/m/01z4y": "Comedy"}
 a 4
 accomplishing 1
 agency 1

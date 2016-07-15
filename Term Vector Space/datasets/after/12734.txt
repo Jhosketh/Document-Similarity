@@ -3,6 +3,7 @@
 /m/04jfqlv
 Orhan Pamuk
 1995
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 about 1
 actions 1

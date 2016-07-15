@@ -3,6 +3,7 @@
 /m/04gr_fs
 Peter Morwood
 1987-08-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 agent 1
 an 1
 been 1

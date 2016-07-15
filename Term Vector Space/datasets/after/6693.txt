@@ -3,6 +3,7 @@
 /m/0dr9rt
 Richard Matheson
 1978-09
+{"/m/06n90": "Science Fiction", "/m/03v9sb": "Bangsian fantasy", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 27
 able 2
 accident 1

@@ -3,6 +3,7 @@
 /m/04y8lr4
 Malcolm Gladwell
 2008-11
+{"/m/05qfh": "Psychology", "/m/05h83": "Non-fiction", "/m/06ms6": "Sociology"}
 a 5
 about 1
 also 1

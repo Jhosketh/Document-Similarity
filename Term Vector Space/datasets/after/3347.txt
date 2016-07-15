@@ -3,6 +3,7 @@
 /m/06rq91
 Edward Abbey
 1962
+{"/m/0hfjk": "Western", "/m/02xlf": "Fiction"}
 34how 1
 34no 1
 34yearold 1

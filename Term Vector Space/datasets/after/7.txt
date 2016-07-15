@@ -3,6 +3,7 @@
 /m/011zx
 Ursula K. Le Guin
 1968
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/01jym": "Bildungsroman", "/m/02xlf": "Fiction"}
 a 31
 abandoned 1
 able 2

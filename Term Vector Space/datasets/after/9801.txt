@@ -3,6 +3,7 @@
 /m/02q_fzx
 Louis de Bernières
 1991
+{"/m/014dfn": "Speculative fiction", "/m/0127jb": "Magic realism"}
 a 4
 across 1
 alchemy 1

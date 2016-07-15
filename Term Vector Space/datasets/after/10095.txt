@@ -3,6 +3,7 @@
 /m/02rsc47
 Katherine Mansfield
 
+{"/m/02xlf": "Fiction"}
 a 14
 about 4
 after 3

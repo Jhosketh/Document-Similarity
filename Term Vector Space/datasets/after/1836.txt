@@ -3,6 +3,7 @@
 /m/03q106
 Mitch Albom
 1997
+{"/m/037mh8": "Philosophy", "/m/017fp": "Biography", "/m/03rllnc": "Inspirational", "/m/027mvb9": "Biographical novel", "/m/05h83": "Non-fiction", "/m/016chh": "Memoir", "/m/02xlf": "Fiction", "/m/0xdf": "Autobiography", "/m/06ms6": "Sociology"}
 16 2
 78yearold 1
 a 5

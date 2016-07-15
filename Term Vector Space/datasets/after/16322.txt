@@ -3,6 +3,7 @@
 /m/03wdtvp
 Kristin Cast
 2007-05-01
+{"/m/0kflf": "Vampire fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0134b1": "Contemporary fantasy", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/072lff": "Paranormal romance"}
 a 18
 abilities 1
 accept 1

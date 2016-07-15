@@ -3,6 +3,7 @@
 /m/03hdtr
 V.S. Naipaul
 1961
+{"/m/02xlf": "Fiction"}
 a 24
 abusive 1
 advancement 1

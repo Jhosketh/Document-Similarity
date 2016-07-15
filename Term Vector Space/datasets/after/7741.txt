@@ -3,6 +3,7 @@
 /m/0h2n28
 Philip José Farmer
 1976
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 12000 1
 a 3
 adventures 1

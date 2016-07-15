@@ -3,6 +3,7 @@
 /m/04xdr30
 Monte Cook
 
+{"/m/06c9r": "Role-playing game", "/m/01hmnh": "Fantasy"}
 a 11
 absorbed 1
 abyss 2

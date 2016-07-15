@@ -3,6 +3,7 @@
 /m/019vt7
 Aleksandr Pushkin
 
+{"/m/05hgj": "Novel", "/m/05qgc": "Poetry", "/m/02xlf": "Fiction"}
 1820s 1
 a 13
 about 1

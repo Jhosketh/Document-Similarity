@@ -3,6 +3,7 @@
 /m/0dlb5r
 Laurie R. King
 1997-03-21
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel"}
 a 2
 al 1
 although 1

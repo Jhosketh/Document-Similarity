@@ -3,6 +3,7 @@
 /m/0b1th1
 Elizabeth Berg
 2000-08
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20 1
 a 17
 acquaintanceand 1

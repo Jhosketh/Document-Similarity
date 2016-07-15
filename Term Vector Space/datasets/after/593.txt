@@ -3,6 +3,7 @@
 /m/01cxwf
 Robertson Davies
 1981
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14 1
 20 1
 2003 1

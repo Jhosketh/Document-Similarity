@@ -3,6 +3,7 @@
 /m/045nbh
 Philip Roth
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 american 1
 and 1

@@ -3,6 +3,7 @@
 /m/0d9t_l
 Ruth Rendell
 1993-09-02
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 100 1
 a 7
 about 2

@@ -3,6 +3,7 @@
 /m/04_mnx
 Steven Erikson
 2004-03-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 29
 abandoned 1
 acquired 1

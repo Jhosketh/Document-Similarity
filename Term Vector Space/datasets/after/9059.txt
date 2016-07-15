@@ -3,6 +3,7 @@
 /m/0286mr1
 Kathy Reichs
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 all 1
 also 2

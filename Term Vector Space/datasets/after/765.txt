@@ -3,6 +3,7 @@
 /m/01q4zs
 Gore Vidal
 1968-02
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 14 1
 140sand 1
 a 18

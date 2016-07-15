@@ -3,6 +3,7 @@
 /m/04mzgxy
 Marcus Sedgwick
 2008
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/05hgj": "Novel"}
 a 1
 act 1
 alleyways 1

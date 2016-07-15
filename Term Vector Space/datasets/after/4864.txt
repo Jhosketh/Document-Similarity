@@ -3,6 +3,7 @@
 /m/09rm6t
 Ben Elton
 1989-01-01
+{"/m/026ny": "Dystopia", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c082": "Utopian and dystopian fiction"}
 10s 1
 180s 1
 250 1

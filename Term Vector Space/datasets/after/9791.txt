@@ -3,6 +3,7 @@
 /m/02qzv_b
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 7
 ability 1
 accompanied 1

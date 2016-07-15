@@ -3,6 +3,7 @@
 /m/03blcb
 Patricia A. McKillip
 2004-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 about 1
 admit 1

@@ -3,6 +3,7 @@
 /m/0fpg6s5
 Umberto Eco
 2010-10
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 187 1
 affects 1
 agentis 1

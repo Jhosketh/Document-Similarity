@@ -3,6 +3,7 @@
 /m/06sthv
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 100 1
 20000 1
 5 1

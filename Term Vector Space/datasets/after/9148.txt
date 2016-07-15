@@ -3,6 +3,7 @@
 /m/02pk34c
 James Blaylock
 1984-08
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 164 1
 a 8
 adventurers 1

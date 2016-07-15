@@ -3,6 +3,7 @@
 /m/0d6_cv
 Tim Krabbé
 1984
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel", "/m/059r08": "Psychological novel"}
 a 12
 abducted 1
 abducting 1

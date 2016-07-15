@@ -3,6 +3,7 @@
 /m/0266_px
 Margaret Weis
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 after 2
 all 1

@@ -3,6 +3,7 @@
 /m/08pl08
 Aleksandr Solzhenitsyn
 1968
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 155 1
 a 22
 accept 1

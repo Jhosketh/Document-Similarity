@@ -3,6 +3,7 @@
 /m/04y8dqm
 Isaac Asimov
 1987
+{"/m/06n90": "Science Fiction"}
 a 19
 abandoned 1
 absence 1

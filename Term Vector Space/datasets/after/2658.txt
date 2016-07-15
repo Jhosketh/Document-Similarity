@@ -3,6 +3,7 @@
 /m/058tkp
 Guy Gavriel Kay
 1984
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 50th 1
 a 40
 abandonment 1

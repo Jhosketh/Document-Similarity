@@ -3,6 +3,7 @@
 /m/01ns6g
 Roger Zelazny
 1987-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 5
 able 1
 administers 1

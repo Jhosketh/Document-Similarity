@@ -3,6 +3,7 @@
 /m/02qtk10
 Stephen King
 
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 132 1
 153 1
 170 1

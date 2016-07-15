@@ -3,6 +3,7 @@
 /m/02z10mn
 Michael Connelly
 2001-01-23
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 a 14
 about 1
 after 1

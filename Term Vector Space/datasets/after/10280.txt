@@ -3,6 +3,7 @@
 /m/02vtprn
 Shannon Hale
 2007-09-18
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature"}
 8 1
 a 4
 accompany 1

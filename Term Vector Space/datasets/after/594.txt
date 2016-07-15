@@ -3,6 +3,7 @@
 /m/01c_bp
 George Zebrowski
 1979-05
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 2021 1
 3000 1
 500 1

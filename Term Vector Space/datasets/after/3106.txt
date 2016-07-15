@@ -3,6 +3,7 @@
 /m/067vtr
 Anne Tyler
 1988
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 again 1
 also 1

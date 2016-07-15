@@ -3,6 +3,7 @@
 /m/091z13
 Anne McCaffrey
 1991-09-19
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1800 1
 2500 1
 600 1

@@ -3,6 +3,7 @@
 /m/0cwh2h
 L. Sprague de Camp
 1957
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 140s 1
 a 15
 abortive 1

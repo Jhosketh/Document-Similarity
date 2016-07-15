@@ -3,6 +3,7 @@
 /m/03l3xf
 Guy de Maupassant
 1885
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 12
 act 1
 actively 1

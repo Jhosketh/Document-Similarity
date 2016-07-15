@@ -3,6 +3,7 @@
 /m/05r0sn
 Robert Charles Wilson
 2003-08-02
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 51 1
 a 4
 about 1

@@ -3,6 +3,7 @@
 /m/0hznb
 Iain Banks
 1988
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 10
 about 1
 accepting 1

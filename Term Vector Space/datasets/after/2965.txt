@@ -3,6 +3,7 @@
 /m/05_j38
 Richard Morgan
 2005-03-17
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 400 1
 a 18
 able 1

@@ -3,6 +3,7 @@
 /m/0bxznbs
 Jeff VanderMeer
 2009-11
+{"/m/01hmnh": "Fantasy", "/m/03xj9g": "Hardboiled"}
 a 5
 ambergris 1
 and 1

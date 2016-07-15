@@ -3,6 +3,7 @@
 /m/0cp0n9v
 John Marsden
 
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 8
 abandoned 1
 about 1

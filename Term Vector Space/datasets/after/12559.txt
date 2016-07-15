@@ -3,6 +3,7 @@
 /m/04f65x0
 Walter Van Tilburg Clark
 1940
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1885 1
 28 1
 a 22

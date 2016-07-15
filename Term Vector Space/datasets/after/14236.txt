@@ -3,6 +3,7 @@
 /m/06w9z4j
 Erin Hunter
 2009-06-09
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 48
 about 6
 absolutely 1

@@ -3,6 +3,7 @@
 /m/04mzbq
 Daphne du Maurier
 1938
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/01qxvh": "Romance novel"}
 40something 1
 a 19
 ablaze 1

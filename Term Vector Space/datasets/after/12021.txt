@@ -3,6 +3,7 @@
 /m/0411lns
 Alexander M. Phillips
 1947
+{"/m/01hmnh": "Fantasy"}
 a 2
 acquires 1
 adventures 1

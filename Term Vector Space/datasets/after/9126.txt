@@ -3,6 +3,7 @@
 /m/02phcvl
 Gene Kemp
 1977-02-07
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 10
 accused 1
 air 1

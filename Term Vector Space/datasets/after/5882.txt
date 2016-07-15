@@ -3,6 +3,7 @@
 /m/0cpr8g
 Philip K. Dick
 1967
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 171 1
 18 1
 186 1

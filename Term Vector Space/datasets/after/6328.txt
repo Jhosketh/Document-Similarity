@@ -3,6 +3,7 @@
 /m/0db5tc
 Wilkie Collins
 
+{"/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/02ql9": "Epistolary novel", "/m/02xlf": "Fiction", "/m/04rjg": "Mathematics", "/m/0c3351": "Suspense"}
 184 1
 20000 1
 6 1

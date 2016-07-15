@@ -3,6 +3,7 @@
 /m/0cyj59
 George MacDonald Fraser
 1994
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 7
 actually 1
 africa 1

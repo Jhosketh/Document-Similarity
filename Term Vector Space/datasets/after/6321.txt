@@ -3,6 +3,7 @@
 /m/0d9xz3
 Ruth Rendell
 1988
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 actress 1
 ahead 1

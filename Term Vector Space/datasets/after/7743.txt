@@ -3,6 +3,7 @@
 /m/0h2ykt
 Banana Yoshimoto
 1999
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 after 1

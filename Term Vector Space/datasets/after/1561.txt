@@ -3,6 +3,7 @@
 /m/036b77
 P. G. Wodehouse
 1934-10-05
+{"/m/05hgj": "Novel"}
 500 2
 a 9
 about 3

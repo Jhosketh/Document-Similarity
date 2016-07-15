@@ -3,6 +3,7 @@
 /m/03c5y8w
 Jules Verne
 1878-12-15
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 6
 acton 1
 africa 1

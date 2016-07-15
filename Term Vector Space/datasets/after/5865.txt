@@ -3,6 +3,7 @@
 /m/0cp460
 Philip Roth
 2006-05
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 133 1
 24yearold 1
 a 6

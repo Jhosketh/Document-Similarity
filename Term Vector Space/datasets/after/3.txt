@@ -3,6 +3,7 @@
 /m/0ldx
 Albert Camus
 1947
+{"/m/02m4t": "Existentialism", "/m/02xlf": "Fiction", "/m/0pym5": "Absurdist fiction", "/m/05hgj": "Novel"}
 30 1
 80 1
 a 21

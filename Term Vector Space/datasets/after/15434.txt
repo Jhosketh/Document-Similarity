@@ -3,6 +3,7 @@
 /m/0c1cj3
 Celia S. Friedman
 1995-10-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 about 1
 accept 1

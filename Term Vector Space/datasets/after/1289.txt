@@ -3,6 +3,7 @@
 /m/02qtm5
 Joe Sacco
 
+{"/m/012h24": "Comics", "/m/01vnb": "Comic book", "/m/02xlf": "Fiction", "/m/0py0z": "Graphic novel", "/m/09kqc": "Humour"}
 11 1
 12 1
 a 8

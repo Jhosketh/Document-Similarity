@@ -3,6 +3,7 @@
 /m/050196
 C. S. Forester
 1955
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 142 1
 a 3
 admiralty 1

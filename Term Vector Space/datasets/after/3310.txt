@@ -3,6 +3,7 @@
 /m/06nw7h
 P. G. Wodehouse
 1907-10-09
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 and 3
 avoid 1

@@ -3,6 +3,7 @@
 /m/03r24m
 John Grisham
 2002
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 600 1
 6100 1
 a 16

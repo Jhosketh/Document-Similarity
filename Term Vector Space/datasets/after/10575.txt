@@ -3,6 +3,7 @@
 /m/02z1155
 Michael Connelly
 1992-01-21
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 6
 advancing 1
 after 2

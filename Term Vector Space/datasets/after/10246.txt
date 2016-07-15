@@ -3,6 +3,7 @@
 /m/02vql_t
 Morgan Llywelyn
 1986-04-06
+{"/m/0hwxm": "Historical novel"}
 description 1
 outline 1
 plot 1

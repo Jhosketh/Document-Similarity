@@ -3,6 +3,7 @@
 /m/0925n7
 Robert Lewis Taylor
 1958
+{"/m/0hwxm": "Historical novel"}
 a 1
 alternates 1
 american 1

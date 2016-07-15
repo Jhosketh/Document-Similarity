@@ -3,6 +3,7 @@
 /m/036lcw
 Clive King
 1963-06-01
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 10
 adventures 1
 all 1

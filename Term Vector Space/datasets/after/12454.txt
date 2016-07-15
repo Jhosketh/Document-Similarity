@@ -3,6 +3,7 @@
 /m/04crmts
 Desmond Bagley
 1982
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 40 1
 a 4
 about 1

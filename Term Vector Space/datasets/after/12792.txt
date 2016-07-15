@@ -3,6 +3,7 @@
 /m/04j9j0s
 Dudley Pope
 1965
+{"/m/0hwxm": "Historical novel"}
 a 7
 abandon 1
 abandons 1

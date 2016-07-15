@@ -3,6 +3,7 @@
 /m/03ckj71
 Barbara Hambly
 1985
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 6
 abandon 1
 accepts 1

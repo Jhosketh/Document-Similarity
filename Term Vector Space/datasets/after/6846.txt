@@ -3,6 +3,7 @@
 /m/0f0y_c
 Tamora Pierce
 1994-11-17
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 10
 ability 1
 about 2

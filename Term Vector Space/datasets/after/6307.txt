@@ -3,6 +3,7 @@
 /m/0d9qsz
 Ruth Rendell
 1996
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 about 2
 accident 1

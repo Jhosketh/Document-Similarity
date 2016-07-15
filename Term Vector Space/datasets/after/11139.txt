@@ -3,6 +3,7 @@
 /m/03c_5bh
 Mary Stewart
 1996
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 3
 alexander 2
 alice 1

@@ -3,6 +3,7 @@
 /m/0d6zt_
 Thomas Harris
 1999-06-08
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1478 1
 2000 1
 a 15

@@ -3,6 +3,7 @@
 /m/07w6yt
 Elizabeth George Speare
 1958-12-01
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1687 1
 16yearold 1
 1year 1

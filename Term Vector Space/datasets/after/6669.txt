@@ -3,6 +3,7 @@
 /m/0dq1p9
 Robert Cormier
 1979
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 6
 african 1
 after 1

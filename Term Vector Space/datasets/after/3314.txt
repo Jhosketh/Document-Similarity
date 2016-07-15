@@ -3,6 +3,7 @@
 /m/06n_45
 David Gemmell
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 21
 abandon 1
 accidentally 1

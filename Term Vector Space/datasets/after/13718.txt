@@ -3,6 +3,7 @@
 /m/05p57p9
 G. A. Henty
 1893
+{"/m/05hgj": "Novel"}
 a 8
 adventures 1
 after 2

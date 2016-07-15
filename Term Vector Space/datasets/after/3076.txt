@@ -3,6 +3,7 @@
 /m/065rx_
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/017fp": "Biography", "/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0xdf": "Autobiography", "/m/0c3351": "Suspense"}
 a 1
 aboard 1
 adventure 1

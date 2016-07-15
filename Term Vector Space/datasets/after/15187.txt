@@ -3,6 +3,7 @@
 /m/04t1vgl
 Brian Lumley
 1991
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 11
 act 1
 additionally 1

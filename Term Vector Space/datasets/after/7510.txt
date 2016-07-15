@@ -3,6 +3,7 @@
 /m/0gnxw9
 Nikolai Chernyshevsky
 1863
+{"/m/05hgj": "Novel"}
 a 3
 an 1
 and 2

@@ -3,6 +3,7 @@
 /m/0g7kcs
 Eric Van Lustbader
 1980-04
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 a 18
 academic 1
 adept 1

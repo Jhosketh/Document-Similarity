@@ -3,6 +3,7 @@
 /m/051wgm_
 Gordon Korman
 2008-12-02
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 3 2
 a 19
 about 2

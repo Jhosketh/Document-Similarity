@@ -3,6 +3,7 @@
 /m/03jxxd
 Graham Greene
 1960
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 21
 absolutely 1
 absurdity 1

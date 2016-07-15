@@ -3,6 +3,7 @@
 /m/02rvlnh
 Eric Van Lustbader
 2006-09-05
+{"/m/01jfsb": "Thriller"}
 a 4
 about 1
 after 1

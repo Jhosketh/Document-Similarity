@@ -3,6 +3,7 @@
 /m/02z6d7p
 Christopher Brookmyre
 1996
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/0vgkd": "Black comedy", "/m/0c3351": "Suspense"}
 11 1
 17 1
 a 8

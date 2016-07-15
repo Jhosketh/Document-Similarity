@@ -3,6 +3,7 @@
 /m/080m1wm
 Walter R. Brooks
 
+{"/m/02yq81": "Comic novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 12
 abi 2
 about 1

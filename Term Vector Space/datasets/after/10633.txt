@@ -3,6 +3,7 @@
 /m/02z67cy
 Christopher Golden
 2006
+{"/m/01hmnh": "Fantasy", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 130s 1
 a 1
 adventure 1

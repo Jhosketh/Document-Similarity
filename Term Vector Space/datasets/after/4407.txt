@@ -3,6 +3,7 @@
 /m/08zxlz
 William Faulkner
 1940
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 9
 11 1
 133 1

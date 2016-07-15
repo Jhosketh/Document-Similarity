@@ -3,6 +3,7 @@
 /m/042hvm
 Sidney Sheldon
 1992-10
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 5
 able 1
 achieved 1

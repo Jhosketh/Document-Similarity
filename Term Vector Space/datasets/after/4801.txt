@@ -3,6 +3,7 @@
 /m/09pb6p
 Diana G. Gallagher
 2000-12
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 5
 agrees 1
 allow 1

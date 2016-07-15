@@ -3,6 +3,7 @@
 /m/02pmldj
 Lee Child
 1998-07
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 100 1
 a 10
 about 1

@@ -3,6 +3,7 @@
 /m/025h64
 Oscar Zeta Acosta
 1972
+{"/m/0xdf": "Autobiography", "/m/05hgj": "Novel"}
 1 1
 12 1
 1215 1

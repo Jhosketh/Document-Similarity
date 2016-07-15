@@ -3,6 +3,7 @@
 /m/027w9ly
 Dale Brown
 1987-06-23
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 187 1
 188 1
 a 12

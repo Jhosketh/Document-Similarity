@@ -3,6 +3,7 @@
 /m/06q_s9
 John D. MacDonald
 1964
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 20
 aboard 1
 about 1

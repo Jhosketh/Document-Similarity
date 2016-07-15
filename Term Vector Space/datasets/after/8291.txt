@@ -3,6 +3,7 @@
 /m/026lyjs
 Futaro Yamada
 2006-12
+{"/m/01hmnh": "Fantasy"}
 a 1
 abilities 1
 abnormally 1

@@ -3,6 +3,7 @@
 /m/043ndlw
 Steve Perry
 1990
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 23 1
 a 22
 able 2

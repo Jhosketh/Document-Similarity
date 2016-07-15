@@ -3,6 +3,7 @@
 /m/02q6ldk
 Enid Blyton
 1946
+{"/m/02n4kr": "Mystery", "/m/08sdrw": "Adventure novel"}
 a 2
 adventure 1
 and 1

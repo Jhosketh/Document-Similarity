@@ -3,6 +3,7 @@
 /m/03clz5j
 Nora Roberts
 2005-07
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction"}
 a 6
 again 1
 already 1

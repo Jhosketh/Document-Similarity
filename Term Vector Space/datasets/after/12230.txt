@@ -3,6 +3,7 @@
 /m/0464htt
 Edward Bellamy
 1897
+{"/m/014dfn": "Speculative fiction", "/m/0c082": "Utopian and dystopian fiction"}
 1th 2
 2000 2
 a 11

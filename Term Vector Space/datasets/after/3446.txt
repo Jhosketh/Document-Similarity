@@ -3,6 +3,7 @@
 /m/06_gtb
 Elmore Leonard
 2005-05-10
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 18 1
 2007 1
 a 6

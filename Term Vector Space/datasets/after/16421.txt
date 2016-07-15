@@ -3,6 +3,7 @@
 /m/0hrcf6f
 Pittacus Lore
 2012-08-21
+{"/m/06n90": "Science Fiction", "/m/03mfnf": "Young adult literature"}
 a 35
 abandoned 1
 abilities 1

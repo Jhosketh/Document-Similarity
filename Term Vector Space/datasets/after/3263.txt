@@ -3,6 +3,7 @@
 /m/06kg_7
 Diana Wynne Jones
 1975
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 about 1
 accepts 1

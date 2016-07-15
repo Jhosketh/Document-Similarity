@@ -3,6 +3,7 @@
 /m/07q_wk
 Terry Brooks
 2003-08-26
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 20 1
 a 10
 ability 1

@@ -3,6 +3,7 @@
 /m/02vxt8x
 Ernest Callenbach
 1981
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20 1
 a 28
 about 2

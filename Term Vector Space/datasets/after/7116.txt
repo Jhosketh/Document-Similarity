@@ -3,6 +3,7 @@
 /m/0fn_rk
 Dino Buzzati
 1945
+{"/m/0dwly": "Children's literature"}
 a 6
 adopt 1
 again 1

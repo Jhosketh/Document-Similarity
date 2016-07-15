@@ -3,6 +3,7 @@
 /m/0jjff
 Rudyard Kipling
 
+{"/m/08g5mv": "Lost World", "/m/08sdrw": "Adventure novel"}
 a 21
 acclaimed 1
 adventurers 2

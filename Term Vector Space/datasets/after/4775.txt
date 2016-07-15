@@ -3,6 +3,7 @@
 /m/09nc4f
 James Gould Cozzens
 1948
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 03363 1
 a 16
 aboard 1

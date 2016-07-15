@@ -3,6 +3,7 @@
 /m/055hcr
 Steve Berry
 2003
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 7
 about 1
 amber 1

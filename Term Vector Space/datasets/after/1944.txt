@@ -3,6 +3,7 @@
 /m/03y389
 Michael Crichton
 1996
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 545 1
 a 13
 aboard 1

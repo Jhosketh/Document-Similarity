@@ -3,6 +3,7 @@
 /m/061fkw
 F. Scott Fitzgerald
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 120s 1
 a 4
 after 1

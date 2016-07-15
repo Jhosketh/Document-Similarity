@@ -3,6 +3,7 @@
 /m/0b6gqwj
 Kristin Cast
 2009-10-23
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/072lff": "Paranormal romance"}
 5th 1
 a 11
 abandoned 1

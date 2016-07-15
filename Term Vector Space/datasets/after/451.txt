@@ -3,6 +3,7 @@
 /m/014w5_
 Frank Herbert
 1956
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 a 4
 an 1
 and 7

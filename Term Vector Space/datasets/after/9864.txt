@@ -3,6 +3,7 @@
 /m/02r4rzs
 Hugh Walters
 1957
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 17year 1
 5 1
 a 5

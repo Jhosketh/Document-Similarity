@@ -3,6 +3,7 @@
 /m/0964lh
 Bruce Coville
 1994
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 3
 actually 1
 amulet 2

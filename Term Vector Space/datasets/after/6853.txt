@@ -3,6 +3,7 @@
 /m/0f216r
 John le Carré
 1990-01
+{"/m/06wkf": "Spy fiction"}
 a 2
 accepts 1
 again 1

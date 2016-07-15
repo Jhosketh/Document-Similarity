@@ -3,6 +3,7 @@
 /m/055y2z
 Victor Hugo
 1874
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 173 1
 a 19
 about 1

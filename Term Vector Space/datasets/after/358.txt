@@ -3,6 +3,7 @@
 /m/0ly6j
 Iris Murdoch
 1961
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 41yearold 1
 a 9
 academic 1

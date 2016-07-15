@@ -3,6 +3,7 @@
 /m/0ch0wrh
 Ron Currie Jr.
 2009
+{"/m/05qfh": "Psychology", "/m/02xlf": "Fiction"}
 a 28
 accepts 1
 addict 1

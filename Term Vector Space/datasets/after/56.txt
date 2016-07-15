@@ -3,6 +3,7 @@
 /m/05g5q
 William Gibson
 1984-07-01
+{"/m/01qpc": "Cyberpunk", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia"}
 170s 1
 3jane 7
 a 35

@@ -3,6 +3,7 @@
 /m/08n3sf
 Robert Ludlum
 2005-10-18
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 a 15
 ability 2
 about 1

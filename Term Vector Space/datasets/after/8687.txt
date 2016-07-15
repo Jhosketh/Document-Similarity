@@ -3,6 +3,7 @@
 /m/027gh67
 Georgette Heyer
 1961
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 18081814 1
 1815 1
 a 15

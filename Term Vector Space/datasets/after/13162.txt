@@ -3,6 +3,7 @@
 /m/04y930h
 Thomas Bernhard
 1967
+{"/m/05hgj": "Novel"}
 a 7
 american 1
 an 3

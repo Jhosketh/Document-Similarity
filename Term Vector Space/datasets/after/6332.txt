@@ -3,6 +3,7 @@
 /m/0dbd1l
 Patrick Larkin
 1991-06
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel"}
 10s 1
 a 13
 abolished 1

@@ -3,6 +3,7 @@
 /m/03clw68
 Stephen Marlowe
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 description 1
 outline 1
 plot 1

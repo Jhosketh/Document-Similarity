@@ -3,6 +3,7 @@
 /m/07dx1b
 Henry Fielding
 
+{"/m/0gf28": "Parody", "/m/06nbt": "Satire"}
 a 3
 and 2
 andrews 1

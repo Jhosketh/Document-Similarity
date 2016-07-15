@@ -3,6 +3,7 @@
 /m/0c432
 James Norman Hall
 1932
+{"/m/03g3w": "History", "/m/05hgj": "Novel"}
 a 2
 acquitted 1
 actual 1

@@ -3,6 +3,7 @@
 /m/0pyl4
 Christopher Moore
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy", "/m/01qxvh": "Romance novel"}
 a 10
 accepts 1
 advantage 1

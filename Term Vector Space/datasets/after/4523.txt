@@ -3,6 +3,7 @@
 /m/095l8g
 Antonia Forest
 1953
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 about 2
 admiral 1

@@ -3,6 +3,7 @@
 /m/02qh_k
 Sidney Sheldon
 1991
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 accident 1
 accidentally 1

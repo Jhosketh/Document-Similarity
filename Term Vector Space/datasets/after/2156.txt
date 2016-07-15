@@ -3,6 +3,7 @@
 /m/04bb21
 Graham Greene
 1982-09-27
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 600 1
 a 11
 about 2

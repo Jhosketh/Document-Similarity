@@ -3,6 +3,7 @@
 /m/02nq7xl
 Simon Scarrow
 2005-05-23
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 44 1
 a 1
 ad 1

@@ -3,6 +3,7 @@
 /m/09b62z
 Toni Morrison
 1997-12-24
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150 1
 a 2
 about 1

@@ -3,6 +3,7 @@
 /m/05_8mq
 Jill Paton Walsh
 1994
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 9
 about 1
 aclar 2

@@ -3,6 +3,7 @@
 /m/0fq57_
 Danielle Steel
 1994-07
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 150maribeth 1
 a 3
 accidentally 1

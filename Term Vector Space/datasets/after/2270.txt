@@ -3,6 +3,7 @@
 /m/04lc3b
 Kurt Vonnegut
 1982
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 5
 accidental 1
 actions 3

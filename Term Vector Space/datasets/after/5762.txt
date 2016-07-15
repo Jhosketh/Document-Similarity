@@ -3,6 +3,7 @@
 /m/0cftxf
 Anthony Horowitz
 2001-09-04
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 14yearold 1
 180s 1
 a 48

@@ -3,6 +3,7 @@
 /m/0grnxx
 Terry Brooks
 1993-03
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 about 3
 against 4

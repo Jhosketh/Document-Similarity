@@ -3,6 +3,7 @@
 /m/02qk3qh
 Graham Joyce
 2001-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 174 1
 186 1
 a 25

@@ -3,6 +3,7 @@
 /m/09gjq_1
 Peter S. Beagle
 
+{"/m/01hmnh": "Fantasy"}
 a 7
 ability 1
 abode 1

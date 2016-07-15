@@ -3,6 +3,7 @@
 /m/03826k
 R. K. Narayan
 1980-10-15
+{"/m/012jgz": "Autobiographical novel", "/m/05hgj": "Novel"}
 a 13
 about 1
 accept 1

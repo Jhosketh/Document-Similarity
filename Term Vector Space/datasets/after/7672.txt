@@ -3,6 +3,7 @@
 /m/0gzld3
 L. Ron Hubbard
 1982
+{"/m/070yc": "Space opera", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 1000pound 1
 3000 1
 300000 1

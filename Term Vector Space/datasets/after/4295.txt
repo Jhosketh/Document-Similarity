@@ -3,6 +3,7 @@
 /m/08qq5s
 Anthony Powell
 1951
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 121ndash22 1
 a 3
 adapted 1

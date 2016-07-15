@@ -3,6 +3,7 @@
 /m/04gmnhh
 Carl Amery
 1974
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 1688 1
 a 7
 after 1

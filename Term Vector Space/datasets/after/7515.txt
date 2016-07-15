@@ -3,6 +3,7 @@
 /m/0gpfg2
 Tamora Pierce
 2000
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 about 1
 accepted 1

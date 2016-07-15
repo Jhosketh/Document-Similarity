@@ -3,6 +3,7 @@
 /m/09nsr6
 Graham Edwards
 1999-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1883 1
 a 3
 adventures 1

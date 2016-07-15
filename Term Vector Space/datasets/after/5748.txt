@@ -3,6 +3,7 @@
 /m/0cf3k7
 Lionel Davidson
 1960
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 200 2
 24yearold 1
 a 13

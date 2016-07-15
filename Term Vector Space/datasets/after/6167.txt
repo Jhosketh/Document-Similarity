@@ -3,6 +3,7 @@
 /m/0d2cz0
 Alan Dean Foster
 2001
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 11
 aann 6
 abandoned 1

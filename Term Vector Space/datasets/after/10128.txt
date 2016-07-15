@@ -3,6 +3,7 @@
 /m/02rwhlg
 Harlan Ellison
 1961
+{"/m/05hgj": "Novel", "/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/06ms6": "Sociology", "/m/02xlf": "Fiction"}
 a 7
 after 2
 all 2

@@ -3,6 +3,7 @@
 /m/05qh5_s
 Rosemary Sutcliff
 1956
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 130 1
 a 17
 about 1

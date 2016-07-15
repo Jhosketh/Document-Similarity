@@ -3,6 +3,7 @@
 /m/0ck53p
 Joanne Harris
 2001
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 about 1
 affection 1

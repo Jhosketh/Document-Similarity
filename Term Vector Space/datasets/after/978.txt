@@ -3,6 +3,7 @@
 /m/02256v
 Väinö Linna
 1954-12-03
+{"/m/098tmk": "War novel"}
 a 7
 aika 1
 all 3

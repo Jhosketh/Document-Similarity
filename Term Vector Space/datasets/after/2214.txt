@@ -3,6 +3,7 @@
 /m/04gcsc
 Emily Arnold McCully
 
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 4
 bellini 1
 boardinghouse 1

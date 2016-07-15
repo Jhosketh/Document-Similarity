@@ -3,6 +3,7 @@
 /m/0bjv_s
 Jon Scieszka
 1992
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 a 21
 about 3
 afraid 1

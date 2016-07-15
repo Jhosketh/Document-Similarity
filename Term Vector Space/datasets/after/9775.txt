@@ -3,6 +3,7 @@
 /m/02qy4j3
 Francis Marion Crawford
 1891
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 9
 after 1
 all 1

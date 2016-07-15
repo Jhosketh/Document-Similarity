@@ -3,6 +3,7 @@
 /m/071qvm
 Walter D. Edmonds
 1941
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 1756 1
 a 8
 able 1

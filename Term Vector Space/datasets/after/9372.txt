@@ -3,6 +3,7 @@
 /m/02p_1bj
 Ken Kesey
 1964-07-27
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 against 2
 all 2

@@ -3,6 +3,7 @@
 /m/0200pr
 L. Frank Baum
 1907
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 18
 aboard 1
 about 2

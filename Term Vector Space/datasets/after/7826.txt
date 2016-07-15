@@ -3,6 +3,7 @@
 /m/025vhxn
 Louise Erdrich
 1984
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 2
 10 2
 11 2

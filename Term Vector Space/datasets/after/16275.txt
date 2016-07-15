@@ -3,6 +3,7 @@
 /m/0h3r_k3
 Max Barry
 2011-08-09
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 1
 an 1
 and 2

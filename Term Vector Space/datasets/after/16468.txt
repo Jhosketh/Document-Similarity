@@ -3,6 +3,7 @@
 /m/0hzp_h5
 P. D. James
 2011-12-06
+{"/m/02n4kr": "Mystery", "/m/0py65": "Historical whodunnit", "/m/0hfwv": "Pastiche", "/m/03g3w": "History"}
 1803 1
 a 2
 about 1

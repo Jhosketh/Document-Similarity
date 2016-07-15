@@ -3,6 +3,7 @@
 /m/027fzy0
 Georgette Heyer
 1937
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 1815 1
 52nd 1
 a 26

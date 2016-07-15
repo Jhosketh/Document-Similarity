@@ -3,6 +3,7 @@
 /m/0bdghc
 Darren Shan
 2000-01-04
+{"/m/0kflf": "Vampire fiction", "/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/0fdjb": "Supernatural", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 6
 about 4
 act 1

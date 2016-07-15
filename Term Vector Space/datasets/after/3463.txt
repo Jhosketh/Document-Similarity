@@ -3,6 +3,7 @@
 /m/070pfy
 Julia Donaldson
 1999-03-23
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 11
 advances 1
 after 1

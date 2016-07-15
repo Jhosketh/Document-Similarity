@@ -3,6 +3,7 @@
 /m/02qw915
 Émile Zola
 1893
+{"/m/05hgj": "Novel"}
 20novel 1
 30 2
 a 7

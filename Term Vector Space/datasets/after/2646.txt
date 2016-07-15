@@ -3,6 +3,7 @@
 /m/0587xl
 Cormac McCarthy
 1985-02
+{"/m/0hfjk": "Western", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 182 1
 1833 1
 1878 1

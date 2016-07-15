@@ -3,6 +3,7 @@
 /m/04zvzhd
 Javier Marías
 1992
+{"/m/05hgj": "Novel"}
 a 4
 ambivalence 1
 an 1

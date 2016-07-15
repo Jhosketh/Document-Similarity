@@ -3,6 +3,7 @@
 /m/03bx53q
 Christopher Brookmyre
 1997
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/0vgkd": "Black comedy"}
 a 4
 against 1
 all 1

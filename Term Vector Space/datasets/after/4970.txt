@@ -3,6 +3,7 @@
 /m/09zmw0
 Margaret Mahy
 2002-11-04
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 2003 1
 7th 1
 a 3

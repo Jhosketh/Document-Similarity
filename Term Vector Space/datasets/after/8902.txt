@@ -3,6 +3,7 @@
 /m/027yvbc
 Nancy Varian Berberick
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 after 3
 allow 1

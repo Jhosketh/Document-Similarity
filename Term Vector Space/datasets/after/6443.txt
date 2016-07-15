@@ -3,6 +3,7 @@
 /m/0dg_l0
 Christopher Collier
 1974
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1826 1
 a 11
 abduct 1

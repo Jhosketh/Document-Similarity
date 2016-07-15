@@ -3,6 +3,7 @@
 /m/03srk0
 Eric Frank Russell
 1962
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 10
 after 2
 an 2

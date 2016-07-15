@@ -3,6 +3,7 @@
 /m/0c_kdc
 Joe Dever
 1995
+{"/m/03ff00": "Gamebook", "/m/0dwly": "Children's literature"}
 agarash 1
 all 1
 alliance 1

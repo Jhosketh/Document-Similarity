@@ -3,6 +3,7 @@
 /m/046h31
 Robertson Davies
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 academic 1
 actor 1

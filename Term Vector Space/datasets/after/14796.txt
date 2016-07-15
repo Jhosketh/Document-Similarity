@@ -3,6 +3,7 @@
 /m/09rx2gv
 Steve Hockensmith
 2010-03-23
+{"/m/01jfsb": "Thriller", "/m/0crjhv8": "Mashup", "/m/02p0szs": "Historical fiction", "/m/02yq81": "Comic novel", "/m/0vgkd": "Black comedy"}
 a 10
 across 1
 affections 1

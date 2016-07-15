@@ -3,6 +3,7 @@
 /m/0bm8kw2
 Linda Sue Park
 2010-05-25
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 7 1
 a 8
 abilities 1

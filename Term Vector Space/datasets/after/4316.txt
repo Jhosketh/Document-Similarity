@@ -3,6 +3,7 @@
 /m/08rr4h
 Anna Husson Isozaki
 
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 4
 about 1
 and 1

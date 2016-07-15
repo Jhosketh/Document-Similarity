@@ -3,6 +3,7 @@
 /m/0djb8h
 Walter Scott
 1829
+{"/m/0hwxm": "Historical novel"}
 13th 1
 a 20
 accepted 1

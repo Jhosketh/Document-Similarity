@@ -3,6 +3,7 @@
 /m/064pn0r
 S. D. Perry
 2001-07
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 31 1
 a 1
 about 1

@@ -3,6 +3,7 @@
 /m/0hn9ld6
 Fritz Leiber
 1945
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 1
 alternate 1
 and 1

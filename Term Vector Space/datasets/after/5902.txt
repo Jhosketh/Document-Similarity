@@ -3,6 +3,7 @@
 /m/0cqn3k
 Jerry Pournelle
 1980
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 1th 1
 400 1
 a 34

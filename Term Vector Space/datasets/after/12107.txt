@@ -3,6 +3,7 @@
 /m/043psql
 Lisa See
 1999
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 14 1
 17 1
 17china 1

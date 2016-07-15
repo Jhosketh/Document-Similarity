@@ -3,6 +3,7 @@
 /m/0bwyh3
 Robert Anthony Salvatore
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 857 1
 a 1
 abbot 1

@@ -3,6 +3,7 @@
 /m/06dshm
 Irvine Welsh
 1998
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 12
 able 1
 about 1

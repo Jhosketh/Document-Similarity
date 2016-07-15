@@ -3,6 +3,7 @@
 /m/0crhpx4
 Robert Asprin
 1990-07
+{"/m/06n90": "Science Fiction"}
 a 10
 again 2
 alien 1

@@ -3,6 +3,7 @@
 /m/0cfld0
 Aleister Crowley
 
+{"/m/05qfh": "Psychology", "/m/02xlf": "Fiction", "/m/06ms6": "Sociology"}
 addiction 1
 addictions 1
 adept 1

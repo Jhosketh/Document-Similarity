@@ -3,6 +3,7 @@
 /m/02n_y1
 Robert Jordan
 1991-10-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 14
 aes 1
 after 2

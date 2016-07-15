@@ -3,6 +3,7 @@
 /m/02x3s6q
 Ellis Avery
 2008-01
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 4
 adopted 1
 affairs 1

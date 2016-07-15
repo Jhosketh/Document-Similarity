@@ -3,6 +3,7 @@
 /m/026c6x3
 Jules Verne
 1881
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 3
 absolute 1
 amazon 1

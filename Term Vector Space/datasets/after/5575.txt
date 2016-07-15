@@ -3,6 +3,7 @@
 /m/0c4xbl
 Beatrix Potter
 1907
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 6
 about 2
 affronted 1

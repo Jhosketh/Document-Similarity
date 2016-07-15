@@ -3,6 +3,7 @@
 /m/0ddb6y
 Barbara Mertz
 1998
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 106107 1
 a 1
 acquire 1

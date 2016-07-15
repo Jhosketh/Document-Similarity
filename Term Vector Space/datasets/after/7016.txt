@@ -3,6 +3,7 @@
 /m/0fdy6d
 Kristen Britain
 1998-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 16
 ability 1
 addressed 1

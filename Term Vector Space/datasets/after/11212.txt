@@ -3,6 +3,7 @@
 /m/03d54h0
 Patrick Carman
 2007-09
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 abaddon 1
 adventure 1

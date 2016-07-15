@@ -3,6 +3,7 @@
 /m/03h0fd3
 Danielle Steel
 1996
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 141 2
 7 1
 a 2

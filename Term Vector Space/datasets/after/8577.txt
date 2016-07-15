@@ -3,6 +3,7 @@
 /m/0278_8h
 K. A. Applegate
 1999-06
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/05hgj": "Novel"}
 a 10
 according 1
 an 1

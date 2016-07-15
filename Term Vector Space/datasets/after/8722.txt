@@ -3,6 +3,7 @@
 /m/027jrcr
 Jackie French
 2005-03-30
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 12yearold 1
 5 1
 a 16

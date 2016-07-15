@@ -3,6 +3,7 @@
 /m/04lfkxs
 Roland J. Green
 1991
+{"/m/0dz8b": "Sword and sorcery", "/m/01hmnh": "Fantasy"}
 and 1
 argos 1
 at 1

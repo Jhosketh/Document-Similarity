@@ -3,6 +3,7 @@
 /m/0dlngcr
 Manuel Vázquez Montalbán
 1989
+{"/m/05hgj": "Novel"}
 a 1
 about 1
 after 1

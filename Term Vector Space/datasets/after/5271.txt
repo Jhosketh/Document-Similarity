@@ -3,6 +3,7 @@
 /m/0bk2z6
 Piers Anthony
 1984-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 400 1
 5 1
 a 6

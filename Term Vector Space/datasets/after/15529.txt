@@ -3,6 +3,7 @@
 /m/063k9tw
 Gail Carriger
 2009-09-30
+{"/m/035qb4": "Historical fantasy", "/m/03p5xs": "Comedy of manners", "/m/06www": "Steampunk", "/m/072lff": "Paranormal romance"}
 a 6
 accepted 1
 accidentally 1

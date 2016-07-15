@@ -3,6 +3,7 @@
 /m/04x4lf
 John Masefield
 1935
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 abner 1
 adventures 1

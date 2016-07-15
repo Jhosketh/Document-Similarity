@@ -3,6 +3,7 @@
 /m/0bpvkt
 Thea von Harbou
 2002-04-01
+{"/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/059r08": "Psychological novel", "/m/02xlf": "Fiction"}
 a 23
 about 2
 actually 1

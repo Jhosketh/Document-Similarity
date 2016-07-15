@@ -3,6 +3,7 @@
 /m/0pylh
 Christopher Moore
 1999
+{"/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/0246p": "Comic fantasy", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 8
 ability 1
 activities 1

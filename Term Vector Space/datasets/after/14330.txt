@@ -3,6 +3,7 @@
 /m/076wzzv
 Munshi Premchand
 
+{"/m/05hgj": "Novel"}
 a 2
 an 2
 and 2

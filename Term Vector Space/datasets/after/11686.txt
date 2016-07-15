@@ -3,6 +3,7 @@
 /m/07b_mq
 Imre Kertész
 
+{"/m/012jgz": "Autobiographical novel"}
 a 6
 about 2
 afterwards 1

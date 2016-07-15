@@ -3,6 +3,7 @@
 /m/094p8m
 Lloyd Alexander
 1982
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 21
 about 2
 advice 1

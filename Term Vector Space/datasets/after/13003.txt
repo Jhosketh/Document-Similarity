@@ -3,6 +3,7 @@
 /m/04n33wt
 Jean-Marie Gustave Le Clézio
 1980-05-06
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 110112 1
 a 2
 after 1

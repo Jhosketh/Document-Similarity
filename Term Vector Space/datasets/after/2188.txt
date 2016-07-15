@@ -3,6 +3,7 @@
 /m/04dqx9
 W. Somerset Maugham
 1908
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 abandoned 1
 abandonment 1

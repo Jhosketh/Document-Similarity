@@ -3,6 +3,7 @@
 /m/02p2sld
 Patrick O'Brian
 1998-09-28
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 250000 1
 a 20
 aboard 2

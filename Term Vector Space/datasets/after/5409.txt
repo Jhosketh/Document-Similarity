@@ -3,6 +3,7 @@
 /m/0btyl4
 Karen Traviss
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 against 1
 along 1

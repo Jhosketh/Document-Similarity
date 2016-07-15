@@ -3,6 +3,7 @@
 /m/025wsgf
 Jane Yolen
 
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 3
 according 1
 actually 1

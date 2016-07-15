@@ -3,6 +3,7 @@
 /m/02r5bd3
 Richard A. Knaak
 2007-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 16
 abduct 1
 abducted 1

@@ -3,6 +3,7 @@
 /m/01lyzd
 Theodor Fontane
 1894
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 14
 about 5
 accept 1

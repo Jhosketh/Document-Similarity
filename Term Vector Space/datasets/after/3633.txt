@@ -3,6 +3,7 @@
 /m/07cbs1
 Walter Scott
 1820
+{"/m/0hwxm": "Historical novel"}
 a 14
 abbey 1
 abbot 2

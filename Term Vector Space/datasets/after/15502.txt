@@ -3,6 +3,7 @@
 /m/0dd99mw
 E. Nesbit
 1908
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 allow 1
 and 2
 arden 2

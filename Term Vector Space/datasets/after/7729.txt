@@ -3,6 +3,7 @@
 /m/0h23yy
 L. Sprague de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 adroitly 1
 adventure 2

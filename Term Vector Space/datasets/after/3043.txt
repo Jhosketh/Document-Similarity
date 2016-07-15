@@ -3,6 +3,7 @@
 /m/063_8q
 Piers Anthony
 1998-10
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/089m7": "Zombie", "/m/02xlf": "Fiction"}
 a 2
 affections 1
 an 1

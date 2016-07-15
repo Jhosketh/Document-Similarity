@@ -3,6 +3,7 @@
 /m/0glm63
 Nelson Algren
 1949-11
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 146 1
 148 1
 a 15

@@ -3,6 +3,7 @@
 /m/0g5s9jk
 Anaïs Nin
 1995
+{"/m/016chh": "Memoir", "/m/02gsv": "Personal journal"}
 a 1
 affair 1
 and 5

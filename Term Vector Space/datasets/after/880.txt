@@ -3,6 +3,7 @@
 /m/01y1kt
 Jack Kerouac
 1957
+{"/m/016lj8": "Roman \u00e0 clef", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 10 1
 100 1
 14 2

@@ -3,6 +3,7 @@
 /m/015dlb
 Ernest Hemingway
 1952
+{"/m/07m5w1": "Sea story", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 84 1
 a 14
 about 1

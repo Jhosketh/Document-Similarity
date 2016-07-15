@@ -3,6 +3,7 @@
 /m/04b66v
 Stephen King
 2001-09-15
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 12
 adventures 1
 affect 1

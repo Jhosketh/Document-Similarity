@@ -3,6 +3,7 @@
 /m/027gqny
 Catherine Marshall
 1967
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1yearold 1
 75 1
 a 16

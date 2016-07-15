@@ -3,6 +3,7 @@
 /m/02qyxh7
 Michael Chabon
 2007-10-30
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 15
 abyssinian 1
 african 1

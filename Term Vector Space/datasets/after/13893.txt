@@ -3,6 +3,7 @@
 /m/05sykvf
 Charlaine Harris
 2008-05-06
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 18 1
 a 10
 absent 1

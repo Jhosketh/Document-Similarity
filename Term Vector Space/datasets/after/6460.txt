@@ -3,6 +3,7 @@
 /m/0dh6hs
 V. C. Andrews
 1992-11
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 16 1
 a 12
 able 1

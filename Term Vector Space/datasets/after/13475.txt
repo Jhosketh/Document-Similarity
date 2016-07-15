@@ -3,6 +3,7 @@
 /m/05b39wm
 Sergey Lukyanenko
 
+{"/m/0mz2": "Alternate history", "/m/01hmnh": "Fantasy"}
 a 23
 about 1
 access 1

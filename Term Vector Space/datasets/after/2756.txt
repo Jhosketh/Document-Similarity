@@ -3,6 +3,7 @@
 /m/05j180
 Yukio Mishima
 1954
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 a 9
 act 1
 admirer 1

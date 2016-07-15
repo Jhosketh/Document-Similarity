@@ -3,6 +3,7 @@
 /m/049_l4
 Leo Tolstoy
 1889
+{"/m/05hgj": "Novel", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 47 1
 a 10
 acquitted 1

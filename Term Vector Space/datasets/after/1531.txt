@@ -3,6 +3,7 @@
 /m/035cm4
 Julian Barnes
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 1
 13 2
 185 1

@@ -3,6 +3,7 @@
 /m/0c4487
 Orhan Pamuk
 2002
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 12 1
 a 11
 about 1

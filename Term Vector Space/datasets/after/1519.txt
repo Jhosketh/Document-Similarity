@@ -3,6 +3,7 @@
 /m/034xrk
 Angus Wilson
 1956
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 about 1
 achieves 1

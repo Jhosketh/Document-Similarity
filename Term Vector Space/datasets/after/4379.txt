@@ -3,6 +3,7 @@
 /m/08xtgy
 Pierre-Louis Rey
 1886
+{"/m/05hgj": "Novel"}
 1863 1
 a 20
 about 2

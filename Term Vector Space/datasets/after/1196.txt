@@ -3,6 +3,7 @@
 /m/02lbmb
 Tom Clancy
 
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 11 2
 12 1
 173 1

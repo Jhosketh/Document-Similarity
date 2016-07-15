@@ -3,6 +3,7 @@
 /m/09tw73
 Diana G. Gallagher
 2005-07-26
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 about 1
 adult 1

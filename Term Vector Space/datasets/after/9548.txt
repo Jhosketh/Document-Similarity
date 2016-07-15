@@ -3,6 +3,7 @@
 /m/02qgzj3
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 2
 accused 1
 agrees 2

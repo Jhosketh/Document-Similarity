@@ -3,6 +3,7 @@
 /m/04yg0x
 Robin Hobb
 1998-11-19
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 adventures 1
 after 1
 along 1

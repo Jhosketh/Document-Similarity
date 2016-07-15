@@ -3,6 +3,7 @@
 /m/04pm13
 Thea Beckman
 1973
+{"/m/03g3w": "History", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel", "/m/0mz2": "Alternate history"}
 13th 1
 a 6
 accident 1

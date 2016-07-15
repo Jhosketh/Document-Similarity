@@ -3,6 +3,7 @@
 /m/0g0_bt
 Seamus Deane
 1996-10-03
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 120s 1
 16 1
 170s 1

@@ -3,6 +3,7 @@
 /m/05pbwlf
 A. E. van Vogt
 1953
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 400 1
 a 16
 abilities 1

@@ -3,6 +3,7 @@
 /m/06zlglw
 Jack Du Brul
 
+{"/m/017rf8": "Techno-thriller", "/m/08sdrw": "Adventure novel"}
 a 7
 act 1
 ago 1

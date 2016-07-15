@@ -3,6 +3,7 @@
 /m/04k062
 Gary Paulsen
 1987-09-30
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 13 1
 22 1
 406 1

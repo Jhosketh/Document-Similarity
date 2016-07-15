@@ -3,6 +3,7 @@
 /m/026shdm
 Zoey Dean
 2006-05
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 adam 1

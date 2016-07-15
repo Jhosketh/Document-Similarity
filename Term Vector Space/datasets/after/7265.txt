@@ -3,6 +3,7 @@
 /m/0g133t
 Michael Moorcock
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 00 1
 20 1
 a 24

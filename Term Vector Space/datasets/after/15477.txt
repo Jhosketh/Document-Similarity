@@ -3,6 +3,7 @@
 /m/0cz9j5b
 Diana Wynne Jones
 2010
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 after 1
 aidan 3

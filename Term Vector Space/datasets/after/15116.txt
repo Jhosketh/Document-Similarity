@@ -3,6 +3,7 @@
 /m/0bmf_0t
 Jeffery Deaver
 2005-06-07
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction"}
 1800s 1
 200 1
 a 8

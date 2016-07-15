@@ -3,6 +3,7 @@
 /m/04yc350
 Thomas Bernhard
 1983
+{"/m/05hgj": "Novel"}
 153 1
 a 5
 abandoning 1

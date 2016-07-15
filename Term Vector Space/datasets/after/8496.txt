@@ -3,6 +3,7 @@
 /m/02749wj
 William Dean Howells
 1882
+{"/m/026llv5": "Literary realism", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 2
 abandonment 1
 advances 1

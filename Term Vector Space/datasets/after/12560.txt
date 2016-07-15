@@ -3,6 +3,7 @@
 /m/04f341r
 Caroline Lawrence
 2007
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 a 27
 abashed 1
 acquitted 1

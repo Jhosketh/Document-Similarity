@@ -3,6 +3,7 @@
 /m/0dp3j4
 Jasper Fforde
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 about 2
 across 2

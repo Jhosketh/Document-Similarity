@@ -3,6 +3,7 @@
 /m/06kwxd
 Graham Greene
 1966
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 148 1
 a 11
 able 1

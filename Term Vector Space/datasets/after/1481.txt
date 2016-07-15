@@ -3,6 +3,7 @@
 /m/0316z4
 John Steinbeck
 1942
+{"/m/05hgj": "Novel"}
 a 14
 action 1
 after 1

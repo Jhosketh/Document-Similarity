@@ -3,6 +3,7 @@
 /m/07xvn8
 Kate Tremayne
 2004-03-01
+{"/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 2
 after 1
 america 1

@@ -3,6 +3,7 @@
 /m/031596
 John Kennedy Toole
 1989-05
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 130s 2
 150s 1
 a 19

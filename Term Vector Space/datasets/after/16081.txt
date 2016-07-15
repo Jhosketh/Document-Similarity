@@ -3,6 +3,7 @@
 /m/0gmfyfy
 Doris Buchanan Smith
 1973-05
+{"/m/0dwly": "Children's literature"}
 a 4
 allergic 1
 allowing 1

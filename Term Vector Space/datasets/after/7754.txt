@@ -3,6 +3,7 @@
 /m/0h3tb5
 Greg R. Fishbone
 2007-10-31
+{"/m/02yq81": "Comic novel", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction"}
 a 9
 adopted 1
 aid 1

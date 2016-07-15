@@ -3,6 +3,7 @@
 /m/02p2sls
 Patrick O'Brian
 1996
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 25
 about 3
 accepts 1

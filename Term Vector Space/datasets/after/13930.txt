@@ -3,6 +3,7 @@
 /m/05zph6x
 MaryJanice Davidson
 
+{"/m/02n4kr": "Mystery", "/m/03npn": "Horror", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 a 1
 alerting 1
 antoniawho 1

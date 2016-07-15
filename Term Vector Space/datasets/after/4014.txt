@@ -3,6 +3,7 @@
 /m/083qtr
 Edward Bunker
 1981-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 11 1
 13 2
 143 1

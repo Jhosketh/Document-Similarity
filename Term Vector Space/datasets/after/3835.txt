@@ -3,6 +3,7 @@
 /m/07sb9_
 D.J. MacHale
 2002-09-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 abandoned 1
 advanced 1

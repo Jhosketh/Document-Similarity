@@ -3,6 +3,7 @@
 /m/0bfrk9
 Jerry Spinelli
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 abysmal 1
 acting 1

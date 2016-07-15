@@ -3,6 +3,7 @@
 /m/0cphtj
 James White
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 8
 able 1
 accident 1

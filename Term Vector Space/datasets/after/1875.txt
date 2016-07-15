@@ -3,6 +3,7 @@
 /m/03spdr
 Robert Jordan
 2005-10-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 100000 1
 34brotherless34 1
 34let 1

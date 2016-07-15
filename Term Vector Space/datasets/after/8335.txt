@@ -3,6 +3,7 @@
 /m/026rdvq
 E. L. Konigsburg
 2000
+{"/m/02n4kr": "Mystery", "/m/03xj9g": "Hardboiled", "/m/03mfnf": "Young adult literature", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 11 1
 13yearold 1
 34 1

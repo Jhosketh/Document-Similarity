@@ -3,6 +3,7 @@
 /m/03gz6z3
 Gavin Lyall
 1982
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 10 1
 a 7
 action 1

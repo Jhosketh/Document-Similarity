@@ -3,6 +3,7 @@
 /m/0479bg2
 Diana Wynne Jones
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 8
 about 1
 adventure 1

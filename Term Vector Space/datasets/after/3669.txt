@@ -3,6 +3,7 @@
 /m/07fy_d
 Larry Niven
 1976
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 120 1
 170 1
 210 1

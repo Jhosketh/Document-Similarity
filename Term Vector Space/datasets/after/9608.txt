@@ -3,6 +3,7 @@
 /m/02qmgdm
 John Maxwell Coetzee
 2007-09-03
+{"/m/05hgj": "Novel"}
 a 3
 african 1
 aging 1

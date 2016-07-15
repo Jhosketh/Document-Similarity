@@ -3,6 +3,7 @@
 /m/03npyds
 Edward Irving Wortis
 1988-09-01
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/03mfnf": "Young adult literature"}
 178 1
 a 27
 aboard 2

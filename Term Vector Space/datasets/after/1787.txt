@@ -3,6 +3,7 @@
 /m/03m3dd
 Alasdair Gray
 1984-10-30
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 11 1
 a 5
 actions 1

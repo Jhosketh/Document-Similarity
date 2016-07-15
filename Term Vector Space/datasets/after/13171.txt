@@ -3,6 +3,7 @@
 /m/04y6t9g
 Yusuke Kishi
 2006
+{"/m/05hgj": "Novel"}
 a 1
 about 1
 actors 1

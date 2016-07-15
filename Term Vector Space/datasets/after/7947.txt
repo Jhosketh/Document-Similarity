@@ -3,6 +3,7 @@
 /m/0260c7d
 Anita Desai
 1982
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/05h83": "Non-fiction"}
 12yearold 1
 13 1
 7month 1

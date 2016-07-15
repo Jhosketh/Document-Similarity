@@ -3,6 +3,7 @@
 /m/0ddmsx
 Ruth Rendell
 2002-06-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 2
 an 2
 and 1

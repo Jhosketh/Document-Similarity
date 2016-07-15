@@ -3,6 +3,7 @@
 /m/06w9j6n
 Stieg Larsson
 2007
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction"}
 12 1
 15 1
 800000 1

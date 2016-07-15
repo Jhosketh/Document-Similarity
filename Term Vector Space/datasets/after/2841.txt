@@ -3,6 +3,7 @@
 /m/05qhvf
 A. S. Byatt
 1990
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 187 1
 a 7
 academia 1

@@ -3,6 +3,7 @@
 /m/0289vnv
 Bernard Cornwell
 1985-01
+{"/m/0hwxm": "Historical novel"}
 1813 1
 a 1
 alliance 1

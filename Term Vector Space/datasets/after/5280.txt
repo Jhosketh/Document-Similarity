@@ -3,6 +3,7 @@
 /m/0bk34s
 Piers Anthony
 1995-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 acknowledge 1
 after 1

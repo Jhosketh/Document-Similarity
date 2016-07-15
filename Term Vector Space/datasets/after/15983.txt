@@ -3,6 +3,7 @@
 /m/0gl0dnh
 Mario Vargas Llosa
 1988
+{"/m/02js9": "Erotica", "/m/05hgj": "Novel"}
 a 2
 an 2
 and 2

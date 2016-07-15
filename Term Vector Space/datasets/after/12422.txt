@@ -3,6 +3,7 @@
 /m/047nvk1
 Lois McMaster Bujold
 2008-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1th 1
 200 1
 a 20

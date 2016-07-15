@@ -3,6 +3,7 @@
 /m/0fmqv0
 Thomas Pynchon
 2006-11-21
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20 1
 2006 2
 27 1

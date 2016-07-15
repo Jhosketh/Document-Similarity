@@ -3,6 +3,7 @@
 /m/01v4b5
 Alan Garner
 2003-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 14th 1
 18th 1
 a 8

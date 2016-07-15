@@ -3,6 +3,7 @@
 /m/03d3p6j
 Philip Roth
 1991
+{"/m/05h83": "Non-fiction", "/m/016chh": "Memoir"}
 an 1
 and 2
 benign 1

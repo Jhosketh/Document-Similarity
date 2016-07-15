@@ -3,6 +3,7 @@
 /m/043sj52
 Stuart Woods
 1983-03
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 american 1
 an 1

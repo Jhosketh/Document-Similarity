@@ -3,6 +3,7 @@
 /m/03c8tyf
 Stephen R. Donaldson
 2007-10-18
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 24
 able 1
 above 1

@@ -3,6 +3,7 @@
 /m/0263mz_
 Lady Morgan
 1806
+{"/m/02ql9": "Epistolary novel", "/m/01qxvh": "Romance novel"}
 a 2
 accumulating 1
 acquires 1

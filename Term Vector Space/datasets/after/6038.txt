@@ -3,6 +3,7 @@
 /m/0cwxcg
 Darren Shan
 2002
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 above 1
 accomplices 1

@@ -3,6 +3,7 @@
 /m/02qvdr4
 Armistead Maupin
 1980
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 affecting 1

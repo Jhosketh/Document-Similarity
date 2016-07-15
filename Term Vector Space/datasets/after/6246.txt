@@ -3,6 +3,7 @@
 /m/0d6s6c
 Georgette Heyer
 1951
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 7th 1
 a 15
 able 1

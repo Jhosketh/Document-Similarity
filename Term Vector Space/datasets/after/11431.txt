@@ -3,6 +3,7 @@
 /m/03h3c3q
 Desmond Bagley
 1970
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 7
 across 1
 after 1

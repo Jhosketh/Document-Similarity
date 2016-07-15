@@ -3,6 +3,7 @@
 /m/02qd521
 Daniel Suarez
 2006-12-01
+{"/m/017rf8": "Techno-thriller", "/m/06n90": "Science Fiction"}
 a 8
 according 1
 activated 1

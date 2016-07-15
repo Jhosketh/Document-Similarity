@@ -3,6 +3,7 @@
 /m/0bbpgh
 Arthur Ransome
 1931
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 14
 able 1
 about 1

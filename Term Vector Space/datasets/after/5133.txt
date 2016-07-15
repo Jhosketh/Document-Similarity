@@ -3,6 +3,7 @@
 /m/0b9tdd
 Don DeBrandt
 2000-11-01
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 6
 after 1
 and 4

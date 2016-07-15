@@ -3,6 +3,7 @@
 /m/02qs6r_
 Erin Hunter
 2005-08-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 13
 abducted 1
 after 1

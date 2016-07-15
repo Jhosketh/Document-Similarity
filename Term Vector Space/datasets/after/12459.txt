@@ -3,6 +3,7 @@
 /m/04cw33x
 S. M. Stirling
 1996
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/026ny": "Dystopia"}
 a 2
 all 1
 alliance 2

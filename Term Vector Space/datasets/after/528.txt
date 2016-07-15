@@ -3,6 +3,7 @@
 /m/018m6f
 T. Coraghessan Boyle
 1995
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 17 1
 20 1
 33 1

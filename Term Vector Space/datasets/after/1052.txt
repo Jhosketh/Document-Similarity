@@ -3,6 +3,7 @@
 /m/026v43
 Charles Dickens
 1837
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 1
 18278 1
 a 7

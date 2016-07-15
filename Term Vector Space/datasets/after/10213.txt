@@ -3,6 +3,7 @@
 /m/02vnp_3
 Michael Connelly
 2005
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 5
 accused 1
 after 1

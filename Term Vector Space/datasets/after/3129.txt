@@ -3,6 +3,7 @@
 /m/069tyz
 T. Coraghessan Boyle
 2004-09-09
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 13 1
 a 7
 acquaintance 1

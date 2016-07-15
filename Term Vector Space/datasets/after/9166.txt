@@ -3,6 +3,7 @@
 /m/02pky98
 Orson Scott Card
 
+{"/m/03g3w": "History", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 12 1
 16 1
 22 1

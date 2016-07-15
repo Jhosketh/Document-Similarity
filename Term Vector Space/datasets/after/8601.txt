@@ -3,6 +3,7 @@
 /m/027bnc4
 Baroness Emma Orczy
 1927
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 18th 1
 3english 1
 3madame3 1

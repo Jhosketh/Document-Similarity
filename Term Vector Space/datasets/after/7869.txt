@@ -3,6 +3,7 @@
 /m/025xhh2
 Steven Brust
 1998
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 abandon 1
 about 1

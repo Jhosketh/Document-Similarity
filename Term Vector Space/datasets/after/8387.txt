@@ -3,6 +3,7 @@
 /m/026w5r1
 L. Frank Baum
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 110 1
 a 22
 abilities 1

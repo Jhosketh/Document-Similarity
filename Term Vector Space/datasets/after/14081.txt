@@ -3,6 +3,7 @@
 /m/064mlct
 Sarah Rees Brennan
 2009
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 alan 1
 amulet 1

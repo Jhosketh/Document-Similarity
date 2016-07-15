@@ -3,6 +3,7 @@
 /m/03wd9jt
 Kristin Cast
 2008-03-04
+{"/m/01hmnh": "Fantasy", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/072lff": "Paranormal romance"}
 24th 1
 a 7
 about 2

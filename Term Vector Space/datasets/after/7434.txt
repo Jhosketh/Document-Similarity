@@ -3,6 +3,7 @@
 /m/0gdp4z
 Jack Dann
 1966
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 account 1
 adult 1

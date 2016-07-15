@@ -3,6 +3,7 @@
 /m/02w419v
 Richard Yates
 1975
+{"/m/05hgj": "Novel"}
 a 8
 aa 1
 about 1

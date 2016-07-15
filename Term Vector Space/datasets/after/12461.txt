@@ -3,6 +3,7 @@
 /m/04ctrfd
 Dean Koontz
 2008-06-24
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery"}
 a 24
 abandoned 1
 abilities 1

@@ -3,6 +3,7 @@
 /m/01lhtw
 Iain Banks
 1986
+{"/m/05hgj": "Novel"}
 6 1
 a 26
 abandoned 1

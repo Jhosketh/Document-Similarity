@@ -3,6 +3,7 @@
 /m/0404w62
 Victor Appleton
 1911
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel", "/m/06bm_y": "Edisonade"}
 a 5
 able 1
 adventures 1

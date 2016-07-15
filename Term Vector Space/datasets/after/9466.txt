@@ -3,6 +3,7 @@
 /m/02q7pct
 Harry Mazer
 2001-04-03
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 10
 about 1
 adam 8

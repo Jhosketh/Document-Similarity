@@ -3,6 +3,7 @@
 /m/0cqmmy
 Beverly Cleary
 
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 able 1
 actually 1

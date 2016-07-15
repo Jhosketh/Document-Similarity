@@ -3,6 +3,7 @@
 /m/0g8xh3
 Tony Hillerman
 1986
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 an 1
 and 6

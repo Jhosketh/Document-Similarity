@@ -3,6 +3,7 @@
 /m/04n3tts
 Janny Wurts
 1992-04
+{"/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 7
 achieving 1
 actions 1

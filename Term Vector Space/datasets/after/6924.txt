@@ -3,6 +3,7 @@
 /m/0f81dt
 Daphne du Maurier
 1951
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/01qxvh": "Romance novel"}
 152 1
 a 65
 about 20

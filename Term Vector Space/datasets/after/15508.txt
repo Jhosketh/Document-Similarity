@@ -3,6 +3,7 @@
 /m/0ddc4s5
 Sam Savage
 
+{"/m/02yq81": "Comic novel", "/m/01hmnh": "Fantasy"}
 160s 1
 a 1
 alcoholic 1

@@ -3,6 +3,7 @@
 /m/0gn7cm
 James Patterson
 1997
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 51
 abel 1
 about 2

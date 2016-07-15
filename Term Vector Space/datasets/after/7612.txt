@@ -3,6 +3,7 @@
 /m/0gw24p
 Justin Somper
 2007-07-01
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 a 4
 academythe 1
 according 1

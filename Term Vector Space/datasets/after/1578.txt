@@ -3,6 +3,7 @@
 /m/037zzf
 John Barth
 1966
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/026ny": "Dystopia"}
 160s 1
 a 10
 abounds 1

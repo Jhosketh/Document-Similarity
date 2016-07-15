@@ -3,6 +3,7 @@
 /m/0275bbz
 Sax Rohmer
 1913
+{"/m/0lsxr": "Crime Fiction"}
 a 9
 active 1
 an 1

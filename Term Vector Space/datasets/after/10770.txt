@@ -3,6 +3,7 @@
 /m/03c4sv1
 George Pelecanos
 2006-08-08
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 180s 1
 20 1
 a 5

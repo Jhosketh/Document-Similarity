@@ -3,6 +3,7 @@
 /m/053wts6
 Theodore Dreiser
 1946
+{"/m/05hgj": "Novel"}
 a 4
 accidentally 1
 affair 1

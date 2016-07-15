@@ -3,6 +3,7 @@
 /m/053kyx
 Brian Garfield
 1972
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/07s9rl0": "Drama", "/m/02xlf": "Fiction"}
 a 8
 accosts 1
 after 1

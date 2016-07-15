@@ -3,6 +3,7 @@
 /m/039cdv
 Stephen King
 2004-06-08
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/025txgl": "Western fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1 5
 11 1
 177 2

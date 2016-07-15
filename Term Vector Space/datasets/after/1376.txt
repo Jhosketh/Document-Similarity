@@ -3,6 +3,7 @@
 /m/02x9vb
 Arthur Koestler
 1940
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 3
 10 1
 133 1

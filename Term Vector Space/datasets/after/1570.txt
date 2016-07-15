@@ -3,6 +3,7 @@
 /m/0375rx
 James A. Michener
 1959
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1800s 1
 a 1
 activity 1

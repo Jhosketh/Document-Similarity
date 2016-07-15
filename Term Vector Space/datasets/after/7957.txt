@@ -3,6 +3,7 @@
 /m/0260rrm
 Anthony Powell
 1966
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction"}
 141 1
 a 4
 adapted 1

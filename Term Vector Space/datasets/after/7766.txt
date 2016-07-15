@@ -3,6 +3,7 @@
 /m/0h5800
 Adam Roberts
 2000-06-20
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 4
 all 1
 als 1

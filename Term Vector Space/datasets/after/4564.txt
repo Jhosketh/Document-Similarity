@@ -3,6 +3,7 @@
 /m/097vzg
 Roger Zelazny
 1981
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 about 1
 accelerated 1

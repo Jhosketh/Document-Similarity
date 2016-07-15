@@ -3,6 +3,7 @@
 /m/0bcl16
 Pär Lagerkvist
 1950
+{"/m/0hwxm": "Historical novel"}
 a 6
 about 1
 after 1

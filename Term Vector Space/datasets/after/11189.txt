@@ -3,6 +3,7 @@
 /m/03d3m69
 Richard Adams
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/098tmk": "War novel"}
 1862 1
 1866 1
 1870 1

@@ -3,6 +3,7 @@
 /m/0gx_gyn
 Doris Lessing
 
+{"/m/05hgj": "Novel"}
 160s 1
 a 14
 abandoned 1

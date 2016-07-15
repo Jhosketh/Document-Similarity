@@ -3,6 +3,7 @@
 /m/02b2yr
 Ira Levin
 1972-09
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/06nbt": "Satire"}
 a 7
 about 1
 accusation 1

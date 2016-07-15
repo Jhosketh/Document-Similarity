@@ -3,6 +3,7 @@
 /m/06rrg1
 Jasper Fforde
 2005-07-11
+{"/m/02xlf": "Fiction"}
 a 67
 abnormal 1
 about 3

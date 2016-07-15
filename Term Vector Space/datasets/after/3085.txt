@@ -3,6 +3,7 @@
 /m/06664m
 Diana Wynne Jones
 1977
+{"/m/03qfd": "High fantasy", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 27
 aboard 1
 about 1

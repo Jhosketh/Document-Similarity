@@ -3,6 +3,7 @@
 /m/047rlyt
 Amélie Nothomb
 2000
+{"/m/05hgj": "Novel"}
 a 6
 acquisition 1
 age 1

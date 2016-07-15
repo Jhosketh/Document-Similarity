@@ -3,6 +3,7 @@
 /m/02818j9
 Pearl S. Buck
 1933
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 16
 after 2
 against 2

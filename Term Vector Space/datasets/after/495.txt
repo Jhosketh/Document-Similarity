@@ -3,6 +3,7 @@
 /m/016gg_
 Robert Louis Stevenson
 
+{"/m/09s1f": "Business", "/m/0dwly": "Children's literature", "/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 1618 1
 278 1
 34 1

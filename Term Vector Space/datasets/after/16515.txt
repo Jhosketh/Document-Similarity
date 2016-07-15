@@ -3,6 +3,7 @@
 /m/0j24ckm
 H. Rider Haggard
 
+{"/m/01hmnh": "Fantasy"}
 a 8
 about 1
 adventure 1

@@ -3,6 +3,7 @@
 /m/03qkdw
 David Lodge
 1975
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/07z5s9": "Campus novel"}
 40 1
 a 6
 academia 1

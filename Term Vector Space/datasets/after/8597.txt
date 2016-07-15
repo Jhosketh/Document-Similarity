@@ -3,6 +3,7 @@
 /m/027bd3f
 James Dickey
 1970
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 35
 able 1
 about 3

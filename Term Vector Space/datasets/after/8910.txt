@@ -3,6 +3,7 @@
 /m/027zkm7
 Paul Goble
 
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 2
 american 1
 becomes 1

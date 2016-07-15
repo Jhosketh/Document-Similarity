@@ -3,6 +3,7 @@
 /m/04xzq1
 Lincoln Child
 2002
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 130 1
 20th 1
 36 1

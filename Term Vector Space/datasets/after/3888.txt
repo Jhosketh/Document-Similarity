@@ -3,6 +3,7 @@
 /m/07x2vh
 Susan Cooper
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 about 1
 ages 1

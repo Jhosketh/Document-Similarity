@@ -3,6 +3,7 @@
 /m/0cb41s
 Steven Brust
 1984-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 18
 achieve 1
 after 3

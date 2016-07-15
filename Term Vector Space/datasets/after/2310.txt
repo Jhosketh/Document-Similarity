@@ -3,6 +3,7 @@
 /m/04nrl5
 Toni Morrison
 1987-01
+{"/m/05hgj": "Novel", "/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 124 2
 a 13
 about 3

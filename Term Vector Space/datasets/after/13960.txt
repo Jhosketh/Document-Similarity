@@ -3,6 +3,7 @@
 /m/0dtc6_
 Ed Greenwood
 1989-05-25
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 an 1
 and 2

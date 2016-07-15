@@ -3,6 +3,7 @@
 /m/02p2smx
 Patrick O'Brian
 1993
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 a 28
 aboard 5
 about 1

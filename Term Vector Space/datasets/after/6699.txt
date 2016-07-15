@@ -3,6 +3,7 @@
 /m/0drgw0
 Mike Resnick
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 13th 1
 a 14
 abandon 1

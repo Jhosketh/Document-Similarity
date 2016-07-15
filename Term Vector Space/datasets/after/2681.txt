@@ -3,6 +3,7 @@
 /m/05b2_w
 Don DeLillo
 1972-03
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 accessible 1
 and 2

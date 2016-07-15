@@ -3,6 +3,7 @@
 /m/01j519
 Tom Clancy
 1993
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 46
 abandoned 1
 about 2

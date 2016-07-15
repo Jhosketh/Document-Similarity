@@ -3,6 +3,7 @@
 /m/027bkfl
 Nadine Gordimer
 1981
+{"/m/05hgj": "Novel"}
 a 22
 abandoned 1
 ability 1

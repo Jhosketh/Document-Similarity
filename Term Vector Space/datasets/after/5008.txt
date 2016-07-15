@@ -3,6 +3,7 @@
 /m/0b0ppn
 Mo Hayder
 2004
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 137 1
 a 4
 about 1

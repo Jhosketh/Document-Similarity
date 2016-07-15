@@ -3,6 +3,7 @@
 /m/08z1z_
 Naoya Shiga
 
+{"/m/05hgj": "Novel"}
 a 17
 about 1
 act 2

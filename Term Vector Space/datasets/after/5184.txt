@@ -3,6 +3,7 @@
 /m/0bcyl7
 Jacqueline Carey
 2007-06-14
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 90
 ability 1
 able 3

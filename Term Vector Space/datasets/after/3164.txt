@@ -3,6 +3,7 @@
 /m/06dnpv
 Robin Jarvis
 1989
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 after 1
 albert 4

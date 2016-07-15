@@ -3,6 +3,7 @@
 /m/04f3h1d
 Edgar Rice Burroughs
 1921-10-06
+{"/m/02xlf": "Fiction"}
 a 36
 aboard 1
 about 5

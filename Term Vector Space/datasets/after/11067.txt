@@ -3,6 +3,7 @@
 /m/03ct8q6
 Robert Ludlum
 1992-02-08
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 4
 after 1
 against 1

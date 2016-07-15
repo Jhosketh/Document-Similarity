@@ -3,6 +3,7 @@
 /m/099nhf
 Georgette Heyer
 
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 100 1
 a 9
 accept 1

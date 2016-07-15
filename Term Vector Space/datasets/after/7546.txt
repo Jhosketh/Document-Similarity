@@ -3,6 +3,7 @@
 /m/0grp35
 Terry Brooks
 1998-07-28
+{"/m/03npn": "Horror", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy", "/m/02xlf": "Fiction"}
 18 1
 1yearold 1
 a 34

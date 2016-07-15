@@ -3,6 +3,7 @@
 /m/03h0zmb
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/04rlf": "Music"}
 17th 1
 a 7
 all 1

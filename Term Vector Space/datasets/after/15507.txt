@@ -3,6 +3,7 @@
 /m/0dddcwg
 Jack L. Chalker
 1983
+{"/m/06n90": "Science Fiction"}
 13 1
 a 46
 abilities 1

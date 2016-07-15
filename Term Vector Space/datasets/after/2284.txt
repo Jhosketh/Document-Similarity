@@ -3,6 +3,7 @@
 /m/04mb9t
 Donald Malcolm
 1959
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 about 1
 accounts 1

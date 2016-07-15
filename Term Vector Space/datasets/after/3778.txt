@@ -3,6 +3,7 @@
 /m/07mznz
 Don DeLillo
 1977
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 absurd 1
 acquaintances 1

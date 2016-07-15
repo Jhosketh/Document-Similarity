@@ -3,6 +3,7 @@
 /m/057hqmt
 Marlen Haushofer
 1958
+{"/m/0l67h": "Novella"}
 15 1
 a 10
 abortion 1

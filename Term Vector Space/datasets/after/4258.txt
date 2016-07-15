@@ -3,6 +3,7 @@
 /m/08nl1p
 Darren Shan
 2000-11-06
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 25 1
 a 23
 abattoir 1

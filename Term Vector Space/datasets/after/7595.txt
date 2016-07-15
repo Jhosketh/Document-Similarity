@@ -3,6 +3,7 @@
 /m/0gtjkt
 Vikram Seth
 1994-03-01
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 1 2
 134page 1
 152 1

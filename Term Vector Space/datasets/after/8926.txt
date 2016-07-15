@@ -3,6 +3,7 @@
 /m/027zs5f
 Edgar Rice Burroughs
 1935
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 2
 african 1
 also 1

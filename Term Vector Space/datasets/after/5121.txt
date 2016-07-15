@@ -3,6 +3,7 @@
 /m/0b9716
 Charles Osborne
 1998
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 a 2
 amory 2
 and 1

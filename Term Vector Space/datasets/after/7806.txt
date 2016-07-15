@@ -3,6 +3,7 @@
 /m/0h78vf
 Mercedes Lackey
 2006-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 56
 abilities 3
 ability 1

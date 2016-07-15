@@ -3,6 +3,7 @@
 /m/0927y8
 Douglas Coupland
 1999
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 180s 1
 a 9
 absences 1

@@ -3,6 +3,7 @@
 /m/04cqtdr
 Åsne Seierstad
 2008-03-06
+{"/m/05h83": "Non-fiction"}
 a 1
 accessible 1
 account 2

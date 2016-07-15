@@ -3,6 +3,7 @@
 /m/07350q
 Akif Pirinçci
 1989
+{"/m/0lsxr": "Crime Fiction", "/m/03npn": "Horror"}
 450 1
 a 26
 ability 1

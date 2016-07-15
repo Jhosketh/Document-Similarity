@@ -3,6 +3,7 @@
 /m/0287bn6
 Gabrielle Zevin
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 7 1
 a 11
 accident 1

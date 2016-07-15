@@ -3,6 +3,7 @@
 /m/0dh19_
 V. C. Andrews
 1984
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 30
 abandons 1
 about 4

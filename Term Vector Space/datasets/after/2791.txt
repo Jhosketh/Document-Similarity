@@ -3,6 +3,7 @@
 /m/05llmm
 K. M. Peyton
 1969-01
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel"}
 a 5
 after 1
 airplane 1

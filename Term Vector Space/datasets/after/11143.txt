@@ -3,6 +3,7 @@
 /m/03c_njc
 Richard Adams
 1980-04-12
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 about 1
 accepts 1

@@ -3,6 +3,7 @@
 /m/05sfw9
 William Wells Brown
 1853
+{"/m/05hgj": "Novel"}
 184 1
 a 14
 abandons 1

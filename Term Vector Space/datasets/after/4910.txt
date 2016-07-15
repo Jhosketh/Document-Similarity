@@ -3,6 +3,7 @@
 /m/09w2m8
 Frederick Forsyth
 2003
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 1
 16 1
 2001 1

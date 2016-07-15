@@ -3,6 +3,7 @@
 /m/0fb00_
 Philip Kerr
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 7 1
 8 1
 a 13

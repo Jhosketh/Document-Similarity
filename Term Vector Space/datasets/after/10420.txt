@@ -3,6 +3,7 @@
 /m/02wvrnw
 Carolyn Meyer
 2002-10-01
+{"/m/03mfnf": "Young adult literature", "/m/0hwxm": "Historical novel"}
 1520 1
 a 11
 accused 1

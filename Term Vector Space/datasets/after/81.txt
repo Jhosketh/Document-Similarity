@@ -3,6 +3,7 @@
 /m/07c62
 H. G. Wells
 1895
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/07s2s": "Time travel", "/m/026ny": "Dystopia", "/m/01gw42": "Scientific romance"}
 30 1
 802701 1
 a 20

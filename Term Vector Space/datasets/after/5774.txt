@@ -3,6 +3,7 @@
 /m/0cg530
 Robert Anthony Salvatore
 1999-01-30
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 abbot 1
 abelle 1

@@ -3,6 +3,7 @@
 /m/03h6dt
 Eric S. Nylund
 2001-10-30
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 150 1
 2525 1
 2552 1

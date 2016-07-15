@@ -3,6 +3,7 @@
 /m/0902pb
 Rosemary Sutcliff
 1963
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 5
 action 1
 activity 1

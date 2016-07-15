@@ -3,6 +3,7 @@
 /m/055j24
 Frederik Pohl
 1990
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 15
 able 1
 accelerate 1

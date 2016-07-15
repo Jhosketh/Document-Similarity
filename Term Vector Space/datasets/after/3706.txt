@@ -3,6 +3,7 @@
 /m/07hk3q
 Peter O'Donnell
 1967
+{"/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 10
 ability 1
 about 1

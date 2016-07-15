@@ -3,6 +3,7 @@
 /m/05xy0f
 Yukio Mishima
 1969
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 4
 10 1
 1000 1

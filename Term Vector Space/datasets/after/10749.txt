@@ -3,6 +3,7 @@
 /m/03c2n3s
 George Pelecanos
 2001-02
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 african 1
 american 1
 and 2

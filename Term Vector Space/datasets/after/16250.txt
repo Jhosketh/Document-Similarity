@@ -3,6 +3,7 @@
 /m/0h5267n
 Howard Waldrop
 1974
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 16
 above 1
 across 1

@@ -3,6 +3,7 @@
 /m/04g01z0
 Robert B. Parker
 2001
+{"/m/028v3": "Detective fiction"}
 a 8
 acquaintances 1
 after 1

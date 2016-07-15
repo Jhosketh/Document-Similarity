@@ -3,6 +3,7 @@
 /m/03qhqv3
 Emma Bull
 1991-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 36 1
 a 10
 abduction 1

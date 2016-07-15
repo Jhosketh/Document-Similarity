@@ -3,6 +3,7 @@
 /m/055wm7
 Sue Townsend
 2004-10-07
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 2001 1
 a 3
 acclaim 1

@@ -3,6 +3,7 @@
 /m/05sy_mf
 Lucila Gamero de Medina
 1908
+{"/m/01qxvh": "Romance novel"}
 a 5
 actions 1
 after 1

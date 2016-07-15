@@ -3,6 +3,7 @@
 /m/025zv4g
 David Malouf
 1981
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 above 1
 after 1

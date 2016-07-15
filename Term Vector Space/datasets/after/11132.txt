@@ -3,6 +3,7 @@
 /m/03czgfg
 Alexander McCall Smith
 2006
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction"}
 a 6
 about 1
 abusing 1

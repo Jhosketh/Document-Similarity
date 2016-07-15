@@ -3,6 +3,7 @@
 /m/09ddkc
 Aharon Appelfeld
 1978
+{"/m/06nbt": "Satire", "/m/0hwxm": "Historical novel"}
 a 2
 and 3
 arts 1

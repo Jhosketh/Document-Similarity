@@ -3,6 +3,7 @@
 /m/02pkfjh
 Honoré de Balzac
 1835
+{"/m/05hgj": "Novel"}
 a 4
 age 1
 and 5

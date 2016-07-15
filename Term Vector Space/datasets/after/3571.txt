@@ -3,6 +3,7 @@
 /m/076_r8
 Jhumpa Lahiri
 2003-09
+{"/m/02xlf": "Fiction"}
 14 1
 a 28
 abandoned 1

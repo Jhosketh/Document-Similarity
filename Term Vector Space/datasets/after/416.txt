@@ -3,6 +3,7 @@
 /m/0133_b
 Dorothy M. Johnson
 1968
+{"/m/0707q": "Short story"}
 a 4
 american 1
 and 3

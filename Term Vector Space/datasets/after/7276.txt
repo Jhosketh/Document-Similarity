@@ -3,6 +3,7 @@
 /m/0g24vv
 Tamora Pierce
 2005-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 38
 abilities 1
 ability 3

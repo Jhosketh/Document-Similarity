@@ -3,6 +3,7 @@
 /m/04qht0
 Grace Metalious
 1959
+{"/m/02xlf": "Fiction"}
 a 7
 about 2
 acquitted 1

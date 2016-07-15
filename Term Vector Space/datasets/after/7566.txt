@@ -3,6 +3,7 @@
 /m/0gs70_
 Christopher Brookmyre
 1998
+{"/m/0lsxr": "Crime Fiction", "/m/0vgkd": "Black comedy", "/m/06nbt": "Satire", "/m/02xlf": "Fiction"}
 a 3
 actress 1
 after 1

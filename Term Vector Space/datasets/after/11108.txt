@@ -3,6 +3,7 @@
 /m/03cy4cg
 Alexander McCall Smith
 2003
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 7
 accompli 1
 agreeing 1

@@ -3,6 +3,7 @@
 /m/0fjzg5
 Frank Arnau
 1959
+{"/m/0lsxr": "Crime Fiction", "/m/028v3": "Detective fiction"}
 a 2
 able 1
 after 1

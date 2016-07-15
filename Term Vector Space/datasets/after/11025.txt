@@ -3,6 +3,7 @@
 /m/03cpbsl
 Bruce Cook
 1998
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 4
 and 1
 bodiless 1

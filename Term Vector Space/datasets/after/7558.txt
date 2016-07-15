@@ -3,6 +3,7 @@
 /m/0gs3hr
 Marisha Pessl
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 academic 1
 after 1

@@ -3,6 +3,7 @@
 /m/055ynr
 Athena Alexis
 1993
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 10 1
 a 25
 about 6

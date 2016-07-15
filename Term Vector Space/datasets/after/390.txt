@@ -3,6 +3,7 @@
 /m/0yy8n
 Anne Tyler
 1985-08-12
+{"/m/02xlf": "Fiction"}
 a 8
 about 1
 alphabetizing 1

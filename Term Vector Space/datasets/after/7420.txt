@@ -3,6 +3,7 @@
 /m/0gbqmj
 Franklin W. Dixon
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0dwly": "Children's literature"}
 a 7
 alfred 1
 also 2

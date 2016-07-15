@@ -3,6 +3,7 @@
 /m/0cnxy8c
 Norman Spinrad
 
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 500000 2
 a 40
 abandon 1

@@ -3,6 +3,7 @@
 /m/07s59cj
 
 1990-09-27
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0hwxm": "Historical novel"}
 260 1
 27 1
 about 1

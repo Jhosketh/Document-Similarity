@@ -3,6 +3,7 @@
 /m/09j33z
 P. D. James
 2005-11-22
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 24
 about 2
 actions 1

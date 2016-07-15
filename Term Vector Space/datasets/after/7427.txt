@@ -3,6 +3,7 @@
 /m/0gcr99
 Henry Fielding
 1751
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 1 1
 1733 1
 a 8

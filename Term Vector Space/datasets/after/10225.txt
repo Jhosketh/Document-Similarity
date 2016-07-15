@@ -3,6 +3,7 @@
 /m/02vpghf
 Andrew Greeley
 1996-11
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 description 1
 outline 1
 plot 1

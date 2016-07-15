@@ -3,6 +3,7 @@
 /m/03c5w_g
 John Hersey
 1944
+{"/m/098tmk": "War novel"}
 143 1
 700 1
 a 13

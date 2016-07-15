@@ -3,6 +3,7 @@
 /m/06gy52
 Jessie Redmon Fauset
 1929
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 able 1
 african 1

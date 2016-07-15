@@ -3,6 +3,7 @@
 /m/06l7c5
 Sheri S. Tepper
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 300 1
 a 14
 about 1

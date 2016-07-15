@@ -3,6 +3,7 @@
 /m/02pzf6g
 Naguib Mahfouz
 1947
+{"/m/05hgj": "Novel"}
 140s 1
 a 2
 and 2

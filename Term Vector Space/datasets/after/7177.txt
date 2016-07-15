@@ -3,6 +3,7 @@
 /m/0ftgff
 Beverly Cleary
 1970
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 acres 3
 adventures 1

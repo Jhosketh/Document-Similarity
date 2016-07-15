@@ -3,6 +3,7 @@
 /m/0h5sdk
 L. Sprague de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 after 2
 again 1

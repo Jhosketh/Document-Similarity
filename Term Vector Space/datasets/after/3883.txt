@@ -3,6 +3,7 @@
 /m/07wmh0
 Ryu Murakami
 
+{"/m/014dfn": "Speculative fiction", "/m/07s9rl0": "Drama", "/m/05hgj": "Novel", "/m/01jym": "Bildungsroman"}
 16 1
 172 1
 a 9

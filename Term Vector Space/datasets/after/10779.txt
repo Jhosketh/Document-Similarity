@@ -3,6 +3,7 @@
 /m/03c5djl
 Philip Pullman
 1999-04-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 21
 ability 1
 about 3

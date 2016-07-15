@@ -3,6 +3,7 @@
 /m/09ydt4
 Robert Rankin
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 advance 1
 adventure 1

@@ -3,6 +3,7 @@
 /m/06_ry9
 Anne Rice
 1996
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 3
 after 1
 an 2

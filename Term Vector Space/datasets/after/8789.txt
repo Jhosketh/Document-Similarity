@@ -3,6 +3,7 @@
 /m/027pfg6
 Eileen Wilks
 2007-01-02
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02vzzv": "Urban fantasy", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 accepted 1
 agent 1
 an 1

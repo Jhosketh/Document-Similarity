@@ -3,6 +3,7 @@
 /m/0fx886
 Brandon Sanderson
 2006-07-17
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 26
 abilities 2
 able 1

@@ -3,6 +3,7 @@
 /m/0gmdqh
 Michael Moorcock
 1968
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 17
 ability 1
 about 1

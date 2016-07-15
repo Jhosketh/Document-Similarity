@@ -3,6 +3,7 @@
 /m/0ft67j
 Samuel Youd
 1970
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/070l2": "Soft science fiction", "/m/0c082": "Utopian and dystopian fiction", "/m/026ny": "Dystopia"}
 a 33
 able 1
 about 10

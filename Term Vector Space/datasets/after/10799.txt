@@ -3,6 +3,7 @@
 /m/03c7bsv
 Clayton Rawson
 1939
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 12
 across 1
 ad 1

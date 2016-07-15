@@ -3,6 +3,7 @@
 /m/09ztpl
 Philip Roth
 2001
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 a 9
 affair 1

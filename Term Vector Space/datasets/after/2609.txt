@@ -3,6 +3,7 @@
 /m/055y11
 Victor Hugo
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 about 1
 accepting 1

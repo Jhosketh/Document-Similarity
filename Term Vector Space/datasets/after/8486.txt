@@ -3,6 +3,7 @@
 /m/0273r46
 Octavia E. Butler
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 16
 abilities 1
 about 1

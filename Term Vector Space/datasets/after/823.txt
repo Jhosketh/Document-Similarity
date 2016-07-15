@@ -3,6 +3,7 @@
 /m/01tmbk
 Tom Clancy
 
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 2
 agency 1
 and 2

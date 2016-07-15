@@ -3,6 +3,7 @@
 /m/0cwrpx
 Harvey Wheeler
 1962
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 6 2
 a 15
 about 1

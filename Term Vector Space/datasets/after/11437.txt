@@ -3,6 +3,7 @@
 /m/03h3p8n
 Jo Walton
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 against 1
 and 9

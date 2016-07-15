@@ -3,6 +3,7 @@
 /m/02v_vzq
 Sinclair Ross
 1941
+{"/m/05hgj": "Novel"}
 a 14
 absurd 1
 admiringly 1

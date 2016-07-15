@@ -3,6 +3,7 @@
 /m/09g7762
 Daniel H. Wilson
 2007-12-26
+{"/m/06n90": "Science Fiction", "/m/02yq81": "Comic novel"}
 a 6
 again 1
 against 2

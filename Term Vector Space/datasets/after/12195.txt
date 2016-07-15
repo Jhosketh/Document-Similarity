@@ -3,6 +3,7 @@
 /m/043pxlj
 Victor Appleton
 1916
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 7
 accompany 1
 all 1

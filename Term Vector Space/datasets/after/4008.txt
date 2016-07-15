@@ -3,6 +3,7 @@
 /m/083dkz
 Nevil Shute
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 150 1
 a 15
 about 1

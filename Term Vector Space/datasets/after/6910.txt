@@ -3,6 +3,7 @@
 /m/0f5tbf
 Chuck Palahniuk
 2007-05-01
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 20
 about 1
 accomplished 1

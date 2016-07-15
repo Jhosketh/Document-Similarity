@@ -3,6 +3,7 @@
 /m/03csrds
 Nicci Gerrard
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 account 1
 acts 1

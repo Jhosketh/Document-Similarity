@@ -3,6 +3,7 @@
 /m/01y8rx
 Evelyn Waugh
 1930
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 adam 4
 allies 1

@@ -3,6 +3,7 @@
 /m/0268vhw
 Peter Straub
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 12not 1
 50 1
 a 36

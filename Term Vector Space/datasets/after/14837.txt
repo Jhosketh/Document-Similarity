@@ -3,6 +3,7 @@
 /m/09v7wp5
 Colum McCann
 2009-06-23
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 110 1
 174 1
 a 3

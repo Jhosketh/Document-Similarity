@@ -3,6 +3,7 @@
 /m/026j1sd
 Terry Brooks
 2007-08-28
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 27
 able 2
 about 2

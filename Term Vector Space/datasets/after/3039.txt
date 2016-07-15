@@ -3,6 +3,7 @@
 /m/063_6_
 Piers Anthony
 1983-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 27
 ability 3
 able 1

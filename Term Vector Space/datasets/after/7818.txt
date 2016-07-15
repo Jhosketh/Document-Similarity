@@ -3,6 +3,7 @@
 /m/025v6sd
 Richard North Patterson
 2005-01-25
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 as 1
 by 1
 connelly 1

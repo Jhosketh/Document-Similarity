@@ -3,6 +3,7 @@
 /m/0f999r
 Philip K. Dick
 1985
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 144 1
 153 1
 7yearold 1

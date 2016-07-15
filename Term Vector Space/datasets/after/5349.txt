@@ -3,6 +3,7 @@
 /m/0bq9qs
 Raymond Chandler
 1942
+{"/m/0lsxr": "Crime Fiction", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel", "/m/03xj9g": "Hardboiled"}
 a 27
 about 1
 act 1

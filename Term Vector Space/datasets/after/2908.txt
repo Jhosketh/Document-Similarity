@@ -3,6 +3,7 @@
 /m/05wn6w
 Kim Stanley Robinson
 2004-01
+{"/m/03lrw": "Hard science fiction", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 21st 1
 also 1
 are 2

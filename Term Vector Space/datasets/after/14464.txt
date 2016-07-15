@@ -3,6 +3,7 @@
 /m/07s3ct0
 Lee Child
 2010-03-18
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 110th 1
 a 10
 adventure 1

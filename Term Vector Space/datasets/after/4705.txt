@@ -3,6 +3,7 @@
 /m/09gtw5
 P. G. Wodehouse
 1909-04-16
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction"}
 a 4
 able 1
 academy 1

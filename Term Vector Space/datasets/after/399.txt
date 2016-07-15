@@ -3,6 +3,7 @@
 /m/011xzq
 Edgar Allan Poe
 1842-05
+{"/m/039vk": "Gothic fiction", "/m/03npn": "Horror", "/m/0707q": "Short story"}
 a 11
 abbey 3
 acts 1

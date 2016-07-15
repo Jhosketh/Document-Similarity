@@ -3,6 +3,7 @@
 /m/04jfns0
 Lee Child
 2009
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 2am 1
 a 2
 advised 1

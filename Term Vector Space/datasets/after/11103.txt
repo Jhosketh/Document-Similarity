@@ -3,6 +3,7 @@
 /m/03cxc1w
 Thomas Love Peacock
 
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 a 43
 abbey 12
 abstruse 1

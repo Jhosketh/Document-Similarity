@@ -3,6 +3,7 @@
 /m/07c4r6
 Robin McKinley
 1984
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 27
 abilities 1
 ability 2

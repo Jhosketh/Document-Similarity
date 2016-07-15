@@ -3,6 +3,7 @@
 /m/0bl61d
 Ruth Rendell
 1979
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 1
 actions 1
 afford 1

@@ -3,6 +3,7 @@
 /m/02_hls
 Theodore Taylor
 1969
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel"}
 a 5
 able 1
 against 1

@@ -3,6 +3,7 @@
 /m/04y7tr7
 Antonio Skármeta
 1985
+{"/m/017fp": "Biography", "/m/07s9rl0": "Drama", "/m/02w06c6": "Historical romance"}
 16 1
 a 21
 about 2

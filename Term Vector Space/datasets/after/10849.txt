@@ -3,6 +3,7 @@
 /m/03ccf1h
 Eve Bunting
 2007-09-26
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 abundant 1
 accused 1

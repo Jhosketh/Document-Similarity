@@ -3,6 +3,7 @@
 /m/02pcl0w
 Gordon R. Dickson
 
+{"/m/06n90": "Science Fiction", "/m/01smf2": "Military science fiction"}
 a 7
 about 2
 allows 1

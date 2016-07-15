@@ -3,6 +3,7 @@
 /m/01ff4d
 Ruth Rendell
 1991-08-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 10 1
 24 1
 a 8

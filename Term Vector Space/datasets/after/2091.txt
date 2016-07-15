@@ -3,6 +3,7 @@
 /m/046h9y
 Jean M. Auel
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 10
 abnormally 1
 adopted 1

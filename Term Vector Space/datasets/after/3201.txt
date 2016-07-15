@@ -3,6 +3,7 @@
 /m/06h094
 Dan Brown
 
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 33rd 1
 a 18
 allegory 1

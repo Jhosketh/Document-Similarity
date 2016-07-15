@@ -3,6 +3,7 @@
 /m/0638kh
 Benjamin Franklin
 1791
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 17 1
 170 1
 173 1

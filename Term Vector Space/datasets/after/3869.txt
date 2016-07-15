@@ -3,6 +3,7 @@
 /m/07vw4q
 Reinaldo Arenas
 1982
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 and 3
 arenas 1
 backyard 1

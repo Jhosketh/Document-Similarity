@@ -3,6 +3,7 @@
 /m/0dn7bq
 L. Sprague de Camp
 1961
+{"/m/0hwxm": "Historical novel"}
 a 8
 accompanied 1
 and 4

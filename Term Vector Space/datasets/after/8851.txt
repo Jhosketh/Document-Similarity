@@ -3,6 +3,7 @@
 /m/027vr36
 James P. Hogan
 1980-03
+{"/m/03lrw": "Hard science fiction", "/m/07s2s": "Time travel", "/m/014dfn": "Speculative fiction", "/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 16 1
 200 3
 2010 2

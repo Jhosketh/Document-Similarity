@@ -3,6 +3,7 @@
 /m/02qmbvt
 Lilian Jackson Braun
 2006
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 150th 1
 a 21
 about 2

@@ -3,6 +3,7 @@
 /m/02r7lbq
 Richard A. Knaak
 2007-09-25
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 22
 accept 1
 across 1

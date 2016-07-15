@@ -3,6 +3,7 @@
 /m/043qh9k
 Darren Shan
 2008-10-01
+{"/m/01hmnh": "Fantasy", "/m/03npn": "Horror", "/m/08sdrw": "Adventure novel"}
 a 12
 about 2
 accompanies 1

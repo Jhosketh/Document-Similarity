@@ -3,6 +3,7 @@
 /m/0266kj0
 Madeleine L'Engle
 1984-11-01
+{"/m/05hgj": "Novel", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 10
 about 3
 accepts 1

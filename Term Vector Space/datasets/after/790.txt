@@ -3,6 +3,7 @@
 /m/01rtr8
 Eoin Colfer
 2003-04-27
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 13yearold 1
 a 1
 after 1

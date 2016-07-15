@@ -3,6 +3,7 @@
 /m/0d3lzj
 Christopher Rowley
 1995-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 aid 1
 and 3

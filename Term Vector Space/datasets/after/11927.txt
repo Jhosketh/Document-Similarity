@@ -3,6 +3,7 @@
 /m/03yjngt
 Muriel Spark
 1981
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/02xlf": "Fiction"}
 150s 1
 a 1
 and 4

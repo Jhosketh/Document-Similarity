@@ -3,6 +3,7 @@
 /m/027_ykd
 Gordon R. Dickson
 1990
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 14century 2
 20century 1
 a 2

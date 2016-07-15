@@ -3,6 +3,7 @@
 /m/01wvrl
 Hermann Hesse
 1922
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 16
 about 1
 absolutely 1

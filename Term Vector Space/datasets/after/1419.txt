@@ -3,6 +3,7 @@
 /m/02_3rk
 Robert Jordan
 2003-01-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 ablar 1
 accepted 1

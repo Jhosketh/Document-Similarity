@@ -3,6 +3,7 @@
 /m/02vz8t9
 John Banville
 1993
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 account 1
 acquainted 1

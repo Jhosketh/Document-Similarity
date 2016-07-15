@@ -3,6 +3,7 @@
 /m/027kr3b
 Richard Russo
 
+{"/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 and 1
 best 1
 father 1

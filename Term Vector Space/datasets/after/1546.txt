@@ -3,6 +3,7 @@
 /m/035wx7
 David Eddings
 2000-07-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 29
 ability 1
 about 4

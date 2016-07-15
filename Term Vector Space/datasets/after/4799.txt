@@ -3,6 +3,7 @@
 /m/09pb48
 Yvonne Navarro
 2000-09
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 a 4
 all 1
 alysa 1

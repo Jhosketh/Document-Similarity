@@ -3,6 +3,7 @@
 /m/0c9hq3
 Emilio Salgari
 
+{"/m/08sdrw": "Adventure novel"}
 a 3
 adventurer 1
 after 1

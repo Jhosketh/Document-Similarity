@@ -3,6 +3,7 @@
 /m/0c40bdm
 John David Morley
 2007
+{"/m/0g_jj": "Picaresque novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1500 1
 183 1
 abducted 1

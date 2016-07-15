@@ -3,6 +3,7 @@
 /m/06_wvn
 Jacqueline Carey
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 22
 able 1
 about 1

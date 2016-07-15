@@ -3,6 +3,7 @@
 /m/07p8s5
 Elizabeth Kostova
 2005-06-14
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 130s 3
 150s 4
 15thcentury 1

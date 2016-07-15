@@ -3,6 +3,7 @@
 /m/03ch8nl
 Richard Armstrong
 1947
+{"/m/026llv5": "Literary realism", "/m/07m5w1": "Sea story", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 aboard 1
 after 1

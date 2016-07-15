@@ -3,6 +3,7 @@
 /m/062jd8
 Sharon Shinn
 1997
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 1 2
 17 1
 18 1

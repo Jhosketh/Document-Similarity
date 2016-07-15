@@ -3,6 +3,7 @@
 /m/07h9q6
 Ruth Plumly Thompson
 1925
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 about 1
 accidentally 1

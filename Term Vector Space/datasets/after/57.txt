@@ -3,6 +3,7 @@
 /m/05h8j
 Neal Stephenson
 1999
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10s 1
 142 1
 17 1

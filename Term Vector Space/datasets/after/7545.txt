@@ -3,6 +3,7 @@
 /m/0grn_c
 Terry Brooks
 1991-03
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 19
 abilities 1
 able 1

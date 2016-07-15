@@ -3,6 +3,7 @@
 /m/02qz1h
 Morley Callaghan
 1983-09
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20th 1
 a 1
 actually 1

@@ -3,6 +3,7 @@
 /m/09z22h
 Jack Higgins
 1969-08
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 about 1
 agent 1

@@ -3,6 +3,7 @@
 /m/03h1t2d
 Michael Carroll
 2006-10
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 4
 about 1
 actually 1

@@ -3,6 +3,7 @@
 /m/02w9608
 Eric Walters
 2002
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/06wkf": "Spy fiction"}
 11yearold 1
 143 1
 a 4

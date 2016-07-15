@@ -3,6 +3,7 @@
 /m/07v8xz
 Anthony Burgess
 1995-05
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction"}
 a 4
 addiction 1
 and 3

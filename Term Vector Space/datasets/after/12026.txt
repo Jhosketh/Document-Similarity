@@ -3,6 +3,7 @@
 /m/04120wm
 Kate Thompson
 1999
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 100 1
 a 18
 abandon 1

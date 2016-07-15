@@ -3,6 +3,7 @@
 /m/02p43y5
 Sue Grafton
 1982-04-15
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 12
 about 3
 accident 1

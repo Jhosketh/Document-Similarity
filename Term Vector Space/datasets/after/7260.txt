@@ -3,6 +3,7 @@
 /m/0g0sh6
 Anne McCaffrey
 1985-05
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 4
 according 1
 alas 1

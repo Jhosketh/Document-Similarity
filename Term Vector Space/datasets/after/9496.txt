@@ -3,6 +3,7 @@
 /m/02q9rq3
 Jacqueline Wilson
 2005
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 10 1
 60 1
 a 16

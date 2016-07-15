@@ -3,6 +3,7 @@
 /m/0938k5
 Bernard Malamud
 1957
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 23yearold 1
 25yearold 1
 60yearold 1

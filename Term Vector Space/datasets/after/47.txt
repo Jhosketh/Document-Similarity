@@ -3,6 +3,7 @@
 /m/03wqm
 Walter Scott
 1819
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 33
 abandoned 1
 abduct 1

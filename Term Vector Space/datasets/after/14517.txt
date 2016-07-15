@@ -3,6 +3,7 @@
 /m/080ng3p
 Jorge Amado
 1961
+{"/m/05hgj": "Novel"}
 a 12
 acclaimed 1
 across 1

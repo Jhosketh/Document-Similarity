@@ -3,6 +3,7 @@
 /m/05v1tg
 Rosalind Miles
 1999-02-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 a 5
 against 1
 all 1

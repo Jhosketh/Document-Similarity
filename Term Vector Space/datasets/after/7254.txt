@@ -3,6 +3,7 @@
 /m/0g03jj
 Kevin T. Stein
 1990-01-14
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 abyss 1
 according 2

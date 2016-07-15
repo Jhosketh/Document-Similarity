@@ -3,6 +3,7 @@
 /m/093cdp
 Doris Lessing
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 affair 1
 all 1

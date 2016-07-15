@@ -3,6 +3,7 @@
 /m/03kg0b
 Reynolds Price
 1986-06
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 127 1
 13 1
 138 1

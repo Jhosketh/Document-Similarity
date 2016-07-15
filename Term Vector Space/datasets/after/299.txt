@@ -3,6 +3,7 @@
 /m/0jdh5
 Frank Herbert
 1965
+{"/m/0594kx": "Conspiracy fiction", "/m/06n90": "Science Fiction", "/m/037mh8": "Philosophy", "/m/08sdrw": "Adventure novel", "/m/04chq5": "Planetary romance", "/m/02xlf": "Fiction", "/m/01smf2": "Military science fiction"}
 a 26
 abdicate 1
 abilities 3

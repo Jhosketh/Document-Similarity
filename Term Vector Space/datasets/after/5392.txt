@@ -3,6 +3,7 @@
 /m/0bt5tw
 Sean French
 2005-03
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 11000 1
 a 7
 actions 1

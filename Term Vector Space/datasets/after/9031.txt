@@ -3,6 +3,7 @@
 /m/0285537
 MaryJanice Davidson
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 a 28
 about 5
 adopted 1

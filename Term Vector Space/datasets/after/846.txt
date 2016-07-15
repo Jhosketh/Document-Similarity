@@ -3,6 +3,7 @@
 /m/01vs43
 Arundhati Roy
 1997-06-09
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 13 1
 16 2
 31 1

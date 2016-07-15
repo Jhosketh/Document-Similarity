@@ -3,6 +3,7 @@
 /m/02w4ftz
 Alistair MacLean
 1969
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 9
 above 1
 action 2

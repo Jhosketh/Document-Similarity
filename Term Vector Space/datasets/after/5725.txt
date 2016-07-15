@@ -3,6 +3,7 @@
 /m/0cd45j
 Kent Haruf
 1999-10
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 2004 1
 a 2
 adapted 1

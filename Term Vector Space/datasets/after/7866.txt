@@ -3,6 +3,7 @@
 /m/025xgxh
 Steven Brust
 1990-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 18
 about 2
 acknowledge 1

@@ -3,6 +3,7 @@
 /m/0cv3vg
 Lincoln Child
 2005
+{"/m/01jfsb": "Thriller", "/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction"}
 28 1
 a 5
 about 1

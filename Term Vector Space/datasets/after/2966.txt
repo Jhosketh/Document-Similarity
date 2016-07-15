@@ -3,6 +3,7 @@
 /m/05_m0c
 Michael Crichton
 1975-05
+{"/m/0lsxr": "Crime Fiction", "/m/06n90": "Science Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 17 1
 1854 1
 1855 1

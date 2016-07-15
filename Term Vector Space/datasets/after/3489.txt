@@ -3,6 +3,7 @@
 /m/071yzf
 Nicholas Meyer
 1976-05
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 accused 1
 affected 1

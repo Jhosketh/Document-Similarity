@@ -3,6 +3,7 @@
 /m/0c8c5
 Robert A. Heinlein
 1949
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 150000 1
 a 8
 abortive 1

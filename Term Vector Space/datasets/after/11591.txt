@@ -3,6 +3,7 @@
 /m/03nn2ym
 Tami Hoag
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 a 6
 able 1
 advocate 1

@@ -3,6 +3,7 @@
 /m/03r23k
 John Grisham
 1997
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 0 3
 25 2
 a 15

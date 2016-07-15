@@ -3,6 +3,7 @@
 /m/08204z
 Moyra Caldecott
 1990
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 1
 akhenaten 1
 all 1

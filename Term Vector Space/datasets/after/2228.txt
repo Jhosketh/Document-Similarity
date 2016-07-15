@@ -3,6 +3,7 @@
 /m/04h9bm
 Elliot S! Maggin
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 2
 albert 1
 alien 2

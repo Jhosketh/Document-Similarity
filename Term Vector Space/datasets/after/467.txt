@@ -3,6 +3,7 @@
 /m/015642
 Stephen King
 2001-03-20
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 32
 about 3
 abraham 1

@@ -3,6 +3,7 @@
 /m/02r1lzv
 Ron Suskind
 1998-06
+{"/m/027mvb9": "Biographical novel", "/m/017fp": "Biography", "/m/06ms6": "Sociology"}
 a 9
 acceptance 2
 after 1

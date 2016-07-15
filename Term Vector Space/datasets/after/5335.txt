@@ -3,6 +3,7 @@
 /m/0bp0m1
 Richard A. Knaak
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 28
 able 1
 access 1

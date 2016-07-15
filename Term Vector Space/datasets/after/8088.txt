@@ -3,6 +3,7 @@
 /m/0268fzp
 Zadie Smith
 2005
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 10
 academic 1
 action 1

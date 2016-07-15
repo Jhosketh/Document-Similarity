@@ -3,6 +3,7 @@
 /m/06_xjxd
 
 1991-11-01
+{"/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 5
 adventure 1
 after 1

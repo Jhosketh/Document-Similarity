@@ -3,6 +3,7 @@
 /m/0b4m7n
 Dav Pilkey
 2006
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/0hh4w": "Comic science fiction"}
 2000 2
 4 3
 4000from 1

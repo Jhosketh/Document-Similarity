@@ -3,6 +3,7 @@
 /m/026l0
 Bram Stoker
 1897
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/090ts5": "Invasion literature", "/m/02n4kr": "Mystery", "/m/02ql9": "Epistolary novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 a 24
 about 3
 abraham 1

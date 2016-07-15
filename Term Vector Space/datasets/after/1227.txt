@@ -3,6 +3,7 @@
 /m/02mv1w
 Matthew Reilly
 1999-08
+{"/m/01jfsb": "Thriller", "/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 advanced 1
 adventures 1

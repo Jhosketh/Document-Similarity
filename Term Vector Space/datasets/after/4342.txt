@@ -3,6 +3,7 @@
 /m/08tslc
 Tim LaHaye
 1999-02-01
+{"/m/06n90": "Science Fiction", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 144000 1
 216 1
 a 19

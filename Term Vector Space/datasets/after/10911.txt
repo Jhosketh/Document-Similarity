@@ -3,6 +3,7 @@
 /m/03ch8d9
 Margaret Mahy
 1982-08
+{"/m/048945": "Ghost story", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/04gtgp": "Low fantasy"}
 a 1
 an 1
 and 2

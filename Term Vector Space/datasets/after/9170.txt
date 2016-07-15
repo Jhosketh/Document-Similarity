@@ -3,6 +3,7 @@
 /m/02pl96w
 James Herbert
 1974
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 24 1
 a 25
 abandoned 2

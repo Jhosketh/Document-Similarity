@@ -3,6 +3,7 @@
 /m/026hrx0
 John Ball
 1965
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction"}
 a 3
 about 2
 accepted 1

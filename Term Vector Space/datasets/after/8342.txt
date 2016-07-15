@@ -3,6 +3,7 @@
 /m/026ryqc
 Juliet Marillier
 2004-03-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 18 2
 7 1
 a 5

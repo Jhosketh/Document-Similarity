@@ -3,6 +3,7 @@
 /m/05v03z
 Craig Thompson
 1999-10
+{"/m/0py0z": "Graphic novel"}
 a 1
 also 1
 best 1

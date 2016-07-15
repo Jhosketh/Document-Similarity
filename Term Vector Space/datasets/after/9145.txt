@@ -3,6 +3,7 @@
 /m/02pjrlv
 Carolyn Keene
 1981
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 2
 accidents 1
 adversary 1

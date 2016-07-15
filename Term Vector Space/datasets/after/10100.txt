@@ -3,6 +3,7 @@
 /m/02rszq4
 Isabel Allende
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 16
 act 1
 adulthood 1

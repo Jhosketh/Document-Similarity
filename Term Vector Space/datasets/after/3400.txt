@@ -3,6 +3,7 @@
 /m/06wrn_
 Mervyn Peake
 1946
+{"/m/039vk": "Gothic fiction", "/m/057pyk": "Fantasy of manners", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 47
 abiatha 1
 able 4

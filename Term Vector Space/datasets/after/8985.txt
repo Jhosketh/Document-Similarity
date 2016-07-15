@@ -3,6 +3,7 @@
 /m/0281krj
 Warren Ellis
 2007-07-24
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/03xj9g": "Hardboiled", "/m/0c3351": "Suspense"}
 a 7
 across 1
 adventures 1

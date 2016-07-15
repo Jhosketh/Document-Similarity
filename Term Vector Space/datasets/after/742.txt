@@ -3,6 +3,7 @@
 /m/01ns8c
 Irvine Welsh
 2002-08
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 25 1
 60000 1
 a 29

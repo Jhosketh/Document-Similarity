@@ -3,6 +3,7 @@
 /m/042hz3
 Charles Dickens
 1848
+{"/m/05hgj": "Novel"}
 3i 1
 3whose 1
 a 30

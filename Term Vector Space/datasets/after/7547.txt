@@ -3,6 +3,7 @@
 /m/0grp3w
 Terry Brooks
 1997-08-19
+{"/m/03npn": "Horror", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy", "/m/02xlf": "Fiction"}
 3 1
 4 1
 a 46

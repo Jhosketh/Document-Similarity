@@ -3,6 +3,7 @@
 /m/0dk8w_
 Jerry Spinelli
 1982-10
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 4
 about 1
 adolescent 1

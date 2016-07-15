@@ -3,6 +3,7 @@
 /m/08j8_s
 Samuel Beckett
 1951
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 25
 across 1
 admits 1

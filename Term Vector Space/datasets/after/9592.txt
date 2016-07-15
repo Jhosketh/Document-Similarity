@@ -3,6 +3,7 @@
 /m/02qkqn2
 Nevil Shute
 1926
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 128 1
 132 1
 a 5

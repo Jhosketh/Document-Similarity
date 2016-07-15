@@ -3,6 +3,7 @@
 /m/0505m9
 C. S. Forester
 1932
+{"/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 10000 1
 5th 1
 a 11

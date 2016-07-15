@@ -3,6 +3,7 @@
 /m/09_xfk
 Ben Elton
 1993
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 a 11
 abrogation 1
 accepts 1

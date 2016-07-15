@@ -3,6 +3,7 @@
 /m/043kwbc
 Sarah Dessen
 1999-09-01
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 1215 1
 a 14
 about 3

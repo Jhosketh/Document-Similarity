@@ -3,6 +3,7 @@
 /m/0414y3x
 Michael Buckley
 2006-05
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 4 1
 a 19
 about 5

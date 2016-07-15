@@ -3,6 +3,7 @@
 /m/0f40zj
 Brian Keene
 2006-05
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 40day 1
 a 5
 all 1

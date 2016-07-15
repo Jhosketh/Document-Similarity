@@ -3,6 +3,7 @@
 /m/03gvdf
 Graham Greene
 
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 17 1
 a 11
 about 1

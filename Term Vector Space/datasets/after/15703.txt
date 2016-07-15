@@ -3,6 +3,7 @@
 /m/0g573_z
 Raina Telgemeier
 
+{"/m/0xdf": "Autobiography", "/m/0py0z": "Graphic novel"}
 a 2
 accident 1
 after 1

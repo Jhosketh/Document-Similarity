@@ -3,6 +3,7 @@
 /m/06915w
 Thomas Merton
 1948-10-11
+{"/m/0xdf": "Autobiography"}
 1 1
 10 1
 115 1

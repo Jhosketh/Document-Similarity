@@ -3,6 +3,7 @@
 /m/04c6m2
 Hjalmar Söderberg
 1905
+{"/m/01jfsb": "Thriller", "/m/01qxvh": "Romance novel"}
 a 5
 abortion 1
 adulterous 1

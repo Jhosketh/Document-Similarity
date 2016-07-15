@@ -3,6 +3,7 @@
 /m/076pxb
 John Dickson Carr
 1959
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 a 4
 and 4
 asked 1

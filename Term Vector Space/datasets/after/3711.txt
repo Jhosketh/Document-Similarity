@@ -3,6 +3,7 @@
 /m/07j1bt
 D. H. Lawrence
 1920
+{"/m/05hgj": "Novel"}
 a 4
 age 1
 alvina 1

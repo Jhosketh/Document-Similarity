@@ -3,6 +3,7 @@
 /m/078pz1
 Edward Bellamy
 1880
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1880 1
 a 5
 about 1

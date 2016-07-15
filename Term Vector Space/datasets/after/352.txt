@@ -3,6 +3,7 @@
 /m/0llgk
 John Buchan, 1st Baron Tweedsmuir
 1915
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 36
 able 1
 about 3

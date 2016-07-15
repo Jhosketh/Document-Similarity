@@ -3,6 +3,7 @@
 /m/08wr9l
 Poppy Z. Brite
 1993
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/05hgj": "Novel"}
 18 1
 2000 1
 a 7

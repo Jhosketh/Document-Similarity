@@ -3,6 +3,7 @@
 /m/027zkx5
 Allen Say
 
+{"/m/016475": "Picture book"}
 a 8
 across 1
 adopted 1

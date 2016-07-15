@@ -3,6 +3,7 @@
 /m/03g765
 Michael Chabon
 2000-09-19
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 13 1
 17yearold 1
 1yearold 1

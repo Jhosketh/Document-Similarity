@@ -3,6 +3,7 @@
 /m/05f4c2b
 Muriel Spark
 1965
+{"/m/02xlf": "Fiction"}
 161 1
 a 3
 adolf 1

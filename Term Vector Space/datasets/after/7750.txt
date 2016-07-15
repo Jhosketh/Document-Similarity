@@ -3,6 +3,7 @@
 /m/0h3q9t
 Nina Simone
 
+{"/m/012jgz": "Autobiographical novel", "/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 1 1
 11 1
 1332003 1

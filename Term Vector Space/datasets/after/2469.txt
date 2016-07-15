@@ -3,6 +3,7 @@
 /m/04yb4v
 Ernest Hemingway
 1926
+{"/m/02xlf": "Fiction"}
 a 8
 about 1
 after 1

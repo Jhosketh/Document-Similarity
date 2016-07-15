@@ -3,6 +3,7 @@
 /m/0f3xj0
 Maurice Sendak
 1970
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 after 1
 airplane 1

@@ -3,6 +3,7 @@
 /m/02js5l
 Thornton Wilder
 1927
+{"/m/02xlf": "Fiction", "/m/0l67h": "Novella", "/m/05hgj": "Novel"}
 1714 1
 20 1
 a 27

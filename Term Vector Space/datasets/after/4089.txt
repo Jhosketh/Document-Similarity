@@ -3,6 +3,7 @@
 /m/087dsy
 Robert Ludlum
 1982-02-12
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 a 25
 academic 1
 accepts 1

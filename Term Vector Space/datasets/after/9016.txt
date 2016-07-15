@@ -3,6 +3,7 @@
 /m/0283t_m
 Sally Prue
 2002-01-31
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 3
 abilities 1
 ability 1

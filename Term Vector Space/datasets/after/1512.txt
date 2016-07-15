@@ -3,6 +3,7 @@
 /m/0340mk
 Alastair Reynolds
 2002-12-31
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/03lrw": "Hard science fiction", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 2605 1
 3 1
 50 1

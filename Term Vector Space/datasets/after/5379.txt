@@ -3,6 +3,7 @@
 /m/0bsk60
 Gene Stratton-Porter
 
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1 1
 a 22
 able 1

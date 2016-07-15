@@ -3,6 +3,7 @@
 /m/03pl94
 Frank Herbert
 1972
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 15 2
 158 1
 160 1

@@ -3,6 +3,7 @@
 /m/026c3w0
 James Fenimore Cooper
 1841
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 18thcentury 1
 a 3
 absence 1

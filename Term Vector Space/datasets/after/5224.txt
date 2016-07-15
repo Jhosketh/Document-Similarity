@@ -3,6 +3,7 @@
 /m/0bglzf
 Arthur Ransome
 1936
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 12
 about 2
 above 1

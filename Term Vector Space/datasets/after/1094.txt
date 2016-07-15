@@ -3,6 +3,7 @@
 /m/02bcjz
 Dalton Trumbo
 1979
+{"/m/098tmk": "War novel"}
 a 2
 american 1
 and 1

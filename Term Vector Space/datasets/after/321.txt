@@ -3,6 +3,7 @@
 /m/0k2y7
 F. Scott Fitzgerald
 1925-04-10
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 122 1
 a 27

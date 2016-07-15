@@ -3,6 +3,7 @@
 /m/0387s9
 Earl Derr Biggers
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 170 1
 a 3
 agatha 1

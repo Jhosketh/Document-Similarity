@@ -3,6 +3,7 @@
 /m/04636y3
 Eric Van Lustbader
 2008-07-29
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 a 32
 about 2
 academic 1

@@ -3,6 +3,7 @@
 /m/07khqm2
 Judith Merril
 1960
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 1
 and 3
 apparently 1

@@ -3,6 +3,7 @@
 /m/052p26
 Arthur Hailey
 1968
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2 1
 22 1
 25 2

@@ -3,6 +3,7 @@
 /m/04gs85w
 Norman Mailer
 1997
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 and 1
 as 1

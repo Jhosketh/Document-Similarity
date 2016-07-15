@@ -3,6 +3,7 @@
 /m/08rf16
 Seth Eastman
 
+{"/m/0276pxr": "Social novel"}
 a 2
 action 1
 adopted 1

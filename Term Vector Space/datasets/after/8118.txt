@@ -3,6 +3,7 @@
 /m/0269wfn
 Louise Erdrich
 1988
+{"/m/0488wh": "Literary fiction", "/m/02xlf": "Fiction"}
 112 2
 124 1
 a 20

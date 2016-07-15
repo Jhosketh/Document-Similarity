@@ -3,6 +3,7 @@
 /m/02p30qn
 Robert T. Bakker
 1995
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 24
 accompanies 1
 acrocanthosaurus 4

@@ -3,6 +3,7 @@
 /m/0288xt8
 Edgar Rice Burroughs
 1963
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 1
 adventure 1
 african 1

@@ -3,6 +3,7 @@
 /m/03906l
 Nathanael West
 1933-04-08
+{"/m/02xlf": "Fiction"}
 a 9
 accompanied 1
 advice 2

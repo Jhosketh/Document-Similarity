@@ -3,6 +3,7 @@
 /m/02dm18
 Roald Dahl
 1988
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/09kqc": "Humour", "/m/02xlf": "Fiction"}
 a 13
 abilities 1
 about 1

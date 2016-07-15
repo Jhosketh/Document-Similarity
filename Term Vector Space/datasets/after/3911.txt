@@ -3,6 +3,7 @@
 /m/07xvbv
 Bharati Mukherjee
 1975
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 about 1
 abuse 1

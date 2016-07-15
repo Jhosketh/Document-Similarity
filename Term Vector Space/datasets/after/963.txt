@@ -3,6 +3,7 @@
 /m/021ckw
 L. Frank Baum
 1917
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 15
 about 2
 accompanying 1

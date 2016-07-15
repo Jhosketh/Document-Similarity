@@ -3,6 +3,7 @@
 /m/0269vk2
 Sharon Creech
 2002-03-26
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0127jb": "Magic realism"}
 a 15
 about 5
 adopt 1

@@ -3,6 +3,7 @@
 /m/09fkyw
 Jules Verne
 1896
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel"}
 5th 1
 a 7
 acquaintainces 1

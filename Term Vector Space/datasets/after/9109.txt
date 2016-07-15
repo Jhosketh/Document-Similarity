@@ -3,6 +3,7 @@
 /m/028b881
 Suzanne Fisher Staples
 1989
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 4
 accidentally 1
 against 1

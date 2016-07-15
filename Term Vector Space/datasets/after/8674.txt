@@ -3,6 +3,7 @@
 /m/027g0c2
 Theresa Tomlinson
 2002
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 14 1
 a 1
 about 1

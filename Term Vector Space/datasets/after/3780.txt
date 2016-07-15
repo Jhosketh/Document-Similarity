@@ -3,6 +3,7 @@
 /m/07n2yv
 Sidney Sheldon
 1976
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 42
 ability 1
 about 4

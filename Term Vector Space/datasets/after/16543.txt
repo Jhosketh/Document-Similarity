@@ -3,6 +3,7 @@
 /m/0jzxgsx
 Robert Ludlum
 2012-06-05
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 a 6
 agency 1
 agent 1

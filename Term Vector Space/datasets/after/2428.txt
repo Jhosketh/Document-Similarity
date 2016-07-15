@@ -3,6 +3,7 @@
 /m/04wxr8
 Betty Smith
 1943
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 100 1
 10yearold 1
 112 1

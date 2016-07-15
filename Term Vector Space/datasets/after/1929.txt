@@ -3,6 +3,7 @@
 /m/03x2c7
 Thomas Hardy
 1871
+{"/m/05hgj": "Novel"}
 a 7
 accept 2
 adclyffe 2

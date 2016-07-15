@@ -3,6 +3,7 @@
 /m/09p9xx
 Christopher Golden
 2001-06-01
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 140 1
 a 7
 ability 1

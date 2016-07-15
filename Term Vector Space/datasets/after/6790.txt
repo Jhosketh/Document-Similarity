@@ -3,6 +3,7 @@
 /m/0dxt47
 S. E. Hinton
 1979
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 14 1
 a 12
 about 1

@@ -3,6 +3,7 @@
 /m/06xzmz
 Charles Stross
 2005-07-05
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/0707q": "Short story"}
 10s 1
 2001 1
 2004 1

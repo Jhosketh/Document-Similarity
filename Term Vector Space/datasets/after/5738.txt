@@ -3,6 +3,7 @@
 /m/0cdm94
 Charles Frazier
 1997
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 9
 ada 6
 affected 1

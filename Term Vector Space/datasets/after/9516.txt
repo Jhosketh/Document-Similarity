@@ -3,6 +3,7 @@
 /m/02qcqs3
 Willa Cather
 1931
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 167 1
 1713 1
 a 23

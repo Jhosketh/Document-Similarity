@@ -3,6 +3,7 @@
 /m/02qs5q_
 Jules Verne
 1884
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/05hgj": "Novel"}
 243 1
 486 1
 a 10

@@ -3,6 +3,7 @@
 /m/0dwymg
 Kelley Armstrong
 
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 10
 about 3
 accepts 1

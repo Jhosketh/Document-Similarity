@@ -3,6 +3,7 @@
 /m/02x5kqf
 Carolyn Parkhurst
 2003-06-13
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 20
 able 1
 about 3

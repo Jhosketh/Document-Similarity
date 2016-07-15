@@ -3,6 +3,7 @@
 /m/02qyn7w
 Will Self
 2003-06-26
+{"/m/05hgj": "Novel"}
 181 1
 a 9
 about 1

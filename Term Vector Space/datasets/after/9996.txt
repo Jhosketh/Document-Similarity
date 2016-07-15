@@ -3,6 +3,7 @@
 /m/02rj5wj
 Erin Hunter
 2007-04-24
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 8
 aback 1
 about 2

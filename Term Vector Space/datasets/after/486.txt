@@ -3,6 +3,7 @@
 /m/015zpq
 Margaret Atwood
 1985
+{"/m/06n90": "Science Fiction", "/m/02_w8": "Feminist science fiction", "/m/014dfn": "Speculative fiction", "/m/0c082": "Utopian and dystopian fiction", "/m/026ny": "Dystopia", "/m/05hgj": "Novel"}
 215 1
 a 27
 able 1

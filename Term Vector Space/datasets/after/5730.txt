@@ -3,6 +3,7 @@
 /m/0cd8c0
 Julie Anne Peters
 2004
+{"/m/02qg536": "Transgender and transsexual fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 5
 about 1
 after 1

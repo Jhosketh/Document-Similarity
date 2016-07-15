@@ -3,6 +3,7 @@
 /m/01q64j
 Philip Roth
 1993
+{"/m/02xlf": "Fiction"}
 a 1
 accused 1
 an 1

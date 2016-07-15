@@ -3,6 +3,7 @@
 /m/0c8t5d
 Mercedes Lackey
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 13
 abducted 1
 able 2

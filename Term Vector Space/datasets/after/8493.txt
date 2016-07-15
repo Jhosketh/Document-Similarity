@@ -3,6 +3,7 @@
 /m/027442x
 Baroness Emma Orczy
 1906
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 1 1
 173 1
 1783 1

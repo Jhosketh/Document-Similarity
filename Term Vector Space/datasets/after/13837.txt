@@ -3,6 +3,7 @@
 /m/05q7gxy
 Chester Himes
 1959
+{"/m/0lsxr": "Crime Fiction", "/m/03xj9g": "Hardboiled"}
 a 1
 and 2
 as 1

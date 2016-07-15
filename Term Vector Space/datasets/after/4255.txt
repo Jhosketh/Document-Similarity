@@ -3,6 +3,7 @@
 /m/08n9w5
 Matthew Reilly
 2004
+{"/m/01jfsb": "Thriller", "/m/01z02hx": "Sports", "/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 2 1
 4 1
 a 23

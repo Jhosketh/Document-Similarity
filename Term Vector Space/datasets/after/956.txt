@@ -3,6 +3,7 @@
 /m/020xpv
 Walter Jon Williams
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 8
 able 1
 accomplish 1

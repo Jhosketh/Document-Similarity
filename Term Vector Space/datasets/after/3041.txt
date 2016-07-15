@@ -3,6 +3,7 @@
 /m/063_80
 Piers Anthony
 1992-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 able 1
 after 2

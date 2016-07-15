@@ -3,6 +3,7 @@
 /m/09q76q
 Conn Iggulden
 2006-03-02
+{"/m/01jfsb": "Thriller"}
 a 1
 always 1
 and 1

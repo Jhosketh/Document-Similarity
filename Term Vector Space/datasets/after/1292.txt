@@ -3,6 +3,7 @@
 /m/02qx0j
 E. Annie Proulx
 1993
+{"/m/05hgj": "Novel"}
 a 8
 ability 1
 about 2

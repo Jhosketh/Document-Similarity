@@ -3,6 +3,7 @@
 /m/04yz82
 Paco Ignacio Taibo II
 2004-11
+{"/m/05hgj": "Novel"}
 a 4
 and 6
 answering 1

@@ -3,6 +3,7 @@
 /m/09tkmd
 Manuel Puig
 1979
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 170s 1
 a 7
 age 1

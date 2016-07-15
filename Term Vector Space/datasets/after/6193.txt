@@ -3,6 +3,7 @@
 /m/0d3h1z
 Alan Dean Foster
 1994
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 alien 1
 an 1

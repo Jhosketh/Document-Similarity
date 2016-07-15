@@ -3,6 +3,7 @@
 /m/04gr1gy
 Michael Jan Friedman
 1989-04
+{"/m/06n90": "Science Fiction"}
 a 1
 and 4
 android 3

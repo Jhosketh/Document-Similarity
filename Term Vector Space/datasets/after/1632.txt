@@ -3,6 +3,7 @@
 /m/03c5xt
 Max Beerbohm
 1911
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 a 15
 able 1
 academic 1

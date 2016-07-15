@@ -3,6 +3,7 @@
 /m/058pdl
 Giorgio Bassani
 1962
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 157 1
 a 8
 ability 1

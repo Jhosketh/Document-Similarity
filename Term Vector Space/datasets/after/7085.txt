@@ -3,6 +3,7 @@
 /m/0flkyp
 F. Paul Wilson
 1981-08
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 141 1
 500yearold 1
 a 14

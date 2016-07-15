@@ -3,6 +3,7 @@
 /m/07kmq
 Nancy Kilpatrick
 1842
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/0707q": "Short story"}
 a 11
 able 2
 above 1

@@ -3,6 +3,7 @@
 /m/06kgly
 Paul Auster
 2002
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 120s 1
 180s 1
 a 7

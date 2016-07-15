@@ -3,6 +3,7 @@
 /m/02r62sg
 Ann Brashares
 2007
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 21 1
 24 2
 3 1

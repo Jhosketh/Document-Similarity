@@ -3,6 +3,7 @@
 /m/0j5mn
 Marcel Proust
 1913
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 114 1
 116 1
 a 90

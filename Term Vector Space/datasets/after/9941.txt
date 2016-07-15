@@ -3,6 +3,7 @@
 /m/02r9g3n
 Kate Cary
 
+{"/m/039vk": "Gothic fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 29
 about 2
 afraid 1

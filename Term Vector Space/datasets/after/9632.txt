@@ -3,6 +3,7 @@
 /m/02qntz6
 Michael Ondaatje
 2007-04-17
+{"/m/0488wh": "Literary fiction", "/m/02xlf": "Fiction"}
 a 9
 adopted 1
 after 1

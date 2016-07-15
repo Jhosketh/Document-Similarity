@@ -3,6 +3,7 @@
 /m/0f2p5p
 Walter R. Brooks
 
+{"/m/0dwly": "Children's literature"}
 a 10
 acerbic 1
 adventures 1

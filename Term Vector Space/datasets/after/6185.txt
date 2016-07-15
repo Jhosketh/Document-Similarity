@@ -3,6 +3,7 @@
 /m/0d2z_5
 Laurell K. Hamilton
 
+{"/m/01hmnh": "Fantasy", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 7
 accept 1
 acquire 1

@@ -3,6 +3,7 @@
 /m/01yxg4
 Jane Austen
 1818
+{"/m/05hgj": "Novel", "/m/0dwly": "Children's literature", "/m/0c3351": "Suspense", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 25 1
 25000 1
 27 1

@@ -3,6 +3,7 @@
 /m/03hg8yf
 Danielle Steel
 2003-06-03
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 5
 ability 1
 accepted 1

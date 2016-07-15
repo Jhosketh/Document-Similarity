@@ -3,6 +3,7 @@
 /m/03crc2w
 D.J. MacHale
 2008-05-20
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 12 1
 137 1
 70000 2

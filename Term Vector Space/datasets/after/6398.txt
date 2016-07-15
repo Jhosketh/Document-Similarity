@@ -3,6 +3,7 @@
 /m/0df0_v
 Magda Szabó
 
+{"/m/05hgj": "Novel"}
 a 2
 an 1
 behaves 1

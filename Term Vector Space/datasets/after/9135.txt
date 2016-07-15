@@ -3,6 +3,7 @@
 /m/02phvjs
 Anita Shreve
 2002-04-09
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 12 1
 a 2
 and 3

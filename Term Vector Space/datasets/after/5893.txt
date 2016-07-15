@@ -3,6 +3,7 @@
 /m/0cqbl_
 Gillian Rubinstein
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 abdicates 1
 abdication 1

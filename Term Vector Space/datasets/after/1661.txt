@@ -3,6 +3,7 @@
 /m/03dxvb
 Jack McDevitt
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 161 1
 a 11
 access 2

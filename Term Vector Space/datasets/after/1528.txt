@@ -3,6 +3,7 @@
 /m/0351r6
 George R. R. Martin
 2000
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 2 1
 300 1
 a 42

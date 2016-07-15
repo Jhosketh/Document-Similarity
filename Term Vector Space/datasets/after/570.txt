@@ -3,6 +3,7 @@
 /m/01bfl4
 Harriet Beecher Stowe
 1856
+{"/m/05hgj": "Novel"}
 a 9
 actually 1
 addition 1

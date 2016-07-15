@@ -3,6 +3,7 @@
 /m/0g0g99
 Darren Shan
 2007-06-04
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 3 1
 a 36
 able 1

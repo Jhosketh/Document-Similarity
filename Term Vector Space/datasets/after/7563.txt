@@ -3,6 +3,7 @@
 /m/0gs63x
 Caroline B. Cooney
 1998
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 a 4
 able 1
 about 1

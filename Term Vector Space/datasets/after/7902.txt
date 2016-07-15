@@ -3,6 +3,7 @@
 /m/025z0_w
 Mercedes Lackey
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 46
 abandoning 1
 about 6

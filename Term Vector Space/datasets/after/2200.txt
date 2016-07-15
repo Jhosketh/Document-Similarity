@@ -3,6 +3,7 @@
 /m/04fsw6
 Anne Tyler
 1998
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2yearold 1
 36 1
 a 4

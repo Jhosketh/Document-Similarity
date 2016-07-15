@@ -3,6 +3,7 @@
 /m/0dbj5r
 Alan Dean Foster
 1987
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 aliens 1
 alley 1

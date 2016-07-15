@@ -3,6 +3,7 @@
 /m/07y484
 Lucia St. Clair Robson
 
+{"/m/0hfjk": "Western", "/m/0hwxm": "Historical novel"}
 1845 1
 a 5
 all 1

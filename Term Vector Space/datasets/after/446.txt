@@ -3,6 +3,7 @@
 /m/014jst
 J. K. Rowling
 2003-06-21
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 12 2
 a 19
 about 6

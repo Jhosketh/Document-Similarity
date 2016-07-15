@@ -3,6 +3,7 @@
 /m/07_ksn
 Robert Westall
 1975-09-18
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 110 1
 111 1
 17 1

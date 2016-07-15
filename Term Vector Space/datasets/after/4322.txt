@@ -3,6 +3,7 @@
 /m/08s699
 Harry Harrison
 1967
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 3
 11th 1
 181 1

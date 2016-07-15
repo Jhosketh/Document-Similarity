@@ -3,6 +3,7 @@
 /m/0bj9lf
 Andy Griffiths
 2001
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 2003 1
 2005 1
 a 7

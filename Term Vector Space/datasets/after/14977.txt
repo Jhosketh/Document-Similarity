@@ -3,6 +3,7 @@
 /m/0b77_c1
 George Meredith
 
+{"/m/01qxvh": "Romance novel", "/m/08sdrw": "Adventure novel", "/m/0g_jj": "Picaresque novel"}
 20000 1
 3000 1
 a 5

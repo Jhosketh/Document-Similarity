@@ -3,6 +3,7 @@
 /m/03d8pb1
 Rose Macaulay
 1950
+{"/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel"}
 145 1
 a 14
 about 1

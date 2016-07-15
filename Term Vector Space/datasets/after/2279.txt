@@ -3,6 +3,7 @@
 /m/04lz0c
 John Barnes
 1992
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 2th 1
 a 5
 across 1

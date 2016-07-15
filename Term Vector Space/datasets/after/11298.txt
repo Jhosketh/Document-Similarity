@@ -3,6 +3,7 @@
 /m/03gslzf
 Gael Baudino
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 170 1
 5thcentury 1
 a 16

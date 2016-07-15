@@ -3,6 +3,7 @@
 /m/0d8_55
 Anthony Powell
 1968
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 142 1
 143 1
 144 1

@@ -3,6 +3,7 @@
 /m/0407xfm
 Clay Shirky
 2008-02-28
+{"/m/09s1f": "Business", "/m/02j62": "Economics", "/m/05h83": "Non-fiction"}
 34mass 1
 3plausible 1
 3whose 1

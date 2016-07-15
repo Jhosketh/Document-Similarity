@@ -3,6 +3,7 @@
 /m/0fq8m2
 Clifford Chase
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 678 1
 a 15
 abandons 1

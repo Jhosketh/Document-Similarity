@@ -3,6 +3,7 @@
 /m/0byls6
 Bernard Cornwell
 2004-10-04
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 10 1
 12 1
 866 1

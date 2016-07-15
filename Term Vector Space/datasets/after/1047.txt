@@ -3,6 +3,7 @@
 /m/026rp1
 Jack London
 1909
+{"/m/0dwly": "Children's literature", "/m/04fqp": "K\u00fcnstlerroman", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20th 1
 a 12
 above 1

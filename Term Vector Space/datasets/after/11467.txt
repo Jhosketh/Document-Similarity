@@ -3,6 +3,7 @@
 /m/03hh5ks
 Robert Holdstock
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 also 1
 among 2

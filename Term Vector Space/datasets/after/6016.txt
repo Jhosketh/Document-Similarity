@@ -3,6 +3,7 @@
 /m/0cvrvj
 Ron Rash
 2006-04
+{"/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 170s 1
 a 8
 across 1

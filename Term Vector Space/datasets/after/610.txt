@@ -3,6 +3,7 @@
 /m/01f6ff
 Grant Allen
 
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 8
 about 1
 against 1

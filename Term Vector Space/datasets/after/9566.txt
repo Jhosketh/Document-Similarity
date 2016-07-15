@@ -3,6 +3,7 @@
 /m/02qj5v8
 Margaret Weis
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 10 1
 a 15
 about 1

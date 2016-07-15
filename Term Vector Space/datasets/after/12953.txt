@@ -3,6 +3,7 @@
 /m/04y5h5d
 Darren Shan
 2009-05-01
+{"/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 15
 able 1
 about 4

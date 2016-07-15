@@ -3,6 +3,7 @@
 /m/04n0f2b
 Brandon Sanderson
 2008-10-14
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 abilities 1
 about 1

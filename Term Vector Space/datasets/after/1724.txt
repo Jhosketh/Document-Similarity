@@ -3,6 +3,7 @@
 /m/03hdll
 Norman Mailer
 1948
+{"/m/02xlf": "Fiction"}
 a 5
 action 1
 aggression 1

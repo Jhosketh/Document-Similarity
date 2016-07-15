@@ -3,6 +3,7 @@
 /m/03d7b6s
 Michael Moorcock
 1978
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 13year 1
 a 1
 against 1

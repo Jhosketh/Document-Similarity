@@ -3,6 +3,7 @@
 /m/04lgl71
 H. G. Wells
 1906
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 17 1
 20thcentury 1
 72 1

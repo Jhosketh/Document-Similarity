@@ -3,6 +3,7 @@
 /m/02wv9gs
 Gillian Rubinstein
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 10 1
 a 10
 abbott 1

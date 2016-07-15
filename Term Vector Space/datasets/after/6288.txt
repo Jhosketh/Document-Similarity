@@ -3,6 +3,7 @@
 /m/0d8m9v
 Steven Brust
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 about 4
 acquainted 1

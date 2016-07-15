@@ -3,6 +3,7 @@
 /m/02f9rg
 Robert Graves
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 20th 1
 a 12
 abolished 1

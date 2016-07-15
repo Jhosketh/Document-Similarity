@@ -3,6 +3,7 @@
 /m/0f40fz
 Dave Wolverton
 1999-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 15
 accepted 1
 after 2

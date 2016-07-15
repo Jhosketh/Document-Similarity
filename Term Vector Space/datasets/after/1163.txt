@@ -3,6 +3,7 @@
 /m/02hf27
 Joyce Carol Oates
 1969-06
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 130s 1
 167 1
 a 23

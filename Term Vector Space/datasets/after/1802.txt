@@ -3,6 +3,7 @@
 /m/03mr2j
 Chuck Palahniuk
 2003-08-26
+{"/m/06nbt": "Satire", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 16
 after 4
 again 1

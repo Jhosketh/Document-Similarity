@@ -3,6 +3,7 @@
 /m/027vrsj
 Dean Koontz
 2007-05-29
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery"}
 10000 2
 a 19
 about 5

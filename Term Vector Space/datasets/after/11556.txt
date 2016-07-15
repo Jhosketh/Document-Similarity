@@ -3,6 +3,7 @@
 /m/03mb53s
 Nicholas Pileggi
 1986
+{"/m/0lsxr": "Crime Fiction", "/m/017fp": "Biography", "/m/05hgj": "Novel", "/m/01pwbn": "True crime", "/m/02xlf": "Fiction", "/m/0xdf": "Autobiography"}
 11 1
 12 1
 15 1

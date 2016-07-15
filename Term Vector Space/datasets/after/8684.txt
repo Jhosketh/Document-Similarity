@@ -3,6 +3,7 @@
 /m/027gh0d
 Georgette Heyer
 1968
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 a 19
 able 2
 about 4

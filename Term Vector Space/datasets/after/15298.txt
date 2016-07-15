@@ -3,6 +3,7 @@
 /m/0c3v51v
 John David Morley
 1987
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 16 1
 1th 1
 a 8

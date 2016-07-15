@@ -3,6 +3,7 @@
 /m/03dc3v
 Stephen Jay Gould
 1989
+{"/m/04rjg": "Mathematics", "/m/05h83": "Non-fiction", "/m/06mq7": "Science"}
 505 1
 a 2
 adapted 3

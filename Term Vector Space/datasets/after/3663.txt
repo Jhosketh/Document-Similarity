@@ -3,6 +3,7 @@
 /m/07fd15
 John Updike
 1960-11-12
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 26 1
 a 18
 abandons 1

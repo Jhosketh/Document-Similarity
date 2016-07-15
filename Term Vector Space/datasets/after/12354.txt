@@ -3,6 +3,7 @@
 /m/047nywp
 Janny Wurts
 1987-05-19
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 17 1
 a 7
 abusive 1

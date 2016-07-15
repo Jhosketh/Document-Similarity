@@ -3,6 +3,7 @@
 /m/08882q
 Howard Fast
 1961
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 125 1
 70 1
 a 16

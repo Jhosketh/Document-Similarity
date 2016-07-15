@@ -3,6 +3,7 @@
 /m/0fh89h
 Mercedes Lackey
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 19
 about 2
 abused 2

@@ -3,6 +3,7 @@
 /m/0280y5t
 Margery Allingham
 1955
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 1
 all 1
 amidst 1

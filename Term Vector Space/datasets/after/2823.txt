@@ -3,6 +3,7 @@
 /m/05nyp2
 Friedrich Dürrenmatt
 1950
+{"/m/0lsxr": "Crime Fiction", "/m/028v3": "Detective fiction", "/m/0l67h": "Novella"}
 a 8
 able 1
 acknowledgment 1

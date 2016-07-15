@@ -3,6 +3,7 @@
 /m/03ffmc
 Ursula K. Le Guin
 1971
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 170s 1
 18 1
 2002 1

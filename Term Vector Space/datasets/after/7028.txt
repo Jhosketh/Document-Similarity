@@ -3,6 +3,7 @@
 /m/0ffqwg
 Jacek Dukaj
 2003
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 7
 africa 1
 alexandria 1

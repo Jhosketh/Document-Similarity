@@ -3,6 +3,7 @@
 /m/0cyh5k
 George MacDonald Fraser
 1971
+{"/m/0hwxm": "Historical novel"}
 a 13
 abraham 1
 across 1

@@ -3,6 +3,7 @@
 /m/0270b_k
 Charles Bukowski
 
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 about 1
 acceptance 1

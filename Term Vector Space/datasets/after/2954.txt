@@ -3,6 +3,7 @@
 /m/05_71s
 Jean M. Auel
 1982-04-13
+{"/m/014dfn": "Speculative fiction", "/m/0mz2": "Alternate history", "/m/02p0szs": "Historical fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 10
 accepted 1
 accompanies 1

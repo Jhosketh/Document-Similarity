@@ -3,6 +3,7 @@
 /m/0d9z9x
 Ruth Rendell
 1985-04-15
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 an 1
 and 1

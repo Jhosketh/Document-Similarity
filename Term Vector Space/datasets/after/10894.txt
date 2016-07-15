@@ -3,6 +3,7 @@
 /m/03cgh_q
 Lynn Flewelling
 2008-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 aboard 1
 about 1

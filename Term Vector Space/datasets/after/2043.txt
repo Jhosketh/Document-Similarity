@@ -3,6 +3,7 @@
 /m/043tnl
 Alan Garner
 1996-05
+{"/m/0hwxm": "Historical novel"}
 1803 1
 a 4
 aboriginal 1

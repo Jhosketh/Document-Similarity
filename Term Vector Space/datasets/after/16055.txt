@@ -3,6 +3,7 @@
 /m/0gmh15r
 Greg Mortenson
 2009
+{"/m/05h83": "Non-fiction", "/m/016chh": "Memoir"}
 2003 1
 a 2
 afghanistan 1

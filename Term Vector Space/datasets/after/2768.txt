@@ -3,6 +3,7 @@
 /m/05k16p
 Robert Jordan
 1980-02-01
+{"/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 1760s 1
 a 26
 abuse 1

@@ -3,6 +3,7 @@
 /m/04ld89w
 Robert Crais
 2008
+{"/m/028v3": "Detective fiction"}
 a 7
 accomplice 1
 actually 1

@@ -3,6 +3,7 @@
 /m/047g9hm
 Edward Bloor
 1997
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 15yearold 1
 a 2
 after 2

@@ -3,6 +3,7 @@
 /m/01pk4g
 Nathaniel Hawthorne
 1850
+{"/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/05hgj": "Novel", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 40
 about 2
 acknowledge 1

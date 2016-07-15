@@ -3,6 +3,7 @@
 /m/01vn_x
 William Faulkner
 1930
+{"/m/0vgkd": "Black comedy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 15 1
 5 1
 a 33

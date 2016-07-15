@@ -3,6 +3,7 @@
 /m/0465qb2
 Kenneth Oppel
 2008-08-26
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/06www": "Steampunk"}
 a 21
 able 1
 about 3

@@ -3,6 +3,7 @@
 /m/0g9wyk9
 Jack Vance
 
+{"/m/06n90": "Science Fiction"}
 a 7
 academic 1
 adopted 1

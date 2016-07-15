@@ -3,6 +3,7 @@
 /m/07wv_s
 Shirley Jackson
 1958
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 28
 about 3
 acquaintance 1

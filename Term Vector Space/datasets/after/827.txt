@@ -3,6 +3,7 @@
 /m/01trmg
 Sinclair Lewis
 1922
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 25
 about 4
 according 1

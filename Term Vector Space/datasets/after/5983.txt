@@ -3,6 +3,7 @@
 /m/0ctsx4
 Dean Koontz
 1993
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 7 1
 a 19
 abandoned 1

@@ -3,6 +3,7 @@
 /m/0c4vnr
 Chaim Potok
 1969-08-12
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 abraham 2
 adolescent 1

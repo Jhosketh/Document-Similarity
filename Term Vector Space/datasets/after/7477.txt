@@ -3,6 +3,7 @@
 /m/0glj2g
 L. Sprague de Camp
 
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 actually 1
 and 5

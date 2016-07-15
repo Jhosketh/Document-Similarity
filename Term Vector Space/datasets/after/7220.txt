@@ -3,6 +3,7 @@
 /m/0fxn0s
 L. Sprague de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 aid 1
 algarth 1

@@ -3,6 +3,7 @@
 /m/052163t
 L. Frank Baum
 
+{"/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel"}
 106 1
 2008 1
 a 24

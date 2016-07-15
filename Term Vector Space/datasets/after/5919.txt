@@ -3,6 +3,7 @@
 /m/0crs37
 Lincoln Child
 2007-07-01
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/017rf8": "Techno-thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 abound 1
 acquaintances 1

@@ -3,6 +3,7 @@
 /m/060jq8
 Phyllis Reynolds Naylor
 1991
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1600 1
 20 1
 40 1

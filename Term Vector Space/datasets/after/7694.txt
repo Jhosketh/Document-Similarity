@@ -3,6 +3,7 @@
 /m/0g_r6b
 H. G. Wells
 1923
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05h83": "Non-fiction"}
 121 1
 200000000 1
 a 12

@@ -3,6 +3,7 @@
 /m/09b7ds
 Anne Tyler
 1995
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 about 1
 act 1

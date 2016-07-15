@@ -3,6 +3,7 @@
 /m/04jld1r
 Colin Dexter
 1992-10-09
+{"/m/0lsxr": "Crime Fiction"}
 a 8
 admits 1
 alan 1

@@ -3,6 +3,7 @@
 /m/027j_n5
 James Alan Gardner
 2002
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 19
 about 1
 abu 1

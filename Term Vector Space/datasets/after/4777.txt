@@ -3,6 +3,7 @@
 /m/09nlv8
 Halldór Laxness
 1943
+{"/m/0hwxm": "Historical novel"}
 a 4
 about 1
 an 3

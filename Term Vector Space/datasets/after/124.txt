@@ -3,6 +3,7 @@
 /m/0bq9g
 John Steinbeck
 1939
+{"/m/05hgj": "Novel"}
 66 1
 a 14
 administration 1

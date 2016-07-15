@@ -3,6 +3,7 @@
 /m/0jgd2
 Harriet Beecher Stowe
 1852-03-20
+{"/m/05hgj": "Novel"}
 a 20
 accompany 1
 african 1

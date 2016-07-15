@@ -3,6 +3,7 @@
 /m/026t3g2
 Poul Anderson
 
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1 1
 2 1
 a 1

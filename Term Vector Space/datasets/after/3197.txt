@@ -3,6 +3,7 @@
 /m/06gylr
 Harold Robbins
 1952
+{"/m/05hgj": "Novel"}
 a 12
 acceptance 1
 accepts 1

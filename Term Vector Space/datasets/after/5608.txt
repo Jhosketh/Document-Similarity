@@ -3,6 +3,7 @@
 /m/0c6w5f
 Samuel Richardson
 1740
+{"/m/02ql9": "Epistolary novel", "/m/01qxvh": "Romance novel", "/m/05nd8bf": "Georgian romance"}
 1748 1
 1753 1
 18th 1

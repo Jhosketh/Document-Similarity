@@ -3,6 +3,7 @@
 /m/0cl4x7
 Philip K. Dick
 1972
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 182 1
 a 6
 able 1

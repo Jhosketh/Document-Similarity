@@ -3,6 +3,7 @@
 /m/08rmwf
 John F. Kennedy
 1964
+{"/m/05h83": "Non-fiction"}
 a 1
 america 1
 american 1

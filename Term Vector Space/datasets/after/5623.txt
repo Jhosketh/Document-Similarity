@@ -3,6 +3,7 @@
 /m/0c7n1j
 Beatrix Potter
 1905-10
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 17
 above 1
 accepts 1

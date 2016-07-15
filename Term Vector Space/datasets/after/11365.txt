@@ -3,6 +3,7 @@
 /m/03gz9fm
 Jerry Spinelli
 1986
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 3
 but 1
 character 1

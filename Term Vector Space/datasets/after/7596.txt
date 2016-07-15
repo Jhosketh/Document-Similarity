@@ -3,6 +3,7 @@
 /m/0gtk0y
 Walter Scott
 1832
+{"/m/0hwxm": "Historical novel"}
 11th 1
 a 13
 accept 1

@@ -3,6 +3,7 @@
 /m/0cfcjv
 Alexandre Dumas
 1843
+{"/m/01qxvh": "Romance novel", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 13
 about 1
 accomplishment 1

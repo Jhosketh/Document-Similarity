@@ -3,6 +3,7 @@
 /m/03h4pfy
 T. A. Barron
 1997
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 and 4
 balor 1
 between 1

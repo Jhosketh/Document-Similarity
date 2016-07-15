@@ -3,6 +3,7 @@
 /m/02py2vr
 Wilkie Collins
 1864
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 24
 about 1
 affair 1

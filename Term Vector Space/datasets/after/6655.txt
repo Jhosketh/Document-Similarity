@@ -3,6 +3,7 @@
 /m/0dpn34
 Peter O'Donnell
 1971
+{"/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 about 1
 accept 1

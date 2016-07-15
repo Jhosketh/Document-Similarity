@@ -3,6 +3,7 @@
 /m/0b2m1x
 Larry Niven
 1966
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 15 1
 a 13
 able 1

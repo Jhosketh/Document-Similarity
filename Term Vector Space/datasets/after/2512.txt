@@ -3,6 +3,7 @@
 /m/04_mmj
 Steven Erikson
 2001-12-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 2nd 1
 a 3
 about 1

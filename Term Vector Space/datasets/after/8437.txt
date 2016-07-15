@@ -3,6 +3,7 @@
 /m/02707k3
 Caroline Lawrence
 2001-09-20
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 7 1
 a 21
 able 1

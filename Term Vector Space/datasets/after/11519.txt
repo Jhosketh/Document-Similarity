@@ -3,6 +3,7 @@
 /m/02rv4cg
 Ken Follett
 2004
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 9
 against 1
 also 1

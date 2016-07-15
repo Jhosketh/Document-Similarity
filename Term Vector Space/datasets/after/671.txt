@@ -3,6 +3,7 @@
 /m/01j13q
 P. G. Wodehouse
 1936-09-25
+{"/m/02yq81": "Comic novel", "/m/02xlf": "Fiction"}
 12 2
 28 1
 5000 1

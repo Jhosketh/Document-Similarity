@@ -3,6 +3,7 @@
 /m/0278xmh
 Steven Brust
 1991
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 22
 abandon 1
 able 1

@@ -3,6 +3,7 @@
 /m/0br_v2
 James Ellroy
 1992-09-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 138 1
 142 1
 145 1

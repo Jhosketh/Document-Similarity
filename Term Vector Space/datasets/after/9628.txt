@@ -3,6 +3,7 @@
 /m/02qnpj7
 Roberto Arlt
 
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 15
 about 1
 accepted 1

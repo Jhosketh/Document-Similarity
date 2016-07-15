@@ -3,6 +3,7 @@
 /m/01w8wp
 Neal Stephenson
 2003-09-23
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1661 1
 1665 1
 1672 1

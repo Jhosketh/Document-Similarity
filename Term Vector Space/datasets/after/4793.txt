@@ -3,6 +3,7 @@
 /m/09p9yy
 Nancy Holder
 1997-11-01
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 according 1
 and 3

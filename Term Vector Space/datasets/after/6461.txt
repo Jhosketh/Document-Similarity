@@ -3,6 +3,7 @@
 /m/0dh6mm
 V. C. Andrews
 1994-02-01
+{"/m/03mfnf": "Young adult literature", "/m/03npn": "Horror"}
 150s 1
 a 25
 able 1

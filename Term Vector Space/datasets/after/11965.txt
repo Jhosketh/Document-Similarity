@@ -3,6 +3,7 @@
 /m/04054j6
 Thea Astley
 1962
+{"/m/05hgj": "Novel"}
 a 1
 affair 2
 brewster 1

@@ -3,6 +3,7 @@
 /m/02vpg_y
 Andrew Greeley
 2001-01
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 description 1
 outline 1
 plot 1

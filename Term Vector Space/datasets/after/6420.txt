@@ -3,6 +3,7 @@
 /m/0dfhqs
 Brian Aldiss
 1996-01-26
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 accord 1
 alludes 1

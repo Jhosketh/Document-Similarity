@@ -3,6 +3,7 @@
 /m/02qptkp
 Truman Capote
 
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/01jym": "Bildungsroman"}
 13yearold 1
 a 7
 abandoned 1

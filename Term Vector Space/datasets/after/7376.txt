@@ -3,6 +3,7 @@
 /m/0g7y47
 Vincent McDonnell
 1906
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 6
 accept 1
 accepted 1

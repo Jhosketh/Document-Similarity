@@ -3,6 +3,7 @@
 /m/062yyb
 Mercedes Lackey
 1987-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 ability 1
 able 1

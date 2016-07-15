@@ -3,6 +3,7 @@
 /m/02047h
 L. Frank Baum
 1918
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 28
 about 2
 acquaintance 1

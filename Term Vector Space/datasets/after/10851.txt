@@ -3,6 +3,7 @@
 /m/03ccgmz
 Bruce Cook
 1996
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 3
 aid 1
 an 1

@@ -3,6 +3,7 @@
 /m/02r3bnh
 Guy Delisle
 
+{"/m/016chh": "Memoir", "/m/0py0z": "Graphic novel"}
 a 10
 acquaintances 1
 activity 1

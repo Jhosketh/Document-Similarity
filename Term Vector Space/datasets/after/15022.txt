@@ -3,6 +3,7 @@
 /m/0bbvj77
 Charles Finch
 2007-06-26
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 1865 1
 a 10
 all 1

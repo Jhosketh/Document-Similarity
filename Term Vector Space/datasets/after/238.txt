@@ -3,6 +3,7 @@
 /m/0grxd
 Stephen Crane
 1895
+{"/m/02xlf": "Fiction"}
 1em 1
 2em 1
 304th 2

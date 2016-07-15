@@ -3,6 +3,7 @@
 /m/059vt0
 Eric Carle
 1969-12-31
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 4
 an 1
 and 2

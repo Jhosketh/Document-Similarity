@@ -3,6 +3,7 @@
 /m/03g_bxp
 Phoebe Atwood Taylor
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 50000 1
 a 8
 after 1

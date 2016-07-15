@@ -3,6 +3,7 @@
 /m/080kl_
 Vikram Seth
 1999
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 affair 2
 affected 1

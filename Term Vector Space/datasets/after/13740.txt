@@ -3,6 +3,7 @@
 /m/05n03pb
 Jonathan Harr
 1996-08-27
+{"/m/014dfn": "Speculative fiction", "/m/05h83": "Non-fiction", "/m/06ms6": "Sociology", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 2
 188 1
 2 1

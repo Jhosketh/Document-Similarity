@@ -3,6 +3,7 @@
 /m/0cjby4
 Laurell K. Hamilton
 1996
+{"/m/01hmnh": "Fantasy", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 82
 able 11
 about 6

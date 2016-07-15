@@ -3,6 +3,7 @@
 /m/04phcr
 John Gardner
 1993-07-15
+{"/m/06wkf": "Spy fiction"}
 a 8
 actor 1
 agent 1

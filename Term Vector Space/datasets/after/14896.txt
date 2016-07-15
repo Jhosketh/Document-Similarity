@@ -3,6 +3,7 @@
 /m/09v53n4
 Fritz Leiber
 1988
+{"/m/01hmnh": "Fantasy"}
 across 1
 adventure 1
 afflictions 1

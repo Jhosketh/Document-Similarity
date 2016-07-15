@@ -3,6 +3,7 @@
 /m/02ppcpf
 Tamora Pierce
 2002
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 18
 abandon 1
 able 1

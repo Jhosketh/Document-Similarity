@@ -3,6 +3,7 @@
 /m/055zdhc
 Jean-Marie Gustave Le Clézio
 1980
+{"/m/0707q": "Short story"}
 a 1
 adding 1
 adolescent 1

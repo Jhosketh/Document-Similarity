@@ -3,6 +3,7 @@
 /m/0b9zl3q
 Robert B. Parker
 2010
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 6
 abandoned 1
 about 2

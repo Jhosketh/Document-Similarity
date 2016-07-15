@@ -3,6 +3,7 @@
 /m/0d7b34
 Alan Dean Foster
 2003
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 aann 1
 administrator 1

@@ -3,6 +3,7 @@
 /m/02r656y
 Anzia Yezierska
 
+{"/m/02xlf": "Fiction"}
 1000 1
 10year 1
 a 16

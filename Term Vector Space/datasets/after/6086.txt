@@ -3,6 +3,7 @@
 /m/0c_04h
 Diana Wynne Jones
 1984
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 400 1
 a 29
 about 2

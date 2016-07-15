@@ -3,6 +3,7 @@
 /m/03mgm7g
 C. J. Sansom
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 1541 1
 a 4
 accept 1

@@ -3,6 +3,7 @@
 /m/01pnl8
 Craig Rice
 1941
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction"}
 a 7
 and 5
 at 1

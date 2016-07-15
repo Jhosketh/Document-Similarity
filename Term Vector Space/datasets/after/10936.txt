@@ -3,6 +3,7 @@
 /m/03cjc76
 Bruce Cook
 1998
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 acquaintances 1
 and 1
 are 1

@@ -3,6 +3,7 @@
 /m/02rt2ky
 William Horwood
 1987
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 abandoned 1
 also 1

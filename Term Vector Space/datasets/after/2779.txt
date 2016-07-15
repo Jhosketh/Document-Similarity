@@ -3,6 +3,7 @@
 /m/05krzm
 Mikhail Bulgakov
 1925
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 125 1
 a 30
 absurd 1

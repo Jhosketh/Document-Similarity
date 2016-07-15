@@ -3,6 +3,7 @@
 /m/0ftg74
 Scott Lynch
 2006-06-27
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 26
 aboard 2
 acquire 1

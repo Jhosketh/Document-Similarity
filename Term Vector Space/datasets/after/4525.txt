@@ -3,6 +3,7 @@
 /m/095mhg
 Edwidge Danticat
 2004
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 31
 aborted 1
 about 4

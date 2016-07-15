@@ -3,6 +3,7 @@
 /m/03y0545
 Robert Muchamore
 2008-08-07
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature"}
 0000 1
 24 1
 a 11

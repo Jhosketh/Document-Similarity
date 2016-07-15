@@ -3,6 +3,7 @@
 /m/08dq3w
 Gregory Maguire
 1999-11-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0fr3y1": "Parallel novel"}
 a 2
 and 13
 apprentice 1

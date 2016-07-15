@@ -3,6 +3,7 @@
 /m/047gpr8
 Jim Butcher
 2004-08-03
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 accepts 1
 accidentally 1

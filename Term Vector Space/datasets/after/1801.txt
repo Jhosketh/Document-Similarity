@@ -3,6 +3,7 @@
 /m/03mr1s
 Alastair Reynolds
 2001
+{"/m/03lrw": "Hard science fiction", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 7
 advanced 1
 alien 1

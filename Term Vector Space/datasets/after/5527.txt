@@ -3,6 +3,7 @@
 /m/0c1c82
 Celia S. Friedman
 1991-11-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 23
 about 1
 above 1

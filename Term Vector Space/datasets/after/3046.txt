@@ -3,6 +3,7 @@
 /m/06453y
 Ross Macdonald
 1951
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 50 1
 a 3
 after 1

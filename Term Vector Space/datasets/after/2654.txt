@@ -3,6 +3,7 @@
 /m/058fk3
 Cormac McCarthy
 1998-05-12
+{"/m/025txgl": "Western fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 152 1
 a 18
 abandoned 1

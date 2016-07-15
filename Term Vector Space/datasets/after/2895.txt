@@ -3,6 +3,7 @@
 /m/05vm0x
 Melanie Rawn
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 adopted 1
 after 1

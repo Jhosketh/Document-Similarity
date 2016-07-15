@@ -3,6 +3,7 @@
 /m/0265_n8
 Joyce Carol Oates
 1995-10
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/089m7": "Zombie", "/m/02xlf": "Fiction"}
 a 4
 abducts 1
 adding 1

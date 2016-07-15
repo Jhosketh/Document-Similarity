@@ -3,6 +3,7 @@
 /m/0gw537
 Carolyn Keene
 1960
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0dwly": "Children's literature"}
 according 1
 an 1
 antique 1

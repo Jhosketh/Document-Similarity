@@ -3,6 +3,7 @@
 /m/03cl2fc
 Gail Carson Levine
 1999
+{"/m/02p0szs": "Historical fiction", "/m/03mfnf": "Young adult literature"}
 a 9
 abandoned 1
 absolutely 1

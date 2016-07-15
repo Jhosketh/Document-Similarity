@@ -3,6 +3,7 @@
 /m/02wmx4
 Barry Hughart
 1990
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 aborigines 1
 about 1

@@ -3,6 +3,7 @@
 /m/04m_hsq
 Ben Cormack
 2006-10
+{"/m/05hgj": "Novel"}
 a 1
 an 1
 and 1

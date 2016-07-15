@@ -3,6 +3,7 @@
 /m/03nnmjh
 Emilio Salgari
 
+{"/m/08sdrw": "Adventure novel"}
 a 6
 about 1
 all 1

@@ -3,6 +3,7 @@
 /m/0gfwjb
 Phyllis Eisenstein
 1979-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 abandons 1
 able 1

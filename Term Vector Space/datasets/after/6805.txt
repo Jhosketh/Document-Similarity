@@ -3,6 +3,7 @@
 /m/0dz37f
 Glen Cook
 1989-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy", "/m/03qfd": "High fantasy"}
 a 21
 abducted 1
 able 2

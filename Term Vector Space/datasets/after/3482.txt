@@ -3,6 +3,7 @@
 /m/071mv9
 V. C. Andrews
 1979-11
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/05hgj": "Novel"}
 15 1
 157 1
 160 1

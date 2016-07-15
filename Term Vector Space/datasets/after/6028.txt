@@ -3,6 +3,7 @@
 /m/0cw2vb
 
 2002-09-01
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/0hwxm": "Historical novel"}
 18th 1
 a 30
 ability 1

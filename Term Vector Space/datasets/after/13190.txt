@@ -3,6 +3,7 @@
 /m/04y9_c2
 Jonathan Carroll
 1990
+{"/m/0vgkd": "Black comedy", "/m/01hmnh": "Fantasy", "/m/0l67h": "Novella"}
 a 1
 activities 1
 and 1

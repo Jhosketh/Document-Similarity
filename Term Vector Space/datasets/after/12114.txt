@@ -3,6 +3,7 @@
 /m/043rm_7
 Ian McDonald
 2007-05-03
+{"/m/01qpc": "Cyberpunk", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 18thcentury 1
 a 12
 action 1

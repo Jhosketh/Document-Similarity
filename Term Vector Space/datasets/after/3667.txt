@@ -3,6 +3,7 @@
 /m/07fvjj
 Jamaica Kincaid
 1985-03
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 adults 1
 alienating 1

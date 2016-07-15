@@ -3,6 +3,7 @@
 /m/06ll2ng
 Émile Zola
 1877
+{"/m/05hgj": "Novel"}
 a 11
 abandoned 1
 able 1

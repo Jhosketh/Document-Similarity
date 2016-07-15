@@ -3,6 +3,7 @@
 /m/0k2wn
 Anthony Hope
 1894
+{"/m/03g3w": "History", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 2
 abducted 1
 among 1

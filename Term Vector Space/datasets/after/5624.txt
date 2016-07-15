@@ -3,6 +3,7 @@
 /m/0c7n5s
 Sarah Micklem
 2004-05-25
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 8
 accompanies 1
 also 1

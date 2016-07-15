@@ -3,6 +3,7 @@
 /m/02v_82z
 Upton Sinclair, Jr.
 1943
+{"/m/03g3w": "History"}
 a 4
 after 1
 and 5

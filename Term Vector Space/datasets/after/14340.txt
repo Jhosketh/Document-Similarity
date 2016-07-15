@@ -3,6 +3,7 @@
 /m/076w0nx
 John Banville
 2009-09-04
+{"/m/0mz2": "Alternate history", "/m/05hgj": "Novel"}
 a 2
 adam 2
 adams 1

@@ -3,6 +3,7 @@
 /m/0dq9p7
 David Gemmell
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 200 2
 300 1
 a 15

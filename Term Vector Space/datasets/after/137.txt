@@ -3,6 +3,7 @@
 /m/0c3rf
 John Irving
 1978
+{"/m/0488wh": "Literary fiction"}
 161 1
 a 22
 according 1

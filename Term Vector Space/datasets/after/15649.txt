@@ -3,6 +3,7 @@
 /m/04mzykx
 Tao Lin
 2010-09-07
+{"/m/012jgz": "Autobiographical novel", "/m/0xdf": "Autobiography"}
 16yearold 1
 22yearold 1
 a 3

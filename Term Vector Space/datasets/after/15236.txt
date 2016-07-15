@@ -3,6 +3,7 @@
 /m/0bxz2ll
 Lin Carter
 
+{"/m/01hmnh": "Fantasy"}
 a 1
 after 1
 all 1

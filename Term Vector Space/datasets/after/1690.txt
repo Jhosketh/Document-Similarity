@@ -3,6 +3,7 @@
 /m/03fxpf
 Joseph Conrad
 1907-09
+{"/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1886 1
 a 42
 abandons 1

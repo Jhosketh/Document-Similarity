@@ -3,6 +3,7 @@
 /m/047gnzf
 Gary Paulsen
 2003-06-10
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 2
 and 3
 art 3

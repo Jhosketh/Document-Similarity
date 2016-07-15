@@ -3,6 +3,7 @@
 /m/02r3rvb
 Christopher Buckley
 2004
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 accepted 1
 affairs 1

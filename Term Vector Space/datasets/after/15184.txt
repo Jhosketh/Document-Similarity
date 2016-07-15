@@ -3,6 +3,7 @@
 /m/0bwkr8x
 Brian Lumley
 1988
+{"/m/06n90": "Science Fiction", "/m/08sdrw": "Adventure novel"}
 a 12
 abilities 1
 able 1

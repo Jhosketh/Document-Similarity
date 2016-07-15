@@ -3,6 +3,7 @@
 /m/071ybx
 C. J. Cherryh
 1988-05
+{"/m/0bt0c": "Future history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 120 1
 a 18
 abandonment 1

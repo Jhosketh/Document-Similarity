@@ -3,6 +3,7 @@
 /m/0gfc_w0
 David Drake
 1999-08
+{"/m/05hgj": "Novel", "/m/03qfd": "High fantasy"}
 a 53
 abilities 1
 about 1

@@ -3,6 +3,7 @@
 /m/0h1dfng
 Eric Van Lustbader
 2011-07-19
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 a 5
 agency 1
 america 2

@@ -3,6 +3,7 @@
 /m/047htv
 B. Traven
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 afloat 1
 after 1
 an 1

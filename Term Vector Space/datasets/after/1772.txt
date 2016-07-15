@@ -3,6 +3,7 @@
 /m/03l2qd
 Barbara Kingsolver
 1998
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10s 1
 160s 1
 a 6

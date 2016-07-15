@@ -3,6 +3,7 @@
 /m/0kp1s
 James Joyce
 1939-05-04
+{"/m/05hgj": "Novel"}
 1 2
 111 1
 124 1

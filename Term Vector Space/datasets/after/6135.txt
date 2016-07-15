@@ -3,6 +3,7 @@
 /m/0d12v6
 Judy Blume
 1983
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 amusement 1
 and 4

@@ -3,6 +3,7 @@
 /m/026045m
 Patrick White
 1970
+{"/m/04fqp": "K\u00fcnstlerroman", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 adopt 1
 adoptive 1

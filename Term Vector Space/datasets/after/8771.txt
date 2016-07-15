@@ -3,6 +3,7 @@
 /m/027n4xf
 Jeff Grubb
 1990-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 15
 ability 1
 actually 1

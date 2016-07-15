@@ -3,6 +3,7 @@
 /m/08l5t3
 Clive Cussler
 2003-11-24
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 152 1
 a 12
 accepts 1

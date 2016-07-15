@@ -3,6 +3,7 @@
 /m/026zyj2
 Jeffery Farnol
 1913
+{"/m/05hgj": "Novel"}
 700000 1
 a 7
 amateur 1

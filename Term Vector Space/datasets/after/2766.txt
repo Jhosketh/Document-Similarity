@@ -3,6 +3,7 @@
 /m/05jzrd
 Neil Gaiman
 2005-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 34
 abode 1
 absence 1

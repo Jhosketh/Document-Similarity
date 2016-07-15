@@ -3,6 +3,7 @@
 /m/0268s74
 Laurie Halse Anderson
 2000
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 14 1
 173 1
 a 8

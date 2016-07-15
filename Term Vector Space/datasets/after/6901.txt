@@ -3,6 +3,7 @@
 /m/0f44yk
 Dave Wolverton
 2001-03-14
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 5
 after 2
 afterwards 1

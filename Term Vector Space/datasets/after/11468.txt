@@ -3,6 +3,7 @@
 /m/03hh8gr
 David Baldacci
 2001-06-30
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 100000 1
 5 1
 a 24

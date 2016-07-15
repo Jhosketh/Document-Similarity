@@ -3,6 +3,7 @@
 /m/047fnm0
 Jim Butcher
 2005-07-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 2
 ability 1
 academy 1

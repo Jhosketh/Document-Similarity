@@ -3,6 +3,7 @@
 /m/0dwydk
 Kelley Armstrong
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 4
 afterlife 1
 an 2

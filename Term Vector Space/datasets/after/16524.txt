@@ -3,6 +3,7 @@
 /m/0j3d1rv
 Sergio Troncoso
 2011-09
+{"/m/05hgj": "Novel"}
 2001 1
 a 6
 about 1

@@ -3,6 +3,7 @@
 /m/0dddztw
 Leonard Carpenter
 
+{"/m/0dz8b": "Sword and sorcery", "/m/01hmnh": "Fantasy"}
 a 3
 after 1
 against 1

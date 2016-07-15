@@ -3,6 +3,7 @@
 /m/03bzsxx
 Robert J. Sawyer
 1997-12
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 1 1
 11 1
 a 11

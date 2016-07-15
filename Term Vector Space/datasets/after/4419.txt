@@ -3,6 +3,7 @@
 /m/0900vc
 Graham Greene
 1985-01-01
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 accepts 1
 actions 1

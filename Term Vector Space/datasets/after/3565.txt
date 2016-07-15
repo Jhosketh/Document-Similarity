@@ -3,6 +3,7 @@
 /m/076n1f
 Agatha Christie
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 a 4
 after 1
 also 1

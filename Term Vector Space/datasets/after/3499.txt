@@ -3,6 +3,7 @@
 /m/0721h1
 Agatha Christie
 
+{"/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 again 1
 against 1

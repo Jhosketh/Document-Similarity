@@ -3,6 +3,7 @@
 /m/027rf60
 John McGahern
 1965
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 adolescent 1
 an 1
 and 3

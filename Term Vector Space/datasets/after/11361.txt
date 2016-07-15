@@ -3,6 +3,7 @@
 /m/03gyxhy
 Ellen Hopkins
 2007-10-23
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 15
 according 1
 actions 1

@@ -3,6 +3,7 @@
 /m/0bw4b8
 Philip Athans
 2004-06-01
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 6
 abyss 1
 after 3

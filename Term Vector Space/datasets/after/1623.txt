@@ -3,6 +3,7 @@
 /m/03bnx1
 Nick Cave
 1989
+{"/m/039vk": "Gothic fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 abusive 1
 ah 1

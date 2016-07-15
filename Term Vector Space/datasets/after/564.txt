@@ -3,6 +3,7 @@
 /m/01b4c6
 Douglas Adams
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/09kqc": "Humour", "/m/0hh4w": "Comic science fiction"}
 a 32
 able 3
 about 2

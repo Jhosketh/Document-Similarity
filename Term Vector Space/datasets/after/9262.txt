@@ -3,6 +3,7 @@
 /m/02psflx
 Poul Anderson
 1954
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 aelfrida 1
 an 1

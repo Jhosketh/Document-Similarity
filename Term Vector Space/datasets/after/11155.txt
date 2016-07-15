@@ -3,6 +3,7 @@
 /m/04g4gp
 Donna Boyd
 1988
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel", "/m/05qfh": "Psychology", "/m/02p0szs": "Historical fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/07s9rl0": "Drama"}
 a 7
 about 3
 accomplish 1

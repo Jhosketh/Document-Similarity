@@ -3,6 +3,7 @@
 /m/026m4m
 T. H. White
 1977
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 accepts 1
 act 1

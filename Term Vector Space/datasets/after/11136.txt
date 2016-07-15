@@ -3,6 +3,7 @@
 /m/03cztzj
 John Elder Robison
 2007-09-25
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/016chh": "Memoir"}
 16 1
 160s 1
 2007 1

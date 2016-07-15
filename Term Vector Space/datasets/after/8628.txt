@@ -3,6 +3,7 @@
 /m/027dkmk
 Jeff Grubb
 1988-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 14
 able 1
 acquired 1

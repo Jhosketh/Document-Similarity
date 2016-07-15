@@ -3,6 +3,7 @@
 /m/0g566n_
 James Patterson
 2010-11-04
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 20
 abandoned 1
 about 4

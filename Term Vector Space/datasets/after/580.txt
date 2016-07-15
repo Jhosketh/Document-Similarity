@@ -3,6 +3,7 @@
 /m/01cbb_
 Sylvia Plath
 1963
+{"/m/012jgz": "Autobiographical novel", "/m/0xdf": "Autobiography", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/016lj8": "Roman \u00e0 clef"}
 34reaction34 1
 50 1
 a 25

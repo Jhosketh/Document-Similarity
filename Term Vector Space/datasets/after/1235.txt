@@ -3,6 +3,7 @@
 /m/02n4_g
 Laurie Halse Anderson
 1999-10
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 a 4
 able 1

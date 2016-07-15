@@ -3,6 +3,7 @@
 /m/03d5n4d
 Gavin Lyall
 1965
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 7
 across 1
 after 1

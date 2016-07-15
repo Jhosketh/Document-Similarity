@@ -3,6 +3,7 @@
 /m/02ppd46
 Charlie Huston
 2005-12-27
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/03xj9g": "Hardboiled"}
 a 8
 adventures 1
 afraid 1

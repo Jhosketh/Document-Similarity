@@ -3,6 +3,7 @@
 /m/0hr8wmj
 Guy Delisle
 
+{"/m/016chh": "Memoir", "/m/0py0z": "Graphic novel"}
 absent 1
 administrator 1
 an 2

@@ -3,6 +3,7 @@
 /m/0h7n8st
 Jean-Baptiste Cousin de Grainville
 1805
+{"/m/01rvlb": "Science fantasy", "/m/06qk2l": "Dying Earth subgenre"}
 a 5
 ability 1
 adam 1

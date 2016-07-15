@@ -3,6 +3,7 @@
 /m/0824nl
 Haruki Murakami
 1982-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 178 1
 a 5
 adventure 1

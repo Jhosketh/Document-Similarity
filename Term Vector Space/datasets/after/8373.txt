@@ -3,6 +3,7 @@
 /m/03w9923
 V.S. Naipaul
 2001
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150s 1
 18 1
 2004 1

@@ -3,6 +3,7 @@
 /m/05p4647
 R. L. Stine
 1995-09-14
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 4
 abusive 1
 after 1

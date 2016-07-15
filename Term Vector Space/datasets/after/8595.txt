@@ -3,6 +3,7 @@
 /m/027b5qd
 Anthony Burgess
 1979
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 1
 account 1
 death 1

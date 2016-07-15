@@ -3,6 +3,7 @@
 /m/0frym
 Jane Austen
 1815-12
+{"/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/05hgj": "Novel", "/m/03p5xs": "Comedy of manners", "/m/01qxvh": "Romance novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 20 1
 a 32
 about 3

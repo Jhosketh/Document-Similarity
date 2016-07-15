@@ -3,6 +3,7 @@
 /m/0cl9yr
 Robert Holdstock
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 about 1
 addition 1

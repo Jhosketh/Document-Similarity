@@ -3,6 +3,7 @@
 /m/02q_wpn
 Derek Landy
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 16
 about 1
 actually 1

@@ -3,6 +3,7 @@
 /m/0c548g
 P. G. Wodehouse
 1928-09
+{"/m/0707q": "Short story"}
 a 6
 about 1
 aging 1

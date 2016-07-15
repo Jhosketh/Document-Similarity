@@ -3,6 +3,7 @@
 /m/02610rn
 Amelia Atwater-Rhodes
 2006-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 49
 abducted 1
 able 1

@@ -3,6 +3,7 @@
 /m/09zdtz
 Elizabeth Marie Pope
 1974
+{"/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 1550s 1
 a 9
 accepts 1

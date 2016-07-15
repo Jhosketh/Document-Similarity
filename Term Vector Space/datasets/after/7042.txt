@@ -3,6 +3,7 @@
 /m/0fh2cm
 James Blish
 1973-10
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 12
 aboard 1
 about 1

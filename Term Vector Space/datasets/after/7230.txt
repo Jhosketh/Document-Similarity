@@ -3,6 +3,7 @@
 /m/0fypwg
 Harry Turtledove
 1987
+{"/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel"}
 a 1
 after 1
 american 1

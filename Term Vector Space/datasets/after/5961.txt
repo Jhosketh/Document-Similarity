@@ -3,6 +3,7 @@
 /m/0cthvn
 Joe Dever
 1991
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 1
 against 1
 aims 1

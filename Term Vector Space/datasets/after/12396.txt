@@ -3,6 +3,7 @@
 /m/04791fb
 Jacqueline Carey
 2008-06-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 187
 abdicate 1
 abducted 2

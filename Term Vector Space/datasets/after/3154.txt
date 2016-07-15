@@ -3,6 +3,7 @@
 /m/06cy25
 Anne Rice
 2000-10-17
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 14
 adventure 1
 adventures 1

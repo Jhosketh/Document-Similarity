@@ -3,6 +3,7 @@
 /m/0jb2_
 Carlo Collodi
 1883
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/09kqc": "Humour", "/m/02xlf": "Fiction"}
 40 1
 a 90
 about 5

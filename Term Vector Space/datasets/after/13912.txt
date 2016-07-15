@@ -3,6 +3,7 @@
 /m/05z_5dt
 Wilbur A. Smith
 1994
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 15
 about 1
 actions 1

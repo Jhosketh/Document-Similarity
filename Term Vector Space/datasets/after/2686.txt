@@ -3,6 +3,7 @@
 /m/05btj2
 James Curcio
 2004-11
+{"/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 2
 about 1
 abyss 1

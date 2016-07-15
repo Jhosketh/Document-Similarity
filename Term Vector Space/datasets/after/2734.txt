@@ -3,6 +3,7 @@
 /m/05ftr5
 T. A. Barron
 1996
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 22
 able 1
 accidentally 1

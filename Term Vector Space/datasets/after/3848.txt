@@ -3,6 +3,7 @@
 /m/07s_89
 Michael A. Stackpole
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 13
 able 1
 aboard 1

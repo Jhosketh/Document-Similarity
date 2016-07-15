@@ -3,6 +3,7 @@
 /m/03cldwz
 Douglas Preston
 1994-10-01
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/08sdrw": "Adventure novel"}
 170s 1
 a 2
 american 2

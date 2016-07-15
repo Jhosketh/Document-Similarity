@@ -3,6 +3,7 @@
 /m/02610m5
 Jacqueline Wilson
 1999
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 13
 abandoned 1
 about 1

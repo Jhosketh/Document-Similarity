@@ -3,6 +3,7 @@
 /m/0hrg1dv
 Alfred Döblin
 
+{"/m/05hgj": "Novel"}
 a 11
 aboard 1
 accompanied 1

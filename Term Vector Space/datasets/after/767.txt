@@ -3,6 +3,7 @@
 /m/01q6yf
 Ellen Glasgow
 1913
+{"/m/05hgj": "Novel"}
 1864 1
 a 24
 able 2

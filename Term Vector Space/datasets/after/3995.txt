@@ -3,6 +3,7 @@
 /m/0826cr
 Larry Niven
 1980
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 abducts 1
 about 1

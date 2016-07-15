@@ -3,6 +3,7 @@
 /m/09f6xt
 P. G. Wodehouse
 1909-09-15
+{"/m/02yq81": "Comic novel", "/m/0dwly": "Children's literature", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 277 1
 75 1
 a 76

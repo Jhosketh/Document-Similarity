@@ -3,6 +3,7 @@
 /m/0cmg_w
 R. D. Wingfield
 1992
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 4
 always 1
 and 7

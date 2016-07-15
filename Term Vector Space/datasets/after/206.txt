@@ -3,6 +3,7 @@
 /m/0g8m0
 Robert A. Heinlein
 1950
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 about 1
 absorb 1

@@ -3,6 +3,7 @@
 /m/03qn9v0
 Douglas Preston
 2009-05-12
+{"/m/01jfsb": "Thriller"}
 a 8
 after 2
 agent 2

@@ -3,6 +3,7 @@
 /m/02qtcsv
 Jack Du Brul
 2006-10-03
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 200 1
 500 1
 50000 1

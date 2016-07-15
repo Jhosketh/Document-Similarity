@@ -3,6 +3,7 @@
 /m/03cz35k
 Rose Macaulay
 1956
+{"/m/012jgz": "Autobiographical novel", "/m/08sdrw": "Adventure novel"}
 120 1
 1871142 1
 a 8

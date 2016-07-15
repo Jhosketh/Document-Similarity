@@ -3,6 +3,7 @@
 /m/04y6923
 John Harris
 1963-01-01
+{"/m/08sdrw": "Adventure novel"}
 6 1
 a 6
 able 5

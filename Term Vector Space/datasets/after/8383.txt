@@ -3,6 +3,7 @@
 /m/058bwv
 Theodore Dreiser
 1912
+{"/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1871 1
 1873 1
 a 8

@@ -3,6 +3,7 @@
 /m/09v56dz
 Gordon Korman
 
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 6
 about 1
 acting 1

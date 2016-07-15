@@ -3,6 +3,7 @@
 /m/0h7_yp
 Murray Bail
 1998
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 2
 all 1
 and 1

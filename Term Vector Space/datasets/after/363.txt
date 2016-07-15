@@ -3,6 +3,7 @@
 /m/0mdt7
 Mark Z. Danielewski
 2000-03-07
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/037750": "Ergodic literature", "/m/01qxvh": "Romance novel", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/050z5g": "Chivalric romance"}
 1112 1
 125 1
 4 1

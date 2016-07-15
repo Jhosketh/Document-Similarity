@@ -3,6 +3,7 @@
 /m/043rcsr
 Zane Grey
 1915
+{"/m/025txgl": "Western fiction", "/m/0hfjk": "Western", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 133 1
 a 7
 adapted 1

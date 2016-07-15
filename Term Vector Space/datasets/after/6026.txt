@@ -3,6 +3,7 @@
 /m/0cw1qv
 Herman Wouk
 1965
+{"/m/05hgj": "Novel"}
 160s 1
 a 2
 according 1

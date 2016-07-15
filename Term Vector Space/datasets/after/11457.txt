@@ -3,6 +3,7 @@
 /m/03h61qm
 Richard Matheson
 1950
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 12164 1
 170 1
 a 6

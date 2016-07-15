@@ -3,6 +3,7 @@
 /m/03d82mb
 William R. Forstchen
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 across 1
 at 1

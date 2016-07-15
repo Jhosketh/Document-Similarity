@@ -3,6 +3,7 @@
 /m/04f54wy
 Jack Du Brul
 2008-06-03
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 able 1
 across 1

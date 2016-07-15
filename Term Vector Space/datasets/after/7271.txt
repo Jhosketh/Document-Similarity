@@ -3,6 +3,7 @@
 /m/0g1sy1
 John Grant
 1977
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 1
 after 1
 and 1

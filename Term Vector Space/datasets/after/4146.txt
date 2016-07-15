@@ -3,6 +3,7 @@
 /m/08csqh
 John Maxwell Coetzee
 2005-09-01
+{"/m/05hgj": "Novel"}
 a 8
 accident 1
 after 1

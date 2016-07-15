@@ -3,6 +3,7 @@
 /m/0bmg5tt
 Isaac Bashevis Singer
 1962
+{"/m/05hgj": "Novel"}
 20nbspyears 1
 a 13
 abandoned 1

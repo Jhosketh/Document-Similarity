@@ -3,6 +3,7 @@
 /m/0prr3
 Niccolò Machiavelli
 1532
+{"/m/02rx5hc": "Treatise", "/m/05h83": "Non-fiction"}
 1 1
 15 1
 16th 1

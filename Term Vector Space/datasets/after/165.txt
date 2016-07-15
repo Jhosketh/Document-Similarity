@@ -3,6 +3,7 @@
 /m/0dqx3
 Neal Stephenson
 1995
+{"/m/01qpc": "Cyberpunk", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3mj": "Postcyberpunk"}
 a 13
 ability 1
 achieving 1

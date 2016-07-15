@@ -3,6 +3,7 @@
 /m/01zk4b
 L. Frank Baum
 1909
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 21 1
 21st 1
 a 15

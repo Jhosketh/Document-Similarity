@@ -3,6 +3,7 @@
 /m/0fdbbw
 Lawrence Watt-Evans
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 8
 allout 1
 an 1

@@ -3,6 +3,7 @@
 /m/05rm_n
 Robert Silverberg
 1969
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 ability 1
 able 2

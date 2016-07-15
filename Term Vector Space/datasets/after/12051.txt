@@ -3,6 +3,7 @@
 /m/0414jld
 Pearl S. Buck
 1948
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 6
 able 1
 adopted 2

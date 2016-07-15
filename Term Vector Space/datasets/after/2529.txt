@@ -3,6 +3,7 @@
 /m/050dmj
 Irvine Welsh
 1995
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 18 1
 a 15
 adolescent 1

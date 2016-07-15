@@ -3,6 +3,7 @@
 /m/0566nn
 James Baldwin
 1956
+{"/m/05hgj": "Novel"}
 a 34
 able 1
 about 5

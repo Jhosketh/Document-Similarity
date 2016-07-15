@@ -3,6 +3,7 @@
 /m/0bxyygh
 Charles Finch
 2008-08-05
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 7
 additionally 1
 alma 1

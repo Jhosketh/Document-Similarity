@@ -3,6 +3,7 @@
 /m/02rmg5l
 Graham Swift
 2007
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 144 1
 145 2
 160s 1

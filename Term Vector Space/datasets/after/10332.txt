@@ -3,6 +3,7 @@
 /m/02v_qn3
 Jack Womack
 
+{"/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/0c082": "Utopian and dystopian fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia", "/m/0c3351": "Suspense"}
 10 1
 107 1
 13 1

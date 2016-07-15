@@ -3,6 +3,7 @@
 /m/09v4phs
 
 1946-09
+{"/m/06n90": "Science Fiction", "/m/0l67h": "Novella"}
 14th 1
 800 1
 a 11

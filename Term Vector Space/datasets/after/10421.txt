@@ -3,6 +3,7 @@
 /m/02wvwlq
 Ian Irvine
 2006-01
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 5
 able 1
 about 1

@@ -3,6 +3,7 @@
 /m/03c2283
 Catherynne M. Valente
 2006-12-01
+{"/m/05wkc": "Postmodernism", "/m/014dfn": "Speculative fiction", "/m/0l67h": "Novella"}
 a 2
 action 1
 added 1

@@ -3,6 +3,7 @@
 /m/02pmpkg
 Jeff Lindsay
 2007
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 22
 able 1
 about 2

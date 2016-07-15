@@ -3,6 +3,7 @@
 /m/03d491y
 Michael Moorcock
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 104 1
 141 1
 20th 2

@@ -3,6 +3,7 @@
 /m/028558d
 MaryJanice Davidson
 
+{"/m/03npn": "Horror", "/m/05v6bm4": "Bit Lit", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/072lff": "Paranormal romance"}
 a 4
 afraid 1
 all 1

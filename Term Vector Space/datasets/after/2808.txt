@@ -3,6 +3,7 @@
 /m/05mcd6
 Craig Thomas
 1977-08-08
+{"/m/017rf8": "Techno-thriller", "/m/02xlf": "Fiction"}
 3000 1
 5 1
 a 9

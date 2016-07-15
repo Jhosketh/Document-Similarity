@@ -3,6 +3,7 @@
 /m/02w492m
 Lisa Tuttle
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 42
 academies 1
 academy 3

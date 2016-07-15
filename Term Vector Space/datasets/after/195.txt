@@ -3,6 +3,7 @@
 /m/0g04v
 Iain Banks
 1984
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 12 1
 a 11
 about 1

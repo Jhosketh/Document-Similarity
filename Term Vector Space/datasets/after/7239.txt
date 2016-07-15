@@ -3,6 +3,7 @@
 /m/0fz86q
 Sue Townsend
 1984-08-02
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 10
 about 2
 adrian 10

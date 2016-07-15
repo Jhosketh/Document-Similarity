@@ -3,6 +3,7 @@
 /m/05yz4p
 Mordecai Richler
 1989
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 account 1
 and 5

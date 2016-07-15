@@ -3,6 +3,7 @@
 /m/0274q01
 Joyce Carol Oates
 1996
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction"}
 11yearold 1
 25yearold 1
 a 4

@@ -3,6 +3,7 @@
 /m/0f98j1
 L. E. Modesitt, Jr.
 2001-02-24
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 10 1
 20 1
 5 1

@@ -3,6 +3,7 @@
 /m/08xmlc
 Frederick Forsyth
 1999
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/050z5g": "Chivalric romance"}
 12yearold 1
 150s 1
 a 50

@@ -3,6 +3,7 @@
 /m/02qzbz6
 John Ajvide Lindqvist
 
+{"/m/039vk": "Gothic fiction", "/m/03npn": "Horror"}
 12year 1
 182 1
 200 1

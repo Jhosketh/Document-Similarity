@@ -3,6 +3,7 @@
 /m/0cdgsg
 Yukio Mishima
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 100 1
 113 1
 141 2

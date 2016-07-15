@@ -3,6 +3,7 @@
 /m/04_0snm
 Barbara Wersba
 1977-10
+{"/m/05hgj": "Novel"}
 1000 1
 a 1
 able 1

@@ -3,6 +3,7 @@
 /m/060hxb
 Hugh Lofting
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 16
 abandoned 1
 act 1

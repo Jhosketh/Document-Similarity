@@ -3,6 +3,7 @@
 /m/065zbk5
 Desmond Bagley
 1971
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 3
 agent 2
 an 1

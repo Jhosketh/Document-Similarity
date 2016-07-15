@@ -3,6 +3,7 @@
 /m/0h0_cf
 Katherine Kurtz
 1973-08-12
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1121 1
 a 10
 ability 1

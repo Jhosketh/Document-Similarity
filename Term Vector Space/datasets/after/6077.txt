@@ -3,6 +3,7 @@
 /m/0cz240
 Jane Lindskold
 1997-08
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 2
 actual 1
 and 3

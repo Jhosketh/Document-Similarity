@@ -3,6 +3,7 @@
 /m/08_x3c
 Edgar Allan Poe
 1838-09
+{"/m/039vk": "Gothic fiction", "/m/03npn": "Horror", "/m/0707q": "Short story", "/m/01qxvh": "Romance novel"}
 a 6
 abbey 1
 about 2

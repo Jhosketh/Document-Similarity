@@ -3,6 +3,7 @@
 /m/0ccc6g
 Pierre Boulle
 1952
+{"/m/098tmk": "War novel"}
 16 1
 a 4
 adamant 1

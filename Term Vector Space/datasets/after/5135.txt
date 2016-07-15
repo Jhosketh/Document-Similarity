@@ -3,6 +3,7 @@
 /m/0b9tgg
 John Passarella
 2001-03-01
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 a 6
 across 1
 agency 1

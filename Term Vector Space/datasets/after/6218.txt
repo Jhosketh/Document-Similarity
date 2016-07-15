@@ -3,6 +3,7 @@
 /m/0d577z
 Laurell K. Hamilton
 
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 able 1
 about 2

@@ -3,6 +3,7 @@
 /m/0dm2b3z
 Armistead Maupin
 2010-11-02
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 adoptive 1
 and 5

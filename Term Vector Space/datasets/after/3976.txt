@@ -3,6 +3,7 @@
 /m/080shc
 Karen Traviss
 2004-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 170 1
 75 1
 a 24

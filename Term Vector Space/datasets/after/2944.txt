@@ -3,6 +3,7 @@
 /m/05zgs5
 Terry Pratchett
 2005
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 24
 abruptly 1
 accidentally 1

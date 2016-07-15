@@ -3,6 +3,7 @@
 /m/06d_01
 John le Carré
 1983
+{"/m/06wkf": "Spy fiction", "/m/05hgj": "Novel"}
 a 13
 abducted 1
 able 1

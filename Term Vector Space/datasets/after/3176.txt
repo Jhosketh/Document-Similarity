@@ -3,6 +3,7 @@
 /m/06f7s6
 Cornelia Funke
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03qfd": "High fantasy"}
 a 47
 abandoned 1
 ability 1

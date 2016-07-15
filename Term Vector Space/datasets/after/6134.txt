@@ -3,6 +3,7 @@
 /m/0d12d8
 Judy Blume
 1978
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 170s 1
 a 1
 accidentally 1

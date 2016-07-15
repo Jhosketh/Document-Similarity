@@ -3,6 +3,7 @@
 /m/08c7hk
 Kenneth Oppel
 2004-02-05
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/06www": "Steampunk"}
 14yearold 1
 2 1
 8 2

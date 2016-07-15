@@ -3,6 +3,7 @@
 /m/02fk4b
 Salman Rushdie
 1988
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0127jb": "Magic realism", "/m/05hgj": "Novel"}
 a 19
 able 2
 about 1

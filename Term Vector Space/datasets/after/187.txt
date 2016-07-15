@@ -3,6 +3,7 @@
 /m/0ff18
 Daniel Defoe
 1719-04-25
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/05hgj": "Novel"}
 1 1
 11 1
 165 1

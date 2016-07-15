@@ -3,6 +3,7 @@
 /m/02ylc1
 Jonathan Lethem
 1994-03
+{"/m/0lsxr": "Crime Fiction", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/03xj9g": "Hardboiled"}
 a 5
 adventures 1
 and 3

@@ -3,6 +3,7 @@
 /m/02qn8zm
 Will Self
 2001-06-07
+{"/m/05hgj": "Novel"}
 a 1
 aboriginal 1
 accompanied 1

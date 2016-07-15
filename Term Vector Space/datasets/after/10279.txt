@@ -3,6 +3,7 @@
 /m/02vtplt
 Baroness Emma Orczy
 1907
+{"/m/0hwxm": "Historical novel"}
 a 11
 abetted 1
 about 2

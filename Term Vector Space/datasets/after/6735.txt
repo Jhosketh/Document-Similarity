@@ -3,6 +3,7 @@
 /m/0dv5yz
 Barbara Mertz
 1997
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 a 7
 able 1
 about 1

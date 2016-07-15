@@ -3,6 +3,7 @@
 /m/02qmmsv
 Eva Ibbotson
 2004-07-02
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 17
 abandoned 2
 about 3

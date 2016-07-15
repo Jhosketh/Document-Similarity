@@ -3,6 +3,7 @@
 /m/03qkfk
 Hermann Hesse
 1906
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 abstraction 1
 academic 1

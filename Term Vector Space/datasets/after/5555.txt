@@ -3,6 +3,7 @@
 /m/0c3k9r
 Kazuo Ishiguro
 1995
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 about 1
 and 2

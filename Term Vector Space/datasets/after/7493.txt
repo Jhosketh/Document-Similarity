@@ -3,6 +3,7 @@
 /m/0gmqj1
 Simon Scarrow
 2006-06-19
+{"/m/02p0szs": "Historical fiction", "/m/098tmk": "War novel", "/m/0hwxm": "Historical novel"}
 176 2
 a 9
 among 3

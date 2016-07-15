@@ -3,6 +3,7 @@
 /m/05p79d
 Kazuo Ishiguro
 2005
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16 1
 18 1
 a 29

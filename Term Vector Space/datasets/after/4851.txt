@@ -3,6 +3,7 @@
 /m/09q8cy
 Conn Iggulden
 2004-01-05
+{"/m/0mz2": "Alternate history", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 21
 abandoned 1
 above 1

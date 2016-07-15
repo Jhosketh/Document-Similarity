@@ -3,6 +3,7 @@
 /m/02rvsfw
 Frederic Dannay
 1958
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 12 1
 130 1
 a 13

@@ -3,6 +3,7 @@
 /m/07w4nr
 Lois McMaster Bujold
 2005-05-24
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 an 1
 and 7

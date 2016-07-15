@@ -3,6 +3,7 @@
 /m/09rxrft
 Jack Dann
 1995-12
+{"/m/02p0szs": "Historical fiction", "/m/01hmnh": "Fantasy"}
 a 11
 about 1
 actually 1

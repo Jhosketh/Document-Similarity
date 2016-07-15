@@ -3,6 +3,7 @@
 /m/0270qnd
 Edward Plunkett, 18th Baron Dunsany
 1926
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 age 2
 all 1

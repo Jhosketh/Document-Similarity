@@ -3,6 +3,7 @@
 /m/02r2ngm
 Henning Mankell
 1993
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 118 1
 12 1
 13 1

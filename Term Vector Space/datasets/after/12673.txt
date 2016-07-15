@@ -3,6 +3,7 @@
 /m/04gndl2
 Amos Oz
 1998-10-01
+{"/m/05hgj": "Novel"}
 10 1
 147 1
 a 3

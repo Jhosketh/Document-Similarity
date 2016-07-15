@@ -3,6 +3,7 @@
 /m/0dh16j
 V. C. Andrews
 1980
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction"}
 a 36
 about 6
 abuses 1

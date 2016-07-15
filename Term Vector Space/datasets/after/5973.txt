@@ -3,4 +3,5 @@
 /m/0ctp7r
 Dean Koontz
 1981
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 character 1

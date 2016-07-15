@@ -3,6 +3,7 @@
 /m/02q1qq8
 Joe Hill
 2007-02-13
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 10
 about 2
 actually 1

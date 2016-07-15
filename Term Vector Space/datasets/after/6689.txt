@@ -3,6 +3,7 @@
 /m/0dqzb8
 Alan Dean Foster
 1995-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 37
 about 1
 actress 1

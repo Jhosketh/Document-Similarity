@@ -3,6 +3,7 @@
 /m/0ctspt
 Dean Koontz
 1988
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 26
 ability 1
 able 1

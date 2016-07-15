@@ -3,6 +3,7 @@
 /m/04gr6c9
 Greg Bear
 1984-04
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 4
 and 2
 arrive 1

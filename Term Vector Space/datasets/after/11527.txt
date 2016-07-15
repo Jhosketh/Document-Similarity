@@ -3,6 +3,7 @@
 /m/03m5ql4
 Simon Hawke
 1997
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 15 1
 175 1
 176 1

@@ -3,6 +3,7 @@
 /m/0278ht1
 Anna Dale
 2005
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel"}
 a 2
 ability 1
 adventure 1

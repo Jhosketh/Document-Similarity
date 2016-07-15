@@ -3,6 +3,7 @@
 /m/02n79q
 Patricia Highsmith
 1991-10-03
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 8
 about 1
 american 1

@@ -3,6 +3,7 @@
 /m/093fnn
 John Dickson Carr
 1935
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0174gw": "Locked room mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 200 1
 a 5
 about 1

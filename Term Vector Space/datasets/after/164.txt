@@ -3,6 +3,7 @@
 /m/0db22
 Anne McCaffrey
 1968-07
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 400nbspyears 1
 a 16
 abandoned 1

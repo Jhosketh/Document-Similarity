@@ -3,6 +3,7 @@
 /m/02vr12m
 Diane Duane
 1983-12
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 9
 aboard 1
 advising 1

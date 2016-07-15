@@ -3,6 +3,7 @@
 /m/0bqzv2
 Arthur Ransome
 1934
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 5
 all 1
 an 1

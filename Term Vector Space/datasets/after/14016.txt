@@ -3,6 +3,7 @@
 /m/05zkvx6
 Jim Butcher
 2010-04-06
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy"}
 200yearlong 1
 a 40
 abilities 1

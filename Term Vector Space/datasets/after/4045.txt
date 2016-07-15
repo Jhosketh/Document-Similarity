@@ -3,6 +3,7 @@
 /m/085h8h
 Graham Edwards
 1995-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 6
 aftermath 1
 all 2

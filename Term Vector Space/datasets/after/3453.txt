@@ -3,6 +3,7 @@
 /m/06_y5t
 Anne Rice
 1999-03-16
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 1450 1
 a 12
 able 1

@@ -3,6 +3,7 @@
 /m/0bk3bn
 Piers Anthony
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 adventure 2
 aid 1

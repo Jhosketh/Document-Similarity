@@ -3,6 +3,7 @@
 /m/025xh0m
 Steven Brust
 1996
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 ability 1
 about 2

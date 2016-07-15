@@ -3,6 +3,7 @@
 /m/05mrkz
 Virginia Woolf
 1922-10-26
+{"/m/05hgj": "Novel"}
 a 1
 adulthood 1
 affair 1

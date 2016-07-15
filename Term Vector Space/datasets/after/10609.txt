@@ -3,6 +3,7 @@
 /m/02z4jmg
 John Jakes
 1976
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1836 1
 1837 1
 21 1

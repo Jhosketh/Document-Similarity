@@ -3,6 +3,7 @@
 /m/0b3yrx
 P. G. Wodehouse
 1925-10-15
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 a 19
 act 1
 advice 1

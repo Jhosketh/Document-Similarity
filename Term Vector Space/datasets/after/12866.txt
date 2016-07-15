@@ -3,6 +3,7 @@
 /m/04lg8md
 Bob Woodward
 2008-09-08
+{"/m/05qt0": "Politics"}
 2006 1
 a 2
 abizaid 1

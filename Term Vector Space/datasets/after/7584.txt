@@ -3,6 +3,7 @@
 /m/0gsx_k
 Robert Harris
 2006-09-04
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 102 1
 13 1
 5th 1

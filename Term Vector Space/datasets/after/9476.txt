@@ -3,6 +3,7 @@
 /m/02q844q
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 4
 abandoned 1
 abilities 1

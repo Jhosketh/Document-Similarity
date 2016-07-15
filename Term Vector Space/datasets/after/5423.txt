@@ -3,6 +3,7 @@
 /m/0bw3z2
 Dean Koontz
 1992
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 30 1
 80 1
 a 13

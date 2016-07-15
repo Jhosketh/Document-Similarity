@@ -3,6 +3,7 @@
 /m/02bws2
 Batūl Khuḍayrī
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 17
 adapt 1
 adulthood 2

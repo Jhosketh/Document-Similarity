@@ -3,6 +3,7 @@
 /m/03m4yk0
 Desmond Bagley
 1978
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 130s 1
 40 1
 a 4

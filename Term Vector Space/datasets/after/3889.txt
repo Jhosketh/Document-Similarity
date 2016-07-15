@@ -3,6 +3,7 @@
 /m/025sdyx
 Conrad Richter
 1953
+{"/m/03g3w": "History", "/m/0dwly": "Children's literature", "/m/01j1n2": "Coming of age", "/m/02xlf": "Fiction", "/m/03mfnf": "Young adult literature"}
 11 1
 a 6
 accompany 1

@@ -3,6 +3,7 @@
 /m/01lv_3
 Thomas Pynchon
 1973
+{"/m/06n90": "Science Fiction", "/m/05wkc": "Postmodernism", "/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 00000 12
 00001 1
 1200nbsppeople 1

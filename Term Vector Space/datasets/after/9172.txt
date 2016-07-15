@@ -3,6 +3,7 @@
 /m/02plbwz
 Charles Stross
 2007-10-02
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 26 1
 41 1
 a 19

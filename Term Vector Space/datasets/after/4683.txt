@@ -3,6 +3,7 @@
 /m/09f7th
 P. G. Wodehouse
 1915-09-29
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 5000 1
 a 38
 about 1

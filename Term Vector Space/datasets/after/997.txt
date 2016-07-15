@@ -3,6 +3,7 @@
 /m/023cpd
 Ralph Ellison
 1952
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman", "/m/03nhxh": "Social commentary"}
 100 1
 a 48
 about 5

@@ -3,6 +3,7 @@
 /m/05q5v0f
 Joy Chant
 1970
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 adopted 1
 adulthood 1

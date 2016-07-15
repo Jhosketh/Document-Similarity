@@ -3,6 +3,7 @@
 /m/03cl_79
 Nora Roberts
 2006-01
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction"}
 2 1
 a 8
 about 2

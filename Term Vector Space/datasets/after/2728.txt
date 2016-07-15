@@ -3,6 +3,7 @@
 /m/05f8n_
 Eoin Colfer
 2004
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia"}
 a 35
 about 1
 accepted 1

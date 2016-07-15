@@ -3,6 +3,7 @@
 /m/03byf69
 
 2005-06
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 7
 ability 1
 always 1

@@ -3,6 +3,7 @@
 /m/026_wwn
 Ian Rankin
 1988
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 4
 about 1
 accompanying 1

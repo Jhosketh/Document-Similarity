@@ -3,6 +3,7 @@
 /m/0d4rk1
 James Kelman
 1994
+{"/m/05hgj": "Novel"}
 a 15
 about 9
 admits 1

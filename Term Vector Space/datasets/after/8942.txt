@@ -3,6 +3,7 @@
 /m/027_m_6
 Patricia McCormick
 2000-10
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 after 1
 amanda 1
 and 4

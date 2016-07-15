@@ -3,6 +3,7 @@
 /m/02pxl73
 Octave Mirbeau
 1907-11
+{"/m/04z2hx": "Travel literature", "/m/05hgj": "Novel"}
 628e8 1
 abuse 1
 after 1

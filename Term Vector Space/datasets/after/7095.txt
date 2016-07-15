@@ -3,6 +3,7 @@
 /m/0fm440
 Charles Brockden Brown
 1798
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 1781 1
 a 12
 ability 1

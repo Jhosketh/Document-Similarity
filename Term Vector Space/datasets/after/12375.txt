@@ -3,5 +3,6 @@
 /m/047f95b
 Mark Twain
 1892
+{"/m/06n90": "Science Fiction", "/m/0d6gr": "Reference", "/m/0mz2": "Alternate history", "/m/06nbt": "Satire", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 chapter 1
 summaries 1

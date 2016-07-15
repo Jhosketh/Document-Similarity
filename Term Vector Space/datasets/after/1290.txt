@@ -3,6 +3,7 @@
 /m/02qtqh
 Daniel Clowes
 
+{"/m/012h24": "Comics", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 12
 about 1
 addition 1

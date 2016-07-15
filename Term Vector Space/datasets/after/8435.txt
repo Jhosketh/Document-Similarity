@@ -3,6 +3,7 @@
 /m/02701c1
 Sergey Lukyanenko
 
+{"/m/01hmnh": "Fantasy", "/m/03npn": "Horror"}
 a 19
 about 2
 absorb 1

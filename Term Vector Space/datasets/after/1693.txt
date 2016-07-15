@@ -3,6 +3,7 @@
 /m/03f_26
 Robin Hobb
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 13
 ability 1
 able 2

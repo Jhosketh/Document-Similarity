@@ -3,6 +3,7 @@
 /m/05s1st
 Samuel Richardson
 1748
+{"/m/02ql9": "Epistolary novel"}
 a 11
 about 1
 accept 1

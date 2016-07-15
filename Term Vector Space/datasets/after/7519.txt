@@ -3,6 +3,7 @@
 /m/0gpn8l
 Boris Akunin
 1998
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel"}
 a 25
 about 1
 absence 1

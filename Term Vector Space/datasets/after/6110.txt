@@ -3,6 +3,7 @@
 /m/0d00gs
 Rob Swigart
 1987-02
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 6 1
 a 9
 able 1

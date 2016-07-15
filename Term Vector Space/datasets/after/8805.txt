@@ -3,6 +3,7 @@
 /m/027qfnk
 Samuel Youd
 1940
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1880 1
 a 6
 after 1

@@ -3,6 +3,7 @@
 /m/0d2x86
 Alan Dean Foster
 1983-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 able 1
 across 1

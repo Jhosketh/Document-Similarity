@@ -3,6 +3,7 @@
 /m/084mxg
 Martin Cruz Smith
 1989
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 13
 aboard 1
 accidentally 1

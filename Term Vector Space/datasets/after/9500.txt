@@ -3,6 +3,7 @@
 /m/02q9xv4
 Clare Bell
 1983
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 abandoning 1
 about 1

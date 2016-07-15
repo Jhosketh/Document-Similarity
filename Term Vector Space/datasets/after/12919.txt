@@ -3,6 +3,7 @@
 /m/04mzqm2
 Eric Van Lustbader
 2009-06-09
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 14th 1
 a 7
 after 1

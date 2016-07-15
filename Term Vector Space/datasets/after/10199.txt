@@ -3,6 +3,7 @@
 /m/02vm_g8
 Phoebe Atwood Taylor
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit"}
 67 1
 a 7
 aboard 1

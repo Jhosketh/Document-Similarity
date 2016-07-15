@@ -3,6 +3,7 @@
 /m/02r124l
 Richard Laymon
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 14
 abe 7
 about 1

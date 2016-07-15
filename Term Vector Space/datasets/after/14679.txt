@@ -3,6 +3,7 @@
 /m/09g7_m8
 Stephen King
 2012-02
+{"/m/025txgl": "Western fiction", "/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 49
 abandoned 1
 able 3

@@ -3,6 +3,7 @@
 /m/0f0017
 Glen Duncan
 2003-01-06
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 9
 about 1
 abuses 1

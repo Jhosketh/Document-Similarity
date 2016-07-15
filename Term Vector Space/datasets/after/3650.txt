@@ -3,6 +3,7 @@
 /m/07dwbl
 Salman Rushdie
 2005-09
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1521 1
 200 1
 2005 1

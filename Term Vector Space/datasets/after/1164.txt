@@ -3,6 +3,7 @@
 /m/02hgrr
 Arthur C. Clarke
 1987
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 1 1
 103 1
 181 1

@@ -3,6 +3,7 @@
 /m/0ddm_2
 Ruth Rendell
 1998-03-26
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 4
 about 1
 all 2

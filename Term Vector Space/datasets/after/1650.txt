@@ -3,6 +3,7 @@
 /m/03dphj
 Terry Brooks
 1982
+{"/m/03qfd": "High fantasy", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 32
 abandoned 1
 able 1

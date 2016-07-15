@@ -3,6 +3,7 @@
 /m/06zlxl
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/0dwly": "Children's literature", "/m/0463v20": "Cozy", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1000 1
 1200 1
 14 1

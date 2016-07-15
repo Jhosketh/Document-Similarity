@@ -3,6 +3,7 @@
 /m/02ptjky
 James Barclay
 2005-10-20
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 140 1
 a 6
 abilities 6

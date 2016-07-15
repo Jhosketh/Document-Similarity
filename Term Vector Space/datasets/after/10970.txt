@@ -3,6 +3,7 @@
 /m/03clltz
 David Morrell
 1984-05
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 4th 1
 a 5
 adopted 3

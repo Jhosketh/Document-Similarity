@@ -3,6 +3,7 @@
 /m/044r03
 Brinsley MacNamara
 1918
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 against 1
 an 1

@@ -3,6 +3,7 @@
 /m/0c2mfg
 James Alan Gardner
 1997
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 2452 1
 a 16
 acceptedmdashsince 1

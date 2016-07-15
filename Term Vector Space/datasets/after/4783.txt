@@ -3,6 +3,7 @@
 /m/09nv9r
 John Sladek
 1968
+{"/m/05hgj": "Novel"}
 160s 1
 a 7
 adapts 1

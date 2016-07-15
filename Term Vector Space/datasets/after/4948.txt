@@ -3,6 +3,7 @@
 /m/09yp09
 J. N. Williamson
 2002-12-02
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 10pm11pm 1
 11pm12pm 1
 150s 1

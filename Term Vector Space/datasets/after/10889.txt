@@ -3,6 +3,7 @@
 /m/03cg9vx
 Orson Scott Card
 
+{"/m/03g3w": "History", "/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 100 1
 180 1
 182 1

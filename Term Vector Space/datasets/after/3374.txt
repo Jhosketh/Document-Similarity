@@ -3,6 +3,7 @@
 /m/06ttbn
 Anaïs Nin
 1986
+{"/m/016chh": "Memoir", "/m/02gsv": "Personal journal"}
 131 1
 a 2
 affair 1

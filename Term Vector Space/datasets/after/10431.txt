@@ -3,6 +3,7 @@
 /m/02wxbp3
 Elizabeth Haydon
 2000
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 15
 achmed 9
 adopted 1

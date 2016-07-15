@@ -3,6 +3,7 @@
 /m/076vrch
 Danielle Steel
 2006-06
+{"/m/05hgj": "Novel"}
 a 2
 acceptance 1
 all 2

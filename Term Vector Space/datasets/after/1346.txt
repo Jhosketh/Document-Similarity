@@ -3,6 +3,7 @@
 /m/02vzjd
 Margaret Atwood
 1969-08
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 343thank 1
 34ainsley 1
 34bone 1

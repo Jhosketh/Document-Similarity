@@ -3,6 +3,7 @@
 /m/02pxfln
 Philip Reeve
 2007-04-02
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 7
 after 1
 against 1

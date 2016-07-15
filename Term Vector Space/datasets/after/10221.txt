@@ -3,6 +3,7 @@
 /m/02vpcm8
 Marilyn Manson
 
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 a 4
 about 2
 accompanying 1

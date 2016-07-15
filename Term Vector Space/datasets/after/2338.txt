@@ -3,6 +3,7 @@
 /m/04pm0c
 Donald Hamilton
 1963
+{"/m/06wkf": "Spy fiction"}
 a 2
 adventures 1
 afterwards 1

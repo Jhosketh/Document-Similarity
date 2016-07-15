@@ -3,6 +3,7 @@
 /m/0gg49hm
 John Barnes
 2011
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 3
 actor 1
 aims 1

@@ -3,6 +3,7 @@
 /m/0ddcdtc
 Frederick Forsyth
 2010
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 2 1
 a 7
 about 1

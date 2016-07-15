@@ -3,6 +3,7 @@
 /m/027687_
 James Patterson
 2003
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 able 2
 addition 1

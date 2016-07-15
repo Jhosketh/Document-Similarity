@@ -3,6 +3,7 @@
 /m/0404xmg
 Karen Traviss
 2007-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 among 1
 and 4

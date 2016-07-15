@@ -3,6 +3,7 @@
 /m/09v316g
 James Patterson
 2010-01
+{"/m/0lsxr": "Crime Fiction"}
 a 4
 against 1
 american 1

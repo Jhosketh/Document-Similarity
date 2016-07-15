@@ -3,6 +3,7 @@
 /m/085vd7
 Koji Suzuki
 1995
+{"/m/03npn": "Horror"}
 30 1
 a 15
 about 2

@@ -3,6 +3,7 @@
 /m/03cldfw
 Douglas Preston
 2000-07-18
+{"/m/01jfsb": "Thriller", "/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction", "/m/06n90": "Science Fiction", "/m/08sdrw": "Adventure novel"}
 177 2
 25000 1
 a 38

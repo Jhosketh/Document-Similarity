@@ -3,6 +3,7 @@
 /m/057ptp
 Mike Resnick
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 17 1
 a 8
 achieve 1

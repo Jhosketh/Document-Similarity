@@ -3,6 +3,7 @@
 /m/027pywz
 Margaret Weis
 1994-02
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 27
 about 1
 abyss 1

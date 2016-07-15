@@ -3,6 +3,7 @@
 /m/08bgp8
 Richard Powers
 1995
+{"/m/012jgz": "Autobiographical novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 able 3
 actually 1

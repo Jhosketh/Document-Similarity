@@ -3,6 +3,7 @@
 /m/094dx9
 Georges Perec
 1975
+{"/m/012jgz": "Autobiographical novel"}
 a 6
 about 1
 adult 1

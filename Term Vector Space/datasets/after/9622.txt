@@ -3,6 +3,7 @@
 /m/02qn7z9
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 1
 abyss 1
 acceptance 1

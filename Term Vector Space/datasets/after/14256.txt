@@ -3,6 +3,7 @@
 /m/036vmv
 Douglas Coupland
 1991-03-15
+{"/m/05hgj": "Novel"}
 10 1
 a 7
 additional 2

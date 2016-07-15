@@ -3,6 +3,7 @@
 /m/03fxh2
 James Baldwin
 1953
+{"/m/012jgz": "Autobiographical novel"}
 130s 1
 a 32
 abandoning 1

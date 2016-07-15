@@ -3,6 +3,7 @@
 /m/0288xp4
 Joe R. Lansdale
 1995
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 3
 addition 1
 also 1

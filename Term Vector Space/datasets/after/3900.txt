@@ -3,6 +3,7 @@
 /m/07xlpt
 Rohinton Mistry
 1991-04-01
+{"/m/02p0szs": "Historical fiction", "/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 171 1
 a 7
 admittance 1

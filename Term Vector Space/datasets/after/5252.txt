@@ -3,6 +3,7 @@
 /m/0bjffx
 Charles Sheffield
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 adventures 1
 affect 1

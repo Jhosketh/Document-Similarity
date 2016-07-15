@@ -3,6 +3,7 @@
 /m/03fxby
 F. Scott Fitzgerald
 
+{"/m/012jgz": "Autobiographical novel", "/m/016lj8": "Roman \u00e0 clef", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 a 13
 abe 1
 action 1

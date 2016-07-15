@@ -3,6 +3,7 @@
 /m/08tsqh
 Jerry B. Jenkins
 
+{"/m/05hgj": "Novel", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 able 1
 acceptance 1

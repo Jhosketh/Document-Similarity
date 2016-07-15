@@ -3,6 +3,7 @@
 /m/04__xk
 Margaret Atwood
 1981
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 after 1
 antoine 1

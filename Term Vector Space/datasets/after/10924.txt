@@ -3,6 +3,7 @@
 /m/03x_lxs
 Bernard Cornwell
 2000-10-16
+{"/m/0hwxm": "Historical novel"}
 1342 1
 a 27
 about 1

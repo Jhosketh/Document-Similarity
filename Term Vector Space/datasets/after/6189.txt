@@ -3,6 +3,7 @@
 /m/0d34r3
 Adeline Yen Mah
 1999-09-07
+{"/m/012jgz": "Autobiographical novel", "/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/0dwly": "Children's literature"}
 a 3
 abroad 1
 academic 1

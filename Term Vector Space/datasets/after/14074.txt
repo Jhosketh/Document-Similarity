@@ -3,6 +3,7 @@
 /m/064pt0b
 Linda Newbery
 2006
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 adequate 1
 advertises 1

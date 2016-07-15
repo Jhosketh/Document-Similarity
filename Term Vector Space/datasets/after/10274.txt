@@ -3,6 +3,7 @@
 /m/02vthx8
 Shannon Hale
 2004-08-26
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 9
 ability 1
 about 1

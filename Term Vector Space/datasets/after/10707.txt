@@ -3,6 +3,7 @@
 /m/03c14l0
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel"}
 a 8
 actually 1
 agrees 2

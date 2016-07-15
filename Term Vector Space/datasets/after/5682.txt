@@ -3,6 +3,7 @@
 /m/0cb3rd
 Frederick Forsyth
 1996
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 1 2
 16 1
 2000 2

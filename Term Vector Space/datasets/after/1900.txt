@@ -3,6 +3,7 @@
 /m/03bx1l6
 Raymond E. Feist
 1982-10
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 academy 1
 access 1

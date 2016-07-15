@@ -3,6 +3,7 @@
 /m/05mzsmj
 James Blaylock
 1989-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 13
 after 1
 also 1

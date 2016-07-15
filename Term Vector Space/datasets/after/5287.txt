@@ -3,6 +3,7 @@
 /m/0bk3cb
 Piers Anthony
 2007-10-16
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 13yearold 1
 2004 1
 a 10

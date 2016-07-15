@@ -3,6 +3,7 @@
 /m/076tc2z
 Danielle Steel
 2005-10
+{"/m/05hgj": "Novel"}
 a 6
 adam 2
 an 1

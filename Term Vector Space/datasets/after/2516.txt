@@ -3,6 +3,7 @@
 /m/02p48sz
 Steven Erikson
 2008-06-30
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 1
 about 1
 afoot 1

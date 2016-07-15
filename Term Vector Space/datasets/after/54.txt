@@ -3,6 +3,7 @@
 /m/04_m6
 Herman Melville
 1851-10-18
+{"/m/07m5w1": "Sea story", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 2011 1
 a 23
 aboard 1

@@ -3,6 +3,7 @@
 /m/04t2xr
 Alastair Reynolds
 2004
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 130s 1
 15 1
 150s 1

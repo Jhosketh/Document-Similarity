@@ -3,6 +3,7 @@
 /m/09c7q1
 Stephen King
 1984-11-19
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 acne 1
 acquitted 1

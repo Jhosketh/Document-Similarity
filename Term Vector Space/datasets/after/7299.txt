@@ -3,6 +3,7 @@
 /m/0g41t1
 Stephen Hunter
 1997-04-07
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 155 3
 a 7
 about 3

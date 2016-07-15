@@ -3,6 +3,7 @@
 /m/026svln
 Eudora Welty
 1972
+{"/m/05hgj": "Novel"}
 a 6
 after 4
 aging 1

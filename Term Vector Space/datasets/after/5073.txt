@@ -3,6 +3,7 @@
 /m/0b68jd
 P. G. Wodehouse
 1934-03-16
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 20
 able 7
 aboard 1

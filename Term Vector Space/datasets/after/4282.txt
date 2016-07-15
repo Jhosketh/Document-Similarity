@@ -3,6 +3,7 @@
 /m/08pxjv
 James Ellroy
 1988-09
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 14 1
 150 1
 a 9

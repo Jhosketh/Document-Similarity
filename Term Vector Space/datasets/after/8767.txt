@@ -3,6 +3,7 @@
 /m/027mtpb
 A. J. Cronin
 1948
+{"/m/05hgj": "Novel", "/m/01qxvh": "Romance novel"}
 a 5
 about 1
 an 1

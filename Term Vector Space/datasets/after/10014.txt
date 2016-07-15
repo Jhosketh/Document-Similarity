@@ -3,6 +3,7 @@
 /m/02rkm2g
 Peter Robinson
 2003-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 165 1
 a 1
 alan 2

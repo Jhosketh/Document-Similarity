@@ -3,6 +3,7 @@
 /m/0bb0z0
 Richard Bowes
 
+{"/m/01rvlb": "Science fantasy", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 150s 1
 a 2
 about 1

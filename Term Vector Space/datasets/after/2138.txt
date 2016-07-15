@@ -3,6 +3,7 @@
 /m/049qj6
 Thomas Harris
 2006-12-05
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 141 1
 a 14
 advancing 1

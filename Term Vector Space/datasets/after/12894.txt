@@ -3,6 +3,7 @@
 /m/04myr4x
 Raymond E. Feist
 1994-06
+{"/m/01hmnh": "Fantasy"}
 a 20
 aboard 2
 across 2

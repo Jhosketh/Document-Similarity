@@ -3,6 +3,7 @@
 /m/07kdxfy
 John Feinstein
 2006-06-27
+{"/m/02n4kr": "Mystery", "/m/03mfnf": "Young adult literature"}
 2 1
 48 1
 a 4

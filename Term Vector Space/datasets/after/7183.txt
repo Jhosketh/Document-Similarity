@@ -3,6 +3,7 @@
 /m/0fv3f1
 Deborah J. Ross
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 after 1
 ages 1

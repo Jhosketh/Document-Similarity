@@ -3,6 +3,7 @@
 /m/07hrc9
 Angela Carter
 1967
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0488wh": "Literary fiction"}
 1852 1
 a 17
 across 1

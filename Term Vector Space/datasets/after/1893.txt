@@ -3,6 +3,7 @@
 /m/03tvp9
 Terry Goodkind
 2001-11-20
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 a 13
 above 1
 abusive 1

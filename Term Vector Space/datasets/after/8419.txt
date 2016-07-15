@@ -3,6 +3,7 @@
 /m/026zp_2
 James P. Hogan
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 15
 accept 1
 accurate 1

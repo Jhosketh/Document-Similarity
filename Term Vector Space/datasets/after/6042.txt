@@ -3,6 +3,7 @@
 /m/0cwy01
 Darren Shan
 
+{"/m/01hmnh": "Fantasy", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature"}
 10th 1
 a 4
 after 1

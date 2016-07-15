@@ -3,6 +3,7 @@
 /m/04_0vls
 Thomas Pynchon
 2009-08-04
+{"/m/05hgj": "Novel"}
 16 1
 170 1
 a 24

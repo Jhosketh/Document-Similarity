@@ -3,6 +3,7 @@
 /m/026g1r
 Philip Pullman
 1997
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 12yearold 1
 a 20
 abandoned 1

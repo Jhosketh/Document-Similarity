@@ -3,6 +3,7 @@
 /m/034xw8
 Christopher Paolini
 2005-08-23
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 100000 1
 12 1
 a 24

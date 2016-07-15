@@ -3,6 +3,7 @@
 /m/03c6d1l
 Howard Roughan
 2008-06-10
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 100 1
 16 1
 a 19

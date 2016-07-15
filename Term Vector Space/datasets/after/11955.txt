@@ -3,6 +3,7 @@
 /m/04049q0
 Hermann Hesse
 
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 4
 account 1
 an 1

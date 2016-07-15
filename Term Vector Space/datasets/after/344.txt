@@ -3,6 +3,7 @@
 /m/0l470
 Kurt Vonnegut
 1963
+{"/m/06n90": "Science Fiction", "/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction"}
 120s 1
 122 1
 a 39

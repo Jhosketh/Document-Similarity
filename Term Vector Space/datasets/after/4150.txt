@@ -3,6 +3,7 @@
 /m/08db98
 Daniel Handler
 2005-10-18
+{"/m/05hgj": "Novel", "/m/0pym5": "Absurdist fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction", "/m/06www": "Steampunk"}
 a 29
 about 2
 abruptly 1

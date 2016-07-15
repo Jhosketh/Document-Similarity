@@ -3,6 +3,7 @@
 /m/03ccpqq
 Annette Curtis Klause
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel", "/m/08sdrw": "Adventure novel"}
 a 8
 abel 5
 all 1

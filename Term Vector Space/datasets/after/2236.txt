@@ -3,6 +3,7 @@
 /m/04hwvp
 Anne Rice
 1998-03-02
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 15 1
 185 1
 a 18

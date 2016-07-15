@@ -3,6 +3,7 @@
 /m/047hwy
 Roald Dahl
 
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 0048330804 1
 0060313825 1
 0062222227 1

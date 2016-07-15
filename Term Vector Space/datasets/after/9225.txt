@@ -3,6 +3,7 @@
 /m/02ppt37
 Hanif Kureishi
 1999
+{"/m/0707q": "Short story", "/m/0l67h": "Novella"}
 157 1
 2001 2
 a 13

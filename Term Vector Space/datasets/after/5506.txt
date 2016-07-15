@@ -3,6 +3,7 @@
 /m/0b_z_t
 Mary Stewart
 1979-01
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 abilities 1
 after 2

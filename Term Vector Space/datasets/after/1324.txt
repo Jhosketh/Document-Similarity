@@ -3,6 +3,7 @@
 /m/02th6x
 Evelyn Waugh
 1928
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 16 1
 2008 1
 4 1

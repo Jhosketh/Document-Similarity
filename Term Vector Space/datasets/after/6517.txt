@@ -3,6 +3,7 @@
 /m/0dj_60
 Leslie Charteris
 1930
+{"/m/02n4kr": "Mystery", "/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 130 1
 132 1
 15 1

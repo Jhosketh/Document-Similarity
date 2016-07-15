@@ -3,6 +3,7 @@
 /m/08x8c7
 James Weldon Johnson
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 110s 1
 a 39
 able 2

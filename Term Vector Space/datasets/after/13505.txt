@@ -3,6 +3,7 @@
 /m/05c42wv
 Kitty Barne
 1940
+{"/m/098tmk": "War novel", "/m/0dwly": "Children's literature"}
 13 1
 a 1
 and 2

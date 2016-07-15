@@ -3,6 +3,7 @@
 /m/0g9vnxc
 Marin Preda
 1977
+{"/m/05hgj": "Novel"}
 1000 1
 a 18
 admitted 1

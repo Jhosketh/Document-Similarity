@@ -3,6 +3,7 @@
 /m/0361gh
 Max Barry
 1999-07
+{"/m/06nbt": "Satire"}
 3 1
 6 1
 a 4

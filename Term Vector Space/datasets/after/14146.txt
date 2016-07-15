@@ -3,6 +3,7 @@
 /m/065ym11
 Claudia Gray
 2009-03-24
+{"/m/039vk": "Gothic fiction", "/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature"}
 a 15
 about 2
 academy 1

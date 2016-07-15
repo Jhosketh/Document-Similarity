@@ -3,6 +3,7 @@
 /m/060xy
 Jane Austen
 1813-01-28
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 19
 abominable 1
 about 1

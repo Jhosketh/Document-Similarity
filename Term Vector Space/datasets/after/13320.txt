@@ -3,6 +3,7 @@
 /m/0524fr6
 
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03k9fj": "Adventure", "/m/0c082": "Utopian and dystopian fiction", "/m/08sdrw": "Adventure novel"}
 a 6
 ability 1
 accompanied 1

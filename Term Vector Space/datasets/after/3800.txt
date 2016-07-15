@@ -3,6 +3,7 @@
 /m/05qbbjr
 Gene Wolfe
 1981
+{"/m/06n90": "Science Fiction", "/m/03qfd": "High fantasy"}
 a 34
 absolute 4
 accidentally 1

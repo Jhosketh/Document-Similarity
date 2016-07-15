@@ -3,6 +3,7 @@
 /m/02pn1rp
 Lee Child
 2000-07-13
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 18
 about 3
 academy 1

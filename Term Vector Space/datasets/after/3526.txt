@@ -3,6 +3,7 @@
 /m/073swq
 John Ruskin
 1851
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/0bxg3": "Fairy tale", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 22
 acquires 1
 across 2

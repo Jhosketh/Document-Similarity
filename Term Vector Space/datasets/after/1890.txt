@@ -3,6 +3,7 @@
 /m/03tgtr
 Louis Sachar
 1998-08-20
+{"/m/06nbt": "Satire", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 22
 accused 1
 actually 1

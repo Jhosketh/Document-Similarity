@@ -3,6 +3,7 @@
 /m/0dmm46
 Cynthia Kadohata
 2004
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150s 1
 4 1
 a 17

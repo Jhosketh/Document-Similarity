@@ -3,6 +3,7 @@
 /m/026cgfd
 Gillian Bradshaw
 1981-05
+{"/m/035qb4": "Historical fantasy", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 a 7
 able 1
 accept 1

@@ -3,6 +3,7 @@
 /m/0524jcs
 Stieg Larsson
 2006
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction"}
 1 1
 11 1
 14 1

@@ -3,6 +3,7 @@
 /m/047njn9
 Peter Straub
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 2
 and 1
 as 1

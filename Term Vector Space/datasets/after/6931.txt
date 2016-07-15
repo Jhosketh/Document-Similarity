@@ -3,6 +3,7 @@
 /m/0f8dl3
 Daniel Handler
 2006-06-05
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 46
 able 1
 about 5

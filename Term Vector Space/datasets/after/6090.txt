@@ -3,6 +3,7 @@
 /m/0c_bbd
 Anita Desai
 1984-10-08
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 as 1
 at 1

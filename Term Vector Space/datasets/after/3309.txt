@@ -3,6 +3,7 @@
 /m/06nnz3
 Sterling North
 1963
+{"/m/017fp": "Biography", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 100s 1
 a 16
 achieved 1

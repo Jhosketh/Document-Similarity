@@ -3,6 +3,7 @@
 /m/0c55pw
 P. G. Wodehouse
 1931-03
+{"/m/0707q": "Short story"}
 a 5
 about 1
 afterdinner 1

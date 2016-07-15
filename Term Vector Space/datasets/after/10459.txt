@@ -3,6 +3,7 @@
 /m/02x1px2
 Cyril M. Kornbluth
 1955-06
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 40
 abetted 1
 able 2

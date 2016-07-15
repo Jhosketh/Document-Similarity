@@ -3,6 +3,7 @@
 /m/04mx0_
 J. G. Ballard
 1994
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16 1
 a 13
 able 1

@@ -3,6 +3,7 @@
 /m/08ckpc
 Ignacy Krasicki
 
+{"/m/05hgj": "Novel"}
 18thcentury 1
 a 5
 adventures 1

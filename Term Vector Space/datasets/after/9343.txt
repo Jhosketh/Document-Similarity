@@ -3,6 +3,7 @@
 /m/02py3bx
 Joel Spector
 2007
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 12 1
 a 7
 about 1

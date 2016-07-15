@@ -3,6 +3,7 @@
 /m/09zlfr
 Hans Christian Andersen
 1838-10-02
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 15year 1
 a 10
 accepts 1

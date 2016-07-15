@@ -3,6 +3,7 @@
 /m/0c6t0j
 Rosalind Miles
 2001-06-12
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 4
 across 3
 after 1

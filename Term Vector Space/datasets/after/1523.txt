@@ -3,6 +3,7 @@
 /m/034yth
 Terry Pratchett
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 23
 accept 1
 accepts 1

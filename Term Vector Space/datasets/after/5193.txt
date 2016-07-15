@@ -3,6 +3,7 @@
 /m/0bdsk9
 Bernard Cornwell
 1983
+{"/m/0hwxm": "Historical novel"}
 a 58
 able 1
 about 3

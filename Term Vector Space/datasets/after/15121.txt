@@ -3,6 +3,7 @@
 /m/0bmj518
 Margaret Haddix
 2010-08-31
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 20
 about 5
 adventures 1

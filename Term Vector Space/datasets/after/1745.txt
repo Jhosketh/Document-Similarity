@@ -3,6 +3,7 @@
 /m/03jlc7
 Enric Tremps
 1994
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20 1
 a 16
 accept 1

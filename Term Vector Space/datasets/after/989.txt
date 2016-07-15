@@ -3,6 +3,7 @@
 /m/022_l3
 Gore Vidal
 1948-01-10
+{"/m/05hgj": "Novel"}
 130s 1
 a 20
 about 3

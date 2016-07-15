@@ -3,6 +3,7 @@
 /m/05mzjl
 Edgar Rice Burroughs
 1927
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1 1
 13th 1
 17 1

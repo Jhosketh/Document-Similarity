@@ -3,6 +3,7 @@
 /m/0716h4
 Koji Suzuki
 1991
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 9
 abstract 1
 admits 1

@@ -3,6 +3,7 @@
 /m/05mrx8w
 Martin Amis
 1981
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 1
 amnesiac 1
 an 1

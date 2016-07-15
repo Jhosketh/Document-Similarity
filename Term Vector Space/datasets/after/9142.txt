@@ -3,6 +3,7 @@
 /m/02pjhxx
 Edgar Rice Burroughs
 1936
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 action 1
 adventure 1

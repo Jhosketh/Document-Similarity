@@ -3,6 +3,7 @@
 /m/02hk_k
 Jerry Pournelle
 1985-05-12
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 25
 aboard 3
 accept 1

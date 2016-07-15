@@ -3,6 +3,7 @@
 /m/03c4ftz
 Pearl S. Buck
 1957
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 130 1
 150 1
 17yearold 1

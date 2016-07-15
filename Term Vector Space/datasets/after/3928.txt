@@ -3,6 +3,7 @@
 /m/07yrjv
 Dan Simmons
 2002-01-22
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 3
 actually 1
 also 1

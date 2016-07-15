@@ -3,6 +3,7 @@
 /m/09l3zz
 Jo Walton
 
+{"/m/057pyk": "Fantasy of manners", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 along 1
 anthony 1

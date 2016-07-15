@@ -3,6 +3,7 @@
 /m/03y80t
 Haruki Murakami
 1999
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 25 1
 a 8
 about 1

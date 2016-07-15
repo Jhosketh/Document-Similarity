@@ -3,6 +3,7 @@
 /m/07xnnb
 Sidney Sheldon
 1977
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 accident 1
 agree 1

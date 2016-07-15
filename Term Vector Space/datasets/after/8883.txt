@@ -3,6 +3,7 @@
 /m/02wvh1r
 Karen Joy Fowler
 2004-04-22
+{"/m/02xlf": "Fiction"}
 a 1
 and 1
 as 2

@@ -3,6 +3,7 @@
 /m/049t4v
 Stephen King
 
+{"/m/039vk": "Gothic fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 11yearold 1
 180s 1
 a 46

@@ -3,6 +3,7 @@
 /m/027p147
 Annie Dillard
 1974
+{"/m/05h0n": "Nature", "/m/05h83": "Non-fiction"}
 1 1
 34accumulates 1
 34northing34 1

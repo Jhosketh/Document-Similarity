@@ -3,6 +3,7 @@
 /m/019q_s
 James Clavell
 1975
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1600 1
 a 48
 aboard 2

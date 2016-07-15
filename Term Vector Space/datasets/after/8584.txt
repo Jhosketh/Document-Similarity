@@ -3,6 +3,7 @@
 /m/0279glm
 Jim Butcher
 2000-04-01
+{"/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 5
 acting 1
 affair 1

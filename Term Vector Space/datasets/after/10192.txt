@@ -3,6 +3,7 @@
 /m/02vmxsl
 Phoebe Atwood Taylor
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit"}
 a 4
 and 6
 another 1

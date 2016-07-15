@@ -3,6 +3,7 @@
 /m/02vql4n
 David Alan Mack
 2007-06
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 47 1
 a 1
 aka 1

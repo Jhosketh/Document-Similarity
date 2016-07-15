@@ -3,6 +3,7 @@
 /m/075d1p
 Jules Verne
 1879
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/06ms6": "Sociology"}
 200000 1
 a 10
 about 3

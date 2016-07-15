@@ -3,6 +3,7 @@
 /m/043m23r
 Victor Appleton
 1915
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 115 1
 a 3
 after 1

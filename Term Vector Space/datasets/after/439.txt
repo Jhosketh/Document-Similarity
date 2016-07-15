@@ -3,6 +3,7 @@
 /m/014hgl
 Dorothy L. Sayers
 1931
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 17
 accused 1
 acute 1

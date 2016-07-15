@@ -3,6 +3,7 @@
 /m/054gx4
 Robert Ludlum
 2000-10-31
+{"/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 5 1
 a 23
 abdomen 1

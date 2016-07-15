@@ -3,6 +3,7 @@
 /m/02qswn
 Nicholas Meyer
 1974-07
+{"/m/028v3": "Detective fiction", "/m/02xlf": "Fiction"}
 114 1
 181 1
 a 13

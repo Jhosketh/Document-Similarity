@@ -3,6 +3,7 @@
 /m/06gw4l
 Philippa Pearce
 1958-12-31
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 13 1
 1th 1
 a 3

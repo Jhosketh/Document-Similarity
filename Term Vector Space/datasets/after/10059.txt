@@ -3,6 +3,7 @@
 /m/02rpq90
 Maeve Binchy
 2000
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 5
 affluent 1
 against 1

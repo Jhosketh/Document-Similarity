@@ -3,6 +3,7 @@
 /m/0dh3y8
 A. J. Quinnell
 1980-09
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 about 1
 absences 1

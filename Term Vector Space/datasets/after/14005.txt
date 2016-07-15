@@ -3,6 +3,7 @@
 /m/05zmkxl
 Bruce Marshall
 1954
+{"/m/05hgj": "Novel"}
 40 1
 a 10
 able 1

@@ -3,6 +3,7 @@
 /m/0dblyf
 Ruth Rendell
 1983-02-07
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 after 1
 been 1

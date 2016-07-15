@@ -3,6 +3,7 @@
 /m/0478q9
 Roald Dahl
 1979-10
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 accomplice 2
 aid 1

@@ -3,6 +3,7 @@
 /m/09zt4s
 Alberto Fuguet
 2002
+{"/m/012jgz": "Autobiographical novel"}
 a 2
 and 2
 as 1

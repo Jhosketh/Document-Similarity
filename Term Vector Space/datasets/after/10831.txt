@@ -3,6 +3,7 @@
 /m/03c9qzd
 Robert Muchamore
 
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature"}
 a 7
 activist 1
 adams 2

@@ -3,6 +3,7 @@
 /m/05c17np
 César Aira
 2000
+{"/m/05hgj": "Novel"}
 18021858 1
 a 6
 account 1

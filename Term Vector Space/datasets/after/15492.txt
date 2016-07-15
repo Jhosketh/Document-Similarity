@@ -3,6 +3,7 @@
 /m/0cz8k9y
 Sofi Oksanen
 2010-04
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 12 1
 a 5
 against 1

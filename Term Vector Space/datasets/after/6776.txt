@@ -3,6 +3,7 @@
 /m/0dxnkm
 Timothy Findley
 2001-08-30
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 128 1
 13 1
 18 1

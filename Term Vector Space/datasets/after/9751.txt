@@ -3,6 +3,7 @@
 /m/02qx0f3
 Will Self
 1994-06-10
+{"/m/05hgj": "Novel"}
 a 6
 acts 1
 also 2

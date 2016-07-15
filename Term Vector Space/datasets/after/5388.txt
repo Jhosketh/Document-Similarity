@@ -3,6 +3,7 @@
 /m/0bt0f9
 Trudi Canavan
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 accidental 1
 administrator 1

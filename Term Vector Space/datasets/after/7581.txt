@@ -3,6 +3,7 @@
 /m/05kdfxm
 Bill Bryson
 2006-04
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/05h83": "Non-fiction", "/m/016chh": "Memoir", "/m/09kqc": "Humour"}
 151 1
 50s 1
 60s 1

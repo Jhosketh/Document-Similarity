@@ -3,6 +3,7 @@
 /m/0flrky
 F. Paul Wilson
 
+{"/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 500 1
 accompanying 1
 alps 1

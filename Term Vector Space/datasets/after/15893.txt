@@ -3,6 +3,7 @@
 /m/0gg7rl1
 Julian Barnes
 1992
+{"/m/05hgj": "Novel"}
 a 4
 appointed 1
 as 2

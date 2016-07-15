@@ -3,6 +3,7 @@
 /m/014hj3
 Dorothy L. Sayers
 1934
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 118 1
 2 1
 20 1

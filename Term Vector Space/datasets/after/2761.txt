@@ -3,6 +3,7 @@
 /m/05jj7x
 Jean Raspail
 1973
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 adopted 1

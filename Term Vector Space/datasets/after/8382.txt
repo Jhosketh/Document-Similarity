@@ -3,6 +3,7 @@
 /m/026v_pc
 Theodore Dreiser
 1947
+{"/m/05hgj": "Novel"}
 a 3
 affair 1
 after 1

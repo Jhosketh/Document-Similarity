@@ -3,6 +3,7 @@
 /m/02qz4r
 Robert A. Heinlein
 1950
+{"/m/06n90": "Science Fiction", "/m/0707q": "Short story"}
 100 1
 a 37
 able 1

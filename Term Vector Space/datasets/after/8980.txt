@@ -3,6 +3,7 @@
 /m/02818rw
 Pearl S. Buck
 1935
+{"/m/05hgj": "Novel"}
 a 23
 about 1
 abroad 1

@@ -3,6 +3,7 @@
 /m/01ns8r
 Roger Zelazny
 1991-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 1
 all 1
 and 2

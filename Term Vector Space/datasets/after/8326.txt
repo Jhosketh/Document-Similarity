@@ -3,6 +3,7 @@
 /m/026pn8y
 Robin Klein
 1983
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror"}
 a 3
 accepts 1
 and 1

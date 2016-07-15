@@ -3,6 +3,7 @@
 /m/08ts_4
 Tim LaHaye
 2006-06-06
+{"/m/05hgj": "Novel", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 1
 383 1
 41517 1

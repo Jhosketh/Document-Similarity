@@ -3,6 +3,7 @@
 /m/0g93k_
 Elizabeth Moon
 1995-08
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/070yc": "Space opera", "/m/02xlf": "Fiction", "/m/01smf2": "Military science fiction"}
 a 19
 aboard 2
 abound 1

@@ -3,6 +3,7 @@
 /m/04hdwk
 Stephen King
 
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 172 2
 173 1
 174 1

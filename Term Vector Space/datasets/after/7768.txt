@@ -3,6 +3,7 @@
 /m/0h5bsb
 Jennifer Rowe
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 100 1
 13 1
 a 5

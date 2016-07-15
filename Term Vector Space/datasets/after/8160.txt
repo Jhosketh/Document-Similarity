@@ -3,6 +3,7 @@
 /m/026f5jn
 James Joyce
 1907
+{"/m/05qgc": "Poetry"}
 10 1
 104 1
 106 1

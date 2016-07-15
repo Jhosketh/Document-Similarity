@@ -3,6 +3,7 @@
 /m/0bm5ts
 Jeff VanderMeer
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 ambergris 3
 an 1

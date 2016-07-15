@@ -3,6 +3,7 @@
 /m/0270c5r
 Sophia McDougall
 2005
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction"}
 a 6
 ability 1
 abolish 1

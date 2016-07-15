@@ -3,6 +3,7 @@
 /m/04y5k2_
 Sara Douglass
 2007-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 abyss 1
 after 1

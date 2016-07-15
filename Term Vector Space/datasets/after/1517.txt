@@ -3,6 +3,7 @@
 /m/034n52
 Kate Wilhelm
 1976
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20 1
 410 1
 a 9

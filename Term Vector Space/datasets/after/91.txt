@@ -3,6 +3,7 @@
 /m/07kp1
 Tom Clancy
 1988
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 14
 abm 2
 accept 1

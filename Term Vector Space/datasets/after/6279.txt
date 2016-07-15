@@ -3,6 +3,7 @@
 /m/0d7rbm
 John Boyne
 2006-01-05
+{"/m/0dwly": "Children's literature", "/m/0q9mp": "Tragicomedy", "/m/031mk": "Fable", "/m/0hwxm": "Historical novel"}
 a 27
 about 3
 adolf 1

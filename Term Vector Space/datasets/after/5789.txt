@@ -3,6 +3,7 @@
 /m/0ch770
 Terry Brooks
 2006-08-29
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 21
 abandon 1
 able 1

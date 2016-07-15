@@ -3,6 +3,7 @@
 /m/02vm6zf
 James Patterson
 2007-11-13
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 47
 aaron 2
 abby 1

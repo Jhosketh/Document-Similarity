@@ -3,6 +3,7 @@
 /m/03pdf7
 Jane Austen
 1817
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/037mh8": "Philosophy"}
 1805 1
 a 12
 able 1

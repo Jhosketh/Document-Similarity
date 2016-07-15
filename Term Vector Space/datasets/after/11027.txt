@@ -3,6 +3,7 @@
 /m/04yp_0m
 Timothy Ferriss
 2007-04
+{"/m/012lzc": "Self-help", "/m/05h83": "Non-fiction"}
 20 1
 80 1
 8020 1

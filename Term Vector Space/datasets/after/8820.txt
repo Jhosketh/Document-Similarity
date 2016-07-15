@@ -3,6 +3,7 @@
 /m/027s4y4
 Brian Lumley
 1974
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 accident 1
 adventures 1
 after 1

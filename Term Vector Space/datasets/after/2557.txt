@@ -3,6 +3,7 @@
 /m/052t4v
 Leo Tolstoy
 1886
+{"/m/02xlf": "Fiction", "/m/037mh8": "Philosophy"}
 a 12
 also 1
 although 1

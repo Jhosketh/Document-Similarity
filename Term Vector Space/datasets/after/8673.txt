@@ -3,6 +3,7 @@
 /m/027f_k_
 Georgette Heyer
 1958
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 a 6
 about 2
 actually 1

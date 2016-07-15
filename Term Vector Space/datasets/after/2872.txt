@@ -3,6 +3,7 @@
 /m/05sm1q
 Greg Bear
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 about 1
 advises 1

@@ -3,6 +3,7 @@
 /m/03wgvx_
 George Eliot
 1857
+{"/m/0707q": "Short story", "/m/02xlf": "Fiction", "/m/06ms6": "Sociology"}
 1788 2
 1820s 1
 a 22

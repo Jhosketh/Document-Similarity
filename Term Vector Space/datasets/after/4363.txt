@@ -3,6 +3,7 @@
 /m/08v_00
 Poul Anderson
 1971
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 160s 1
 600pound 2
 a 25

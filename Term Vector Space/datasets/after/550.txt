@@ -3,6 +3,7 @@
 /m/019nzl
 Lloyd C. Douglas
 1929
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 8
 ability 1
 accident 2

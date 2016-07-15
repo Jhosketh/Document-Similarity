@@ -3,6 +3,7 @@
 /m/09ltdp
 Alexander McCall Smith
 1998
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 2
 africa 1
 agency 1

@@ -3,6 +3,7 @@
 /m/0b56ld
 Margery Allingham
 1937
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 about 1
 accident 3

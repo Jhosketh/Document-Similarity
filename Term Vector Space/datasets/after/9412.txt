@@ -3,6 +3,7 @@
 /m/02q2mz_
 Isabel Allende
 1995
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 12 1
 6 1
 a 2

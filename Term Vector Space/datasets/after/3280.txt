@@ -3,6 +3,7 @@
 /m/06lfy9
 Marcel Pagnol
 1957
+{"/m/012jgz": "Autobiographical novel"}
 a 6
 adults 1
 amazed 1

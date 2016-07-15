@@ -3,6 +3,7 @@
 /m/09frv8
 P. G. Wodehouse
 1906-06
+{"/m/02yq81": "Comic novel", "/m/0dwly": "Children's literature", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 a 17
 about 1
 accompany 1

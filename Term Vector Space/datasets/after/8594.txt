@@ -3,6 +3,7 @@
 /m/027b5m9
 Norman Mailer
 2007
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 active 1

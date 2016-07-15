@@ -3,6 +3,7 @@
 /m/059pht
 Iris Murdoch
 1980
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 44 1
 a 10
 about 1

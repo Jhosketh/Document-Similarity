@@ -3,6 +3,7 @@
 /m/03h3b_y
 Desmond Bagley
 1963
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 14
 abandoned 1
 accident 1

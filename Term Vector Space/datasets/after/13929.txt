@@ -3,6 +3,7 @@
 /m/05zl8w2
 MaryJanice Davidson
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/072lff": "Paranormal romance"}
 a 3
 all 1
 an 1

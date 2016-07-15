@@ -3,6 +3,7 @@
 /m/018sb1
 Julie Myerson
 
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 18 1
 a 8
 accomplice 1

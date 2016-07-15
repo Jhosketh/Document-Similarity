@@ -3,6 +3,7 @@
 /m/09pb81
 Diana G. Gallagher
 2000-03
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 13 1
 a 6
 about 2

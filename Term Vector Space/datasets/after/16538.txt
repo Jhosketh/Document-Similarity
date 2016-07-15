@@ -3,6 +3,7 @@
 /m/0jt6csb
 Alexander McCall Smith
 2011-05-01
+{"/m/02xlf": "Fiction"}
 13 1
 17 1
 2010 2

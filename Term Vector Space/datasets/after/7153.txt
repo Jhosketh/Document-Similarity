@@ -3,6 +3,7 @@
 /m/0frb3c
 Alistair MacLean
 1975
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 a 7
 agent 1
 an 2

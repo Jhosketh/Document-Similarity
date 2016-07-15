@@ -3,6 +3,7 @@
 /m/04y9zxn
 John Harris
 1951
+{"/m/01jym": "Bildungsroman", "/m/08sdrw": "Adventure novel"}
 a 2
 about 2
 along 1

@@ -3,6 +3,7 @@
 /m/027bxzt
 Louis Sachar
 1995-04-27
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 12th 1
 15 1
 1500 1

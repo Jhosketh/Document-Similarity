@@ -3,6 +3,7 @@
 /m/0ddc4d4
 Emma Donoghue
 2010
+{"/m/0488wh": "Literary fiction", "/m/05hgj": "Novel"}
 1 1
 a 21
 abducted 1

@@ -3,6 +3,7 @@
 /m/05mw6dp
 Laurence B. Brown
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 4
 act 1
 after 1

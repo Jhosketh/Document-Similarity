@@ -3,6 +3,7 @@
 /m/026gh1b
 David Baldacci
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 40 1
 a 6
 activities 1

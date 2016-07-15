@@ -3,6 +3,7 @@
 /m/055p0w
 Henning Mankell
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 3
 adversities 1
 all 1

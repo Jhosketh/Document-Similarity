@@ -3,6 +3,7 @@
 /m/02867yj
 Joyce Carol Oates
 2002-01
+{"/m/02n4kr": "Mystery", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0l67h": "Novella", "/m/0c3351": "Suspense"}
 170s 1
 a 2
 an 1

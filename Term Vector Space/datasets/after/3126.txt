@@ -3,6 +3,7 @@
 /m/069knb
 Rafael Sabatini
 1926
+{"/m/02w06c6": "Historical romance", "/m/0hwxm": "Historical novel"}
 a 18
 abandoned 1
 abbey 1

@@ -3,6 +3,7 @@
 /m/0654qg
 Rachel Vincent
 1987-04-30
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 7
 among 1
 and 5

@@ -3,6 +3,7 @@
 /m/04fly7
 Bernard Malamud
 1952
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16 1
 17game 1
 1yearold 1

@@ -3,6 +3,7 @@
 /m/0lrqk
 Iain Banks
 2002
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 1
 2001 1
 a 5

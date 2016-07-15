@@ -3,6 +3,7 @@
 /m/03g4_5
 Georges Perec
 1969
+{"/m/05hgj": "Novel"}
 a 10
 about 1
 acrobat 1

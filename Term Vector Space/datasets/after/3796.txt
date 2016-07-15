@@ -3,6 +3,7 @@
 /m/07p67d
 Marion Zimmer Bradley
 1976
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 18
 abandon 1
 abide 1

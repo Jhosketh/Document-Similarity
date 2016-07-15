@@ -3,6 +3,7 @@
 /m/016gsz
 Aleksis Kivi
 
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/02xlf": "Fiction"}
 a 2
 accept 1
 adulthoodand 1

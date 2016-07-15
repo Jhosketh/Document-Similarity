@@ -3,6 +3,7 @@
 /m/0d4mdx
 Ian Irvine
 2004-08
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 100 3
 21stcentury 1
 a 3

@@ -3,6 +3,7 @@
 /m/09l3ql
 Jonathan Stroud
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 able 1
 and 2
 are 1

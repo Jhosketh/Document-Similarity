@@ -3,6 +3,7 @@
 /m/04n3vt
 Tad Williams
 1993-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 after 1
 against 1

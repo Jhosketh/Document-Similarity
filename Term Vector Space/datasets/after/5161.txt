@@ -3,6 +3,7 @@
 /m/0bbc6j
 Wilkie Collins
 1875
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 across 1
 after 1

@@ -3,6 +3,7 @@
 /m/06706c
 William Nicholson
 2005-01-05
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 18
 abandoned 1
 about 1

@@ -3,6 +3,7 @@
 /m/0fv9n
 Roald Dahl
 1964
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 50p 1
 a 23
 about 3

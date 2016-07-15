@@ -3,6 +3,7 @@
 /m/0266zq8
 Tom Holt
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01z4y": "Comedy"}
 a 2
 all 2
 and 2

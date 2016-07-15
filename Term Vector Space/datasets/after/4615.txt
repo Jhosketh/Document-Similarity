@@ -3,6 +3,7 @@
 /m/099pt6
 Georgette Heyer
 1928
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 a 17
 accepted 1
 acquired 1

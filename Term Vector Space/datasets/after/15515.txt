@@ -3,6 +3,7 @@
 /m/0ddbcwl
 Amélie Nothomb
 2002
+{"/m/05hgj": "Novel"}
 a 4
 adopted 1
 an 1

@@ -3,6 +3,7 @@
 /m/012bwf
 Edgar Allan Poe
 1844-12
+{"/m/028v3": "Detective fiction", "/m/0707q": "Short story"}
 1 1
 2 1
 50000 1

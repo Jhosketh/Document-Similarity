@@ -3,6 +3,7 @@
 /m/027tx_3
 Ruth Rendell
 1990-03-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 8
 again 1
 also 2

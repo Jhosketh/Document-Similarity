@@ -3,6 +3,7 @@
 /m/025_vsn
 Russell Hoban
 1974
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense"}
 a 4
 abstract 1
 adults 1

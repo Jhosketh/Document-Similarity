@@ -3,6 +3,7 @@
 /m/04f47wb
 Steven Brust
 2008-07-08
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 18
 about 8
 accused 1

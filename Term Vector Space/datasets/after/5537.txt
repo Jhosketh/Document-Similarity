@@ -3,6 +3,7 @@
 /m/0c24jc
 James Thurber
 1950-01-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 ability 1
 able 1

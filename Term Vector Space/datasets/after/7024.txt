@@ -3,6 +3,7 @@
 /m/0ffdz8
 Tamora Pierce
 1998
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 20
 about 2
 adults 1

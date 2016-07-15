@@ -3,6 +3,7 @@
 /m/027yg51
 Lilian Jackson Braun
 1966
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150000 1
 a 28
 abandoned 1

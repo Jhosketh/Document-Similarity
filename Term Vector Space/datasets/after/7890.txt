@@ -3,6 +3,7 @@
 /m/025yn9l
 Alistair MacLean
 1984
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel"}
 a 2
 aberdeen 1
 aircraft 1

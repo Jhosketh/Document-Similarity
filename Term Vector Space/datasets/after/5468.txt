@@ -3,6 +3,7 @@
 /m/0byjlj
 Charles R. Saunders
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 adversary 1
 along 1

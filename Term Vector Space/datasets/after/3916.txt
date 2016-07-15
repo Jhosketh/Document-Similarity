@@ -3,6 +3,7 @@
 /m/07xypw
 Holly Black
 2002
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 20
 abilities 1
 about 1

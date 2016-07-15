@@ -3,6 +3,7 @@
 /m/0dmdmm
 C. J. Cherryh
 1982-07-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 15
 accept 1
 accepts 1

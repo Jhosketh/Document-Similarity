@@ -3,6 +3,7 @@
 /m/0j3dk3d
 Wilkie Collins
 
+{"/m/028v3": "Detective fiction", "/m/0707q": "Short story"}
 a 17
 abandon 1
 about 2

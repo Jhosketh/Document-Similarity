@@ -3,6 +3,7 @@
 /m/076xhp0
 Honoré de Balzac
 1842
+{"/m/02xlf": "Fiction"}
 1500000 1
 a 5
 abb 1

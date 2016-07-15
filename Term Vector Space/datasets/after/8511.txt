@@ -3,6 +3,7 @@
 /m/0275kw0
 Stephenie Meyer
 2007-08-07
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 8
 accepts 1
 afterwards 1

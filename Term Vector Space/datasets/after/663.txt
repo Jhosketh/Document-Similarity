@@ -3,6 +3,7 @@
 /m/01hn49
 Roger Zelazny
 1967
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 60
 ability 1
 able 1

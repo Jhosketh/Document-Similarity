@@ -3,6 +3,7 @@
 /m/0d5bb9
 Christopher Rowley
 1997
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 3
 after 1
 alone 1

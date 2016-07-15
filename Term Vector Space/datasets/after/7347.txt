@@ -3,6 +3,7 @@
 /m/0g6bzz
 Jules Verne
 1890
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel"}
 03jpgmap 1
 1867 1
 2001 1

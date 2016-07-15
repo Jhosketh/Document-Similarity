@@ -3,6 +3,7 @@
 /m/026_8yb
 Sergey Lukyanenko
 
+{"/m/01qpc": "Cyberpunk"}
 17yearold 1
 24hour 1
 300 1

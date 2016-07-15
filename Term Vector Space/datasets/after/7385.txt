@@ -3,6 +3,7 @@
 /m/0g8vkg
 Devin Cary
 1998
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/03g3w": "History"}
 13 1
 1876 1
 20yearold 1

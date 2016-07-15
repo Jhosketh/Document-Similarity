@@ -3,6 +3,7 @@
 /m/025z339
 Andrew Greig
 1996
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 125 1
 20th 1
 a 9

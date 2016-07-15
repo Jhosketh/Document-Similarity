@@ -3,6 +3,7 @@
 /m/04cx0xv
 Caroline Lawrence
 2003
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 7 1
 a 24
 abducted 1

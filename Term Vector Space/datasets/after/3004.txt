@@ -3,6 +3,7 @@
 /m/061_gf
 E. M. Forster
 1907
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 1yearold 1
 20th 1
 a 31

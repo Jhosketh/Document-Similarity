@@ -3,6 +3,7 @@
 /m/016swv
 Ian Fleming
 1955-04-05
+{"/m/06wkf": "Spy fiction"}
 15000 1
 a 30
 able 1

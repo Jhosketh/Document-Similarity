@@ -3,6 +3,7 @@
 /m/04q6_py
 
 1947
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 and 1
 as 4
 book 1

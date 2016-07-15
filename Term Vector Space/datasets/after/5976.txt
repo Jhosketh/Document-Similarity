@@ -3,6 +3,7 @@
 /m/0ctsfw
 Dean Koontz
 1987
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 14
 ability 1
 act 1

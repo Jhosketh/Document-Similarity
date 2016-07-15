@@ -3,6 +3,7 @@
 /m/0447gx
 Allen Drury
 1959-07-11
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 7424 1
 a 29
 about 3

@@ -3,6 +3,7 @@
 /m/01t7gp
 Douglas Coupland
 1998
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 1
 17 2
 a 7

@@ -3,6 +3,7 @@
 /m/08mpmd
 Charlotte Perkins Gilman
 1979-04
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/06ms6": "Sociology", "/m/0c082": "Utopian and dystopian fiction", "/m/02_w8": "Feminist science fiction"}
 2000 2
 a 21
 abortion 1

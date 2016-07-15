@@ -3,6 +3,7 @@
 /m/092rp8
 Mercedes Lackey
 1999
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 18 1
 a 21
 able 1

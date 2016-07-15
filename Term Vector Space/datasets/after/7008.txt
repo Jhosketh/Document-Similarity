@@ -3,6 +3,7 @@
 /m/0fdm57
 Robin Hobb
 1986-01-28
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 1
 aiding 1
 allows 1

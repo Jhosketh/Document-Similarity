@@ -3,6 +3,7 @@
 /m/02rd920
 Dornford Yates
 1945
+{"/m/012jgz": "Autobiographical novel", "/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 134 1
 a 4
 aas 1

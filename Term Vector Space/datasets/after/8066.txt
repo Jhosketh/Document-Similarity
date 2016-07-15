@@ -3,6 +3,7 @@
 /m/0266s9l
 Kingsley Amis
 1960
+{"/m/02yq81": "Comic novel", "/m/02xlf": "Fiction"}
 a 10
 accept 1
 acquaintance 1

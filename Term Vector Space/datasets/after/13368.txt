@@ -3,6 +3,7 @@
 /m/051y63b
 A. P. Herbert
 1934
+{"/m/022444": "Polemic", "/m/06nbt": "Satire"}
 a 12
 acquaintance 1
 act 1

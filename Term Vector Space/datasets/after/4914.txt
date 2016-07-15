@@ -3,6 +3,7 @@
 /m/09wdfj
 Mark Z. Danielewski
 2006-09-12
+{"/m/014dfn": "Speculative fiction", "/m/0488wh": "Literary fiction"}
 a 2
 after 1
 also 1

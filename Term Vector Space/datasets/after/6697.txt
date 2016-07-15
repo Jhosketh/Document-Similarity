@@ -3,6 +3,7 @@
 /m/0drfzm
 Jean Lorrah
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 accomplish 1
 against 1

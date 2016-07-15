@@ -3,6 +3,7 @@
 /m/07kjnc3
 Ronald Welch
 1954
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 10 1
 a 10
 about 1

@@ -3,6 +3,7 @@
 /m/043rtfg
 Gregory Keyes
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 and 2
 anne 2

@@ -3,6 +3,7 @@
 /m/04n4xv8
 Theodore Dreiser
 1911
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 adopts 1
 after 3

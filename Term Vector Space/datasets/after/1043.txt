@@ -3,6 +3,7 @@
 /m/026hxn
 Marion Zimmer Bradley
 1983-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 after 1
 alone 1

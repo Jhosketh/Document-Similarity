@@ -3,6 +3,7 @@
 /m/0263fwg
 Theodor Fontane
 1892
+{"/m/05hgj": "Novel"}
 a 5
 after 1
 all 1

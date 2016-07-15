@@ -3,6 +3,7 @@
 /m/07mn25
 Gary Gygax
 1981
+{"/m/06c9r": "Role-playing game", "/m/014dfn": "Speculative fiction"}
 a 14
 abyss 1
 adventure 1

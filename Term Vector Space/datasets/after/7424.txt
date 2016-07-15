@@ -3,6 +3,7 @@
 /m/0gc32p
 Steven Erikson
 2007-05-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 9
 about 1
 acting 1

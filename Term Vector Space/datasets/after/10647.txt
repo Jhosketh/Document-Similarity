@@ -3,6 +3,7 @@
 /m/02z8m_t
 Daniel Quinn
 1988-12-15
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 and 2
 asleep 2

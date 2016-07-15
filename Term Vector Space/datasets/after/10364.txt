@@ -3,6 +3,7 @@
 /m/02w48vp
 Rex Stout
 1964-10-22
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 138 1
 164 1
 26 2

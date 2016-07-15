@@ -3,6 +3,7 @@
 /m/02wv9hj
 Gillian Rubinstein
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 2 1
 a 12
 abduction 1

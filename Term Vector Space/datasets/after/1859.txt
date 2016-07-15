@@ -3,6 +3,7 @@
 /m/03rgnc
 Neal Stephenson
 1994-04-01
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 ability 1
 accused 1

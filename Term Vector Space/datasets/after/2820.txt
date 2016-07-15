@@ -3,6 +3,7 @@
 /m/05mzp5
 Anita Brookner
 1984-09-06
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 7
 aborted 1
 acceding 1

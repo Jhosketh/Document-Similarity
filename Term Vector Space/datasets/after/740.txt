@@ -3,6 +3,7 @@
 /m/01ns5b
 Roger Zelazny
 1986
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 amber 1
 an 1
 and 3

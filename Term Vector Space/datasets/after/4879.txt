@@ -3,6 +3,7 @@
 /m/09tkgj
 Anne Michaels
 1996
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 13 1
 154 1
 a 10

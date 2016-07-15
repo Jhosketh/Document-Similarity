@@ -3,6 +3,7 @@
 /m/0dhspn
 Gianrico Carofiglio
 2002
+{"/m/05hgj": "Novel"}
 a 16
 abbreviated 1
 abdou 1

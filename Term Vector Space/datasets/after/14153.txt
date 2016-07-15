@@ -3,6 +3,7 @@
 /m/0660wdy
 Desmond Bagley
 1973
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 3
 across 1
 adjust 1

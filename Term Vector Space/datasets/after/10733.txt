@@ -3,6 +3,7 @@
 /m/03c24p6
 Philip K. Dick
 1984
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 158 1
 162 1
 a 10

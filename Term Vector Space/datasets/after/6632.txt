@@ -3,6 +3,7 @@
 /m/0dnh1c
 Gregory Maguire
 2001-10-02
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 about 1
 along 1

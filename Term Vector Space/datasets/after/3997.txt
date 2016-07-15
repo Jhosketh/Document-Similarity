@@ -3,6 +3,7 @@
 /m/082fc5
 Lois Lenski
 1945
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 20th 1
 and 3
 animals 1

@@ -3,6 +3,7 @@
 /m/02nc32
 Hergé
 1938
+{"/m/01vnb": "Comic book"}
 a 18
 about 1
 action 1

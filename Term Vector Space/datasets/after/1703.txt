@@ -3,6 +3,7 @@
 /m/03gchj
 Flann O'Brien
 
+{"/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 able 1
 after 1

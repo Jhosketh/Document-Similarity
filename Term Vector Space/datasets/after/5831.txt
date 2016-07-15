@@ -3,6 +3,7 @@
 /m/0cl_b8
 R. L. Stine
 1993-12
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 100nbsplb 1
 a 44
 abandoned 1

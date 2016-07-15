@@ -3,6 +3,7 @@
 /m/04qbn4m
 Kevin J. Anderson
 2002-01-02
+{"/m/02twf_": "Fictional crossover", "/m/014dfn": "Speculative fiction", "/m/06www": "Steampunk", "/m/08sdrw": "Adventure novel"}
 a 13
 addition 1
 advances 1

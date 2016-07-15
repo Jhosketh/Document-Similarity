@@ -3,6 +3,7 @@
 /m/062_9b
 Thomas Mann
 1929
+{"/m/02xlf": "Fiction"}
 a 6
 an 1
 and 2

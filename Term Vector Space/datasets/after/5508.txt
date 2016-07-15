@@ -3,6 +3,7 @@
 /m/0b__j9
 Michael Jan Friedman
 1998-05
+{"/m/06n90": "Science Fiction"}
 a 9
 abilities 1
 acquired 1

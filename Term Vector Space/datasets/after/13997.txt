@@ -3,6 +3,7 @@
 /m/05zr4kk
 David Rees
 1978
+{"/m/098tmk": "War novel", "/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 a 8
 able 1
 accidentally 1

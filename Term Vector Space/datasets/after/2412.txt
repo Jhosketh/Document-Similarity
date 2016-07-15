@@ -3,6 +3,7 @@
 /m/04vjd5
 Brian Jacques
 1991
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 abbey 2
 after 4

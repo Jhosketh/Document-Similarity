@@ -3,6 +3,7 @@
 /m/0dj0_b
 Ian Rankin
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2012 1
 77 1
 a 14

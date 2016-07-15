@@ -3,6 +3,7 @@
 /m/0g56wp
 Donald Hamilton
 1977
+{"/m/06wkf": "Spy fiction"}
 a 1
 alive 1
 amnesia 1

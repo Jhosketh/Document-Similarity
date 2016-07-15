@@ -3,6 +3,7 @@
 /m/0djyc4
 Philip Roth
 1977
+{"/m/05hgj": "Novel"}
 341 1
 a 9
 about 2

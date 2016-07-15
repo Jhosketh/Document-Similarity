@@ -3,6 +3,7 @@
 /m/09k1l5
 Dan Cragg
 2004
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 1
 advised 1
 against 1

@@ -3,6 +3,7 @@
 /m/088s9b
 Barbara Gowdy
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 acknowledges 1
 adopted 2

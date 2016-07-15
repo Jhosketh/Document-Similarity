@@ -3,6 +3,7 @@
 /m/097qh2
 Samuel Beckett
 1951
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 34voice34 1
 a 21
 abandons 1

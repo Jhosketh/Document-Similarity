@@ -3,6 +3,7 @@
 /m/0479trl
 Philippa Gregory
 2008
+{"/m/05hgj": "Novel"}
 1603 1
 a 4
 acknowledged 1

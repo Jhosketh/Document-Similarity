@@ -3,6 +3,7 @@
 /m/03hgrp
 Jean Rhys
 1966-10
+{"/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/0fr3y1": "Parallel novel"}
 1833 1
 a 3
 added 1

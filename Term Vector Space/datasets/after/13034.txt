@@ -3,6 +3,7 @@
 /m/04q0pzn
 Patrick Hamilton
 1947
+{"/m/05hgj": "Novel"}
 143 1
 a 12
 after 1

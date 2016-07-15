@@ -3,6 +3,7 @@
 /m/04q9qdx
 Amitav Ghosh
 2008-10-14
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 17
 acceptable 1
 addict 1

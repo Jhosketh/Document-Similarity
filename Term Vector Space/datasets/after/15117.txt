@@ -3,6 +3,7 @@
 /m/0bmch36
 Raphael Selbourne
 2009
+{"/m/0488wh": "Literary fiction"}
 a 7
 abused 1
 according 1

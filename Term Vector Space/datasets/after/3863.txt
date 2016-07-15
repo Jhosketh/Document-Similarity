@@ -3,6 +3,7 @@
 /m/07vk0n
 John Maxwell Coetzee
 1980-10-27
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 17
 abandon 1
 acquires 1

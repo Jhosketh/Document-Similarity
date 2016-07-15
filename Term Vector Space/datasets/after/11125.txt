@@ -3,6 +3,7 @@
 /m/03czbyd
 Edgar Rice Burroughs
 1925-10-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 100000 1
 a 1
 africa 1

@@ -3,6 +3,7 @@
 /m/0fx0tj
 Haruki Murakami
 2007-05
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1yearold 1
 a 11
 after 1

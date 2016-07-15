@@ -3,6 +3,7 @@
 /m/02qhvpv
 Bell Hooks
 2001
+{"/m/037mh8": "Philosophy", "/m/05h83": "Non-fiction"}
 a 8
 above 1
 acknowledge 1

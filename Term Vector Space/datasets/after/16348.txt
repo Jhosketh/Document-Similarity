@@ -3,6 +3,7 @@
 /m/0h96cz_
 Tyra Banks
 2011-09-13
+{"/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction", "/m/03mfnf": "Young adult literature"}
 47 1
 a 4
 albino 1

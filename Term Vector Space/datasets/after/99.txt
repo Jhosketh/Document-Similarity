@@ -3,6 +3,7 @@
 /m/07s0_
 William Golding
 1954
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 31
 abandon 1
 abode 1

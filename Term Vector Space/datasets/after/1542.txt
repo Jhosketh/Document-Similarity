@@ -3,6 +3,7 @@
 /m/035pks
 Garth Nix
 1990
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 action 1
 after 1

@@ -3,6 +3,7 @@
 /m/04f_clj
 Harold Lamb
 1981
+{"/m/01hmnh": "Fantasy"}
 a 2
 and 1
 betrayed 1

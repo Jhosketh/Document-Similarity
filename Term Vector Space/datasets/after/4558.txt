@@ -3,6 +3,7 @@
 /m/097b4g
 Knut Hamsun
 1892
+{"/m/02xlf": "Fiction"}
 a 1
 an 1
 and 2

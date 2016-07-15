@@ -3,6 +3,7 @@
 /m/0b6hmrt
 Michael Connelly
 2010-10-05
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 12yearold 1
 186 1
 a 21

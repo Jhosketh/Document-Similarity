@@ -3,6 +3,7 @@
 /m/0266hzs
 Tom Holt
 1987
+{"/m/06nbt": "Satire", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy"}
 a 7
 ability 1
 actually 1

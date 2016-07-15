@@ -3,6 +3,7 @@
 /m/0f94_9
 Philip K. Dick
 2007
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150s 1
 a 7
 acceptance 1

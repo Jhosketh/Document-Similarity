@@ -3,6 +3,7 @@
 /m/07065_
 Enid Blyton
 1939-05
+{"/m/01hmnh": "Fantasy"}
 adventures 1
 also 1
 an 1

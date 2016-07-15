@@ -3,6 +3,7 @@
 /m/04jdhkl
 James Patterson
 2009-03-16
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 114000 1
 60 1
 a 28

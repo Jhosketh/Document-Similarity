@@ -3,6 +3,7 @@
 /m/07q_xl
 Terry Brooks
 2004-08-31
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 advance 1
 advisor 1

@@ -3,6 +3,7 @@
 /m/026w3x6
 Marjorie Kinnan Rawlings
 1938
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1th 1
 a 12
 about 2

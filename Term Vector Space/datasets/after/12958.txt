@@ -3,6 +3,7 @@
 /m/04n4yfj
 Glen Cook
 2008-05
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy"}
 a 11
 about 1
 above 1

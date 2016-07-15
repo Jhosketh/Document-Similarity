@@ -3,6 +3,7 @@
 /m/05my08
 Tad Williams
 1985-11-21
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 18
 about 1
 above 1

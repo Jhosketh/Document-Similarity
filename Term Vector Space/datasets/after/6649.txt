@@ -3,6 +3,7 @@
 /m/0dpgn7
 Barbara Mertz
 1992
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 a 6
 abduction 1
 abdullah 1

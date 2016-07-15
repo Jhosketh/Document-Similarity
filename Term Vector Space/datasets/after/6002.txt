@@ -3,6 +3,7 @@
 /m/0cvcz2
 Dean Koontz
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense"}
 24 1
 a 20
 advice 1

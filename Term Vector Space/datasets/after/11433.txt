@@ -3,6 +3,7 @@
 /m/03h3cc8
 Desmond Bagley
 1977
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 7
 about 1
 acid 1

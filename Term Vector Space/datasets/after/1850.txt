@@ -3,6 +3,7 @@
 /m/03qzlv
 Nathaniel Hawthorne
 1835
+{"/m/0707q": "Short story", "/m/02xlf": "Fiction"}
 a 10
 about 1
 accepts 1

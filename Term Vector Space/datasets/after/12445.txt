@@ -3,6 +3,7 @@
 /m/047r76j
 Gary Paulsen
 1993-10-29
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 5
 about 1
 according 1

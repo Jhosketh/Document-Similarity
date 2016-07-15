@@ -54,6 +54,7 @@ void Book::printToExternal(std::ofstream &os) {
     os << title << std::endl;
     os << author << std::endl;
     os << publicationDate << std::endl;
+    os << genres << std::endl;
     std::map<std::string, int>::iterator it;
     for (it=vectorSpace.begin(); it!=vectorSpace.end(); ++it) {
         os << it->first << " " << it->second << std::endl;

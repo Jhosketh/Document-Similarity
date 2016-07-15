@@ -3,6 +3,7 @@
 /m/0bjfzk
 Toni Morrison
 1981-03-12
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 affair 2
 americans 2

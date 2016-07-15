@@ -3,6 +3,7 @@
 /m/047rn6c
 Magnus Mills
 1999-09-20
+{"/m/0q9mp": "Tragicomedy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 agrees 1
 and 3

@@ -3,6 +3,7 @@
 /m/03h3_wx
 Mercedes Lackey
 2007
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 18
 able 7
 adamant 1

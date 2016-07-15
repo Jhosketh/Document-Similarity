@@ -3,6 +3,7 @@
 /m/01hq09
 Roald Dahl
 1982
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 20
 able 1
 about 1

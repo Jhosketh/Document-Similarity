@@ -3,6 +3,7 @@
 /m/02863v2
 Geraldine Brooks
 2001-08-06
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 103d 1
 128th 1
 24 1

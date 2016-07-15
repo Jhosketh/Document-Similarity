@@ -3,6 +3,7 @@
 /m/0279x3v
 Mercedes Lackey
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 20
 after 3
 against 1

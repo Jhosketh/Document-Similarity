@@ -3,6 +3,7 @@
 /m/06zsfzw
 Jack Du Brul
 1998
+{"/m/017rf8": "Techno-thriller", "/m/08sdrw": "Adventure novel"}
 a 4
 against 2
 an 1

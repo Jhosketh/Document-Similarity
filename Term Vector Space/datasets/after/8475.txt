@@ -3,6 +3,7 @@
 /m/0272_sx
 Anthony Horowitz
 1986
+{"/m/0dwly": "Children's literature", "/m/01z4y": "Comedy"}
 100 1
 101 1
 135nbspkg 1

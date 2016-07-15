@@ -3,6 +3,7 @@
 /m/0364tc
 Naguib Mahfouz
 
+{"/m/03g3w": "History", "/m/05hgj": "Novel"}
 a 5
 adds 1
 akhenaten 4

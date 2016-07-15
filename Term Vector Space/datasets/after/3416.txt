@@ -3,6 +3,7 @@
 /m/06y888
 Patrick McCabe
 1998-05-25
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160s 1
 170s 1
 a 6

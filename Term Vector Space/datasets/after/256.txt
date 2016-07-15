@@ -3,6 +3,7 @@
 /m/0h4ld
 Stephen King
 1997-11-04
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 180s 1
 2003 1
 215 1

@@ -3,6 +3,7 @@
 /m/0bg_5y
 P. G. Wodehouse
 1954-10-15
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 anatole 1
 and 1
 at 1

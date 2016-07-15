@@ -3,6 +3,7 @@
 /m/0cvd04
 Dean Koontz
 1999
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0c3351": "Suspense"}
 a 10
 actually 1
 afraid 2

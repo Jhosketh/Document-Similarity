@@ -3,6 +3,7 @@
 /m/0987ls
 Maeve Binchy
 1998-08-28
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2005 1
 a 5
 about 1

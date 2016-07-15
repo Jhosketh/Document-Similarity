@@ -3,6 +3,7 @@
 /m/05bpb8
 Philip K. Dick
 1975
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 15 1
 23 1
 a 8

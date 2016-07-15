@@ -3,6 +3,7 @@
 /m/047f0tx
 Robert B. Parker
 2002
+{"/m/014dfn": "Speculative fiction"}
 a 2
 against 1
 although 1

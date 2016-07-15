@@ -3,6 +3,7 @@
 /m/0cmd73q
 Wilbur A. Smith
 2008
+{"/m/014dfn": "Speculative fiction"}
 a 3
 accompanying 1
 acquires 1

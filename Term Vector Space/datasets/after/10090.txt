@@ -3,6 +3,7 @@
 /m/02rrzsp
 Zane Grey
 1921
+{"/m/0hfjk": "Western", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 24 1
 a 10
 after 1

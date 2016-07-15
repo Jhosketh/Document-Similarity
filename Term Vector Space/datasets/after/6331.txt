@@ -3,6 +3,7 @@
 /m/0dbcvy
 Paul Scott
 1975-05-05
+{"/m/03g3w": "History", "/m/05hgj": "Novel"}
 1478 1
 a 6
 ahmed 1

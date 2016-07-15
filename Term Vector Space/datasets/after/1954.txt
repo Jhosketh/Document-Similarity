@@ -3,6 +3,7 @@
 /m/03yw40
 Edwin O'Connor
 1956
+{"/m/017fp": "Biography", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 72 1
 a 17
 abilities 1

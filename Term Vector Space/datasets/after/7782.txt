@@ -3,6 +3,7 @@
 /m/0h65hf
 Walter Scott
 1821-12
+{"/m/0hwxm": "Historical novel"}
 a 31
 abandoned 1
 aberration 1

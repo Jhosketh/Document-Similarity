@@ -3,6 +3,7 @@
 /m/0dq5s_
 David Weber
 1991-10
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 50000 1
 55000 1
 a 24

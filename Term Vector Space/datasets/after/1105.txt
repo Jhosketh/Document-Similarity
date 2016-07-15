@@ -3,6 +3,7 @@
 /m/02cjbw
 Edward Abbey
 1975-08-01
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 21stcentury 1
 a 14
 abbey 6

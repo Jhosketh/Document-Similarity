@@ -3,6 +3,7 @@
 /m/026h2d_
 Lois Lowry
 
+{"/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature"}
 8yearold 1
 a 37
 ability 1

@@ -3,6 +3,7 @@
 /m/078fd1
 John le Carré
 2001-01-04
+{"/m/01jfsb": "Thriller"}
 a 11
 activist 2
 africa 2

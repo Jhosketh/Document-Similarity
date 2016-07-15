@@ -3,6 +3,7 @@
 /m/026x9s9
 Maj Sjöwall
 1975
+{"/m/0lsxr": "Crime Fiction"}
 a 7
 accused 1
 africa 1

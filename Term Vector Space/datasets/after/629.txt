@@ -3,6 +3,7 @@
 /m/01g097
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0d6gr": "Reference", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 acquitted 1
 adding 1

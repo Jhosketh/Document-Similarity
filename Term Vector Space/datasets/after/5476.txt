@@ -3,6 +3,7 @@
 /m/0bz342
 Steven Barnes
 
+{"/m/06n90": "Science Fiction"}
 a 10
 all 1
 allow 1

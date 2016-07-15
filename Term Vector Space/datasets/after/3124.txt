@@ -3,6 +3,7 @@
 /m/069dtc
 Shirley Jackson
 1959
+{"/m/039vk": "Gothic fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 12
 ability 1
 about 1

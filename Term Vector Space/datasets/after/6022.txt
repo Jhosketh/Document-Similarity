@@ -3,6 +3,7 @@
 /m/0cvwxb
 Robert Harris
 
+{"/m/01jfsb": "Thriller", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 14
 absent 1
 academic 1

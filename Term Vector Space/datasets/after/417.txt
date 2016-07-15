@@ -3,6 +3,7 @@
 /m/013499
 E. M. Forster
 1905
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 175 1
 186 1
 21 1

@@ -3,6 +3,7 @@
 /m/026xv39
 Edward Bloor
 1997
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 2
 2012 2
 2134 1

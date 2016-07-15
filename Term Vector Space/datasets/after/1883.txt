@@ -3,6 +3,7 @@
 /m/03t60t
 Anthony Powell
 1960
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 136 2
 137 1
 a 2

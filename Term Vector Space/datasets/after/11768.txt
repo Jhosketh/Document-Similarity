@@ -3,6 +3,7 @@
 /m/03wc8h_
 Chris Wooding
 2006
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 9
 about 1
 after 1

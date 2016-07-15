@@ -3,6 +3,7 @@
 /m/03t92t
 Robert Silverberg
 1970
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 4
 administrator 1
 after 1

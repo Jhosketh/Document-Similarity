@@ -3,6 +3,7 @@
 /m/08zwwz
 Stephen R. Donaldson
 1977
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 4 1
 a 26
 able 2

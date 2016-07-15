@@ -3,6 +3,7 @@
 /m/06709h
 William Nicholson
 2002
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 8 1
 a 6
 action 1

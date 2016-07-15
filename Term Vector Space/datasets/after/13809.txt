@@ -3,6 +3,7 @@
 /m/05c37mt
 P. C. Cast
 2009-09-03
+{"/m/03npn": "Horror", "/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/072lff": "Paranormal romance"}
 a 9
 abbey 1
 accepts 2

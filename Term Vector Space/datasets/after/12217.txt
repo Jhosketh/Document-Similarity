@@ -3,6 +3,7 @@
 /m/047rr57
 Dave Wolverton
 2007-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/03qfd": "High fantasy"}
 a 10
 accept 1
 accepts 1

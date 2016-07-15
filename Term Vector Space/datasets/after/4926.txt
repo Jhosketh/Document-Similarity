@@ -3,6 +3,7 @@
 /m/09xd23
 Alfred Bertram Guthrie, Jr.
 1949
+{"/m/025txgl": "Western fiction", "/m/0hfjk": "Western"}
 a 2
 accidents 1
 after 1

@@ -3,6 +3,7 @@
 /m/0f8n1n
 Buchi Emecheta
 1976
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 accept 1
 after 1

@@ -3,6 +3,7 @@
 /m/0glpp
 Fannie Hurst
 1933
+{"/m/05hgj": "Novel"}
 110s 1
 20thcentury 1
 a 17

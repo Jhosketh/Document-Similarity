@@ -3,6 +3,7 @@
 /m/04yk43
 Brian Jacques
 1992
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 36 1
 a 26
 abbey 10

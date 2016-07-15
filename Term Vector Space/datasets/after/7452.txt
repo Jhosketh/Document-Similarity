@@ -3,6 +3,7 @@
 /m/0ggnrb
 Irvine Welsh
 2006
+{"/m/05hgj": "Novel"}
 a 9
 accrue 1
 after 1

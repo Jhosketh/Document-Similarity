@@ -3,6 +3,7 @@
 /m/0fzv5
 Lucy Maud Montgomery
 1908-06
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel"}
 a 12
 about 3
 academy 1

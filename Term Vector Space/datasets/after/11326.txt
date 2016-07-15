@@ -3,6 +3,7 @@
 /m/03gx67z
 Anthony Horowitz
 2008-10-30
+{"/m/01jfsb": "Thriller", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 45
 abates 1
 ability 1

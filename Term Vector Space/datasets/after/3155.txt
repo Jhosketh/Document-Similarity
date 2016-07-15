@@ -3,6 +3,7 @@
 /m/06czmg
 Philip Roth
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 34highbrow 1
 34sucks 1
 34tricky 1

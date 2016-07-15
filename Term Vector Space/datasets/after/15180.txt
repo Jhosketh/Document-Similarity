@@ -3,6 +3,7 @@
 /m/0bwfvqt
 Maurice Sendak
 1981
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 a 2
 absorbed 1
 adventure 1

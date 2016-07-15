@@ -3,6 +3,7 @@
 /m/01hgw7
 Roger Zelazny
 1970-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 31
 about 2
 accident 1

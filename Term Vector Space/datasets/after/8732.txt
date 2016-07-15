@@ -3,6 +3,7 @@
 /m/027kh2t
 Colleen McCullough
 1998
+{"/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 54 1
 a 1
 acceptance 1

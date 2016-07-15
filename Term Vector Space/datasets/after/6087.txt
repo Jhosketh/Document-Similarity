@@ -3,6 +3,7 @@
 /m/0c_5dl
 Barbara Mertz
 1986
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 1856 1
 a 11
 almost 1

@@ -3,6 +3,7 @@
 /m/03n8dh
 Robert Ludlum
 1986-02-11
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 71 2
 a 15
 abduct 2

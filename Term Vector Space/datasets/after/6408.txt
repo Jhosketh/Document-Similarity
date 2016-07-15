@@ -3,6 +3,7 @@
 /m/0df7ht
 Simon A. Forward
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 3
 also 1
 are 1

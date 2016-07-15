@@ -3,6 +3,7 @@
 /m/0cp_ng
 David Gerrold
 1971
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 13
 able 1
 actually 1

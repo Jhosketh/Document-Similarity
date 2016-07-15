@@ -3,6 +3,7 @@
 /m/0fqczd
 C. J. Cherryh
 1992
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 accidentally 1
 accompany 1

@@ -3,6 +3,7 @@
 /m/0fb8t1
 Cheryl Kaye Tardif
 2010
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 advertising 1
 after 1

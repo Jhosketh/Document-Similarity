@@ -3,6 +3,7 @@
 /m/02rw4nb
 P. G. Wodehouse
 1966-10
+{"/m/0707q": "Short story"}
 a 5
 about 1
 age 1

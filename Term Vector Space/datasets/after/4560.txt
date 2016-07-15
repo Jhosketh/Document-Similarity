@@ -3,6 +3,7 @@
 /m/097l2x
 Henry James
 1875-11-20
+{"/m/05hgj": "Novel"}
 a 21
 about 2
 accepted 1

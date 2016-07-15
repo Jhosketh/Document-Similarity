@@ -3,6 +3,7 @@
 /m/0c9c5w
 James Thurber
 
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 4
 about 1
 and 4

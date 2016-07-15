@@ -3,6 +3,7 @@
 /m/05mzw73
 Emily Giffin
 2005-03-10
+{"/m/03h09f": "Chick lit", "/m/02yq81": "Comic novel", "/m/01qxvh": "Romance novel"}
 a 3
 affair 1
 after 2

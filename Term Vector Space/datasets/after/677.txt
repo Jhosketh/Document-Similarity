@@ -3,6 +3,7 @@
 /m/01jbvd
 Stephen King
 1981-09-08
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 10
 abandons 1
 able 1

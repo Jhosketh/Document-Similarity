@@ -3,6 +3,7 @@
 /m/0c_by7
 Judy Blume
 1970
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 a 5
 about 3
 accuse 1

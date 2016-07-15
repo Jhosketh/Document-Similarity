@@ -3,6 +3,7 @@
 /m/0g58ls
 Donald Hamilton
 1984
+{"/m/06wkf": "Spy fiction"}
 a 2
 american 1
 assassin 1

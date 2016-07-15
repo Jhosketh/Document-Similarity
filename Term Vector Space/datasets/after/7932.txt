@@ -3,6 +3,7 @@
 /m/025_gd2
 Allegra Goodman
 1998-08-10
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 176 1
 178 1
 a 14

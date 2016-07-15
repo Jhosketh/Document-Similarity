@@ -3,6 +3,7 @@
 /m/025vcn8
 Hilari Bell
 2001-09-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 1
 after 1
 ahvren 3

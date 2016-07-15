@@ -3,6 +3,7 @@
 /m/022g62
 Selma Lagerlöf
 1906
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 53 1
 a 15
 ability 1

@@ -3,6 +3,7 @@
 /m/02041g
 Michael Crichton
 2002-11-25
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/017rf8": "Techno-thriller", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 34
 aberrant 1
 ability 1

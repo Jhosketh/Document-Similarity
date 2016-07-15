@@ -3,6 +3,7 @@
 /m/0g59vg
 L. E. Modesitt, Jr.
 2004
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 5
 able 1
 abuses 1

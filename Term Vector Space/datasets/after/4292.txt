@@ -3,6 +3,7 @@
 /m/08qlg1
 Vladimir Vladimirovich Nabokov
 
+{"/m/05hgj": "Novel"}
 a 7
 absurdity 1
 all 1

@@ -3,6 +3,7 @@
 /m/03hdsk
 Richard Hughes
 1929
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1837 1
 a 18
 abandoned 1

@@ -3,6 +3,7 @@
 /m/02r45ws
 Samuel R. Delany
 2007
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 30 1
 52 1
 68 1

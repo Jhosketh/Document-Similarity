@@ -3,6 +3,7 @@
 /m/02lp3r
 P. G. Wodehouse
 1915-09-16
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 1000 1
 4th 1
 500 1

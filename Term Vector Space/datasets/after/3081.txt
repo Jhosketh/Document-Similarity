@@ -3,6 +3,7 @@
 /m/0662pn
 Charles Bukowski
 1982-09-01
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 a 3
 abusive 1
 acne 1

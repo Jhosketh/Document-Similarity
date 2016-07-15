@@ -3,6 +3,7 @@
 /m/0gd5k
 Rudyard Kipling
 1901
+{"/m/06wkf": "Spy fiction", "/m/05hgj": "Novel", "/m/0g_jj": "Picaresque novel"}
 1th 1
 a 18
 about 1

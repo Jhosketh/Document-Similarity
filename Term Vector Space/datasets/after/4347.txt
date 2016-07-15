@@ -3,6 +3,7 @@
 /m/02p744t
 Jerry B. Jenkins
 
+{"/m/05hgj": "Novel", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 accepting 1
 acts 1

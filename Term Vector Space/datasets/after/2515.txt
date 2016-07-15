@@ -3,6 +3,7 @@
 /m/04_mpl
 Steven Erikson
 2006-03-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 about 1
 adjunct 1

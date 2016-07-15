@@ -3,6 +3,7 @@
 /m/02pn2fb
 Lee Child
 2004-05-11
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 18
 about 1
 across 1

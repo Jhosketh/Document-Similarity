@@ -3,6 +3,7 @@
 /m/0dh1ly
 V. C. Andrews
 1986
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 38
 abandonment 1
 about 3

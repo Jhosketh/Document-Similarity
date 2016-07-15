@@ -3,6 +3,7 @@
 /m/0285hpv
 Michael Dibdin
 1988-04-05
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 5
 aldo 1
 and 7

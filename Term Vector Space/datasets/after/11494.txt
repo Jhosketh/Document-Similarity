@@ -3,6 +3,7 @@
 /m/047gpqx
 Jim Butcher
 2006-05-02
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 40 1
 a 30
 abide 1

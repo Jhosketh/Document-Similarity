@@ -3,6 +3,7 @@
 /m/027ggzp
 Georgette Heyer
 
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/03xwcv": "Regency romance"}
 1818 1
 a 7
 able 1

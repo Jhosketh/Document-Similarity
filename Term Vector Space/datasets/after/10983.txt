@@ -3,6 +3,7 @@
 /m/03clw6z
 Evan Hunter
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 description62 1
 outline 1
 plot 1

@@ -3,6 +3,7 @@
 /m/0bhl0r
 P. G. Wodehouse
 1961-10-15
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 1000 2
 2000 1
 3000 1

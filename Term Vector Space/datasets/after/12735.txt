@@ -3,6 +3,7 @@
 /m/0lj5
 Agatha Christie
 1939-11-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1 1
 100 1
 13 1

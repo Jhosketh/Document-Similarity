@@ -3,6 +3,7 @@
 /m/09wrs0
 Conn Iggulden
 2003-01-06
+{"/m/0mz2": "Alternate history", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 4
 also 1
 ancient 1

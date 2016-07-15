@@ -3,6 +3,7 @@
 /m/0224pt
 Kurt Vonnegut
 1965
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 35 1
 a 6
 across 2

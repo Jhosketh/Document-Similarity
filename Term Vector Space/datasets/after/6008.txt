@@ -3,6 +3,7 @@
 /m/0cvdb4
 Dean Koontz
 2006-11-28
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/059r08": "Psychological novel"}
 a 16
 abbey 6
 able 2

@@ -3,6 +3,7 @@
 /m/04f00ch
 S. M. Stirling
 1989
+{"/m/0mz2": "Alternate history", "/m/05hgj": "Novel", "/m/026ny": "Dystopia"}
 a 5
 after 1
 agent 1

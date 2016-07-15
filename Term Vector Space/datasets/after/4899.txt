@@ -3,6 +3,7 @@
 /m/09vhjk
 Frederick Forsyth
 1974
+{"/m/02n4kr": "Mystery", "/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 10000 1
 100000 1
 170 1

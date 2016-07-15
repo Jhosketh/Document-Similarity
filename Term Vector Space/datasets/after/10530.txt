@@ -3,6 +3,7 @@
 /m/02x8321
 Peter Straub
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 155 1
 175 1
 21 1

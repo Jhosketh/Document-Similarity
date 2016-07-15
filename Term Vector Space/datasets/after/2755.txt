@@ -3,6 +3,7 @@
 /m/05hx_s
 Doris Lessing
 1950
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 23
 about 4
 acts 1

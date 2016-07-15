@@ -3,6 +3,7 @@
 /m/03ckdz
 Harry Kemelman
 1964
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 1
 and 1
 been 2

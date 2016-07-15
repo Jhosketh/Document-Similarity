@@ -3,6 +3,7 @@
 /m/011k8y
 Douglas Adams
 1988-10-10
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/06mq7": "Science", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/01z4y": "Comedy", "/m/02yq81": "Comic novel", "/m/02xlf": "Fiction"}
 a 3
 able 1
 about 1

@@ -3,6 +3,7 @@
 /m/026184q
 Orhan Pamuk
 1985
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 184 1
 185 1
 a 21

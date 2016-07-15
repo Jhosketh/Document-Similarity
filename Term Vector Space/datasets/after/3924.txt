@@ -3,6 +3,7 @@
 /m/07yj_f
 Kate Tremayne
 2005-06-06
+{"/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 3
 abandon 1
 abi 1

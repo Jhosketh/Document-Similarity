@@ -3,6 +3,7 @@
 /m/04jff0b
 Mario Vargas Llosa
 1997-02-01
+{"/m/05hgj": "Novel"}
 a 1
 death 1
 even 1

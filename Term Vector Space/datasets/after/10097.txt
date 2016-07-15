@@ -3,6 +3,7 @@
 /m/02rsd3x
 Katherine Mansfield
 2007
+{"/m/0707q": "Short story"}
 a 6
 again 1
 and 8

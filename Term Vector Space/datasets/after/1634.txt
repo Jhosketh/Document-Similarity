@@ -3,6 +3,7 @@
 /m/03cf4h
 Virginia Woolf
 1927-05-05
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 able 1
 about 1

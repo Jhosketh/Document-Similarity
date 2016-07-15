@@ -3,6 +3,7 @@
 /m/0fqd6r
 D. M. Cornish
 2006
+{"/m/01hmnh": "Fantasy", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 32
 accepting 1
 accompanied 1

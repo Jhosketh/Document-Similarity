@@ -3,6 +3,7 @@
 /m/0gkqy9
 Gael Baudino
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1400 1
 a 3
 about 1

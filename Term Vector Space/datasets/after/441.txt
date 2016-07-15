@@ -3,6 +3,7 @@
 /m/014hhs
 Dorothy L. Sayers
 1932
+{"/m/02n4kr": "Mystery", "/m/0174gw": "Locked room mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 acquittal 1
 after 1

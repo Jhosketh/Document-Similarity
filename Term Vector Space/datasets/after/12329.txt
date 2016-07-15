@@ -3,6 +3,7 @@
 /m/047g0dg
 Brian Keene
 2007
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 1
 after 2
 an 1

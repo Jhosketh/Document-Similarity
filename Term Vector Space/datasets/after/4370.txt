@@ -3,6 +3,7 @@
 /m/08w_6x
 Diana Gabaldon
 1992-07-01
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 1745 1
 a 4
 abandoned 1

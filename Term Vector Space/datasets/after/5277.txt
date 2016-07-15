@@ -3,6 +3,7 @@
 /m/0bk32q
 Piers Anthony
 1993-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 3d 1
 a 18
 accompanies 1

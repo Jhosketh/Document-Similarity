@@ -3,6 +3,7 @@
 /m/02r4x6x
 Michael Reaves
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 agendas 1
 an 3
 and 1

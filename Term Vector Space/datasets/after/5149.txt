@@ -3,6 +3,7 @@
 /m/0bbb1c
 Scott Ciencin
 2002-08-01
+{"/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 3
 across 1
 an 1

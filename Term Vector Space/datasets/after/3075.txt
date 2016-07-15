@@ -3,6 +3,7 @@
 /m/065r94
 Rob Grant
 2003
+{"/m/06n90": "Science Fiction", "/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction"}
 a 7
 able 1
 activates 1

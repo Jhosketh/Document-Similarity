@@ -3,6 +3,7 @@
 /m/03c27dy
 Philip Pullman
 
+{"/m/01hmnh": "Fantasy", "/m/0707q": "Short story"}
 24 1
 a 44
 able 1

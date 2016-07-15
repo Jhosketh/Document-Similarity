@@ -3,6 +3,7 @@
 /m/07k99sz
 Lauren Groff
 2008
+{"/m/014dfn": "Speculative fiction", "/m/07s9rl0": "Drama", "/m/02xlf": "Fiction"}
 a 2
 about 5
 acquaintance 1

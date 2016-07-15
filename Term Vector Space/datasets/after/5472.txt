@@ -3,6 +3,7 @@
 /m/0bysq3
 Lois Duncan
 1985-04
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 1th 1
 a 3
 about 2

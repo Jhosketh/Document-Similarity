@@ -3,6 +3,7 @@
 /m/080jb2
 Darren Shan
 2005
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror"}
 a 10
 able 1
 about 2

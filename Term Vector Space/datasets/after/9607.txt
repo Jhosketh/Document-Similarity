@@ -3,6 +3,7 @@
 /m/02qmfl3
 Cornell Woolrich
 1942
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 1
 accused 1
 alibi 1

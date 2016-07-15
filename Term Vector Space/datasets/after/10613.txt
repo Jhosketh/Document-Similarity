@@ -3,6 +3,7 @@
 /m/02z51kb
 Valerio Evangelisti
 2001
+{"/m/035qb4": "Historical fantasy", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 136 1
 a 5
 against 1

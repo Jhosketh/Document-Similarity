@@ -3,6 +3,7 @@
 /m/042qmf
 Franz Werfel
 1933
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel", "/m/0hwxm": "Historical novel"}
 108 2
 112 1
 115 3

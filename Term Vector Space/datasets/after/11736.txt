@@ -3,6 +3,7 @@
 /m/03qnvtb
 David Drake
 1998-01-01
+{"/m/03qfd": "High fantasy", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 a 36
 admiral 5
 after 2

@@ -3,6 +3,7 @@
 /m/02vmj68
 Richard P. Powell
 1959
+{"/m/06nbt": "Satire"}
 a 8
 adopted 1
 aid 1

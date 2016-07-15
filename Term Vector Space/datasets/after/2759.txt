@@ -3,6 +3,7 @@
 /m/05j8ln
 Agatha Christie
 
+{"/m/0463v20": "Cozy", "/m/0lsxr": "Crime Fiction"}
 160s 1
 20 1
 21 1

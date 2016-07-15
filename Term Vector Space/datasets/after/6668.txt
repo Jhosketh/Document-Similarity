@@ -3,6 +3,7 @@
 /m/0dq09y
 Mori Ogai
 
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 5
 about 1
 aging 1

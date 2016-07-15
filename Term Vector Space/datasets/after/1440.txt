@@ -3,6 +3,7 @@
 /m/02p2sc9
 Patrick O'Brian
 1973
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 74gun 1
 a 21
 able 1

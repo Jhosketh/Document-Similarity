@@ -3,6 +3,7 @@
 /m/02z9dsr
 Diana Gabaldon
 2004
+{"/m/0l67h": "Novella", "/m/0hwxm": "Historical novel"}
 a 3
 and 1
 at 3

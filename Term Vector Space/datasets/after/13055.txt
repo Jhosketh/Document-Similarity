@@ -3,6 +3,7 @@
 /m/04q6z1p
 Marion Zimmer Bradley
 1970
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 1
 ancestral 1
 bandit 1

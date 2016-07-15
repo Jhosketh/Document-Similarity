@@ -3,6 +3,7 @@
 /m/03qjh54
 Victor Appleton
 1910
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 500 1
 a 3
 adjustments 1

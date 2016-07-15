@@ -3,6 +3,7 @@
 /m/09bst8
 Anne Rice
 1979
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1840s 1
 a 13
 able 1

@@ -3,6 +3,7 @@
 /m/03dxc_
 Charles Dickens
 1840
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 1
 13 1
 1824 1

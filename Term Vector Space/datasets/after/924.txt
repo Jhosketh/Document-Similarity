@@ -3,6 +3,7 @@
 /m/01_54z
 William S. Burroughs
 
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 5
 ability 1
 agent 3

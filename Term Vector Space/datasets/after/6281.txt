@@ -3,6 +3,7 @@
 /m/0d7x4q
 James Baldwin
 1974-06-17
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 1
 22 1
 a 6

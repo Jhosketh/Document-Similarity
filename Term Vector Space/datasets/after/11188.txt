@@ -3,6 +3,7 @@
 /m/03d3fq7
 Lin Carter
 1973-07
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 16 1
 3000 1
 a 34

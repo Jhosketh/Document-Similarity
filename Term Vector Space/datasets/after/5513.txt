@@ -3,6 +3,7 @@
 /m/0c05kz
 R. K. Narayan
 1938
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 about 1
 affair 1

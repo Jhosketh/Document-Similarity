@@ -3,6 +3,7 @@
 /m/0lcgx
 Baroness Emma Orczy
 1905
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 172 1
 a 11
 about 1

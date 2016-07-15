@@ -3,6 +3,7 @@
 /m/0gw4h8
 Carolyn Keene
 1946
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0dwly": "Children's literature"}
 a 4
 and 3
 bell 1

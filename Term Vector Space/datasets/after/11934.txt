@@ -3,6 +3,7 @@
 /m/047gqpp
 Raymond E. Feist
 
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1 1
 5th 1
 8 1

@@ -3,6 +3,7 @@
 /m/065znyl
 Desmond Bagley
 1969
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 1
 an 3
 and 1

@@ -3,6 +3,7 @@
 /m/02qlmr3
 Herman Wouk
 
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 156 1
 167 1
 a 9

@@ -3,6 +3,7 @@
 /m/03hgx5v
 Laurell K. Hamilton
 2007-10-23
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 3rd 1
 a 15
 abe 2

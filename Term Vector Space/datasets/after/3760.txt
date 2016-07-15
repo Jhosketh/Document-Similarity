@@ -3,6 +3,7 @@
 /m/07m162
 Christopher Priest
 1995
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 16
 acclaimed 1
 act 6

@@ -3,6 +3,7 @@
 /m/03cscss
 Kim Newman
 1995
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 1
 allan 1
 also 1

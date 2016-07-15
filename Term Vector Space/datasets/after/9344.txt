@@ -3,6 +3,7 @@
 /m/02py7ck
 Laurell K. Hamilton
 2007-06-05
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 16 1
 a 8
 abandon 1

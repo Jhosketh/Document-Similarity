@@ -3,6 +3,7 @@
 /m/06y80y
 Patrick McCabe
 1992-04
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 22
 abattoir 2
 ability 1

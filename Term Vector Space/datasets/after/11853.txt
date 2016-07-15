@@ -3,6 +3,7 @@
 /m/03wj0jx
 
 1987
+{"/m/01jfsb": "Thriller", "/m/0mz2": "Alternate history", "/m/0hwxm": "Historical novel"}
 a 16
 above 2
 across 1

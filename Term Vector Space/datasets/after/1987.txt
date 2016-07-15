@@ -3,6 +3,7 @@
 /m/03__83
 Edgar Rice Burroughs
 1917
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/04chq5": "Planetary romance", "/m/07ps83": "Sword and planet", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 affairs 1
 afoul 1

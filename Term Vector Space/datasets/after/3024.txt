@@ -3,6 +3,7 @@
 /m/0631x8
 Anne Rice
 2001-10-16
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 50 1
 a 51
 abducted 1

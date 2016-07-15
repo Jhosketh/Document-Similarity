@@ -3,6 +3,7 @@
 /m/02vtpjd
 Shannon Hale
 2006-09-05
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 14
 accepts 1
 after 6

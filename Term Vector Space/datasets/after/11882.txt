@@ -3,6 +3,7 @@
 /m/03y7r41
 Jules Verne
 1882
+{"/m/08sdrw": "Adventure novel"}
 a 2
 acceding 1
 aka 1

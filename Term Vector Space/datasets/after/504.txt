@@ -3,6 +3,7 @@
 /m/016ljn
 Nancy Mitford
 1945
+{"/m/0xdf": "Autobiography", "/m/02xlf": "Fiction"}
 14 1
 160 1
 a 18

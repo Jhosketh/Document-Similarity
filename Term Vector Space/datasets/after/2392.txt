@@ -3,6 +3,7 @@
 /m/04tmyf
 Tobias Smollett
 1751
+{"/m/05hgj": "Novel", "/m/0g_jj": "Picaresque novel"}
 a 7
 actor 1
 adventure 1

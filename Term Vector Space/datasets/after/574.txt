@@ -3,6 +3,7 @@
 /m/01bvdl
 Walter M. Miller, Jr.
 1960
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/07lw0y": "Post-holocaust", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 17yearold 1
 20thcentury 1
 20thnbspcentury 1

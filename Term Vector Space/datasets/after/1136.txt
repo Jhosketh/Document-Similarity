@@ -3,6 +3,7 @@
 /m/02d_ws
 Knut Hamsun
 1894
+{"/m/02xlf": "Fiction"}
 a 5
 aesop 1
 alone 1

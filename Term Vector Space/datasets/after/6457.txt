@@ -3,6 +3,7 @@
 /m/0dh61j
 V. C. Andrews
 1990-11
+{"/m/039vk": "Gothic fiction", "/m/03mfnf": "Young adult literature"}
 14yearold 1
 16yearsold 1
 a 18

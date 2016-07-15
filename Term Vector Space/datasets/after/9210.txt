@@ -3,6 +3,7 @@
 /m/02pnznq
 Franz Kafka
 1931
+{"/m/0707q": "Short story"}
 a 4
 able 1
 about 1

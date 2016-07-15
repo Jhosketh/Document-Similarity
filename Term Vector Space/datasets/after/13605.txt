@@ -3,6 +3,7 @@
 /m/05f661f
 Berlie Doherty
 1986-10-23
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 130s 1
 131 1
 17 1

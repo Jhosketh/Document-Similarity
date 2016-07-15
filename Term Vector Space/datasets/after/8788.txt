@@ -3,6 +3,7 @@
 /m/027pf47
 Margaret Weis
 1986-08
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 abyss 6
 accompanied 1

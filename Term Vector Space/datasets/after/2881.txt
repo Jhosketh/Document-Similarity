@@ -3,6 +3,7 @@
 /m/05t6vq
 Hermann Hesse
 1910
+{"/m/014dfn": "Speculative fiction"}
 a 1
 adult 1
 and 4

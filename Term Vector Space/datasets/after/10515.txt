@@ -3,6 +3,7 @@
 /m/02x636x
 K. A. Applegate
 2000-07
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 10
 aboard 1
 after 2

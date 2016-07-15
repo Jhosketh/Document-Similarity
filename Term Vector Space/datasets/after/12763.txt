@@ -3,6 +3,7 @@
 /m/04jftp5
 David Drake
 1986-05
+{"/m/06n90": "Science Fiction"}
 a 1
 alien 3
 and 2

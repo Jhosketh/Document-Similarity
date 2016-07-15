@@ -3,6 +3,7 @@
 /m/02627h4
 Lindsey Davis
 1991
+{"/m/0lsxr": "Crime Fiction", "/m/02p0szs": "Historical fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 71 1
 a 7
 able 1

@@ -3,6 +3,7 @@
 /m/0c0kxp
 Mercedes Lackey
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 after 2
 aid 1

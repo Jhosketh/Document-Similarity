@@ -3,6 +3,7 @@
 /m/0gyyb0
 Truman Capote
 
+{"/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 143 1
 144 1
 181 1

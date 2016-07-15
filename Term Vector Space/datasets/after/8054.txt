@@ -3,6 +3,7 @@
 /m/02664yp
 Clive Cussler
 
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0c3351": "Suspense"}
 a 7
 accepts 1
 after 1

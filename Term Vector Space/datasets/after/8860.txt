@@ -3,6 +3,7 @@
 /m/027w17q
 Boris Akunin
 1999
+{"/m/0lsxr": "Crime Fiction", "/m/0l67h": "Novella"}
 188 1
 1886 1
 a 34

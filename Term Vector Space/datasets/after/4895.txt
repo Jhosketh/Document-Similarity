@@ -3,6 +3,7 @@
 /m/09v4m1
 William Goldman
 1973
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 a 20
 abusing 1
 accepts 1

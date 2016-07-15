@@ -3,6 +3,7 @@
 /m/0bbzqd
 Michael Moorcock
 1971
+{"/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/06www": "Steampunk"}
 102 1
 103 4
 116 1

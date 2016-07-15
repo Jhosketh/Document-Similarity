@@ -3,6 +3,7 @@
 /m/0g_kgp
 Richard Garfinkle
 1996
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 about 2
 after 1

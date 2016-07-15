@@ -3,6 +3,7 @@
 /m/01fd5q
 John Fowles
 1963
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror"}
 a 12
 abducting 1
 able 1

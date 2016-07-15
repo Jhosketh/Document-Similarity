@@ -3,6 +3,7 @@
 /m/0160h3
 Gregory McElwain
 1947
+{"/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 a 13
 after 1
 against 1

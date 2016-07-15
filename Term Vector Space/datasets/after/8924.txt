@@ -3,6 +3,7 @@
 /m/027zs3q
 Edgar Rice Burroughs
 1933
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 100 1
 a 8
 adventure 1

@@ -3,6 +3,7 @@
 /m/02vmgmc
 Gordon Dahlquist
 2006-08
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/06www": "Steampunk", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 1
 abelard 1
 and 5

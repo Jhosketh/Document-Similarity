@@ -3,6 +3,7 @@
 /m/076v37f
 Jay Asher
 
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 16
 actions 1
 advantage 1

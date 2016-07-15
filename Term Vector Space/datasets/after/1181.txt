@@ -3,6 +3,7 @@
 /m/02k6k5
 Isaac Asimov
 1958-09
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 6
 acquired 1
 all 1

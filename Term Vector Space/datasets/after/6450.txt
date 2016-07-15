@@ -3,6 +3,7 @@
 /m/0dh1hv
 Fred Vargas
 2006-01-05
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 8
 abandoned 1
 afterward 1

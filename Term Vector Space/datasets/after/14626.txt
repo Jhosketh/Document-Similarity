@@ -3,6 +3,7 @@
 /m/09gdb56
 
 2006-08-22
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/01jym": "Bildungsroman"}
 1 1
 10 1
 a 7

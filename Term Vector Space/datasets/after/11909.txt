@@ -3,6 +3,7 @@
 /m/03ydc61
 Richard L. Tierney
 1993
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 2008 1
 27375 1
 a 3

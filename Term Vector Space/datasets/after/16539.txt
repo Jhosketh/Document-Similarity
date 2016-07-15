@@ -3,6 +3,7 @@
 /m/0jt5sph
 Hilary Mantel
 2012-05-08
+{"/m/02p0szs": "Historical fiction", "/m/0488wh": "Literary fiction"}
 a 4
 affections 1
 against 1

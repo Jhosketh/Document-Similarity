@@ -3,6 +3,7 @@
 /m/041398
 Ellis Weiner
 1984-11
+{"/m/0gf28": "Parody", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 21
 about 1
 accepted 1

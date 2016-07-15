@@ -3,6 +3,7 @@
 /m/05szck5
 Patrick Carman
 2009-08-11
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 1 1
 3 1
 a 13

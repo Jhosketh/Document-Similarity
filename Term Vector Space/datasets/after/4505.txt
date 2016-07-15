@@ -3,6 +3,7 @@
 /m/094dhn
 P. G. Wodehouse
 1933-07-28
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 13
 about 3
 act 1

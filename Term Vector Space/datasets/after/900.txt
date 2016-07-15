@@ -3,6 +3,7 @@
 /m/01z2td
 Jack London
 1904
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/0c3351": "Suspense"}
 a 19
 aboard 1
 above 1

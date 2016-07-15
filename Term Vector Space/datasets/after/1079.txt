@@ -3,6 +3,7 @@
 /m/029c51
 Stendhal
 1830-11
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 16thcentury 1
 1830 1
 1th 2

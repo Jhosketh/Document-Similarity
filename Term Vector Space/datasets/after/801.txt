@@ -3,6 +3,7 @@
 /m/01sgfy
 Thomas Hardy
 1874
+{"/m/05hgj": "Novel"}
 a 33
 about 2
 absurd 2

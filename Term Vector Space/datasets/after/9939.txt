@@ -3,6 +3,7 @@
 /m/02r9767
 William Morris
 1897
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 adventures 1
 afterwards 2

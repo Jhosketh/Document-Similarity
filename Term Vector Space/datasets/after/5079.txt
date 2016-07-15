@@ -3,6 +3,7 @@
 /m/0b70pn
 Henry James
 1884
+{"/m/0707q": "Short story", "/m/02xlf": "Fiction"}
 a 3
 about 1
 admirer 1

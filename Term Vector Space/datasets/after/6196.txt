@@ -3,6 +3,7 @@
 /m/0d3nry
 Melanie Rawn
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 about 2
 absence 2

@@ -3,6 +3,7 @@
 /m/0h3r9n
 Brendan DuBois
 
+{"/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia", "/m/0c3351": "Suspense"}
 13 1
 162 3
 172 1

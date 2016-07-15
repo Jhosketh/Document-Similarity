@@ -3,6 +3,7 @@
 /m/047c84z
 Stephen Hunter
 2007-09-11
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 age 1
 aggravated 1

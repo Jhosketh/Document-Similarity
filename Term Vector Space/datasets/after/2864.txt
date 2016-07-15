@@ -3,6 +3,7 @@
 /m/05s3fy
 Chaim Potok
 1972-03-12
+{"/m/0dwly": "Children's literature", "/m/04fqp": "K\u00fcnstlerroman", "/m/02xlf": "Fiction"}
 150s 1
 a 9
 ability 1

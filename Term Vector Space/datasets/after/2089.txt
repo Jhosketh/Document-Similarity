@@ -3,6 +3,7 @@
 /m/046ftj
 Michael Crichton
 1976-03
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 10th 1
 a 8
 ahmad 2

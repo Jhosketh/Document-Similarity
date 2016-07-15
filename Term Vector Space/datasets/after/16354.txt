@@ -3,6 +3,7 @@
 /m/0h97cmp
 Robert Anthony Salvatore
 2011-10-04
+{"/m/01hmnh": "Fantasy"}
 100 1
 a 35
 ability 1

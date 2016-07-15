@@ -3,6 +3,7 @@
 /m/0br19t
 Tove Jansson
 1954
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 12
 about 1
 accidentally 1

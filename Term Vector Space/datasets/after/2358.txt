@@ -3,6 +3,7 @@
 /m/04qyx7
 Michael Crichton
 1999-11
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1 1
 1348the 1
 1357 1

@@ -3,6 +3,7 @@
 /m/03c9wqw
 Rick Riordan
 
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 15th 1
 a 14
 able 1

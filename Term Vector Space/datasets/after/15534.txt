@@ -3,6 +3,7 @@
 /m/0dgrwzj
 Gail Carriger
 2011-06-28
+{"/m/06www": "Steampunk", "/m/072lff": "Paranormal romance"}
 031612711 1
 035650008 1
 1 2

@@ -3,6 +3,7 @@
 /m/0gxb4n
 Catherine Crook de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 14
 abandon 1
 able 1

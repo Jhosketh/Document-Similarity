@@ -3,6 +3,7 @@
 /m/0j65x
 Alan Garner
 1960
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 11
 after 1
 again 1

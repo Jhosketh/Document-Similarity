@@ -3,6 +3,7 @@
 /m/018l57
 Philip Kerr
 1992
+{"/m/01jfsb": "Thriller", "/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction"}
 1 1
 100000 1
 a 19

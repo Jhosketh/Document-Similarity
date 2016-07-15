@@ -3,6 +3,7 @@
 /m/07m414
 Anthony Trollope
 1876
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 13
 able 1
 accomplish 1

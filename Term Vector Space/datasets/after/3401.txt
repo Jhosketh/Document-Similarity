@@ -3,6 +3,7 @@
 /m/06wwdl
 Robert Graysmith
 1986
+{"/m/05h83": "Non-fiction", "/m/01pwbn": "True crime", "/m/06ms6": "Sociology", "/m/02xlf": "Fiction"}
 160s 1
 166 1
 70s 1

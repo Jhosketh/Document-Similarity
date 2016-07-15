@@ -3,6 +3,7 @@
 /m/02vlbfg
 Brandon Mull
 2008-04-21
+{"/m/01hmnh": "Fantasy"}
 3d 1
 a 6
 abilities 1

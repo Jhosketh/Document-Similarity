@@ -3,6 +3,7 @@
 /m/04t154l
 Brian Moore
 1960
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 about 1
 after 2

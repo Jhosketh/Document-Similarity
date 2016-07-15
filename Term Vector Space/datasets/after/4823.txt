@@ -3,6 +3,7 @@
 /m/09ph3p
 Brian Aldiss
 1958
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 23 2
 4times 1
 a 13

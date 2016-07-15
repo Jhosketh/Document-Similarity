@@ -3,6 +3,7 @@
 /m/09pndx
 Wally Lamb
 1992-08-24
+{"/m/05hgj": "Novel"}
 100 1
 17 1
 250 1

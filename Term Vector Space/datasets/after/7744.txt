@@ -3,6 +3,7 @@
 /m/0h2zkg
 Lynn Flewelling
 2006-05-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 1
 alright 1
 and 6

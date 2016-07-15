@@ -3,6 +3,7 @@
 /m/06kx6l
 A. J. Cronin
 1937
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 121 1
 a 13
 abandon 1

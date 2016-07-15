@@ -3,6 +3,7 @@
 /m/0g5760
 Donald Hamilton
 1982
+{"/m/06wkf": "Spy fiction"}
 a 1
 and 1
 associates 1

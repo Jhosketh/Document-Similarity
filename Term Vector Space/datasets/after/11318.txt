@@ -3,6 +3,7 @@
 /m/0gfhg_c
 Lois McMaster Bujold
 1986
+{"/m/06n90": "Science Fiction"}
 a 20
 aboard 1
 accepted 1

@@ -3,6 +3,7 @@
 /m/02vsl9c
 
 1985
+{"/m/05hgj": "Novel", "/m/016chh": "Memoir"}
 a 1
 american 1
 an 1

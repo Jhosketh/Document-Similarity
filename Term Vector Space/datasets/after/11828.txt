@@ -3,6 +3,7 @@
 /m/03wgps_
 Patti Smith
 1972
+{"/m/05qgc": "Poetry"}
 a 2
 about 1
 execution 1

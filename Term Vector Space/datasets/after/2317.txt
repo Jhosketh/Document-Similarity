@@ -3,6 +3,7 @@
 /m/04p7wb
 John Gardner
 1982-09
+{"/m/06wkf": "Spy fiction"}
 a 2
 agent 1
 although 1

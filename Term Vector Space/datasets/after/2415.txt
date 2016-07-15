@@ -3,6 +3,7 @@
 /m/04w5g0
 Dai Sijie
 2000
+{"/m/012jgz": "Autobiographical novel", "/m/0hwxm": "Historical novel"}
 172 2
 3 1
 a 13

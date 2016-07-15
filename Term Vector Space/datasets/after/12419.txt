@@ -3,6 +3,7 @@
 /m/047lw9j
 Victor Appleton
 1921
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 6
 aid 1
 airborne 1

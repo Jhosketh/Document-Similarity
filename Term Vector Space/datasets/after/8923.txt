@@ -3,6 +3,7 @@
 /m/027zs30
 Edgar Rice Burroughs
 1932
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 2
 agents 1
 and 3

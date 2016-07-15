@@ -3,6 +3,7 @@
 /m/02p2sf4
 Patrick O'Brian
 1981
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 20gun 1
 32gun 1
 80gun 1

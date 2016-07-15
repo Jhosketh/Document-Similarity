@@ -3,6 +3,7 @@
 /m/0cv0g1
 Francine Pascal
 2004
+{"/m/06nbt": "Satire", "/m/03mfnf": "Young adult literature"}
 16year 1
 a 7
 afoul 1

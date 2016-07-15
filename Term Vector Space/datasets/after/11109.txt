@@ -3,6 +3,7 @@
 /m/03cy5w4
 Alexander McCall Smith
 2005
+{"/m/02x35fs": "Serial", "/m/02xlf": "Fiction"}
 4 1
 44 1
 a 14

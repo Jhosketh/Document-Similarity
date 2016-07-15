@@ -3,6 +3,7 @@
 /m/063zmpn
 Richelle Mead
 2007
+{"/m/02vzzv": "Urban fantasy", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/0fq56vk": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/072lff": "Paranormal romance", "/m/04n87l": "Dark fantasy"}
 34 1
 a 43
 able 1

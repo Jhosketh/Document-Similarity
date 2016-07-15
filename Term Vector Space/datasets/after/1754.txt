@@ -3,6 +3,7 @@
 /m/03j_r6
 Stephen King
 1991-10
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 9
 about 2
 again 1

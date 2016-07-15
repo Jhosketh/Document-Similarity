@@ -3,6 +3,7 @@
 /m/0275h6d
 L. Sprague de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 accompanied 1
 amazons 1

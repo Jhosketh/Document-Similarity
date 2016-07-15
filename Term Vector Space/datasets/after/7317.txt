@@ -3,6 +3,7 @@
 /m/0g55gs
 Donald Hamilton
 1968
+{"/m/014dfn": "Speculative fiction", "/m/06wkf": "Spy fiction"}
 a 1
 agents 1
 air 1

@@ -3,6 +3,7 @@
 /m/02x3hn5
 John Jakes
 1974
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1770 1
 6th 1
 a 17

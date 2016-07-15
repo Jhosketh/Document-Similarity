@@ -3,6 +3,7 @@
 /m/0cy1_1
 Lawrence Watt-Evans
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 after 1
 against 1

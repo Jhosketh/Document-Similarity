@@ -3,6 +3,7 @@
 /m/02vndrc
 John M. Ford
 1983
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 able 1
 against 1

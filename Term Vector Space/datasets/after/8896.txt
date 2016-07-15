@@ -3,6 +3,7 @@
 /m/027yg9x
 Lilian Jackson Braun
 1967
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 about 1
 after 2

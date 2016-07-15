@@ -3,6 +3,7 @@
 /m/06b_mp
 Christopher Moore
 1995-09-19
+{"/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy", "/m/01qxvh": "Romance novel"}
 a 6
 adjust 1
 aided 1

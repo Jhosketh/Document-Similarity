@@ -3,6 +3,7 @@
 /m/02vk5zl
 Isaac Asimov
 1993-11
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 a 10
 abandoning 1
 acknowledge 1

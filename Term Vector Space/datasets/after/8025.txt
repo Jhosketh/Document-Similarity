@@ -3,6 +3,7 @@
 /m/0264frn
 Mordecai Richler
 
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 a 20
 about 1
 affair 1

@@ -3,6 +3,7 @@
 /m/0c3w9lh
 Lee Child
 2010
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 110th 1
 61 1
 a 4

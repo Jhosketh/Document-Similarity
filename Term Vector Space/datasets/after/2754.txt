@@ -3,6 +3,7 @@
 /m/05hws4
 Charles W. Chesnutt
 1901
+{"/m/0hwxm": "Historical novel"}
 a 12
 about 1
 agreeing 1

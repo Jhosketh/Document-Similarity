@@ -3,6 +3,7 @@
 /m/0g5qft
 John Shirley
 2006-07-25
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 1
 assets 1
 attacks 1

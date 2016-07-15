@@ -3,6 +3,7 @@
 /m/0c7z8d
 Franklin W. Dixon
 1987-04
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 10
 about 1
 agency 1

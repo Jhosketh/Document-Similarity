@@ -3,6 +3,7 @@
 /m/02v12p
 Harold Coyle
 1987-08
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 0330 1
 0530 1
 0730 1

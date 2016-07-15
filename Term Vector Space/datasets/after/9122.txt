@@ -3,6 +3,7 @@
 /m/02pgwwf
 Truman Capote
 2005
+{"/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 145 1
 17yearold 1
 a 5

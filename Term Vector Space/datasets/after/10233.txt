@@ -3,6 +3,7 @@
 /m/02vphb7
 Andrew Greeley
 2007-02-06
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 description 1
 outline 1
 plot 1

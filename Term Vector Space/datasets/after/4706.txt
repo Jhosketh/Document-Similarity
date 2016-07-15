@@ -3,6 +3,7 @@
 /m/09gw4x
 P. G. Wodehouse
 1913-08-28
+{"/m/02yq81": "Comic novel", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 21 1
 25 1
 a 26

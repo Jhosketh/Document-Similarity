@@ -3,6 +3,7 @@
 /m/03qjgvs
 Victor Appleton
 1911
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 1
 airship 2
 an 1

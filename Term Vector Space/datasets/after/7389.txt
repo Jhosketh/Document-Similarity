@@ -3,6 +3,7 @@
 /m/0g93j8
 Elizabeth Moon
 1994-09
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/070yc": "Space opera", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01smf2": "Military science fiction"}
 40 1
 a 18
 aboard 1

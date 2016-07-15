@@ -3,6 +3,7 @@
 /m/02x87s8
 Laura Ingalls Wilder
 1941
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 1nbspkm 1
 a 20
 accept 1

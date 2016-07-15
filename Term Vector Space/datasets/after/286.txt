@@ -3,6 +3,7 @@
 /m/0j2th
 Chuck Palahniuk
 2001-05-22
+{"/m/0vgkd": "Black comedy", "/m/05hgj": "Novel", "/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 14
 about 2
 addict 1

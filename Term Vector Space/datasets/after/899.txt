@@ -3,6 +3,7 @@
 /m/01z1dl
 Art Spiegelman
 
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 137 1
 143 1
 158 1

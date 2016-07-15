@@ -3,6 +3,7 @@
 /m/0n080
 D. H. Lawrence
 1913
+{"/m/012jgz": "Autobiographical novel", "/m/04fqp": "K\u00fcnstlerroman", "/m/02xlf": "Fiction"}
 112 1
 12 1
 a 16

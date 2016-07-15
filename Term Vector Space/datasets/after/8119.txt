@@ -3,6 +3,7 @@
 /m/0269wz5
 R. A. MacAvoy
 1983
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 2000 1
 a 5
 about 1

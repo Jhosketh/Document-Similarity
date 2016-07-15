@@ -3,6 +3,7 @@
 /m/030ysw
 Daniel Handler
 2000-04
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/06www": "Steampunk", "/m/05hgj": "Novel", "/m/0pym5": "Absurdist fiction"}
 a 14
 about 4
 accident 2

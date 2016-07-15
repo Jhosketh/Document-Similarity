@@ -3,6 +3,7 @@
 /m/02q_qs
 Terry Pratchett
 1999
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 15
 abandons 1
 able 1

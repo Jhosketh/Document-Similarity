@@ -3,6 +3,7 @@
 /m/02r5nzh
 Richard A. Knaak
 2006-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 accepts 1
 accused 1

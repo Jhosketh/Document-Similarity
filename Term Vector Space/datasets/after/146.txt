@@ -3,6 +3,7 @@
 /m/0c9gq
 Richard Bach
 1970
+{"/m/012lzc": "Self-help", "/m/070wm": "Spirituality", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 a 14
 abilities 1
 ability 2

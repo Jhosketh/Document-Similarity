@@ -3,6 +3,7 @@
 /m/07hjq4
 James Howard Hatfield
 1985
+{"/m/06wkf": "Spy fiction"}
 007 2
 a 3
 against 1

@@ -3,6 +3,7 @@
 /m/02prbmp
 Baroness Emma Orczy
 1924
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 10 1
 11 1
 122 1

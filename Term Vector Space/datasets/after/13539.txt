@@ -3,6 +3,7 @@
 /m/05c29pc
 Wilkie Collins
 1881
+{"/m/02n4kr": "Mystery", "/m/02ql9": "Epistolary novel"}
 a 7
 abbey 1
 about 1

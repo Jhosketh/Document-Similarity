@@ -3,6 +3,7 @@
 /m/0b_4bk
 Margaret Stuart Barry
 1976-08-23
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 7
 again 2
 agrees 1

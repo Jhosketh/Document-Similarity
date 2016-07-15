@@ -3,6 +3,7 @@
 /m/06v3t5
 Patricia A. McKillip
 1976
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1 1
 a 5
 ability 1

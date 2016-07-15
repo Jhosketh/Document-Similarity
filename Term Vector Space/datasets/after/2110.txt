@@ -3,6 +3,7 @@
 /m/047qb9
 P. D. James
 
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 21 1
 a 23
 accuses 1

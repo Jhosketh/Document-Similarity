@@ -3,6 +3,7 @@
 /m/04n4n3h
 Val McDermid
 2008
+{"/m/0lsxr": "Crime Fiction"}
 a 7
 about 1
 allows 1

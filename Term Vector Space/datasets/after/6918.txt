@@ -3,6 +3,7 @@
 /m/0f6j38
 Laurell K. Hamilton
 2002-03-26
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 17
 abilities 1
 actress 1

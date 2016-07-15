@@ -3,6 +3,7 @@
 /m/027ln1j
 Diane Setterfield
 2006-09-12
+{"/m/01jfsb": "Thriller", "/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 abandoned 1
 about 1

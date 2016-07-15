@@ -3,6 +3,7 @@
 /m/04cxg0s
 Ishmael Beah
 2007-02-13
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/05h83": "Non-fiction", "/m/016chh": "Memoir"}
 16 2
 57 1
 a 16

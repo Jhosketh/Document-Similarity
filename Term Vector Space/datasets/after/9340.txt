@@ -3,6 +3,7 @@
 /m/02py2fp
 Pamela Dean
 
+{"/m/06n90": "Science Fiction", "/m/02vzzv": "Urban fantasy", "/m/014dfn": "Speculative fiction", "/m/0134b1": "Contemporary fantasy", "/m/057pyk": "Fantasy of manners", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 170s 1
 a 4
 and 1

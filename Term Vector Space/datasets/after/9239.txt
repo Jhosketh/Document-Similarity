@@ -3,6 +3,7 @@
 /m/02pqdtz
 Terry Goodkind
 2007-11-13
+{"/m/03qfd": "High fantasy", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 a 20
 about 1
 accept 1

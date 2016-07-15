@@ -3,6 +3,7 @@
 /m/02q2yyd
 Charles Nordhoff
 1934
+{"/m/03g3w": "History", "/m/05hgj": "Novel", "/m/0hwxm": "Historical novel"}
 a 1
 acting 1
 adrift 1

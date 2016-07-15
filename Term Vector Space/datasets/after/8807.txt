@@ -3,6 +3,7 @@
 /m/027qsr0
 Colin Wilson
 1967
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 about 1
 austin 1
 brilliant 1

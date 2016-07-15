@@ -3,6 +3,7 @@
 /m/025vq_2
 Nicholson Baker
 2004
+{"/m/02xlf": "Fiction"}
 2004 1
 a 3
 abandoned 1

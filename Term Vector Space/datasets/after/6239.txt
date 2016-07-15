@@ -3,6 +3,7 @@
 /m/0d6hd1
 Tash Aw
 2005-07-04
+{"/m/0hwxm": "Historical novel"}
 a 5
 about 1
 adrift 1

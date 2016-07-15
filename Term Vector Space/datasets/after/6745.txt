@@ -3,6 +3,7 @@
 /m/0dvvf9
 Patrick White
 1961
+{"/m/02xlf": "Fiction"}
 a 5
 aborigine 1
 an 1

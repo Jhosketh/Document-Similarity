@@ -3,6 +3,7 @@
 /m/0gfds3l
 Edgar Rice Burroughs
 
+{"/m/05hgj": "Novel"}
 a 21
 abducted 1
 aboard 3

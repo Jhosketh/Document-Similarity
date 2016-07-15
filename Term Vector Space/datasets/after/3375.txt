@@ -3,6 +3,7 @@
 /m/06tw6m
 Naguib Mahfouz
 1961
+{"/m/05hgj": "Novel"}
 a 4
 against 1
 also 1

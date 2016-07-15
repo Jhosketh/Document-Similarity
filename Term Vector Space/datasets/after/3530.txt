@@ -3,6 +3,7 @@
 /m/074208
 Terry Brooks
 2000-09-05
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 130 1
 a 5
 ago 1

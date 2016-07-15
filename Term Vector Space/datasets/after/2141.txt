@@ -3,6 +3,7 @@
 /m/049rsr
 Christopher Moore
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0246p": "Comic fantasy", "/m/0pym5": "Absurdist fiction", "/m/09kqc": "Humour"}
 a 4
 an 1
 angel 2

@@ -3,6 +3,7 @@
 /m/0dxqr0
 Glen Cook
 1991-09
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 13
 after 1
 again 2

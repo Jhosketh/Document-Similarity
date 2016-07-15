@@ -3,6 +3,7 @@
 /m/05bzjz
 Bret Easton Ellis
 2005-08-16
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/016lj8": "Roman \u00e0 clef"}
 a 4
 accurate 1
 actress 1

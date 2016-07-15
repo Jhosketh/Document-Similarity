@@ -3,6 +3,7 @@
 /m/05cnz2
 John Irving
 1998-05-05
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 10 1
 158 1
 a 16

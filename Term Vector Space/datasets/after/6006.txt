@@ -3,6 +3,7 @@
 /m/0cvd2k
 Dean Koontz
 2002
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense"}
 a 2
 acts 1
 amoral 1

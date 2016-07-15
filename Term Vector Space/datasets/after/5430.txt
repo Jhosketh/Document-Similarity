@@ -3,6 +3,7 @@
 /m/0bw5b3
 H. G. Wells
 
+{"/m/014dsx": "Travel", "/m/014dfn": "Speculative fiction", "/m/0d6gr": "Reference", "/m/02p0szs": "Historical fiction", "/m/01z4y": "Comedy", "/m/02yq81": "Comic novel", "/m/02xlf": "Fiction"}
 10 1
 16 1
 1870 1

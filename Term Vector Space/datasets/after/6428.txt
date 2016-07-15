@@ -3,6 +3,7 @@
 /m/0dfvqy
 David Gemmell
 1995-10-19
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 10 1
 1000 1
 11 2

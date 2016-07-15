@@ -3,6 +3,7 @@
 /m/04kb6b
 John Grisham
 2000
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 aaron 1
 account 1

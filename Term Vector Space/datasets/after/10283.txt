@@ -3,6 +3,7 @@
 /m/02vtvs5
 Jeffery Deaver
 2002
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 21
 ability 1
 aboard 1

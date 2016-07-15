@@ -3,6 +3,7 @@
 /m/0810xx
 Thomas Mann
 1903
+{"/m/012jgz": "Autobiographical novel"}
 170 1
 1818 1
 a 5

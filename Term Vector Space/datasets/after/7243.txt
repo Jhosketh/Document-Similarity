@@ -3,6 +3,7 @@
 /m/0fzrh_
 Jerry B. Jenkins
 2007-04-03
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 100 1
 1000 3
 34 1

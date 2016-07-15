@@ -3,6 +3,7 @@
 /m/0j7s8
 David Lodge
 2001
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 1 1
 17 2
 18 1

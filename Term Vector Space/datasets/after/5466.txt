@@ -3,6 +3,7 @@
 /m/0bydl7
 John Maxwell Coetzee
 2002
+{"/m/012jgz": "Autobiographical novel"}
 a 4
 according 1
 affairs 1

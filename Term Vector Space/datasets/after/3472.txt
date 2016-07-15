@@ -3,6 +3,7 @@
 /m/071f4q
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 actually 1
 adventure 1

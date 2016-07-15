@@ -3,6 +3,7 @@
 /m/09h5zj
 Jennifer Haigh
 2003-02-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 12 1
 14 1
 16 1

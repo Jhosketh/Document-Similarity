@@ -3,6 +3,7 @@
 /m/02q9wp4
 John Bellairs
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 6
 about 2
 accepts 1

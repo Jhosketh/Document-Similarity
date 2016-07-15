@@ -3,6 +3,7 @@
 /m/03c24l3
 Philip K. Dick
 1985
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 158 1
 a 12
 about 1

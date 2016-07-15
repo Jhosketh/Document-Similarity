@@ -3,6 +3,7 @@
 /m/064fpb
 Alison Lurie
 1984-08
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 10
 about 1
 accident 1

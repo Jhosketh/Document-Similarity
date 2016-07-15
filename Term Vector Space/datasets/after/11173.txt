@@ -3,6 +3,7 @@
 /m/03d2ft5
 Lois Duncan
 1973-10
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 30
 about 10
 accident 5

@@ -3,6 +3,7 @@
 /m/0125zf
 Ira Levin
 1970
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 a 15
 abandoned 1
 able 1

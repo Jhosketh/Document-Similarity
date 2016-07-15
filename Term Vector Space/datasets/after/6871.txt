@@ -3,6 +3,7 @@
 /m/0f2ps1
 Mary Renault
 1956
+{"/m/0hwxm": "Historical novel"}
 20s 1
 a 16
 adolescent 1

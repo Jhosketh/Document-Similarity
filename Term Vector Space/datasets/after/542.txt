@@ -3,6 +3,7 @@
 /m/019b0h
 Thomas B. Costain
 1952
+{"/m/0hwxm": "Historical novel"}
 a 7
 about 1
 adopted 1

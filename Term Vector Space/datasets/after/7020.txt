@@ -3,6 +3,7 @@
 /m/0ff0wm
 Harry Turtledove
 1998
+{"/m/0hwxm": "Historical novel"}
 a 3
 after 1
 and 5

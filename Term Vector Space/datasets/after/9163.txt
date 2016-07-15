@@ -3,6 +3,7 @@
 /m/02pkwzn
 David Anthony Durham
 2005
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 30 1
 a 8
 accepts 1

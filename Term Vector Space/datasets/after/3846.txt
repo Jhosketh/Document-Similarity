@@ -3,6 +3,7 @@
 /m/07szg9
 Charles Hawes
 1924
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 17th 1
 a 13
 able 1

@@ -3,6 +3,7 @@
 /m/06k91l
 Franklin W. Dixon
 1927-06-01
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 14yearold 1
 a 23
 accident 1

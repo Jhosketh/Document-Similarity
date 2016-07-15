@@ -3,6 +3,7 @@
 /m/0c3fct
 Walter Pater
 1885
+{"/m/02xlf": "Fiction", "/m/037mh8": "Philosophy"}
 166 1
 a 18
 abandoned 1

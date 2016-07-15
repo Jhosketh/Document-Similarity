@@ -3,6 +3,7 @@
 /m/015gns
 John le Carré
 1963-09
+{"/m/06wkf": "Spy fiction"}
 145 1
 a 29
 about 4

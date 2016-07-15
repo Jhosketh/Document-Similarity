@@ -3,6 +3,7 @@
 /m/04n4x6b
 Charles Sheffield
 1998-02-15
+{"/m/06n90": "Science Fiction"}
 a 9
 abandoned 1
 able 1

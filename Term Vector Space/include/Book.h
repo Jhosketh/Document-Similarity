@@ -28,8 +28,8 @@ public:
     void setAuthor(std::string val) { author = val; }
     std::string getPublicationDate() { return publicationDate; }
     void setPublicationDate(std::string val) { publicationDate = val; }
-    std::vector<std::string> getGenres() { return genres; }
-    void setGenres(std::vector<std::string> val) { genres = val; }
+    std::string getGenres() { return genres; }
+    void setGenres(std::string val) { genres = val; }
     std::string getSummary() { return summary; }
     void setSummary(std::string val) { summary = val; }
 
@@ -53,7 +53,7 @@ private:
     std::string title; //!< Member variable "title"
     std::string author; //!< Member variable "author"
     std::string publicationDate; //!< Member variable "publicationDate"
-    std::vector<std::string> genres; //!< Member variable "genres"
+    std::string genres; //!< Member variable "genres" //TODO
     std::string summary; //!< Member variable "summary"
     std::map<std::string, int> vectorSpace;
 };

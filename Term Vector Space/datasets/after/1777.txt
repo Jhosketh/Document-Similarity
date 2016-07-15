@@ -3,6 +3,7 @@
 /m/03l57n
 R. K. Narayan
 1937
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 8 1
 a 15
 about 2

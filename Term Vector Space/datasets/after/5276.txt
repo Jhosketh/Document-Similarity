@@ -3,6 +3,7 @@
 /m/0bk31b
 Piers Anthony
 1990-10
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 able 1
 accidentally 1

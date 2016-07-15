@@ -3,6 +3,7 @@
 /m/026vn1l
 John Banville
 1989
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 7
 abroad 1
 after 1

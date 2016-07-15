@@ -3,6 +3,7 @@
 /m/0f2xf2
 Barbara Mertz
 2001
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 115116 1
 a 1
 adversary 1

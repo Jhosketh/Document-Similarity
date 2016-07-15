@@ -3,6 +3,7 @@
 /m/0cvh48
 Trevanian
 1972-10
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 6
 about 1
 acquire 1

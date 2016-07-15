@@ -3,6 +3,7 @@
 /m/074gmd
 Anne Holm
 1963
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 117 1
 12yearold 1
 a 19

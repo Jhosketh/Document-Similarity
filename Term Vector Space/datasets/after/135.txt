@@ -3,6 +3,7 @@
 /m/0c3ls
 Greg Bear
 1987
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 action 1
 against 1

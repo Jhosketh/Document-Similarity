@@ -3,6 +3,7 @@
 /m/0cp522
 Sid Fleischman
 1986-04
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 16
 about 2
 across 1

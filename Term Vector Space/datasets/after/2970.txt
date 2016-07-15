@@ -3,6 +3,7 @@
 /m/05_yx0
 Douglas Coupland
 1992
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 about 2
 advice 1

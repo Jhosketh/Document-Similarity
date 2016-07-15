@@ -3,6 +3,7 @@
 /m/0crgpln
 Gayle Forman
 2009
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 1
 adam 2
 after 1

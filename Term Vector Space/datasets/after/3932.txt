@@ -3,6 +3,7 @@
 /m/07z23l
 Frederick Forsyth
 1979
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 10
 able 2
 about 2

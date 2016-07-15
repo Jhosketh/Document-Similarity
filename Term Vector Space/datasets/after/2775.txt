@@ -3,6 +3,7 @@
 /m/05kgsr
 Harriet Beecher Stowe
 
+{"/m/0hwxm": "Historical novel"}
 40yearold 1
 a 5
 aaron 1

@@ -3,6 +3,7 @@
 /m/05qg0y6
 Patrick Rothfuss
 2011-03-01
+{"/m/014dfn": "Speculative fiction", "/m/03dw_3": "Heroic fantasy"}
 1 1
 a 35
 abenthy 1

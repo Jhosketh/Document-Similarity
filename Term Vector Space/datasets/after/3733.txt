@@ -3,6 +3,7 @@
 /m/07l2_r
 Giles Foden
 1998
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 17 1
 171 1
 18 1

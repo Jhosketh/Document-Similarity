@@ -3,6 +3,7 @@
 /m/04x_9w
 Hugo Gernsback
 1911
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 an 1
 approaching 1
 as 2

@@ -3,6 +3,7 @@
 /m/03c1__6
 E. L. Konigsburg
 1967
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 32 1
 4 1
 40 1

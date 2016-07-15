@@ -3,6 +3,7 @@
 /m/08x0py
 Orson Scott Card
 1983
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 19
 able 1
 about 1

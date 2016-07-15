@@ -3,6 +3,7 @@
 /m/05s_4b9
 Charlaine Harris
 2009-05-05
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 12
 abilities 1
 about 2

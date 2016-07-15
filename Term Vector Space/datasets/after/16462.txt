@@ -3,6 +3,7 @@
 /m/0hrf_6r
 David Gemmell
 1990-04-12
+{"/m/01hmnh": "Fantasy"}
 a 4
 across 1
 alone 1

@@ -3,6 +3,7 @@
 /m/094mql
 Jack Higgins
 1998-07-02
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1 1
 18 1
 a 15

@@ -3,6 +3,7 @@
 /m/02z55c9
 Meg Rosoff
 2007-08-30
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 162 1
 a 9
 abandoned 1

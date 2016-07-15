@@ -3,6 +3,7 @@
 /m/02qvdsw
 Armistead Maupin
 1989
+{"/m/05hgj": "Novel"}
 28 1
 a 7
 adopted 1

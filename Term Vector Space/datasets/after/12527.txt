@@ -3,6 +3,7 @@
 /m/04f2z79
 Molly Cochran
 1992
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 again 2
 agent 1

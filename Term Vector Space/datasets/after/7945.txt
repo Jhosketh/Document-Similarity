@@ -3,6 +3,7 @@
 /m/02607hx
 Juliet Marillier
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 accusations 1
 after 1

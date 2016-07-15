@@ -3,6 +3,7 @@
 /m/077065
 Graham Greene
 1978
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 6
 above 1
 accused 1

@@ -3,6 +3,7 @@
 /m/02p7vb4
 Sharon Penman
 1985
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 185 1
 a 3
 about 1

@@ -3,6 +3,7 @@
 /m/09zh6m
 John Gardner
 1971
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0fr3y1": "Parallel novel"}
 a 39
 ability 1
 able 1

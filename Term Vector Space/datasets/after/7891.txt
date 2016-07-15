@@ -3,6 +3,7 @@
 /m/025yv18
 Jane Lindskold
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 2001 1
 2002 1
 2003 1

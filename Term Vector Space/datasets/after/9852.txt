@@ -3,6 +3,7 @@
 /m/02r3c7d
 Kathryn Lasky
 2004-08-01
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 1
 after 1
 america 1

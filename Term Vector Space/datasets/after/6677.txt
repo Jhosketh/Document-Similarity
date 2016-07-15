@@ -3,6 +3,7 @@
 /m/0dqfg8
 Nancy Varian Berberick
 2002-06-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 aid 1
 arises 1

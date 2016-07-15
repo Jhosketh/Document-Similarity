@@ -3,6 +3,7 @@
 /m/0282xys
 Ann Rinaldi
 1991
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 6
 abraham 1
 actually 1

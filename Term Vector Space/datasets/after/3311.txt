@@ -3,6 +3,7 @@
 /m/06nx0q
 Alasdair Gray
 
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 1
 a 7
 about 1

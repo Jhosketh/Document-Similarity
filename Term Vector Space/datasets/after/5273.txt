@@ -3,6 +3,7 @@
 /m/0bk2_l
 Piers Anthony
 1987-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 4
 always 1
 and 2

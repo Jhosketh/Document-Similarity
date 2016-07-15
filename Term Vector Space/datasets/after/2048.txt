@@ -3,6 +3,7 @@
 /m/0443s_
 Gustave Flaubert
 1881
+{"/m/05hgj": "Novel"}
 1838 1
 1848 1
 a 6

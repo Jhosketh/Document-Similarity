@@ -3,6 +3,7 @@
 /m/098cbd
 Henry James
 1880-12-01
+{"/m/05hgj": "Novel"}
 a 16
 able 1
 abroad 1

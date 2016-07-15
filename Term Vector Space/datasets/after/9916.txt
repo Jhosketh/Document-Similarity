@@ -3,6 +3,7 @@
 /m/02r7x0c
 Oriana Fallaci
 1992
+{"/m/05hgj": "Novel"}
 a 29
 abandoned 1
 abandons 1

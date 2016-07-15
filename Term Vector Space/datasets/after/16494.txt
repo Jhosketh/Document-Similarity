@@ -3,6 +3,7 @@
 /m/0h_f072
 Colin Bateman
 
+{"/m/0lsxr": "Crime Fiction", "/m/0vgkd": "Black comedy"}
 a 1
 after 1
 and 2

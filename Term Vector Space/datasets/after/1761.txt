@@ -3,6 +3,7 @@
 /m/03kdf2
 Eoin Colfer
 2002-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 9
 about 1
 accused 1

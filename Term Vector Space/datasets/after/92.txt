@@ -3,6 +3,7 @@
 /m/07kpf
 Tom Clancy
 
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 747 1
 a 20
 about 1

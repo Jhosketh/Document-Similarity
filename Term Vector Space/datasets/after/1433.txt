@@ -3,6 +3,7 @@
 /m/02_q08
 Gregory Keyes
 1998
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 1681 1
 a 9
 across 1

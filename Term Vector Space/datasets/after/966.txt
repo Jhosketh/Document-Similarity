@@ -3,6 +3,7 @@
 /m/021h0t
 Anna Sewell
 1877-11-24
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 6day 1
 7day 1
 a 4

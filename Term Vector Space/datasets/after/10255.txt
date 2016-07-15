@@ -3,6 +3,7 @@
 /m/02vrdkp
 Stephen Graham Jones
 2006-04-27
+{"/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 about 2
 addition 1

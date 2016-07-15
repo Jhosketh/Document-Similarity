@@ -3,6 +3,7 @@
 /m/01hgxn
 Roger Zelazny
 1976
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 33
 abyss 1
 accord 1

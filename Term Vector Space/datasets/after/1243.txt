@@ -3,6 +3,7 @@
 /m/02ncw6
 John Grisham
 1992
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 15
 about 1
 access 1

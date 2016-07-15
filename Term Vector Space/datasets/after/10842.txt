@@ -3,6 +3,7 @@
 /m/03cbrdn
 Alan Furst
 1996
+{"/m/098tmk": "War novel", "/m/06wkf": "Spy fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 140 1
 141 1
 a 3

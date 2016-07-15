@@ -3,6 +3,7 @@
 /m/0h41hn
 Giles Foden
 2004-09-30
+{"/m/05hgj": "Novel"}
 115 1
 28 1
 a 8

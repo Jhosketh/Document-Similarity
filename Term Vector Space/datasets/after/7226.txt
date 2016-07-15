@@ -3,6 +3,7 @@
 /m/0fx_q3
 Françoise Sagan
 1965
+{"/m/05hgj": "Novel"}
 a 6
 affair 1
 affection 1

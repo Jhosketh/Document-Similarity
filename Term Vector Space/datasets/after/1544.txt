@@ -3,6 +3,7 @@
 /m/035tfg
 Jules Verne
 1864
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/01gw42": "Scientific romance"}
 1863 1
 26 1
 a 43

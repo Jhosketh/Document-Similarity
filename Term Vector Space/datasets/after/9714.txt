@@ -3,6 +3,7 @@
 /m/02qty9w
 Edward Plunkett, 18th Baron Dunsany
 1971
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/0707q": "Short story"}
 a 3
 able 1
 achieve 1

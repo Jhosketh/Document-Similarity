@@ -3,6 +3,7 @@
 /m/0g5ppx5
 Michael E. Brown
 2010
+{"/m/016chh": "Memoir", "/m/06mq7": "Science"}
 2006 1
 a 2
 account 1

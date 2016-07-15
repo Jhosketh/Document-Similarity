@@ -3,6 +3,7 @@
 /m/09ggb2r
 Walter R. Brooks
 
+{"/m/02yq81": "Comic novel", "/m/0dwly": "Children's literature"}
 1011 1
 123 1
 a 26

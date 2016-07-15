@@ -3,6 +3,7 @@
 /m/03gy7mk
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 112 1
 a 5
 about 1

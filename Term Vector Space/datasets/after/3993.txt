@@ -3,6 +3,7 @@
 /m/0823zn
 Marilynne Robinson
 2004-11-04
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 21
 abandonment 1
 able 2

@@ -3,6 +3,7 @@
 /m/098qgd
 Henry James
 1886-10-22
+{"/m/05hgj": "Novel"}
 a 7
 about 1
 adopted 1

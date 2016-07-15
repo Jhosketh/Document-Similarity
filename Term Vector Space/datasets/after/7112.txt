@@ -3,6 +3,7 @@
 /m/0fngs4
 Mark Merlis
 1998-08
+{"/m/05hgj": "Novel"}
 a 5
 able 1
 accepted 1

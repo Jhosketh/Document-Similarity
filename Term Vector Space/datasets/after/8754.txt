@@ -3,6 +3,7 @@
 /m/027lqxn
 Richard Russo
 2001-05-08
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 addition 1
 affair 1

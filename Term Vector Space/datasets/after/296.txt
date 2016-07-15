@@ -3,6 +3,7 @@
 /m/0jb7s
 J. R. R. Tolkien
 
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 a 6
 adventures 1
 after 1

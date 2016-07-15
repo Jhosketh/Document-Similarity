@@ -3,6 +3,7 @@
 /m/0h4nt
 Stephen King
 1987-02-02
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 about 1
 adding 1

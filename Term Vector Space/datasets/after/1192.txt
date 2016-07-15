@@ -3,6 +3,7 @@
 /m/02l1pb
 Cory Doctorow
 2003-02-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 10
 accident 1
 adhoc 3

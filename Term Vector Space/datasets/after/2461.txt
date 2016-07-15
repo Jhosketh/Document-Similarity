@@ -3,6 +3,7 @@
 /m/04y045
 Ian McEwan
 1998-12-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 amsterdam 1
 and 1

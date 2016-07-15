@@ -3,6 +3,7 @@
 /m/05bwt8
 Owen Wister
 1902
+{"/m/025txgl": "Western fiction", "/m/0hfjk": "Western", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 283 1
 a 14
 act 1

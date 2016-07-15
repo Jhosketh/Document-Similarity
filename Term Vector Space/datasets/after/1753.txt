@@ -3,6 +3,7 @@
 /m/03j_1g
 John Grisham
 2002
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 9
 about 3
 after 1

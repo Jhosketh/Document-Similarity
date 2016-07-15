@@ -3,6 +3,7 @@
 /m/0c3zwbt
 Justin Cronin
 2010-06-08
+{"/m/0kflf": "Vampire fiction", "/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/0kz5r": "New York Times Best Seller list", "/m/0c082": "Utopian and dystopian fiction", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05mpfk": "Epic Science Fiction and Fantasy", "/m/026ny": "Dystopia"}
 1000 2
 11 1
 3 3

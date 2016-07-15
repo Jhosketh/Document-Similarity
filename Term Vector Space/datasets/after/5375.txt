@@ -3,6 +3,7 @@
 /m/0bsfbp
 Chris Riddell
 2000-10-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 9
 about 2
 academics 4

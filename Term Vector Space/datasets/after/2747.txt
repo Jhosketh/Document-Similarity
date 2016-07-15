@@ -3,6 +3,7 @@
 /m/05h3hj
 Antal Szerb
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 adolescent 1
 aloof 1

@@ -3,6 +3,7 @@
 /m/0fdsp
 Emily Brontë
 1847-12
+{"/m/039vk": "Gothic fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1801 1
 a 27
 able 1

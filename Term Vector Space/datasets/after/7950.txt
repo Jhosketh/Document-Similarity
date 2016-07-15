@@ -3,6 +3,7 @@
 /m/0260l7d
 Rose Tremain
 1989
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 1666 1
 a 9
 abandons 1

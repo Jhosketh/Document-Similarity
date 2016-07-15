@@ -3,6 +3,7 @@
 /m/043kthr
 L. Ron Hubbard
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 1
 accidentprone 1
 concerns 1

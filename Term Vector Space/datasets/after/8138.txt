@@ -3,6 +3,7 @@
 /m/026cgh3
 Gillian Bradshaw
 1982-06
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/035qb4": "Historical fantasy", "/m/03qfd": "High fantasy"}
 a 17
 able 1
 about 1

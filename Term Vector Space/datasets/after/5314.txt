@@ -3,6 +3,7 @@
 /m/0bm6p9
 Jules Verne
 1887
+{"/m/08sdrw": "Adventure novel"}
 a 7
 after 1
 against 1

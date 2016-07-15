@@ -3,6 +3,7 @@
 /m/03n75r
 Arthur Golden
 1997-09-23
+{"/m/0hwxm": "Historical novel"}
 a 27
 able 1
 about 1

@@ -3,6 +3,7 @@
 /m/02z4_4g
 Gregory Maguire
 2008-10-14
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0fr3y1": "Parallel novel"}
 a 29
 abandoned 1
 about 1

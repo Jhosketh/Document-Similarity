@@ -3,6 +3,7 @@
 /m/02cccm
 John Steinbeck
 1933
+{"/m/05hgj": "Novel"}
 a 8
 accident 1
 activities 1

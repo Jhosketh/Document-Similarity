@@ -3,6 +3,7 @@
 /m/098ts0
 Janet Evanovich
 1994-08-26
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 100000 1
 a 5
 acquaintance 1

@@ -3,6 +3,7 @@
 /m/03np9dx
 Bill Pronzini
 
+{"/m/01jfsb": "Thriller", "/m/0c3351": "Suspense"}
 a 4
 about 2
 after 1

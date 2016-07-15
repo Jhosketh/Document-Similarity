@@ -3,6 +3,7 @@
 /m/081pvy
 James Frey
 2003-04-15
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/016chh": "Memoir"}
 23 1
 a 10
 able 1

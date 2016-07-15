@@ -3,6 +3,7 @@
 /m/051zn78
 A. Scott Berg
 2003-07-11
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/05h83": "Non-fiction"}
 20 1
 6 1
 a 4

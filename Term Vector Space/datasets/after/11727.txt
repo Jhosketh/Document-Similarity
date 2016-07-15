@@ -3,6 +3,7 @@
 /m/03qmxlc
 Jessica Hagedorn
 1990-03
+{"/m/05hgj": "Novel"}
 a 12
 actions 1
 activist 1

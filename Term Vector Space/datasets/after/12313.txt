@@ -3,6 +3,7 @@
 /m/0463l4t
 Victor Appleton
 1918
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 3
 about 1
 aerial 1

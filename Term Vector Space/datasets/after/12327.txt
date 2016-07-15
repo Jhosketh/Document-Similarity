@@ -3,6 +3,7 @@
 /m/047d94z
 Dick Francis
 1962
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 a 1
 about 1
 act 1

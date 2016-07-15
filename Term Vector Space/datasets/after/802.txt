@@ -3,6 +3,7 @@
 /m/01sk1g
 Thomas Pynchon
 1990
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14yearold 1
 184 1
 24fps 4

@@ -3,6 +3,7 @@
 /m/03h3h8g
 Beverly Cleary
 1973
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 after 1
 alone 1

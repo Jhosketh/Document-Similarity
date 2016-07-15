@@ -3,6 +3,7 @@
 /m/0f02sh
 Barbara Mertz
 1999
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 111 1
 a 2
 abdullah 1

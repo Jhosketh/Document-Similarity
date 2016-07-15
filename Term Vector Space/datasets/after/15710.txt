@@ -3,6 +3,7 @@
 /m/0g547dh
 Henning Mankell
 
+{"/m/02xlf": "Fiction"}
 1874 1
 a 11
 about 1

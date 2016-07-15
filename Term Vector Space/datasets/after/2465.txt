@@ -3,6 +3,7 @@
 /m/04y8q2
 Robin Hobb
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 actually 1
 addictive 1

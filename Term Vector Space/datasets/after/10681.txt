@@ -3,6 +3,7 @@
 /m/03b_fv1
 Ashok Banker
 2005
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 40
 abdicated 1
 able 1

@@ -3,6 +3,7 @@
 /m/026rhd7
 Baroness Emma Orczy
 1913
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 17 1
 174 1
 a 7

@@ -3,6 +3,7 @@
 /m/02x1j_v
 K. A. Applegate
 1999-09
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 13
 about 2
 accept 1

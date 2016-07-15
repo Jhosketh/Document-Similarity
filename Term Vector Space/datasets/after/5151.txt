@@ -3,6 +3,7 @@
 /m/0bbb2d
 Doranna Durgin
 2003-02-01
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 acquiring 1
 act 1

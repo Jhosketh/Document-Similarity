@@ -3,6 +3,7 @@
 /m/02qb0l2
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 18 1
 25 1
 500 1

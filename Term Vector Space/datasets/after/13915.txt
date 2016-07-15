@@ -3,6 +3,7 @@
 /m/05zjvwl
 Barbara Kingsolver
 2000
+{"/m/05hgj": "Novel"}
 a 5
 acknowledgments 1
 against 1

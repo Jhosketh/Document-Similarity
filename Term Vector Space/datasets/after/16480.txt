@@ -3,6 +3,7 @@
 /m/0hzr9dd
 Valerio Massimo Manfredi
 
+{"/m/0hwxm": "Historical novel"}
 a 6
 achieved 1
 after 5

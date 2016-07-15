@@ -3,6 +3,7 @@
 /m/0ctt0c
 Dean Koontz
 
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 1
 angeles 1
 begins 1

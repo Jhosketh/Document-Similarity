@@ -3,6 +3,7 @@
 /m/02w8vz
 Joseph Conrad
 1904
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 abilities 1
 adamant 1

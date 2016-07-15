@@ -3,6 +3,7 @@
 /m/048nsz
 Álex de la Iglesia
 1997
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 a 6
 according 1
 across 1

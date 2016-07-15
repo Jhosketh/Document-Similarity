@@ -3,6 +3,7 @@
 /m/0h250z
 Mohsin Hamid
 2000
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 acceptable 1
 affair 1

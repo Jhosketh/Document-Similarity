@@ -3,6 +3,7 @@
 /m/0cb9hc
 T. A. Barron
 2004-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 17 1
 7 1
 a 15

@@ -3,6 +3,7 @@
 /m/0bjs1p
 Naguib Mahfouz
 1965
+{"/m/0l67h": "Novella"}
 a 13
 able 1
 after 1

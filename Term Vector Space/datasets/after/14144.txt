@@ -3,6 +3,7 @@
 /m/0660byz
 L. Sprague de Camp
 1995
+{"/m/01hmnh": "Fantasy"}
 a 14
 abandoned 1
 abandons 2

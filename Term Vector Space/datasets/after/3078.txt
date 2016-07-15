@@ -3,6 +3,7 @@
 /m/065svj
 Jasper Fforde
 2004-08-05
+{"/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 147 1
 188 1
 a 14

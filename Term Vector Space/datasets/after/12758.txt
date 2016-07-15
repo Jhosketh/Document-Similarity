@@ -3,6 +3,7 @@
 /m/04jmhk7
 Anne Fine
 2006-06-01
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 always 1
 an 1

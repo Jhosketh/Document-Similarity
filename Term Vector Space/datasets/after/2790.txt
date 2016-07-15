@@ -3,6 +3,7 @@
 /m/05lkl0
 S. M. Stirling
 2002
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 148 1
 2025 1
 a 30

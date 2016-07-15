@@ -3,6 +3,7 @@
 /m/0c10yg
 T. Coraghessan Boyle
 1984-05-03
+{"/m/05hgj": "Novel"}
 a 7
 acquaintance 1
 after 1

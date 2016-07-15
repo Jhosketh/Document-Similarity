@@ -3,6 +3,7 @@
 /m/04bb9y
 Philip Roth
 1979
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 also 1
 amy 1

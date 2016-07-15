@@ -3,6 +3,7 @@
 /m/060kv_
 Hugh Lofting
 1922
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 america 1
 and 2
 animal 1

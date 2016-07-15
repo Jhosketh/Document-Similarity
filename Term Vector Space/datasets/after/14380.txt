@@ -3,6 +3,7 @@
 /m/076w7qj
 Danielle Steel
 2004-02
+{"/m/05hgj": "Novel"}
 a 5
 after 2
 against 1

@@ -3,6 +3,7 @@
 /m/04xfvx
 Leslie Charteris
 1936
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 163 1
 a 13
 aboard 1

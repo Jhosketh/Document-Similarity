@@ -3,6 +3,7 @@
 /m/027__yt
 James Patterson
 2007-05-08
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 amid 1
 an 2

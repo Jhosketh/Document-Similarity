@@ -3,6 +3,7 @@
 /m/0ckr95
 David Gemmell
 1986-08-28
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 20 1
 5 1
 a 10

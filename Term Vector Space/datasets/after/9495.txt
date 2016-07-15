@@ -3,6 +3,7 @@
 /m/02q9qlx
 Clive Cussler
 2003
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 2
 adventure 1
 an 1

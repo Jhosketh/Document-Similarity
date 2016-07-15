@@ -3,6 +3,7 @@
 /m/04ggf0y
 Harry Turtledove
 2001-01-30
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/02xlf": "Fiction"}
 a 4
 addiction 1
 after 1

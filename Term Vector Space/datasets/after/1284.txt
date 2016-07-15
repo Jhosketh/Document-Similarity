@@ -3,6 +3,7 @@
 /m/02qkv1
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 36
 abandoned 1
 about 2

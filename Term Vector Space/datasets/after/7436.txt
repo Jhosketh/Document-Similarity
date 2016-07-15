@@ -3,6 +3,7 @@
 /m/0gdty_
 Charles Dickens
 1848-12-19
+{"/m/05hgj": "Novel", "/m/0l67h": "Novella"}
 a 9
 able 1
 absolutely 1

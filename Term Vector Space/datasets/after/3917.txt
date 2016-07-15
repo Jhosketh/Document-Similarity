@@ -3,6 +3,7 @@
 /m/07xz3r
 Mary Stewart
 1973
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 14
 accompanied 1
 adhjan 1

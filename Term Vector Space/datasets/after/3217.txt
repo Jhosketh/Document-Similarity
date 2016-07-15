@@ -3,6 +3,7 @@
 /m/06j4rv
 Bruno Schulz
 1937
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 4
 absentminded 1
 adela 1

@@ -3,6 +3,7 @@
 /m/05c2368
 Janet Fitch
 2006
+{"/m/05hgj": "Novel"}
 a 8
 about 1
 alive 1

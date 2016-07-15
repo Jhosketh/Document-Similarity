@@ -3,6 +3,7 @@
 /m/03gygr1
 Eva Ibbotson
 1985-06-27
+{"/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 12
 abandon 2
 about 2

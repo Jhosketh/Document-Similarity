@@ -3,6 +3,7 @@
 /m/041ym4
 Flann O'Brien
 1967
+{"/m/02n4kr": "Mystery", "/m/02yq81": "Comic novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 34for 1
 34invisible 1
 34sad 1

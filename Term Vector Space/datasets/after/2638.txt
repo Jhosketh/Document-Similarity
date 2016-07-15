@@ -3,6 +3,7 @@
 /m/057kvq
 Ray Bradbury
 1985-10
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 10 1
 154 1
 160 1

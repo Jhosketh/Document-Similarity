@@ -3,6 +3,7 @@
 /m/04q3rdy
 Christopher Moore
 2009-02-10
+{"/m/01z4y": "Comedy", "/m/0pym5": "Absurdist fiction"}
 100 1
 a 3
 according 1

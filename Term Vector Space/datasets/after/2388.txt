@@ -3,6 +3,7 @@
 /m/04tfqs
 Ben Elton
 1996-08-05
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 accepting 1
 actions 1

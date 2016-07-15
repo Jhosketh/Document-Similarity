@@ -3,6 +3,7 @@
 /m/03730q
 James Clavell
 1981-04
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 163 1
 a 2
 aid 1

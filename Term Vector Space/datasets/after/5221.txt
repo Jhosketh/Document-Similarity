@@ -3,6 +3,7 @@
 /m/0bgjvl
 P. G. Wodehouse
 1952-10-16
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 500 1
 a 20
 about 1

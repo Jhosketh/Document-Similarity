@@ -3,6 +3,7 @@
 /m/02qj3ln
 Jim Butcher
 2001-09-01
+{"/m/0lsxr": "Crime Fiction", "/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 37
 abduct 1
 able 3

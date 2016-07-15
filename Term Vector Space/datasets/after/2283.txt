@@ -3,6 +3,7 @@
 /m/04m796
 George MacDonald
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 21 2
 a 34
 about 2

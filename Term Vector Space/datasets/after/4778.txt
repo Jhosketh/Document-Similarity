@@ -3,6 +3,7 @@
 /m/09nqc0
 Graham Edwards
 1997-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 across 1
 actually 1

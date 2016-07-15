@@ -3,6 +3,7 @@
 /m/09ytc1
 Stel Pavlou
 2001
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/06bvp": "Religion", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 12000 1
 2012 1
 60 1

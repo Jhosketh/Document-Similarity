@@ -3,6 +3,7 @@
 /m/03gtq5r
 Danielle Steel
 1985
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 3
 admits 1
 advertising 1

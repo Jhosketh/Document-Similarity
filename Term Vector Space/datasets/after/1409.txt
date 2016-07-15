@@ -3,6 +3,7 @@
 /m/02yv6t
 Antonio di Benedetto
 
+{"/m/0707q": "Short story"}
 a 10
 academy 1
 address 1

@@ -3,6 +3,7 @@
 /m/0q520
 Barbara Pym
 1977-09-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 after 1
 age 1

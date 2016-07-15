@@ -3,6 +3,7 @@
 /m/03qd0h7
 Edward Rutherfurd
 2006-03-02
+{"/m/0hwxm": "Historical novel"}
 addition 1
 also 1
 and 2

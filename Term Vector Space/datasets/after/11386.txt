@@ -3,6 +3,7 @@
 /m/03g_c14
 Phoebe Atwood Taylor
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 7
 aim 1
 already 1

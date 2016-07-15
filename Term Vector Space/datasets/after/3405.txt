@@ -3,6 +3,7 @@
 /m/06x0s9
 Carlos Bulosan
 1946
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 113 1
 130 1
 a 6

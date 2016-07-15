@@ -3,6 +3,7 @@
 /m/0fbcs2
 Garrett P. Serviss
 1947
+{"/m/06n90": "Science Fiction", "/m/06bm_y": "Edisonade"}
 000 1
 a 11
 able 1

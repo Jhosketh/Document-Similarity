@@ -3,6 +3,7 @@
 /m/05q9h_3
 Stanton A. Coblentz
 
+{"/m/01hmnh": "Fantasy"}
 a 3
 abandon 1
 adventurer 1

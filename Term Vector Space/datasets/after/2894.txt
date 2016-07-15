@@ -3,6 +3,7 @@
 /m/05vlwh
 John le Carré
 1986
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 a 6
 adventures 1
 after 1

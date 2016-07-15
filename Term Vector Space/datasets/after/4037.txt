@@ -3,6 +3,7 @@
 /m/0857g1
 Jerry Spinelli
 1990
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/037mh8": "Philosophy"}
 200 1
 a 36
 abilities 1

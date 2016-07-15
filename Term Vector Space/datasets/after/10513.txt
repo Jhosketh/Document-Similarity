@@ -3,6 +3,7 @@
 /m/02x62y8
 Jon Berkeley
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 400year 1
 a 24
 ability 3

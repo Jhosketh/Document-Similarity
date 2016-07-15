@@ -3,6 +3,7 @@
 /m/08n4t2
 Robert Ludlum
 1995-04-10
+{"/m/01jfsb": "Thriller", "/m/0594kx": "Conspiracy fiction", "/m/05hgj": "Novel"}
 a 4
 after 1
 allies 1

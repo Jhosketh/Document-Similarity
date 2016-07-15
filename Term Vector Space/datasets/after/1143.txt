@@ -3,6 +3,7 @@
 /m/02fnr4
 Max Barry
 2003-01-21
+{"/m/026ny": "Dystopia", "/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/0c082": "Utopian and dystopian fiction"}
 a 9
 able 2
 about 1

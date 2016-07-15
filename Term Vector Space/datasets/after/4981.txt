@@ -3,6 +3,7 @@
 /m/09zw2b
 Janet Evanovich
 2003-07-15
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 about 1
 accident 1

@@ -3,6 +3,7 @@
 /m/04gm1g
 Gregory David Roberts
 2003
+{"/m/05hgj": "Novel", "/m/017fp": "Biography", "/m/01pwbn": "True crime", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 178 1
 180 1
 1year 1

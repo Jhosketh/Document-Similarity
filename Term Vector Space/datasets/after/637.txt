@@ -3,6 +3,7 @@
 /m/01gccd
 Koushun Takami
 1999-04
+{"/m/01jfsb": "Thriller", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia", "/m/0c082": "Utopian and dystopian fiction"}
 12 1
 147 1
 150 1

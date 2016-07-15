@@ -3,6 +3,7 @@
 /m/05z_pp0
 Meg Cabot
 2004-12
+{"/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/0fdjb": "Supernatural"}
 150 1
 21st 1
 a 19

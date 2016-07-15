@@ -3,6 +3,7 @@
 /m/081x6g
 W. Somerset Maugham
 1928
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 accompanies 1
 acquaintance 2

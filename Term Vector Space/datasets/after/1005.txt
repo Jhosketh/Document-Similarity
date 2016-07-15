@@ -3,6 +3,7 @@
 /m/023yh8
 Chuck Palahniuk
 2002-09-17
+{"/m/06nbt": "Satire", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 able 1
 acquired 1

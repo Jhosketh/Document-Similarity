@@ -3,6 +3,7 @@
 /m/04g9lq
 Terry Goodkind
 1996-10-15
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 a 6
 ability 1
 adie 1

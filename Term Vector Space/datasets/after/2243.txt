@@ -3,6 +3,7 @@
 /m/04jh4w
 Frank Yerby
 1968
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1st 1
 a 2
 adventure 1

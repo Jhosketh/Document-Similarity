@@ -3,6 +3,7 @@
 /m/08qvns
 Alistair Beaton
 2004-09-30
+{"/m/026ny": "Dystopia", "/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/0c082": "Utopian and dystopian fiction", "/m/02xlf": "Fiction"}
 2007 1
 2200 1
 23142 1

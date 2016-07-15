@@ -3,6 +3,7 @@
 /m/0981kh
 Bernard Cornwell
 1981-02-09
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 14
 abandoned 1
 above 1

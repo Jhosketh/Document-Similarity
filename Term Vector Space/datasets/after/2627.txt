@@ -3,6 +3,7 @@
 /m/056_3_
 John Maxwell Coetzee
 1990-10
+{"/m/05hgj": "Novel"}
 0140275657 1
 a 5
 active 1

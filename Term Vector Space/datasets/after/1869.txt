@@ -3,6 +3,7 @@
 /m/03sbtm
 Eoin Colfer
 2005-04-30
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 24hour 1
 4 1
 a 17

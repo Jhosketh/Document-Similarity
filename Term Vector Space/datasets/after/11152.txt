@@ -3,6 +3,7 @@
 /m/03d0hd0
 Christopher Brookmyre
 1999
+{"/m/0lsxr": "Crime Fiction", "/m/0vgkd": "Black comedy", "/m/06nbt": "Satire", "/m/02xlf": "Fiction"}
 a 12
 action 1
 actually 1

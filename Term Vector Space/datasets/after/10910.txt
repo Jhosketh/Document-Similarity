@@ -3,6 +3,7 @@
 /m/03ch87h
 Gillian Cross
 1990
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 5
 about 1
 adjust 1

@@ -3,6 +3,7 @@
 /m/09_ws6
 Luigi Pirandello
 
+{"/m/05hgj": "Novel"}
 a 15
 according 1
 accused 1

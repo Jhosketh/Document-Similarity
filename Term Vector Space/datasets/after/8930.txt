@@ -3,6 +3,7 @@
 /m/027zsd9
 Edgar Rice Burroughs
 1947
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 112 1
 a 1
 according 1

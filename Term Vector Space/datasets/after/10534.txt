@@ -3,6 +3,7 @@
 /m/02x880w
 Laura Ingalls Wilder
 1933
+{"/m/0hfjk": "Western", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1860s 1
 5 1
 a 3

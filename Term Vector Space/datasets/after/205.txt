@@ -3,6 +3,7 @@
 /m/0g8ln
 Robert A. Heinlein
 1984
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 12
 about 1
 activist 1

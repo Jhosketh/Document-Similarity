@@ -3,6 +3,7 @@
 /m/037gvl
 Raphael Carter
 
+{"/m/0c3mj": "Postcyberpunk", "/m/014dfn": "Speculative fiction", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 24th 1
 a 11
 africa 1

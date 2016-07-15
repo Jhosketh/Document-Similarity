@@ -3,6 +3,7 @@
 /m/0h4v9
 Stephen King
 1999-04-06
+{"/m/02xlf": "Fiction"}
 a 28
 ability 1
 about 1

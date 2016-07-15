@@ -3,6 +3,7 @@
 /m/0b0pt5
 Mo Hayder
 2001-06-04
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 8yearold 2
 a 9
 abducted 1

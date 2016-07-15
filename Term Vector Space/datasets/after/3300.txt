@@ -3,6 +3,7 @@
 /m/06mp57
 Yukio Mishima
 1963
+{"/m/05qfh": "Psychology", "/m/02xlf": "Fiction", "/m/037mh8": "Philosophy"}
 13yearold 1
 a 8
 acts 1

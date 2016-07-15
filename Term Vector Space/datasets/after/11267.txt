@@ -3,6 +3,7 @@
 /m/074k1x
 Eoin Colfer
 2006-08-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 10000 1
 101 1
 21st 1

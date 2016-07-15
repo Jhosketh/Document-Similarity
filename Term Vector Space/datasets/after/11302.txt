@@ -3,6 +3,7 @@
 /m/03gt30t
 Philip Pullman
 1995-11-02
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 4
 against 1
 all 2

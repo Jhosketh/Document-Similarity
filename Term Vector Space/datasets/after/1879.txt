@@ -3,6 +3,7 @@
 /m/03swny
 Brian Herbert
 2002-09-17
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 10
 about 2
 accepts 1

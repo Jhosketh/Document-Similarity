@@ -3,6 +3,7 @@
 /m/0fw1m4
 Katherine Hannigan
 2004-08-17
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 a 2
 accept 1
 acts 1

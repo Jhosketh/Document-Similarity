@@ -3,6 +3,7 @@
 /m/0367dx
 Garth Nix
 2003
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 9
 abhorsen 5
 able 1

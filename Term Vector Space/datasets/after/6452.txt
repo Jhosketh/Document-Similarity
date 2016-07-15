@@ -3,6 +3,7 @@
 /m/0dh1m8
 Fred Vargas
 2001
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 15thcentury 1
 4 1
 a 4

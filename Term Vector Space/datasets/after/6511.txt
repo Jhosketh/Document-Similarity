@@ -3,6 +3,7 @@
 /m/0djnrp
 Isobelle Carmody
 1994-05
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/07lw0y": "Post-holocaust", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 33
 abilities 3
 able 1

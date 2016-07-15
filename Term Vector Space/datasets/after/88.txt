@@ -3,6 +3,7 @@
 /m/07k8z
 C. S. Lewis
 1942
+{"/m/02ql9": "Epistolary novel", "/m/03rllnc": "Inspirational", "/m/014dfn": "Speculative fiction", "/m/06nbt": "Satire", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 141 1
 15 1
 161 1

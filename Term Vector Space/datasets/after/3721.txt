@@ -3,6 +3,7 @@
 /m/07kb1g
 Arturo Pérez-Reverte
 1993
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction"}
 1666 1
 a 36
 about 4

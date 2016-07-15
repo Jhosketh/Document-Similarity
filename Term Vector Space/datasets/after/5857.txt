@@ -3,6 +3,7 @@
 /m/0cnlv8
 Michael Moorcock
 1965
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 12
 accompanies 1
 acquire 1

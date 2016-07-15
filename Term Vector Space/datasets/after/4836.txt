@@ -3,6 +3,7 @@
 /m/09pp0p
 Bret Lott
 1991-11
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 143 1
 2 1
 40 1

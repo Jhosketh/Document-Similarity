@@ -3,6 +3,7 @@
 /m/02z14vf
 Gary Paulsen
 1998-09-08
+{"/m/098tmk": "War novel", "/m/03mfnf": "Young adult literature", "/m/0hwxm": "Historical novel"}
 1861 1
 1868 1
 21 1

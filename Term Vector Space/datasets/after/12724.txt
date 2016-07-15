@@ -3,6 +3,7 @@
 /m/04jkbjk
 
 1978
+{"/m/02yq81": "Comic novel", "/m/0xdf": "Autobiography", "/m/06nbt": "Satire"}
 1 1
 103 1
 27th 1

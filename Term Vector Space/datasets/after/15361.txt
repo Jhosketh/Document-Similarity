@@ -3,6 +3,7 @@
 /m/0ch1ld8
 Jeffery Deaver
 2010-06
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 8
 acts 1
 after 2

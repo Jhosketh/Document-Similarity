@@ -3,6 +3,7 @@
 /m/0260p6s
 Katherine Kurtz
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 100 2
 101 1
 108 1

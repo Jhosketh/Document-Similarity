@@ -3,6 +3,7 @@
 /m/06wfcw
 Charlie Higson
 2006-01-05
+{"/m/06wkf": "Spy fiction"}
 a 24
 able 1
 aboard 1

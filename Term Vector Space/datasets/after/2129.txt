@@ -3,6 +3,7 @@
 /m/048sxp
 David Lodge
 1980
+{"/m/05hgj": "Novel"}
 150s 1
 168 1
 170s 1

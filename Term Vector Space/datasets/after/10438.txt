@@ -3,6 +3,7 @@
 /m/02wys3w
 David Baldacci
 2007-04
+{"/m/02xlf": "Fiction"}
 a 9
 able 1
 across 1

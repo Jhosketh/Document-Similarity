@@ -3,6 +3,7 @@
 /m/0146hq
 Daniel Defoe
 1719
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/05hgj": "Novel"}
 10 1
 13 1
 163 1

@@ -3,6 +3,7 @@
 /m/047gqp9
 Raymond E. Feist
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 2004 1
 a 6
 able 1

@@ -3,6 +3,7 @@
 /m/0gzkxv
 K. A. Applegate
 1997-02
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 114 1
 a 13
 abandoned 1

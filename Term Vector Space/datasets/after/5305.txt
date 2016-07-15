@@ -3,6 +3,7 @@
 /m/0bljtd
 Elizabeth George Speare
 1957-01
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 1754 1
 a 22
 about 1

@@ -3,6 +3,7 @@
 /m/0dbjxj
 Richard Christian Matheson
 1993
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 description 1
 outline 1
 plot 1

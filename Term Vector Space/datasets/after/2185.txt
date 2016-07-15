@@ -3,6 +3,7 @@
 /m/04dflx
 Lloyd Alexander
 1965-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 1 1
 15 1
 165 1

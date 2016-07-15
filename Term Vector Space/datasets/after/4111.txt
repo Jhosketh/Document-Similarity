@@ -3,6 +3,7 @@
 /m/088sr9
 Thomas Harris
 1975
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 10
 agent 2
 aldrich 2

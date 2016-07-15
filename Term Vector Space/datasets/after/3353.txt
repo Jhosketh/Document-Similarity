@@ -3,6 +3,7 @@
 /m/06rv1k
 Paulo Coelho
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 abandoned 1
 abducted 1

@@ -3,6 +3,7 @@
 /m/0h4qqb
 Joseph Conrad
 1915
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 about 1
 alma 1

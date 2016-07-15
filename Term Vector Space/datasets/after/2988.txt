@@ -3,6 +3,7 @@
 /m/061ff0
 Hugh Lofting
 1928
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 2
 age 1
 and 3

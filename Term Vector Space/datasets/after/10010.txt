@@ -3,6 +3,7 @@
 /m/02rjvmc
 John Reynolds Gardiner
 1980
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 10 1
 500 2
 a 10

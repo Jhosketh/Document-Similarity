@@ -3,6 +3,7 @@
 /m/078b7z
 Boris Strugatsky
 1964
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 40
 abandoned 1
 abilities 1

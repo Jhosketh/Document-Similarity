@@ -3,6 +3,7 @@
 /m/04f3066
 S. M. Stirling
 1990
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/026ny": "Dystopia"}
 a 6
 after 2
 alliance 4

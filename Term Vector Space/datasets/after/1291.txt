@@ -3,6 +3,7 @@
 /m/02qtsq
 Daniel Clowes
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 19
 abandoned 3
 about 1

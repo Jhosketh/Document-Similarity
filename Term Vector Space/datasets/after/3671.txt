@@ -3,6 +3,7 @@
 /m/07g8qs
 Daniel Quinn
 1996-12
+{"/m/05hgj": "Novel"}
 a 12
 about 2
 abruptly 1

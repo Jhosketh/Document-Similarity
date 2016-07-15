@@ -3,6 +3,7 @@
 /m/0g9q5m
 B. W. Battin
 2006-10
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 20 1
 a 9
 actress 3

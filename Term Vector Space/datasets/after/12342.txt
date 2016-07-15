@@ -3,6 +3,7 @@
 /m/047fqbq
 Gordon Korman
 
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/03k9fj": "Adventure"}
 advice 1
 against 1
 an 2

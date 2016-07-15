@@ -3,6 +3,7 @@
 /m/04g9mt
 Terry Goodkind
 1999-03-15
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 a 30
 abilities 1
 above 1

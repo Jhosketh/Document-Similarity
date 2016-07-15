@@ -3,6 +3,7 @@
 /m/09xlh_
 Martin Amis
 1997-10-02
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 a 14
 abuse 1
 abused 1

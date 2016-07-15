@@ -3,6 +3,7 @@
 /m/02r2nn6
 Henning Mankell
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 after 1
 against 1

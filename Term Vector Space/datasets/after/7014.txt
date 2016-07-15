@@ -3,6 +3,7 @@
 /m/0fdwvy
 Robert Ludlum
 2007-06-05
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction"}
 20th 1
 a 37
 ababa 2

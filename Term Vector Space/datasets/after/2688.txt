@@ -3,6 +3,7 @@
 /m/05bx3v
 William S. Burroughs
 1985-11
+{"/m/05hgj": "Novel", "/m/0l67h": "Novella"}
 13018 1
 185 1
 a 2

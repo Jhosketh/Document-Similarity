@@ -3,6 +3,7 @@
 /m/02z26xp
 Tim O'Brien
 1998
+{"/m/02yq81": "Comic novel", "/m/07z5s9": "Campus novel"}
 a 6
 able 1
 about 1

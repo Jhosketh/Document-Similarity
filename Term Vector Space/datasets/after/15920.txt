@@ -3,6 +3,7 @@
 /m/0gh89c8
 Fyodor Dostoyevsky
 
+{"/m/05hgj": "Novel"}
 a 12
 about 1
 acquaintance 1

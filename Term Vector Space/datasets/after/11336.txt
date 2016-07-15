@@ -3,6 +3,7 @@
 /m/03gxl4_
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction"}
 a 7
 admits 1
 all 1

@@ -3,6 +3,7 @@
 /m/0cslvz
 Patricia Wrede
 1990
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 9
 about 2
 absorb 1

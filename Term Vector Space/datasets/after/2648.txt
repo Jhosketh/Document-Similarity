@@ -3,6 +3,7 @@
 /m/058bx5
 P. Schuyler Miller
 1914
+{"/m/09s1f": "Business", "/m/03rllnc": "Inspirational", "/m/014dfn": "Speculative fiction", "/m/02j62": "Economics", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 about 2
 affair 1

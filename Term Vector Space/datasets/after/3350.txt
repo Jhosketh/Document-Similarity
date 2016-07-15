@@ -3,6 +3,7 @@
 /m/06rqfj
 Edward Abbey
 1956
+{"/m/025txgl": "Western fiction", "/m/02xlf": "Fiction"}
 148 1
 a 6
 across 1

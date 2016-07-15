@@ -3,6 +3,7 @@
 /m/03cy2d6
 Robert J. Sawyer
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 400 1
 a 9
 access 1

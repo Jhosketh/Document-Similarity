@@ -3,6 +3,7 @@
 /m/07sc7fq
 Pramoedya Ananta Toer
 1980
+{"/m/0hwxm": "Historical novel"}
 a 4
 accompany 1
 after 6

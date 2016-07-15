@@ -3,6 +3,7 @@
 /m/02vtv91
 Candace Bushnell
 2003
+{"/m/03h09f": "Chick lit", "/m/01qxvh": "Romance novel"}
 a 19
 accepted 1
 admired 1

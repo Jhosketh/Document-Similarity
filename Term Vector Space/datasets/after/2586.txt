@@ -3,6 +3,7 @@
 /m/054shl
 Lucy Maud Montgomery
 1917
+{"/m/03mfnf": "Young adult literature", "/m/05hgj": "Novel"}
 16 1
 40s 1
 a 16

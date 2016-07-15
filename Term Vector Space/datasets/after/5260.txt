@@ -3,6 +3,7 @@
 /m/0bjv3_
 Amelia Atwater-Rhodes
 
+{"/m/039vk": "Gothic fiction", "/m/0kflf": "Vampire fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 13
 accepts 1
 acton 1

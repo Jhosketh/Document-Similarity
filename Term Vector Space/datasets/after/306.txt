@@ -3,6 +3,7 @@
 /m/0jgtn
 Dorothy L. Sayers
 1933
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 36
 about 2
 accepts 1

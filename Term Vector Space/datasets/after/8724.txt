@@ -3,6 +3,7 @@
 /m/027jxhg
 Rudy Rucker
 1988
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 20302031 1
 a 17
 abbreviated 1

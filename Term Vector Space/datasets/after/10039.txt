@@ -3,6 +3,7 @@
 /m/02rms6w
 Sarah Dessen
 2006-04-06
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 3
 about 1
 after 1

@@ -3,6 +3,7 @@
 /m/05w72f
 Jonathan Safran Foer
 2006-04-04
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 11 2
 2001 1
 a 13

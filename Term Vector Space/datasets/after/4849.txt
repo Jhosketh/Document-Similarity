@@ -3,6 +3,7 @@
 /m/09q75l
 Octave Mirbeau
 1900
+{"/m/02xlf": "Fiction", "/m/0g_jj": "Picaresque novel"}
 a 3
 and 2
 as 1

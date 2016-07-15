@@ -3,6 +3,7 @@
 /m/046vw5t
 Charlaine Harris
 2002-03
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 6
 all 1
 and 7

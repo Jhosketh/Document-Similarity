@@ -3,6 +3,7 @@
 /m/01s5tc
 Kurt Vonnegut
 1961
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 133 1
 a 22
 able 1

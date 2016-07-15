@@ -3,6 +3,7 @@
 /m/04yflr
 Robin Hobb
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 after 1
 an 1

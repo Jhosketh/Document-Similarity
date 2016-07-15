@@ -3,6 +3,7 @@
 /m/02qttr9
 Jane Smiley
 1995-03-21
+{"/m/02yq81": "Comic novel", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 a 60
 abandon 1
 ability 1

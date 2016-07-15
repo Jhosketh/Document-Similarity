@@ -3,6 +3,7 @@
 /m/0cvvk7
 Sean McMullen
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 abilities 1
 abuse 1

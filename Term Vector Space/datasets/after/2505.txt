@@ -3,6 +3,7 @@
 /m/04_4d1
 Angela Carter
 1972
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 accompanies 1
 acrobats 1

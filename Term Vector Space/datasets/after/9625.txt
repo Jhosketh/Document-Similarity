@@ -3,6 +3,7 @@
 /m/02qnd86
 Robert J. Sawyer
 1999
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 187a 1
 45yearold 1
 a 22

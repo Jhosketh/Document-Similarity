@@ -3,6 +3,7 @@
 /m/03csktj
 Walter Moers
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 12yearold 1
 a 4
 after 1

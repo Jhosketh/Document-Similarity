@@ -3,6 +3,7 @@
 /m/0gfg1nc
 Jonathan Freedland
 1998
+{"/m/05qt0": "Politics", "/m/05h83": "Non-fiction"}
 a 2
 accurate 1
 across 1

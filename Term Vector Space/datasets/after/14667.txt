@@ -3,6 +3,7 @@
 /m/0glpt4l
 Sophie Kinsella
 
+{"/m/03h09f": "Chick lit", "/m/01z4y": "Comedy"}
 a 10
 an 1
 and 4

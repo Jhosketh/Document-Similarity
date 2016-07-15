@@ -3,6 +3,7 @@
 /m/06z_ls
 Colm Tóibín
 1992-09-11
+{"/m/05hgj": "Novel"}
 a 5
 again 1
 also 1

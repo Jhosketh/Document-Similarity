@@ -3,6 +3,7 @@
 /m/07_c7j
 Lois Lowry
 2003
+{"/m/02p0szs": "Historical fiction", "/m/03mfnf": "Young adult literature"}
 108 1
 111 1
 187 1

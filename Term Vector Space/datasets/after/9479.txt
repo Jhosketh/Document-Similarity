@@ -3,6 +3,7 @@
 /m/02q8dfw
 Kate Cann
 2006-07-03
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/03npn": "Horror"}
 1 1
 11 1
 17 3

@@ -3,6 +3,7 @@
 /m/02x041
 Orson Scott Card
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 3
 achieved 1
 actions 1

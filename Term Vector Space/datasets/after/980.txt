@@ -3,6 +3,7 @@
 /m/02286p
 Stephen King
 1987-06-08
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 174 1
 a 33
 about 6

@@ -3,6 +3,7 @@
 /m/0gc8_
 Isaac Asimov
 1954-06
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 8
 about 1
 adulter 1

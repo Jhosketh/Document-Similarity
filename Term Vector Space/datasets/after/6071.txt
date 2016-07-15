@@ -3,6 +3,7 @@
 /m/0cyw58
 Adam Rapp
 2003-03-01
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 10yearold 1
 14yearold 1
 33 1

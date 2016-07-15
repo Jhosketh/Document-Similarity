@@ -3,6 +3,7 @@
 /m/0454d_
 Austin Tappan Wright
 1942
+
 a 7
 ability 1
 accepts 1

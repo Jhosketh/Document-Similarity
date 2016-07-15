@@ -3,6 +3,7 @@
 /m/03gsdmy
 Laurence Yep
 
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1000 1
 a 19
 able 2

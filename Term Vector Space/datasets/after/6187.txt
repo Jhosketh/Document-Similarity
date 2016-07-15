@@ -3,6 +3,7 @@
 /m/0d31dk
 Sharon Creech
 1998-09-30
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 11
 able 1
 adventures 1

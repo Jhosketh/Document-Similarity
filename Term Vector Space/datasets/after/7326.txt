@@ -3,6 +3,7 @@
 /m/0g58f8
 Donald Hamilton
 1983
+{"/m/014dfn": "Speculative fiction", "/m/06wkf": "Spy fiction"}
 a 2
 after 1
 ambushers 1

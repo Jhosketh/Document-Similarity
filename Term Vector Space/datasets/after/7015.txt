@@ -3,6 +3,7 @@
 /m/0fdxnb
 Richard Price
 1998-06-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 20
 abandoned 2
 about 2

@@ -3,6 +3,7 @@
 /m/038b8j
 John Grisham
 1996
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 10 3
 2 1
 400 1

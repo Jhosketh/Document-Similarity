@@ -3,6 +3,7 @@
 /m/01khgt
 Jules Verne
 1865
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/01gw42": "Scientific romance"}
 100 1
 1000 1
 277 1

@@ -3,6 +3,7 @@
 /m/09jt76
 Barbara Mertz
 1975
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 a 8
 abandoned 1
 about 1

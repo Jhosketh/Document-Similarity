@@ -3,6 +3,7 @@
 /m/0ccw7n
 Tracy Hickman
 1985-07
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 29
 able 2
 above 1

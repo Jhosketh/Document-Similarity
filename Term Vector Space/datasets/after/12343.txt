@@ -3,6 +3,7 @@
 /m/047tq76
 Ryunosuke Akutagawa
 1919-05
+{"/m/0707q": "Short story"}
 a 6
 actually 1
 affect 1

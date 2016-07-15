@@ -3,6 +3,7 @@
 /m/0bzfql
 Robert Holdstock
 1984
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 146 1
 148 1
 a 6

@@ -3,6 +3,7 @@
 /m/027lry9
 Luke Davies
 1998-06-16
+{"/m/07s9rl0": "Drama", "/m/05hgj": "Novel", "/m/01qxvh": "Romance novel"}
 a 20
 achieve 1
 acting 1

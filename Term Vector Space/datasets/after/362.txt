@@ -3,6 +3,7 @@
 /m/0mdk9
 Pat Barker
 1991-05-30
+{"/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 a 42
 abandonment 1
 able 1

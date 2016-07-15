@@ -3,6 +3,7 @@
 /m/02x842
 Rodman Philbrick
 1993
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 a 27
 abandoned 1
 about 1

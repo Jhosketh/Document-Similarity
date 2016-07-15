@@ -3,6 +3,7 @@
 /m/02qtc_q
 Dan Simmons
 2007
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02p0szs": "Historical fiction", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 28 1
 2nd 1
 50 1

@@ -3,6 +3,7 @@
 /m/0ccp9_
 Stephen R. Donaldson
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 19
 abduction 1
 able 1

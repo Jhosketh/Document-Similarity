@@ -3,6 +3,7 @@
 /m/06pzrq
 William S. Burroughs
 1995-01
+{"/m/05hgj": "Novel"}
 125 1
 a 3
 addition 1

@@ -3,6 +3,7 @@
 /m/0g39q7
 Mercedes Lackey
 2003-10-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 32
 about 1
 accepts 3

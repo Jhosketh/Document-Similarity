@@ -3,6 +3,7 @@
 /m/02rbvd6
 Ann Rinaldi
 1999-10
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1th 1
 a 3
 affair 1

@@ -3,6 +3,7 @@
 /m/028556b
 MaryJanice Davidson
 
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/072lff": "Paranormal romance"}
 1st 1
 31st 1
 a 8

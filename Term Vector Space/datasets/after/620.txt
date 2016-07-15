@@ -3,6 +3,7 @@
 /m/01fnzb
 Anthony Trollope
 1864
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 5
 accepts 1
 adolphus 2

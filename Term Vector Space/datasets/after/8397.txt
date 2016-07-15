@@ -3,6 +3,7 @@
 /m/026x76h
 Angie Sage
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 4
 action 1
 alchemist 1

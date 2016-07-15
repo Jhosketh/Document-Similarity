@@ -3,6 +3,7 @@
 /m/03c7n6d
 Richard Laymon
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 6
 abuse 1
 after 1

@@ -3,6 +3,7 @@
 /m/08v2yy
 Saul Bellow
 1947
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 24
 abandoned 1
 about 3

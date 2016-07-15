@@ -3,6 +3,7 @@
 /m/01k62z
 Joe Klein
 1996-01-16
+{"/m/02xlf": "Fiction"}
 a 5
 affair 1
 also 1

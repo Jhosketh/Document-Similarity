@@ -3,6 +3,7 @@
 /m/080dhnk
 Siegfried Lenz
 1968
+{"/m/05hgj": "Novel"}
 a 4
 an 3
 and 4

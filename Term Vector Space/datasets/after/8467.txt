@@ -3,6 +3,7 @@
 /m/02727sn
 Alma Alexander
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 18
 about 2
 absolute 1

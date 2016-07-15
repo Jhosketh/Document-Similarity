@@ -3,6 +3,7 @@
 /m/026gwsv
 Robin Cook
 1991
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10000 1
 5 1
 6 1

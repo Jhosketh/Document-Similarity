@@ -3,6 +3,7 @@
 /m/04gbkc
 Isabel Allende
 1982
+{"/m/012jgz": "Autobiographical novel", "/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0127jb": "Magic realism"}
 a 34
 about 1
 accepts 1

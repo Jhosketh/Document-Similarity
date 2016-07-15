@@ -3,6 +3,7 @@
 /m/0d1ktl
 John Braine
 1957
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 140s 1
 a 22
 about 1

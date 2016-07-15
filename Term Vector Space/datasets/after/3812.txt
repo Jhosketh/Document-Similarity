@@ -3,6 +3,7 @@
 /m/07qj74
 Paulo Coelho
 
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 6
 about 1
 also 1

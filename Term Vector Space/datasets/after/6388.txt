@@ -3,6 +3,7 @@
 /m/0ddhj5
 Ruth Rendell
 2005-04-07
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 6
 administering 1
 almost 1

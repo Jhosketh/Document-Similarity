@@ -3,6 +3,7 @@
 /m/0404yct
 Victor Appleton
 1912
+{"/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 a 7
 about 2
 accepts 1

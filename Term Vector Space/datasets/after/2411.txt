@@ -3,6 +3,7 @@
 /m/04vfx1
 Clive Barker
 1987
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy"}
 a 13
 abilities 1
 accidentally 1

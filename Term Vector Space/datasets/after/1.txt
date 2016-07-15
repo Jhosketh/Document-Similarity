@@ -3,6 +3,7 @@
 /m/0hhy
 George Orwell
 1945-08-17
+{"/m/016lj8": "Roman \u00e0 clef", "/m/06nbt": "Satire", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 4 1
 5 1
 6 1

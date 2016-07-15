@@ -3,6 +3,7 @@
 /m/08jtcc
 Jim Crace
 1997
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 2000 1
 40 1
 7 1

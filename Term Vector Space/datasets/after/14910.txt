@@ -3,6 +3,7 @@
 /m/0b6h_pv
 Isobelle Carmody
 1997-09-01
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature"}
 a 4
 account 1
 action 1

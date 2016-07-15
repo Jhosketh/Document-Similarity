@@ -3,6 +3,7 @@
 /m/0f22g1
 Randall Garrett
 1988
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 2
 add 1
 an 1

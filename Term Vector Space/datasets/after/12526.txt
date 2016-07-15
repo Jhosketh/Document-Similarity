@@ -3,6 +3,7 @@
 /m/04f2xn2
 Robert Muchamore
 2009
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel"}
 2003 1
 4 1
 600000 1

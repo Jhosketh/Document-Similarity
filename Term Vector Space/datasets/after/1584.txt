@@ -3,6 +3,7 @@
 /m/038552
 Nathaniel Hawthorne
 1828
+{"/m/017fp": "Biography", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 20 1
 a 13
 able 1

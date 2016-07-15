@@ -3,6 +3,7 @@
 /m/0738q7
 C.D. Payne
 1993-06
+{"/m/02ql9": "Epistolary novel", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 14yearold 1
 a 15
 aboveaverage 1

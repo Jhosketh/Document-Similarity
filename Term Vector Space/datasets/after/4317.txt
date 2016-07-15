@@ -3,6 +3,7 @@
 /m/08s06b
 Mary Higgins Clark
 
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 actually 1
 against 2

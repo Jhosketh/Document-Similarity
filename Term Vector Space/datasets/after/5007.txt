@@ -3,6 +3,7 @@
 /m/0b0ms6
 Laurie R. King
 2006-02
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 2
 adams 1
 al 1

@@ -3,6 +3,7 @@
 /m/047f6y4
 Nathalie Mallet
 2007-08
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 alchemical 1
 all 1

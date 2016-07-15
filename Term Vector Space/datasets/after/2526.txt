@@ -3,6 +3,7 @@
 /m/0507mq
 Mark Twain
 1894
+{"/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/05hgj": "Novel", "/m/08sdrw": "Adventure novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 adventures 1
 africa 1

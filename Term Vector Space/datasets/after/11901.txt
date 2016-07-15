@@ -3,6 +3,7 @@
 /m/03y9p3p
 Ted Chiang
 2007-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 8
 abbas 1
 alchemy 1

@@ -3,6 +3,7 @@
 /m/0271l9w
 Roderick Thorp
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/0lsxr": "Crime Fiction"}
 a 6
 about 1
 affair 1

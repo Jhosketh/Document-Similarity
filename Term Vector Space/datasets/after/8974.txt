@@ -3,6 +3,7 @@
 /m/0280zzm
 Matthew Tobin Anderson
 2006-09-12
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02p0szs": "Historical fiction", "/m/0hwxm": "Historical novel"}
 0301 1
 a 7
 adventures 1

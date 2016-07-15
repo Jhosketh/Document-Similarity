@@ -3,6 +3,7 @@
 /m/0269jg3
 Sally Salminen
 1936
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 affluent 1
 against 1

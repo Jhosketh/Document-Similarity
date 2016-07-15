@@ -3,6 +3,7 @@
 /m/08_t0w
 Graham Masterton
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 10 1
 8 1
 a 25

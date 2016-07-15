@@ -3,6 +3,7 @@
 /m/04790xh
 Sara Douglass
 1997-01-29
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 able 1
 abstract 1

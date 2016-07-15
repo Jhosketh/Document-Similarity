@@ -3,6 +3,7 @@
 /m/025y_w0
 Max Frisch
 1979
+{"/m/02xlf": "Fiction"}
 74 1
 a 7
 admit 1

@@ -3,6 +3,7 @@
 /m/023mhg
 James A. Michener
 1988
+{"/m/03g3w": "History", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 100 1
 11 1
 1200 1

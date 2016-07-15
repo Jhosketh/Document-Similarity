@@ -3,6 +3,7 @@
 /m/03chm2h
 Sergey Lukyanenko
 1997
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 20 1
 a 41
 abandons 1

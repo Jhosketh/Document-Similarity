@@ -3,6 +3,7 @@
 /m/0415vl
 Roger Zelazny
 
+{"/m/06n90": "Science Fiction", "/m/0707q": "Short story"}
 a 2
 able 1
 about 1

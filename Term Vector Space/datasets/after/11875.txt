@@ -3,6 +3,7 @@
 /m/03y4w18
 Lisa Ann Sandell
 2007-05-01
+{"/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 8 1
 a 24
 about 1

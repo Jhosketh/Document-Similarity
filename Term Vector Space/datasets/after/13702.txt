@@ -3,6 +3,7 @@
 /m/05mqr5h
 Scott Spencer
 1986-04-12
+{"/m/01qxvh": "Romance novel"}
 a 5
 about 1
 absorbed 1

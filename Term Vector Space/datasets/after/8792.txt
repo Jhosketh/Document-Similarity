@@ -3,6 +3,7 @@
 /m/027pghk
 Eileen Wilks
 2003-07
+{"/m/01hmnh": "Fantasy"}
 a 4
 anthology 1
 appears 1

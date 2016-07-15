@@ -3,6 +3,7 @@
 /m/03q_qg
 Charles Dickens
 1838
+{"/m/02yq81": "Comic novel", "/m/05hgj": "Novel"}
 a 49
 abilities 1
 able 2

@@ -3,6 +3,7 @@
 /m/02ll5h
 Hergé
 1930
+{"/m/01vnb": "Comic book"}
 a 19
 able 1
 abroad 1

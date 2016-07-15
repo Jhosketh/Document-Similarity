@@ -3,6 +3,7 @@
 /m/026b6xj
 Elizabeth Goudge
 1946-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 13 1
 1842 1
 a 1

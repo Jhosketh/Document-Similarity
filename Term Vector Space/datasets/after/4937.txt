@@ -3,6 +3,7 @@
 /m/09xz1z
 Dave Barry
 1999-09
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/02n4kr": "Mystery", "/m/01z4y": "Comedy", "/m/09kqc": "Humour", "/m/0c3351": "Suspense"}
 a 23
 about 5
 accidentally 1

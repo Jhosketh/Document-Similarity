@@ -3,6 +3,7 @@
 /m/074kcc
 Anne Rice
 1982
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 25
 able 1
 accuse 1

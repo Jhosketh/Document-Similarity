@@ -3,6 +3,7 @@
 /m/02z729s
 Stephenie Meyer
 2008-08
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 150yearold 1
 a 11
 abilities 1

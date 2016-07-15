@@ -3,6 +3,7 @@
 /m/0cw5br
 Chitra Banerjee Divakaruni
 1997-02-06
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 2
 american 1
 an 2

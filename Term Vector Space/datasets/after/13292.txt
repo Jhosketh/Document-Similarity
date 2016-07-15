@@ -3,6 +3,7 @@
 /m/04_0htf
 Erin Hunter
 2008-11-25
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 12
 abandoned 1
 after 2

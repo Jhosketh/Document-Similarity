@@ -3,6 +3,7 @@
 /m/0gmb5l
 Alistair MacLean
 1966
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 8 1
 a 1
 aboard 1

@@ -3,6 +3,7 @@
 /m/0bmsk7
 Daniel Quinn
 
+{"/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 11
 aaron 4
 abraham 1

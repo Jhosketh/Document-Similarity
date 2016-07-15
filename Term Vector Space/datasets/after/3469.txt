@@ -3,6 +3,7 @@
 /m/071dvw
 Agatha Christie
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0py65": "Historical whodunnit", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 11
 about 2
 accident 1

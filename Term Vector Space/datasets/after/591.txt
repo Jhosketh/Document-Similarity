@@ -3,6 +3,7 @@
 /m/01crb4
 Douglas Adams
 1980-01-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0hh4w": "Comic science fiction", "/m/09kqc": "Humour"}
 a 20
 abandoned 1
 accidentally 1

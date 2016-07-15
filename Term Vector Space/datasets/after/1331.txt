@@ -3,6 +3,7 @@
 /m/02txlz
 Alasdair Gray
 1981
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia", "/m/05hgj": "Novel"}
 a 12
 ages 1
 all 1

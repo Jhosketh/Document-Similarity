@@ -3,6 +3,7 @@
 /m/05mx627
 
 
+
 a 4
 become 1
 bishop 1

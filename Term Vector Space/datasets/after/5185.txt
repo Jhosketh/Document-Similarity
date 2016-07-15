@@ -3,6 +3,7 @@
 /m/0bd178
 Karen Cushman
 1995-03
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 13 1
 14 1
 8 1

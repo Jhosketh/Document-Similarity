@@ -3,6 +3,7 @@
 /m/08kj9v
 Diana Gabaldon
 1991-06-01
+{"/m/07s2s": "Time travel", "/m/0hwxm": "Historical novel", "/m/06n90": "Science Fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 1743 1
 18th 2
 200 1

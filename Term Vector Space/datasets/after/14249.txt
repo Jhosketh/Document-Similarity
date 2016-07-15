@@ -3,6 +3,7 @@
 /m/06w8smv
 Orson Scott Card
 
+{"/m/06n90": "Science Fiction"}
 a 3
 adviser 1
 africa 2

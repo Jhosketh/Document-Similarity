@@ -3,6 +3,7 @@
 /m/03f_14
 Robin Hobb
 1995
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 25
 abdicates 1
 abdication 1

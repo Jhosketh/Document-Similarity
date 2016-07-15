@@ -3,6 +3,7 @@
 /m/01zvdj
 Evelyn Waugh
 1948-02
+{"/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 aaronson 1
 abercrombie 3

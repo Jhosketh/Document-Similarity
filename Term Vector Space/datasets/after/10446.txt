@@ -3,6 +3,7 @@
 /m/02w_lbn
 Kevin Smith
 2007-09-25
+{"/m/02yq81": "Comic novel", "/m/02gsv": "Personal journal"}
 1 2
 a 40
 abandon 1

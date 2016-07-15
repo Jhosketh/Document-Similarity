@@ -3,6 +3,7 @@
 /m/04zh1w
 Khaled Hosseini
 2003-05-29
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 17 1
 a 42
 able 1

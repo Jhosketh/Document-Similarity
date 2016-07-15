@@ -3,6 +3,7 @@
 /m/07gw_9
 John Brunner
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 3
 abideand 1
 about 1

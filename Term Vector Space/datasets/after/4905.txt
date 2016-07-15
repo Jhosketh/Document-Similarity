@@ -3,6 +3,7 @@
 /m/09vvg3
 Richard Wright
 
+{"/m/0707q": "Short story"}
 600 1
 a 34
 about 1

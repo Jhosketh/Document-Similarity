@@ -3,6 +3,7 @@
 /m/0fv_fn
 Leo Tolstoy
 1863
+{"/m/02xlf": "Fiction", "/m/0l67h": "Novella"}
 a 9
 about 2
 accepts 1

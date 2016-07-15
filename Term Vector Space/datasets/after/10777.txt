@@ -3,6 +3,7 @@
 /m/03c5932
 Upton Sinclair, Jr.
 1928
+{"/m/05hgj": "Novel"}
 1 2
 10 2
 11 1

@@ -3,6 +3,7 @@
 /m/026nnq3
 Vilhelm Moberg
 1959
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1862 1
 a 1
 about 1

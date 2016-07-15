@@ -3,6 +3,7 @@
 /m/036g58
 Anya Seton
 1972-11-01
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 160s 2
 a 5
 acting 1

@@ -3,6 +3,7 @@
 /m/03bp19
 J. G. Ballard
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 above 1
 activities 1

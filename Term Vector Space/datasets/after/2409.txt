@@ -3,6 +3,7 @@
 /m/04vdtl
 Meg Cabot
 2002
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 1
 always 1
 american 1

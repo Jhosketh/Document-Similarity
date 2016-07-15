@@ -3,6 +3,7 @@
 /m/028408g
 Philippa Gregory
 2005
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 19
 ability 2
 about 1

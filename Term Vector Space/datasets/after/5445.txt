@@ -3,6 +3,7 @@
 /m/0bwydb
 Robert Anthony Salvatore
 2001-04-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 after 1
 against 1

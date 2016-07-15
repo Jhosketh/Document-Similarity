@@ -3,6 +3,7 @@
 /m/02836x8
 Tim Dorsey
 2007
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 44 1
 a 2
 agent 1

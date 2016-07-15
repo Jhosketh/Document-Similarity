@@ -3,6 +3,7 @@
 /m/0gnfq
 Victor Hugo
 1862
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1500 2
 1815 1
 1832 1

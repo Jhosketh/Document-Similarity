@@ -3,6 +3,7 @@
 /m/0gz3kk
 Jules Verne
 1884-12
+{"/m/03npn": "Horror", "/m/0707q": "Short story"}
 a 9
 again 1
 ago 1

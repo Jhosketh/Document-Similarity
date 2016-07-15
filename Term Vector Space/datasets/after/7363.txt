@@ -3,6 +3,7 @@
 /m/0g7hzf
 Shashi Tharoor
 1991
+{"/m/0gf28": "Parody", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/016lj8": "Roman \u00e0 clef"}
 a 12
 accident 3
 achieves 1

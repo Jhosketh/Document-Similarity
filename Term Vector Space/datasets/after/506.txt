@@ -3,6 +3,7 @@
 /m/0171h9
 William Styron
 1979
+{"/m/05hgj": "Novel"}
 147 1
 a 22
 abusive 2

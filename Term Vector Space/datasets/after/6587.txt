@@ -3,6 +3,7 @@
 /m/0dlb6f
 Laurie R. King
 2006-05-30
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 120s 1
 a 6
 about 2

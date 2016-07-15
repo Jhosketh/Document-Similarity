@@ -3,6 +3,7 @@
 /m/0db00_
 Caroline B. Cooney
 1994-06-16
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 18yearold 2
 22yearold 1
 a 7

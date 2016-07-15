@@ -3,6 +3,7 @@
 /m/03w9_l9
 Ishmael Reed
 1969
+{"/m/025txgl": "Western fiction", "/m/0hfjk": "Western"}
 a 11
 about 1
 adults 1

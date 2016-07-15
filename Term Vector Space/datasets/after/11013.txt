@@ -3,6 +3,7 @@
 /m/03cn8cx
 S. M. Stirling
 
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 162 1
 188 1
 a 13

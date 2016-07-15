@@ -3,6 +3,7 @@
 /m/02dgg8
 John Brunner
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 2066 1
 21stcentury 1
 a 3

@@ -3,6 +3,7 @@
 /m/02x7nt4
 Olaf Stapledon
 1947
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 a 14
 about 1
 action 2

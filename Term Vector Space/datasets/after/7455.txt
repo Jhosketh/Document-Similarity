@@ -3,6 +3,7 @@
 /m/0ggrlv
 Jack Whyte
 1992
+{"/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 41
 able 2
 about 2

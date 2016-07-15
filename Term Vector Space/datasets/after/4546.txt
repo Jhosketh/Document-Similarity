@@ -3,6 +3,7 @@
 /m/096fy5
 William Steig
 1976-05
+{"/m/0dwly": "Children's literature"}
 a 9
 abel 8
 after 1

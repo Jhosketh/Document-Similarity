@@ -3,6 +3,7 @@
 /m/06kcgm
 Franklin W. Dixon
 1973
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 8
 after 2
 agamemnon 1

@@ -3,6 +3,7 @@
 /m/03jzn8
 Kevin J. Anderson
 2000-10-03
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 31
 abulurd 4
 accomplish 1

@@ -3,6 +3,7 @@
 /m/05p9bxw
 Cassandra Clare
 2008-03-25
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 15
 about 3
 abruptly 1

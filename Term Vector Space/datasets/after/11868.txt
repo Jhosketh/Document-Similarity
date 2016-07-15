@@ -3,6 +3,7 @@
 /m/03y1t6h
 Anthony Trollope
 1847
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 2
 against 1
 and 2

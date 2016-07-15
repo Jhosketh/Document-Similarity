@@ -3,6 +3,7 @@
 /m/04yc6b1
 Nicholas Sparks
 2002-09
+{"/m/05hgj": "Novel", "/m/01qxvh": "Romance novel"}
 188 1
 2002 1
 a 10

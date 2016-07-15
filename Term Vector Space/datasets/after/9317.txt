@@ -3,6 +3,7 @@
 /m/02pw_7f
 Irène Némirovsky
 1929
+{"/m/05hgj": "Novel"}
 a 3
 and 1
 as 1

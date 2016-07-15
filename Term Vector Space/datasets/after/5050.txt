@@ -3,6 +3,7 @@
 /m/0b48p5
 Bernard Cornwell
 1982-05-10
+{"/m/0hwxm": "Historical novel"}
 a 22
 abandon 1
 abandoning 1

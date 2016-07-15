@@ -3,6 +3,7 @@
 /m/04mz1q9
 Maria V. Snyder
 2008-03
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 able 1
 added 1

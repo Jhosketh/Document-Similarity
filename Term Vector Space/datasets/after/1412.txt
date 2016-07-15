@@ -3,6 +3,7 @@
 /m/02z3f0
 Roald Dahl
 1983
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 86 2
 a 38
 about 2

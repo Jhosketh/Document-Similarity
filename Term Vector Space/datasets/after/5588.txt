@@ -3,6 +3,7 @@
 /m/0c5ps5
 Hunter S. Thompson
 1983
+{"/m/017fp": "Biography", "/m/02xlf": "Fiction", "/m/016chh": "Memoir"}
 180 1
 a 7
 about 1

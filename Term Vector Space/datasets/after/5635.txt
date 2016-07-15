@@ -3,6 +3,7 @@
 /m/0c80ss
 Virginia DeMarce
 
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/01tz3c": "Anthology", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 1631 1
 1633 1
 1634 1

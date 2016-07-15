@@ -3,6 +3,7 @@
 /m/039nl1
 Ken Follett
 
+{"/m/01jfsb": "Thriller", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 141 1
 18yearold 1
 a 4

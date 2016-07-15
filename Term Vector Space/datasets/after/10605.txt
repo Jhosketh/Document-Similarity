@@ -3,6 +3,7 @@
 /m/02z3y8r
 Rex Stout
 1968-05-28
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1000 1
 144 1
 145 1

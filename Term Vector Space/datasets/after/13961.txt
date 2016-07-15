@@ -3,6 +3,7 @@
 /m/03nv30j
 Tamora Pierce
 2009-04-14
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 15
 able 3
 abuse 1

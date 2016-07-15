@@ -3,6 +3,7 @@
 /m/02p8939
 Kenneth Oppel
 2007-08-16
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 24
 able 1
 acceptance 1

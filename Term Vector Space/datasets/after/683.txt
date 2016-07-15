@@ -3,6 +3,7 @@
 /m/01jphw
 David Lodge
 1965
+{"/m/02yq81": "Comic novel", "/m/02xlf": "Fiction"}
 a 9
 about 1
 adam 6

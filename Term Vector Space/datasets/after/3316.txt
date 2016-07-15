@@ -3,6 +3,7 @@
 /m/06p5gb
 Tom Sharpe
 
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 a 12
 about 2
 academics 1

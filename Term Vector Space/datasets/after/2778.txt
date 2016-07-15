@@ -3,6 +3,7 @@
 /m/05kr21
 Mark Twain
 1894
+{"/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/02n4kr": "Mystery", "/m/06nbt": "Satire", "/m/01hmnh": "Fantasy", "/m/09kqc": "Humour"}
 132 1
 1th 1
 a 14

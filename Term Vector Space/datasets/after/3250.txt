@@ -3,6 +3,7 @@
 /m/06kcdk
 Franklin W. Dixon
 1969
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 a 18
 acted 1
 after 3

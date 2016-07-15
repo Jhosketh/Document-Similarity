@@ -3,6 +3,7 @@
 /m/04gqxs6
 Jean Lorrah
 1984-11
+{"/m/06n90": "Science Fiction"}
 a 2
 acquire 1
 amanda 1

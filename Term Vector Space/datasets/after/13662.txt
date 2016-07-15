@@ -3,6 +3,7 @@
 /m/05mqgs1
 Bruce Marshall
 1926
+{"/m/05hgj": "Novel"}
 a 17
 about 1
 admiration 1

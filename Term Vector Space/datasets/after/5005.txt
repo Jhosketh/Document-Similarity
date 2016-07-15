@@ -3,6 +3,7 @@
 /m/0b0g4j
 Cynthia Rylant
 1992
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 4
 about 1
 after 2

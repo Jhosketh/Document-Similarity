@@ -3,6 +3,7 @@
 /m/06zr0bh
 Joanne Harris
 2007-05-02
+{"/m/05hgj": "Novel"}
 a 10
 adventure 1
 all 2

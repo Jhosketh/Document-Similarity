@@ -3,6 +3,7 @@
 /m/026cnd3
 Richard Brautigan
 1971-03-23
+{"/m/05hgj": "Novel"}
 a 6
 abortion 2
 about 1

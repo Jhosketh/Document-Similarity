@@ -3,6 +3,7 @@
 /m/02qvqdm
 Hal Clement
 1971
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 10 1
 21185 1
 30 2

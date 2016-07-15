@@ -3,6 +3,7 @@
 /m/043mvvd
 Nicholson Baker
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 adventures 1
 after 1

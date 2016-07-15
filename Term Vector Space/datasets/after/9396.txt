@@ -3,6 +3,7 @@
 /m/02q14y9
 Naomi Novik
 2007-09-25
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 able 2
 aboard 2

@@ -3,6 +3,7 @@
 /m/04lsb3
 Ivan Turgenev
 1862-02
+{"/m/05qt0": "Politics", "/m/02xlf": "Fiction", "/m/037mh8": "Philosophy"}
 a 14
 advocate 1
 after 2

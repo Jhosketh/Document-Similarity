@@ -3,6 +3,7 @@
 /m/0ctt60
 Dean Koontz
 1996
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 27
 aboard 1
 about 1

@@ -3,6 +3,7 @@
 /m/05b_099
 César Aira
 1993
+{"/m/05hgj": "Novel"}
 a 10
 act 1
 after 1

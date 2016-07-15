@@ -3,6 +3,7 @@
 /m/0c8mgb
 Edmund White
 1982-09-28
+{"/m/0xdf": "Autobiography", "/m/05hgj": "Novel"}
 15 1
 about 3
 activity 1

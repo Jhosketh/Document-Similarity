@@ -3,6 +3,7 @@
 /m/0d2dl3
 John le Carré
 1968-10
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 160s 1
 31 1
 a 6

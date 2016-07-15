@@ -3,6 +3,7 @@
 /m/0fb0_b
 Marguerite Henry
 1948
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 21
 about 1
 accompanies 1

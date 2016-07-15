@@ -3,6 +3,7 @@
 /m/0csp3x
 Joe Sacco
 
+{"/m/012h24": "Comics"}
 12 1
 14 1
 15 1

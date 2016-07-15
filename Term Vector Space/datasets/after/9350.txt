@@ -3,6 +3,7 @@
 /m/02pydmh
 Lionel Davidson
 1994
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 6
 across 1
 addressed 1

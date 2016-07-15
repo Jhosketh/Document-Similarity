@@ -3,6 +3,7 @@
 /m/0g4kdm
 Clive Cussler
 
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 03 5
 154 1
 16inch 2

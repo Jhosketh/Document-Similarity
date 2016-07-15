@@ -3,6 +3,7 @@
 /m/02x2c9g
 Alison Weir
 
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 along 1
 and 3
 book 2

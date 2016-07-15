@@ -3,6 +3,7 @@
 /m/03whfbq
 E. E. Smith
 1965
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 3
 and 6
 between 1

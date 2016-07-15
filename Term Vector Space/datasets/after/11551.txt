@@ -3,6 +3,7 @@
 /m/03m9w24
 Lilian Jackson Braun
 1991
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 actors 1
 after 1

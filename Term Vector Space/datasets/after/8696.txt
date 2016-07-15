@@ -3,6 +3,7 @@
 /m/027gnfc
 Samuel R. Delany
 1983
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 143 1
 166 1
 a 14

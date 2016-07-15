@@ -3,6 +3,7 @@
 /m/0hr6dv1
 Karen Russell
 2011-02-01
+{"/m/0127jb": "Magic realism", "/m/01jym": "Bildungsroman"}
 130s 1
 a 28
 abandon 1

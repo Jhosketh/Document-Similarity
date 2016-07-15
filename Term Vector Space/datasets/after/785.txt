@@ -3,6 +3,7 @@
 /m/02x_2n
 Joseph Campbell
 
+{"/m/05qfh": "Psychology", "/m/02xlf": "Fiction", "/m/037mh8": "Philosophy", "/m/06ms6": "Sociology"}
 140s 1
 150s 1
 a 16

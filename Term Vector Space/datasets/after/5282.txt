@@ -3,6 +3,7 @@
 /m/0bk387
 Piers Anthony
 2000-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 ability 1
 actually 1

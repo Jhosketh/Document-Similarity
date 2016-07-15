@@ -3,6 +3,7 @@
 /m/03gs6lc
 Richard Yates
 1969
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 acceptance 1
 accruing 1

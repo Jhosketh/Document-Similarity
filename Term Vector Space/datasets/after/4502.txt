@@ -3,6 +3,7 @@
 /m/0941vr
 Michael Chabon
 2004-11-09
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 3 1
 a 6
 able 1

@@ -3,6 +3,7 @@
 /m/0407yz1
 Harlan Coben
 2003-04-28
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery"}
 and 2
 been 3
 bullet 1

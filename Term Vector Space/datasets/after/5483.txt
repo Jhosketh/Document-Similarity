@@ -3,6 +3,7 @@
 /m/0bzpqc
 Robert Holdstock
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 16
 alive 1
 all 1

@@ -3,6 +3,7 @@
 /m/02vtnv1
 Shannon Hale
 2005-06-16
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 14
 able 1
 academy 7

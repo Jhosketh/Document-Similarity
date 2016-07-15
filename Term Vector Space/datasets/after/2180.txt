@@ -3,6 +3,7 @@
 /m/04d9vr
 Yasunari Kawabata
 1935
+{"/m/05hgj": "Novel"}
 a 13
 about 1
 affair 1

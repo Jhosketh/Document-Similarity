@@ -3,6 +3,7 @@
 /m/068n06
 Stephen Hunter
 1995-11
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 30s 1
 a 37
 ability 2

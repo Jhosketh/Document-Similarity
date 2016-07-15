@@ -3,6 +3,7 @@
 /m/096y6s
 Clive Cussler
 
+{"/m/017rf8": "Techno-thriller", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 130sera 1
 131 1
 16 1

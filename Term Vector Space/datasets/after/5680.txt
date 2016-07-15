@@ -3,6 +3,7 @@
 /m/0cb0bw
 Steven Brust
 1983
+{"/m/057pyk": "Fantasy of manners", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 21
 absconded 1
 absent 1

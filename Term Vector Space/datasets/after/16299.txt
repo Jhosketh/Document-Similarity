@@ -3,6 +3,7 @@
 /m/0h53ngg
 Richelle Mead
 2012-06-12
+{"/m/02vzzv": "Urban fantasy", "/m/03mfnf": "Young adult literature", "/m/072lff": "Paranormal romance"}
 a 7
 about 1
 adrian 1

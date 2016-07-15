@@ -3,6 +3,7 @@
 /m/04y8qhk
 Marion Chesney
 1992-12
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 4
 agatha 2
 agent 1

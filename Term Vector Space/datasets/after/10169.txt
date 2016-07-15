@@ -3,6 +3,7 @@
 /m/02vlfbz
 MaryJanice Davidson
 2007-11-27
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 a 2
 all 1
 and 5

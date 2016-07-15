@@ -3,6 +3,7 @@
 /m/03hh5b6
 Brandon Sanderson
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 about 1
 adult 1

@@ -3,6 +3,7 @@
 /m/03y9b19
 Derek Landy
 2008-04-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 32
 abandoned 1
 able 1

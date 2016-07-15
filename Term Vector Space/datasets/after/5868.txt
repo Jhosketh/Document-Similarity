@@ -3,6 +3,7 @@
 /m/0cp8hx
 Joe Dever
 1991
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 1
 afoot 1
 ago 1

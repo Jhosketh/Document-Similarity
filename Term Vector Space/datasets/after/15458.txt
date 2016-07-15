@@ -3,6 +3,7 @@
 /m/0crc1hm
 Wilson Tucker
 1952
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 1 1
 a 17
 abandoned 1

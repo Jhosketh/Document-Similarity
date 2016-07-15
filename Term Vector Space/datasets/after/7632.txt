@@ -3,6 +3,7 @@
 /m/0gwv30
 Frederik Pohl
 2008-08-05
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 100page 1
 13000 1
 15 1

@@ -3,6 +3,7 @@
 /m/04l38k
 Angela Carter
 
+{"/m/02xlf": "Fiction", "/m/0127jb": "Magic realism"}
 100th 2
 23 1
 75th 1

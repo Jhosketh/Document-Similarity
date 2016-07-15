@@ -3,6 +3,7 @@
 /m/046jh7
 T. H. White
 1940
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 2 1
 a 24
 ability 1

@@ -3,6 +3,7 @@
 /m/0bpny
 Robert Jordan
 1996-05-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 about 1
 accompanied 1

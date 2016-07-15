@@ -3,6 +3,7 @@
 /m/0485hs
 Brian Jacques
 2000-09-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 advisors 1
 after 2

@@ -3,6 +3,7 @@
 /m/03z7xz
 Terry Pratchett
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 24
 able 2
 abomination 2

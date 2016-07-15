@@ -3,6 +3,7 @@
 /m/02r7r9b
 Jacqueline Wilson
 1996-05-02
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 10yearold 1
 a 11
 about 1

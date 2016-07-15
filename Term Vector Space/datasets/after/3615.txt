@@ -3,6 +3,7 @@
 /m/079x45
 John Rechy
 1963
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160s 1
 a 3
 across 1

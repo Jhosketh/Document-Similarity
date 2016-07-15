@@ -3,6 +3,7 @@
 /m/041t95
 Thomas Hardy
 1882
+{"/m/05hgj": "Novel"}
 a 3
 across 1
 against 1

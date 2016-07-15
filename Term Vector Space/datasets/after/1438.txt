@@ -3,6 +3,7 @@
 /m/02__v6
 Gabriel García Márquez
 1967
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 167 1
 a 7
 about 1

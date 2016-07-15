@@ -3,6 +3,7 @@
 /m/0fgq4n
 Beverly Cleary
 1981
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel"}
 a 5
 about 2
 after 2

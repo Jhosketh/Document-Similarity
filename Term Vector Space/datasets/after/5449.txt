@@ -3,6 +3,7 @@
 /m/0bx06v
 Mercedes Lackey
 1995
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 106 1
 a 16
 abilities 1

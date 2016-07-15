@@ -3,6 +3,7 @@
 /m/02rmw3m
 Maeve Binchy
 2002
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 60 1
 a 10
 about 1

@@ -3,6 +3,7 @@
 /m/02pyj_3
 Lionel Davidson
 1978
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 1
 accidentally 1
 an 1

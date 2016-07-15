@@ -3,6 +3,7 @@
 /m/04vfr0
 Clive Barker
 1990-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 16 1
 171 1
 a 14

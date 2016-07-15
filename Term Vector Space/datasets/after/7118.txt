@@ -3,6 +3,7 @@
 /m/0fp5wz
 Andrew Clements
 2005-07
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 6thgrader 1
 a 3
 about 1

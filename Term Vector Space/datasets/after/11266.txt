@@ -3,6 +3,7 @@
 /m/05b6wlj
 Brandon Mull
 2006-07-30
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 3 1
 a 25
 about 1

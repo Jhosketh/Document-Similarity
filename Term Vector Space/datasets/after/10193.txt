@@ -3,6 +3,7 @@
 /m/02vmy4m
 Phoebe Atwood Taylor
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit"}
 a 11
 adventures 1
 against 1

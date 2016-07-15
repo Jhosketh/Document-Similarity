@@ -3,6 +3,7 @@
 /m/0bndt8
 Amelia Atwater-Rhodes
 2003-07
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 705 1
 a 7
 ability 1

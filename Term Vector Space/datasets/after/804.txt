@@ -3,6 +3,7 @@
 /m/01slgk
 J. G. Ballard
 1984-09-13
+{"/m/012jgz": "Autobiographical novel", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel"}
 a 3
 abandoned 1
 adores 1

@@ -3,6 +3,7 @@
 /m/03x_pvr
 Gordon Korman
 1979
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/03k9fj": "Adventure"}
 1426 1
 20nbsplbs 1
 644664 1

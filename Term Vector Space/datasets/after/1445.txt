@@ -3,6 +3,7 @@
 /m/02p2sfj
 Patrick O'Brian
 1984
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1812 1
 a 20
 aboard 2

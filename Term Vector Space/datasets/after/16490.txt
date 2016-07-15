@@ -3,6 +3,7 @@
 /m/0h_c4nk
 Colin Bateman
 
+{"/m/0lsxr": "Crime Fiction", "/m/0vgkd": "Black comedy"}
 a 2
 about 1
 all 1

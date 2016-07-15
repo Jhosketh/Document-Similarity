@@ -3,6 +3,7 @@
 /m/05f847_
 Lois McMaster Bujold
 2009-01-27
+{"/m/01hmnh": "Fantasy"}
 a 10
 achieved 1
 aid 1

@@ -3,6 +3,7 @@
 /m/0ghqcp
 Farley Mowat
 1962-06
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 121 1
 130s 1
 a 10

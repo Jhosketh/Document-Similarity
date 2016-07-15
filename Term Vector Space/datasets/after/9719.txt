@@ -3,6 +3,7 @@
 /m/02qv3zy
 Kurt Andersen
 2007-03
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel"}
 1848 1
 6 1
 a 3

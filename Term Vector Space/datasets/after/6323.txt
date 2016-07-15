@@ -3,6 +3,7 @@
 /m/0d9ynl
 Ruth Rendell
 1987-04-16
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 2
 and 3
 are 1

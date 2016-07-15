@@ -3,6 +3,7 @@
 /m/03gq53f
 Alain-René Lesage
 
+{"/m/0g_jj": "Picaresque novel"}
 a 7
 able 3
 adaptability 1

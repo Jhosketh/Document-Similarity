@@ -3,6 +3,7 @@
 /m/05yltr
 Kenji Miyazawa
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/037mh8": "Philosophy"}
 a 18
 about 1
 absentminded 1

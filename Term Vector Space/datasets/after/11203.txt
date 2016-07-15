@@ -3,6 +3,7 @@
 /m/03d4h97
 Philippa Gregory
 2004
+{"/m/05hgj": "Novel", "/m/0hwxm": "Historical novel"}
 1558 1
 a 3
 advisor 2

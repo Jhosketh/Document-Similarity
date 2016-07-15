@@ -3,6 +3,7 @@
 /m/0dht1n
 Ian Rankin
 1997
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 aberdeen 1
 accused 1

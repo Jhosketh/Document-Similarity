@@ -3,6 +3,7 @@
 /m/094qcv
 Diana Gabaldon
 2005-09-27
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 18th 1
 american 1
 and 4

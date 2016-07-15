@@ -3,6 +3,7 @@
 /m/02st_l
 John Buchan, 1st Baron Tweedsmuir
 1916
+{"/m/01jfsb": "Thriller"}
 10 1
 115 1
 17 1

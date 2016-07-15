@@ -3,6 +3,7 @@
 /m/02vn2p4
 Rex Stout
 1937-09-16
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02xlf": "Fiction"}
 a 6
 about 2
 accepts 1

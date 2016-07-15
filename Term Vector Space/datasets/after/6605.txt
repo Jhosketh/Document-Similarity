@@ -3,6 +3,7 @@
 /m/0dlxvv
 Leslie Charteris
 1940
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 aboard 1
 after 1

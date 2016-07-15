@@ -3,6 +3,7 @@
 /m/0gyyhx
 Philip José Farmer
 1974
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 8
 about 1
 actual 1

@@ -3,6 +3,7 @@
 /m/01hglg
 Anthony Trollope
 
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0g_jj": "Picaresque novel"}
 a 6
 about 1
 acquaintance 1

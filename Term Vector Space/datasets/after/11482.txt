@@ -3,6 +3,7 @@
 /m/03hjp7b
 Beryl Bainbridge
 1998-11
+{"/m/0hwxm": "Historical novel"}
 1846 2
 1854 1
 a 5

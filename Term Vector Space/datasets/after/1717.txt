@@ -3,6 +3,7 @@
 /m/03h5j9
 Iain Banks
 1999
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 38 1
 437 1
 a 18

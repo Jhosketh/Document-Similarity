@@ -3,6 +3,7 @@
 /m/026k_d7
 Lois Lowry
 1980
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 2
 adult 1
 afraid 1

@@ -3,6 +3,7 @@
 /m/07_bwp
 Naomi Wolf
 1991
+{"/m/06ms6": "Sociology"}
 a 2
 achieve 1
 all 1

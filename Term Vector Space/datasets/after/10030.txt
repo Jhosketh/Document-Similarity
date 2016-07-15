@@ -3,6 +3,7 @@
 /m/04091sh
 Max Frisch
 
+{"/m/05hgj": "Novel"}
 130s 1
 136 1
 157 1

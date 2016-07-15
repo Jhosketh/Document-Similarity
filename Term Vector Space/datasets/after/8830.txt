@@ -3,6 +3,7 @@
 /m/027tbn8
 Ernest Bramah
 1928
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 35
 about 1
 accepts 1

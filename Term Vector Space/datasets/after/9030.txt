@@ -3,6 +3,7 @@
 /m/028550v
 MaryJanice Davidson
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 a 1
 accidentally 1
 an 1

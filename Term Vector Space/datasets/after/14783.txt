@@ -3,6 +3,7 @@
 /m/04w6ls3
 Josiah Henson
 1849
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 1 1
 100 3
 1000 1

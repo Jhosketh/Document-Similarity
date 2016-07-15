@@ -3,6 +3,7 @@
 /m/0d57k8
 Alberto Moravia
 1958
+{"/m/098tmk": "War novel", "/m/02xlf": "Fiction"}
 a 7
 act 1
 allied 2

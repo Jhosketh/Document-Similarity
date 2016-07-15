@@ -3,6 +3,7 @@
 /m/074d89
 Elizabeth Gaskell
 1855
+{"/m/02n4kr": "Mystery", "/m/0blvpd": "Industrial novel", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0c3351": "Suspense"}
 1 1
 10 1
 18 1

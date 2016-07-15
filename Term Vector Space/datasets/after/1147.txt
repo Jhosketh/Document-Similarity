@@ -3,6 +3,7 @@
 /m/02gcnn
 Noam Chomsky
 2003-11
+{"/m/05r79": "Political philosophy", "/m/05h83": "Non-fiction"}
 1 1
 10 1
 151 1

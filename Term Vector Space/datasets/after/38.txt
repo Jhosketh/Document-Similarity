@@ -3,6 +3,7 @@
 /m/036xv
 Dorothy L. Sayers
 1935
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 12
 about 2
 academia 1

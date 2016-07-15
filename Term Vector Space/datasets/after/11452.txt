@@ -3,6 +3,7 @@
 /m/03h5xch
 Danielle Steel
 1995
+{"/m/014dsx": "Travel", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 6
 americans 1
 and 4

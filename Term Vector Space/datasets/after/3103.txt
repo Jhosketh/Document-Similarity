@@ -3,6 +3,7 @@
 /m/067h9n
 Lauren Weisberger
 2003
+{"/m/03h09f": "Chick lit", "/m/02xlf": "Fiction", "/m/016lj8": "Roman \u00e0 clef"}
 a 16
 accountsshe 1
 afraid 1

@@ -3,6 +3,7 @@
 /m/0glrp0
 E. Nesbit
 1910
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 abandoned 1
 adjusting 1

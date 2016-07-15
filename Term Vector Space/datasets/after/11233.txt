@@ -3,6 +3,7 @@
 /m/03d6f1z
 James Baldwin
 1968
+{"/m/05hgj": "Novel"}
 a 9
 actor 2
 advocates 1

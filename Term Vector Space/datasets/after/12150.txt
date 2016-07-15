@@ -3,6 +3,7 @@
 /m/043s9j9
 Stuart Woods
 1981-06
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 11 1
 120s 1
 146 1

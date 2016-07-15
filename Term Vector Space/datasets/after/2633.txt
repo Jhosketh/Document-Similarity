@@ -3,6 +3,7 @@
 /m/0579h1
 Ernest Hemingway
 1950
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 18yearold 1
 38 1
 50yearold 1

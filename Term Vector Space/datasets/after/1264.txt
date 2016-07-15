@@ -3,6 +3,7 @@
 /m/02p6fj
 Terry Pratchett
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 about 1
 actingconstable 1

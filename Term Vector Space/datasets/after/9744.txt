@@ -3,6 +3,7 @@
 /m/02qw51t
 Scott Westerfeld
 2009
+{"/m/0mz2": "Alternate history", "/m/02p0szs": "Historical fiction", "/m/06www": "Steampunk"}
 a 30
 aboard 1
 about 2

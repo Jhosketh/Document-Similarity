@@ -3,6 +3,7 @@
 /m/0bt6_8
 Nathanael West
 1934-06-19
+{"/m/0gf28": "Parody", "/m/01z4y": "Comedy", "/m/011ys5": "Farce", "/m/02xlf": "Fiction"}
 a 10
 abused 1
 after 1

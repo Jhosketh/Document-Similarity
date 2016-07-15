@@ -3,6 +3,7 @@
 /m/03qgz8q
 Jim Butcher
 2008-10-31
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy"}
 4 1
 a 21
 abandoned 1

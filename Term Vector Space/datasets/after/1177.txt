@@ -3,6 +3,7 @@
 /m/02js8_
 Alan Garner
 1967
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 30
 abasing 1
 aberystwyth 2

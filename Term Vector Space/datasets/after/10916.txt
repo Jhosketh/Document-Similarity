@@ -3,6 +3,7 @@
 /m/03ch96t
 David Almond
 2005
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 able 1
 against 1

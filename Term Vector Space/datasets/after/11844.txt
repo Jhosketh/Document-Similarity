@@ -3,6 +3,7 @@
 /m/03whc1m
 Jules Verne
 1889
+{"/m/06n90": "Science Fiction", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 18 1
 180000 1
 2800 1

@@ -3,6 +3,7 @@
 /m/0dcnxn
 Laurell K. Hamilton
 
+{"/m/01hmnh": "Fantasy", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 19
 abilities 1
 ability 1

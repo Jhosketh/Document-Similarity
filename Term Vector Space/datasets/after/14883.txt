@@ -3,6 +3,7 @@
 /m/09v1bq2
 Seth Grahame-Smith
 2010-03
+{"/m/01jfsb": "Thriller", "/m/0kflf": "Vampire fiction", "/m/03g3w": "History", "/m/02p0szs": "Historical fiction", "/m/0246p": "Comic fantasy", "/m/02xlf": "Fiction", "/m/0crjhv8": "Mashup", "/m/02yq81": "Comic novel"}
 16th 1
 1786 1
 1825 1

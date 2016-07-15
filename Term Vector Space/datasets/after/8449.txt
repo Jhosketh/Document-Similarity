@@ -3,6 +3,7 @@
 /m/0270y9p
 Hilary Mantel
 2005
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 able 1
 afterlife 1

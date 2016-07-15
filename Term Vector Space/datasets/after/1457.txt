@@ -3,6 +3,7 @@
 /m/030q0c
 John Knowles
 1959
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman", "/m/05hgj": "Novel"}
 142 3
 143 1
 16 1

@@ -3,6 +3,7 @@
 /m/0h65bc7
 Aleksey Konstantinovich Tolstoy
 
+{"/m/0hwxm": "Historical novel"}
 a 1
 adventures 1
 all 1

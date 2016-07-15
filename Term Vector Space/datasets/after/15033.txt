@@ -3,6 +3,7 @@
 /m/08ycz95
 Louise Penny
 2008
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 2
 and 3
 apparently 1

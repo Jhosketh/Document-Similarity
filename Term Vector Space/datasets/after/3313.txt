@@ -3,6 +3,7 @@
 /m/06nxpk
 Alasdair Gray
 1994
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 almost 1
 an 1

@@ -3,6 +3,7 @@
 /m/06659f
 Boris Strugatsky
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 20 1
 a 19
 abandons 1

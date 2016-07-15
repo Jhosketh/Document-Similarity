@@ -3,6 +3,7 @@
 /m/04dchy
 Ben Elton
 2004
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 14mdashhelen 1
 a 11
 about 1

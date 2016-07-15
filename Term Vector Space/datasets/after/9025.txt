@@ -3,6 +3,7 @@
 /m/028504c
 Scott Westerfeld
 2007-08-02
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/04rlf": "Music"}
 a 22
 ability 2
 able 2

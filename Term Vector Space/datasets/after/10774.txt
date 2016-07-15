@@ -3,6 +3,7 @@
 /m/03c5141
 Frances Vernon
 1994-06-16
+{"/m/05hgj": "Novel"}
 1858 1
 a 11
 able 1

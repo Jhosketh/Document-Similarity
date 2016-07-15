@@ -3,6 +3,7 @@
 /m/03k4sk
 Francisco Delicado
 
+{"/m/05hgj": "Novel"}
 a 12
 abilities 1
 about 1

@@ -3,6 +3,7 @@
 /m/027t8_r
 David F. Case
 1981
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 2
 accompanied 1
 an 2

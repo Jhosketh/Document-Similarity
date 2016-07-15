@@ -3,6 +3,7 @@
 /m/0f0r28
 Tamora Pierce
 1988
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 17
 abilities 1
 accompany 2

@@ -3,6 +3,7 @@
 /m/02w5k47
 Carlos Fuentes
 1995
+{"/m/05hgj": "Novel"}
 a 3
 about 1
 all 1

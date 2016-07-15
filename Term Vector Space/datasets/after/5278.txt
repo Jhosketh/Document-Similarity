@@ -3,6 +3,7 @@
 /m/0bk331
 Piers Anthony
 1994-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 accompanied 1
 and 2

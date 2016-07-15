@@ -3,6 +3,7 @@
 /m/0c7yr7
 George Pelecanos
 2002-03
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 an 1
 and 3

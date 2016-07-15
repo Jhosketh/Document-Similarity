@@ -3,6 +3,7 @@
 /m/025xgyw
 Steven Brust
 1988
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 28
 about 1
 absorbs 1

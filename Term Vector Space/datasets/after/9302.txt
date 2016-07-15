@@ -3,6 +3,7 @@
 /m/02pvr21
 David Wiesner
 1999
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature"}
 7 1
 a 5
 admire 1

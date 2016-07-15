@@ -3,6 +3,7 @@
 /m/0dwgj3
 Clive Cussler
 
+{"/m/017rf8": "Techno-thriller", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 1532 1
 1578 1
 18 1

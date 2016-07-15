@@ -3,6 +3,7 @@
 /m/09gdjf7
 Kelley Armstrong
 2009-04-28
+{"/m/02vzzv": "Urban fantasy", "/m/072lff": "Paranormal romance"}
 a 11
 abilities 1
 able 1

@@ -3,6 +3,7 @@
 /m/053kn2
 Banana Yoshimoto
 1988
+{"/m/02xlf": "Fiction"}
 a 8
 about 1
 accident 1

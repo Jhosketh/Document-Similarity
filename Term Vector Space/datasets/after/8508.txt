@@ -3,6 +3,7 @@
 /m/0275gxf
 Dean Koontz
 2009
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense"}
 a 1
 alltoohuman 1
 and 1

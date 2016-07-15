@@ -3,6 +3,7 @@
 /m/05klt_
 Gregory Maguire
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0fr3y1": "Parallel novel"}
 a 30
 about 5
 absorb 1

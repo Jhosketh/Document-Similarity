@@ -3,6 +3,7 @@
 /m/027x4mj
 Katherine Roberts
 2002-03-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 53 1
 a 3
 adopted 1

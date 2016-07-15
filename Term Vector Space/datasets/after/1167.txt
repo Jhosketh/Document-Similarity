@@ -3,6 +3,7 @@
 /m/02hjwt
 H. P. Lovecraft
 
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/08g5mv": "Lost World"}
 14 1
 a 20
 abandoned 1

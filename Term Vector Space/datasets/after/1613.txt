@@ -3,6 +3,7 @@
 /m/039rvr
 Carl Hiaasen
 2004
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 13
 abandoned 1
 accessible 1

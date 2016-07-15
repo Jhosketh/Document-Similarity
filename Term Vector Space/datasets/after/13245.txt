@@ -3,6 +3,7 @@
 /m/04z_x8m
 Diana Mitford
 2007-11
+{"/m/01tz3c": "Anthology", "/m/05h83": "Non-fiction"}
 a 1
 and 4
 became 1

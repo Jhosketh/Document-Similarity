@@ -3,6 +3,7 @@
 /m/03grkpj
 Octave Mirbeau
 1886-11
+{"/m/02xlf": "Fiction"}
 a 4
 affair 1
 ambition 1

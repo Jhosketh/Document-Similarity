@@ -3,6 +3,7 @@
 /m/021qwn
 L. Frank Baum
 1919
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 21
 adventure 1
 advisors 1

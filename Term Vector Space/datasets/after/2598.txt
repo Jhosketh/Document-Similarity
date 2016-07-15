@@ -3,6 +3,7 @@
 /m/055j7f
 Thomas Mann
 1947
+{"/m/02xlf": "Fiction"}
 11 1
 112 1
 115 1

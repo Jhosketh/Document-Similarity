@@ -3,6 +3,7 @@
 /m/03czkrt
 Nora Roberts
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense"}
 15 2
 a 18
 about 3

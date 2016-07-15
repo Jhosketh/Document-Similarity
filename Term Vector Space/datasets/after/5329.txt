@@ -3,6 +3,7 @@
 /m/0bnqym
 Sean Stewart
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 18
 about 2
 accompanied 2

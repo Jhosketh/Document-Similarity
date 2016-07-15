@@ -3,6 +3,7 @@
 /m/05b_c7l
 César Aira
 1990
+{"/m/05hgj": "Novel"}
 a 2
 again 1
 aires 1

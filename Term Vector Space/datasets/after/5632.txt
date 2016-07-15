@@ -3,6 +3,7 @@
 /m/0c7zkd
 Franklin W. Dixon
 1987-04
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 6
 about 2
 almost 2

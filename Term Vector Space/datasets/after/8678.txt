@@ -3,6 +3,7 @@
 /m/027g6bl
 James Patterson
 2006
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 13 1
 2005 1
 a 8

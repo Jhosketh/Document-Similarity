@@ -3,6 +3,7 @@
 /m/09pbfy
 Cameron Dokey
 2000-06
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 1
 after 1
 and 2

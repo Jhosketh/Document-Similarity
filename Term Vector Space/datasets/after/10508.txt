@@ -3,6 +3,7 @@
 /m/02x5mr1
 Steve Martin
 2000-10-11
+{"/m/01z4y": "Comedy", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 a 2
 also 1
 and 4

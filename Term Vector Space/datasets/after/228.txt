@@ -3,6 +3,7 @@
 /m/0gk1s
 Richard Wright
 1940
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 27
 abandoned 1
 about 5

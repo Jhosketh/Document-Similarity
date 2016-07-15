@@ -3,6 +3,7 @@
 /m/0dksqv
 Richard Dawkins
 2006
+{"/m/037mh8": "Philosophy", "/m/06mq7": "Science", "/m/05h83": "Non-fiction"}
 4 2
 747 1
 a 28

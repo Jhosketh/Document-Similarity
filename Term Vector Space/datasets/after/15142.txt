@@ -3,6 +3,7 @@
 /m/0bs4k05
 Diana Gabaldon
 2010
+{"/m/0l67h": "Novella", "/m/0hwxm": "Historical novel"}
 175 1
 78th 1
 a 11

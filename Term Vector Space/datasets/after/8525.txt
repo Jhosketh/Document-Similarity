@@ -3,6 +3,7 @@
 /m/0276sk_
 Alistair MacLean
 1957
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel"}
 2000 1
 a 2
 aegean 1

@@ -3,6 +3,7 @@
 /m/0b9t4h
 Kenneth Oppel
 1999-08-12
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 100 1
 a 43
 able 1

@@ -3,6 +3,7 @@
 /m/0bjs7m
 H. G. Wells
 1899
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 187 1
 a 29
 able 1

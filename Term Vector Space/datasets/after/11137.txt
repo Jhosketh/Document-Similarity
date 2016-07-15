@@ -3,6 +3,7 @@
 /m/03cz_ww
 Evan Hunter
 1956
+{"/m/0lsxr": "Crime Fiction", "/m/02fgmn": "Police procedural"}
 156 1
 38 1
 45 3

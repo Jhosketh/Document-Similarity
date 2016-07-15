@@ -3,6 +3,7 @@
 /m/01_c2p
 Ernest Hemingway
 
+{"/m/016lj8": "Roman \u00e0 clef", "/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 120s 1
 1yearold 1
 a 12

@@ -3,6 +3,7 @@
 /m/04016p
 Anne Rice
 2003-10-28
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 11
 about 3
 again 1

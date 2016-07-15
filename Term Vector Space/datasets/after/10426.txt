@@ -3,6 +3,7 @@
 /m/02wwkhb
 Harlan Ellison
 1958
+{"/m/05hgj": "Novel"}
 a 2
 and 3
 areas 1

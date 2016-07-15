@@ -3,6 +3,7 @@
 /m/025_lw
 Raymond Chandler
 1953
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel", "/m/03xj9g": "Hardboiled"}
 14 1
 150 1
 5000 1

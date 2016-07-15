@@ -3,6 +3,7 @@
 /m/0281hsr
 Andrew Greeley
 1993
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 7
 abuse 2
 abused 2

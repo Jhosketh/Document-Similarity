@@ -3,6 +3,7 @@
 /m/06tc0y
 Gilbert Adair
 1984
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 41
 about 5
 abruptly 1

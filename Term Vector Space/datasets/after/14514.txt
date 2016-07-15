@@ -3,6 +3,7 @@
 /m/080bcw2
 James Patterson
 2008
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction"}
 a 2
 abraham 2
 aims 1

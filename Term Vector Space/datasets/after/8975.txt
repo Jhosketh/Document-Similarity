@@ -3,6 +3,7 @@
 /m/028122n
 Sarah Waters
 2006
+{"/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction"}
 a 61
 able 1
 abortion 1

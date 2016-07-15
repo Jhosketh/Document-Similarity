@@ -3,6 +3,7 @@
 /m/02x0nnr
 K. A. Applegate
 1999-10
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 30 1
 a 11
 accident 1

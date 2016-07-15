@@ -3,6 +3,7 @@
 /m/04n43z5
 Caroline Lawrence
 2006
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 100000 1
 13 1
 80 1

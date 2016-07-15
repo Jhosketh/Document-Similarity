@@ -3,6 +3,7 @@
 /m/093ngy
 Samit Basu
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 17
 able 1
 about 3

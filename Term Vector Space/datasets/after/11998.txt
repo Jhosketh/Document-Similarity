@@ -3,6 +3,7 @@
 /m/0407k56
 Scott Turow
 1977
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 a 1
 as 1
 author 1

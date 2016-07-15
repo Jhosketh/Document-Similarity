@@ -3,6 +3,7 @@
 /m/0cd4ln
 Franklin W. Dixon
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 7
 an 1
 and 4

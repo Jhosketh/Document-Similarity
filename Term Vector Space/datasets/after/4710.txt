@@ -3,6 +3,7 @@
 /m/09h14b
 Anne Rice
 1997-10-15
+{"/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 8
 about 1
 achieving 1

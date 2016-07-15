@@ -3,6 +3,7 @@
 /m/048pyl
 Philip Reeve
 2003
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/06www": "Steampunk", "/m/08sdrw": "Adventure novel"}
 a 26
 aboard 2
 about 1

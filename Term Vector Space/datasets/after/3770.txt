@@ -3,6 +3,7 @@
 /m/07mj7l
 Haruki Murakami
 1980-06
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 7
 abuse 1
 also 2

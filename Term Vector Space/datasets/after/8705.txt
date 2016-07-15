@@ -3,6 +3,7 @@
 /m/027h5tz
 Alistair MacLean
 1958
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel"}
 161 1
 a 2
 advancing 1

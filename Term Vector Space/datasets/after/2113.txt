@@ -3,6 +3,7 @@
 /m/047txv
 John Gardner
 1988-06-01
+{"/m/06wkf": "Spy fiction"}
 a 12
 achieve 1
 acts 1

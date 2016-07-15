@@ -3,6 +3,7 @@
 /m/0bbvw1s
 Gordon Korman
 2010-04-06
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 15
 about 1
 advanced 1

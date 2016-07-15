@@ -3,6 +3,7 @@
 /m/0bqwln
 Ted Dekker
 2003-06
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 28yearold 1
 a 4
 agent 1

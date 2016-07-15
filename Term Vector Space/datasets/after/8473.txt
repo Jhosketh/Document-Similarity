@@ -3,6 +3,7 @@
 /m/0272tql
 John Clellon Holmes
 1952
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 140s 1
 150s 1
 a 3

@@ -3,6 +3,7 @@
 /m/091krc
 Harold Frederic
 1896
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 00am 1
 100 1
 30 1

@@ -3,6 +3,7 @@
 /m/0jds8
 Iain Banks
 1993
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 8
 acquiring 1
 across 1

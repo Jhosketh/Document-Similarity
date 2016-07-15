@@ -3,6 +3,7 @@
 /m/0cwxz_
 Darren Shan
 2003
+{"/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 a 12
 actually 1
 after 3

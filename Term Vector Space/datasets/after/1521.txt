@@ -3,6 +3,7 @@
 /m/034y22
 Joe Haldeman
 1999
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 10 1
 24 1
 40000 3

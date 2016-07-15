@@ -3,6 +3,7 @@
 /m/03cgcrk
 Junot Díaz
 2007-09-06
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 13 1
 a 50
 abelard 4

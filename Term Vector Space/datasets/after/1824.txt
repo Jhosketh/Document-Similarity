@@ -3,6 +3,7 @@
 /m/03pc_j
 Maxine Hong Kingston
 1975
+{"/m/0xdf": "Autobiography", "/m/0dwly": "Children's literature", "/m/04fqp": "K\u00fcnstlerroman"}
 124 1
 14 1
 170s 1

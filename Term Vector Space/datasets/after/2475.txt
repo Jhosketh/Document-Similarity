@@ -3,6 +3,7 @@
 /m/04yf_d
 Robin Hobb
 1998-01-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 26
 aboard 1
 adjust 1

@@ -3,6 +3,7 @@
 /m/05249v
 Ray Russell
 1996-11-01
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 agents 2
 an 1

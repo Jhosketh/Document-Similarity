@@ -3,6 +3,7 @@
 /m/04cvx9
 Don DeLillo
 1985-01-21
+{"/m/05hgj": "Novel", "/m/05wkc": "Postmodernism", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 15
 ability 1
 about 1

@@ -3,6 +3,7 @@
 /m/0g056
 Iain Banks
 1987
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 170s 1
 180s 1
 3monty3s3 1

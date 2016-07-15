@@ -3,6 +3,7 @@
 /m/0h4r8k
 Rob Thomas
 1999
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 5
 add 1
 amazonian 1

@@ -3,6 +3,7 @@
 /m/01zf5s
 Richard Adams
 1977-09-22
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 6
 after 1
 and 1

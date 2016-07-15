@@ -3,6 +3,7 @@
 /m/027jyq9
 Lloyd Alexander
 1984
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 5
 about 1
 acts 1

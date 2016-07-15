@@ -3,6 +3,7 @@
 /m/02rypn2
 Frederic Tuten
 
+{"/m/01bsxb": "Collage", "/m/0gf28": "Parody"}
 a 3
 also 1
 an 1

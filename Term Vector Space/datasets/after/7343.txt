@@ -3,6 +3,7 @@
 /m/0g5_rz
 Boris Akunin
 2004-04
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel"}
 1878 1
 a 4
 addled 1

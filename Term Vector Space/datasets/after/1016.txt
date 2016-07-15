@@ -3,6 +3,7 @@
 /m/024v0f
 Boris Akunin
 2000
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/03g3w": "History"}
 a 2
 abduction 1
 afanasi 1

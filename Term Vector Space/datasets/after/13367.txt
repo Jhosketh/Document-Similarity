@@ -3,6 +3,7 @@
 /m/051yc_c
 Manlio Argueta
 1980
+{"/m/05hgj": "Novel"}
 a 7
 adolfina 4
 advice 1

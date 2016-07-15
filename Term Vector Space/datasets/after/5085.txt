@@ -3,6 +3,7 @@
 /m/0b7k3g
 Alexander Cordell
 1959-01
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 183 1
 a 1
 accurately 1

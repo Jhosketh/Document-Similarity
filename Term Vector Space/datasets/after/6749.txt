@@ -3,6 +3,7 @@
 /m/0dw7d5
 Alan Dean Foster
 2002-08
+{"/m/0lsxr": "Crime Fiction", "/m/028v3": "Detective fiction", "/m/014dfn": "Speculative fiction", "/m/06n90": "Science Fiction"}
 0446602078 1
 15 1
 a 8

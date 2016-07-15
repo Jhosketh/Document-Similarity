@@ -3,6 +3,7 @@
 /m/0gp3s8
 Naomi Novik
 2006-04-25
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 able 2
 abolitionists 1

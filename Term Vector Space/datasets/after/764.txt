@@ -3,6 +3,7 @@
 /m/01q3x0
 Esther Freud
 1992-01-30
+{"/m/0xdf": "Autobiography", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160s 1
 a 10
 acrobat 1

@@ -3,6 +3,7 @@
 /m/03j9q3
 Stephen King
 1989-11-01
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 16
 about 3
 absorbed 1

@@ -3,6 +3,7 @@
 /m/04fzy_1
 Paul Stewart
 2004-04-01
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 4
 adventures 1
 after 1

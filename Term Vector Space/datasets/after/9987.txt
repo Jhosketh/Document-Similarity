@@ -3,6 +3,7 @@
 /m/02rh6tw
 Anchee Min
 2004
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 3000 1
 7 2
 a 11

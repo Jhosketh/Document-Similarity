@@ -3,6 +3,7 @@
 /m/07c2t
 Aldous Huxley
 1954
+{"/m/037mh8": "Philosophy", "/m/05h83": "Non-fiction"}
 1100 1
 1230 1
 153 1

@@ -3,6 +3,7 @@
 /m/02854zs
 MaryJanice Davidson
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 30 1
 500yearold 1
 a 8

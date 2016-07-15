@@ -3,6 +3,7 @@
 /m/09b8lc
 Jules Verne
 1882
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/05hgj": "Novel"}
 after 1
 are 1
 attention 1

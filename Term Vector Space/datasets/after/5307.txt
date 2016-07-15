@@ -3,6 +3,7 @@
 /m/0blnsb
 John Fante
 1939
+{"/m/016lj8": "Roman \u00e0 clef", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 14yearold 1
 a 11
 admitted 1

@@ -3,6 +3,7 @@
 /m/0kjk0
 Neil Gaiman
 2002
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 a 16
 about 2
 accept 1

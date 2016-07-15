@@ -3,6 +3,7 @@
 /m/044sjl
 Terry Goodkind
 1995-09-15
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/03qfd": "High fantasy"}
 a 24
 able 2
 about 1

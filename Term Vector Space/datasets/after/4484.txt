@@ -3,6 +3,7 @@
 /m/093fpc
 Ann Radcliffe
 1826
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 13th 1
 a 2
 abbot 1

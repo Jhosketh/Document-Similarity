@@ -3,6 +3,7 @@
 /m/0612w3
 Kazuo Ishiguro
 1982-02
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 10
 all 2
 along 2

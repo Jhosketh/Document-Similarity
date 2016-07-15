@@ -3,6 +3,7 @@
 /m/065y4d8
 Desmond Bagley
 1965
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 12
 aguilla 4
 air 1

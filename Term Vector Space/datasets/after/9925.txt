@@ -3,6 +3,7 @@
 /m/02r8kr5
 Frederic Dannay
 
+{"/m/02n4kr": "Mystery", "/m/0j5nm": "Whodunit", "/m/0c3351": "Suspense", "/m/02xlf": "Fiction"}
 a 10
 about 1
 actually 1

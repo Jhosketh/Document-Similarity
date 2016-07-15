@@ -3,6 +3,7 @@
 /m/02r5b90
 Hugh Walters
 1960
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 4
 accompanied 1
 agency 1

@@ -3,6 +3,7 @@
 /m/02y_995
 Philip Gourevitch
 2002-07-10
+{"/m/0lsxr": "Crime Fiction", "/m/01pwbn": "True crime", "/m/05hgj": "Novel"}
 170 1
 a 2
 and 1

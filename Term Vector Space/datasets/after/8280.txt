@@ -3,6 +3,7 @@
 /m/026l2zr
 Ivan Turgenev
 1856
+{"/m/05qt0": "Politics", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 1848 1
 1860 1
 a 16

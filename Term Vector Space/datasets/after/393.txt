@@ -3,6 +3,7 @@
 /m/0_d5g
 Fyodor Dostoyevsky
 1866
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 29
 about 2
 accept 1

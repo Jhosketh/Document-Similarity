@@ -3,6 +3,7 @@
 /m/0d5x08
 Jack Vance
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 21
 abducted 1
 abject 1

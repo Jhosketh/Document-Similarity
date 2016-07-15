@@ -3,6 +3,7 @@
 /m/09wlpy
 Hans Christian Andersen
 1841-12-20
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 7
 and 6
 applies 1

@@ -3,6 +3,7 @@
 /m/04ydsdy
 Edna Ferber
 1926
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 126 1
 a 17
 able 1

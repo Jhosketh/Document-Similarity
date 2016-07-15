@@ -3,6 +3,7 @@
 /m/06w9j3x
 Erin Hunter
 2008-12-23
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 6
 about 1
 acts 1

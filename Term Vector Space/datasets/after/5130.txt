@@ -3,6 +3,7 @@
 /m/0b9t99
 Jeff Mariotte
 2000-08-01
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 a 9
 actress 1
 after 1

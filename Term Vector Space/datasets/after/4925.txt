@@ -3,6 +3,7 @@
 /m/09x765
 Paul Fleischman
 1995-10-02
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 10
 able 1
 about 1

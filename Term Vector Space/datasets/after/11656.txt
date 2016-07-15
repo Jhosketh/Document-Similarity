@@ -3,6 +3,7 @@
 /m/03nxlrr
 Jonathan Carroll
 1980
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 abbey 1
 alive 1

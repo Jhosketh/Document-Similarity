@@ -3,6 +3,7 @@
 /m/05p3g_7
 Jacqueline Wilson
 1990
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 6
 across 1
 adventure 1

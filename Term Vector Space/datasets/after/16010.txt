@@ -3,6 +3,7 @@
 /m/0gk_rh8
 Damon Knight
 1965
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 2002 1
 a 12
 acquires 1

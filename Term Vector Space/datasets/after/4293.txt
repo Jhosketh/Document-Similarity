@@ -3,6 +3,7 @@
 /m/08qnjx
 Gore Vidal
 1964
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 20
 abandoned 1
 ability 1

@@ -3,6 +3,7 @@
 /m/053lxn
 Hermann Hesse
 1904
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 ability 1
 after 1

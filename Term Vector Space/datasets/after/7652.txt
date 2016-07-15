@@ -3,6 +3,7 @@
 /m/0gywj6
 Boris Akunin
 
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/03g3w": "History"}
 1882 1
 a 9
 achilles 1

@@ -3,6 +3,7 @@
 /m/04yc_hl
 Helen Palmer Geisel
 1961-06
+{"/m/0dwly": "Children's literature"}
 a 7
 about 1
 adventures 1

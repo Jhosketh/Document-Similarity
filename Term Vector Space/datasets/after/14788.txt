@@ -3,6 +3,7 @@
 /m/09rvpdz
 Kate DiCamillo
 2009
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 alive 1
 an 2
 and 1

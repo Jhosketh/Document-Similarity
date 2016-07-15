@@ -3,6 +3,7 @@
 /m/0d08hg
 Ian Irvine
 2003-09-29
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 aachan 1
 aachim 5

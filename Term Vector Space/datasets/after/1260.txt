@@ -3,6 +3,7 @@
 /m/02p0dn
 Robert Jordan
 1992-09-15
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 20
 abell 1
 ability 1

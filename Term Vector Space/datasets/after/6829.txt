@@ -3,6 +3,7 @@
 /m/0f02_p
 Barbara Mertz
 2000
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 114 1
 a 1
 acquired 1

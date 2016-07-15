@@ -3,6 +3,7 @@
 /m/08g9mc
 Harold Keith
 1957
+{"/m/098tmk": "War novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1861 1
 also 1
 always 1

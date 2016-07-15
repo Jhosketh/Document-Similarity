@@ -3,6 +3,7 @@
 /m/0hrf9rs
 Gene Wolfe
 2006
+{"/m/01hmnh": "Fantasy"}
 a 5
 affliction 1
 african 1

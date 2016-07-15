@@ -3,6 +3,7 @@
 /m/09v1mbp
 Amélie Nothomb
 2009
+{"/m/05hgj": "Novel"}
 a 3
 about 2
 act 2

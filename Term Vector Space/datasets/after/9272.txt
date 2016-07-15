@@ -3,6 +3,7 @@
 /m/02pszll
 Eleanor H. Porter
 1915-03-27
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 4
 alone 1
 along 1

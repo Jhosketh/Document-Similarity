@@ -3,6 +3,7 @@
 /m/058c86
 Henryk Sienkiewicz
 1912
+{"/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 10 1
 100 1
 12yearold 1

@@ -3,6 +3,7 @@
 /m/02q20d2
 Louise Erdrich
 2003-02-04
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 15
 abandoned 1
 accident 1

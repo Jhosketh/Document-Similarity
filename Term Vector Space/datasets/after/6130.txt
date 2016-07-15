@@ -3,6 +3,7 @@
 /m/0d0zwz
 Marina Lewycka
 2005-03-31
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 a 4
 after 2
 against 1

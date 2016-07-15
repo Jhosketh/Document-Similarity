@@ -3,6 +3,7 @@
 /m/099m5m
 Guy Gavriel Kay
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 22
 about 1
 accepted 1

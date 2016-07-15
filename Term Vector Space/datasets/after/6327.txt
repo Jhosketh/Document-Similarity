@@ -3,6 +3,7 @@
 /m/0db2x9
 Barbara Mertz
 1988
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 186 1
 a 7
 about 1

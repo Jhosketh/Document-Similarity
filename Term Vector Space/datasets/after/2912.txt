@@ -3,6 +3,7 @@
 /m/05x1dl
 William Henry Hudson
 
+{"/m/017fp": "Biography", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction"}
 17 1
 1840 1
 a 20

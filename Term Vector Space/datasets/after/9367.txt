@@ -3,6 +3,7 @@
 /m/02pzhz4
 William R. Forstchen
 2005-06-18
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 10000 2
 13000 1
 15000 1

@@ -3,6 +3,7 @@
 /m/030ysj
 Daniel Handler
 2000-02
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/06www": "Steampunk", "/m/0pym5": "Absurdist fiction"}
 a 14
 about 2
 across 3

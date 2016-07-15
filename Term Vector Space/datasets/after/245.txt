@@ -3,6 +3,7 @@
 /m/0g_b_
 Charles Dickens
 1850
+{"/m/04fqp": "K\u00fcnstlerroman", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1820 1
 a 9
 accompanied 1

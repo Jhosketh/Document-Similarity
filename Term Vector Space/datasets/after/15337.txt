@@ -3,6 +3,7 @@
 /m/0cc9qb1
 Erin Hunter
 2010-06-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 2
 after 2
 ancestor 1

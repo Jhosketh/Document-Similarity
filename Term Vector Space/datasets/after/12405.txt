@@ -3,6 +3,7 @@
 /m/047dhl5
 Gordon Korman
 
+{"/m/0lsxr": "Crime Fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 120 1
 200 1
 74000 1

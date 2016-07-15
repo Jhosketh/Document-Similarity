@@ -3,6 +3,7 @@
 /m/096pby
 P. G. Wodehouse
 1958-06-20
+{"/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 500 2
 a 11
 about 1

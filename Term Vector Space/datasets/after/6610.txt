@@ -3,6 +3,7 @@
 /m/025th4p
 Jerry B. Jenkins
 2001-10-30
+{"/m/05hgj": "Novel", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 7
 about 1
 address 1

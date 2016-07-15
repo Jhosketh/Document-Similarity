@@ -3,6 +3,7 @@
 /m/0160lc
 Anthony Trollope
 1857
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 12 1
 14 1
 a 16

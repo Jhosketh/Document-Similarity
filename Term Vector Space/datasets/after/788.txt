@@ -3,6 +3,7 @@
 /m/01rpw_
 Kim Stanley Robinson
 2002
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 1405 1
 60 1
 783 1

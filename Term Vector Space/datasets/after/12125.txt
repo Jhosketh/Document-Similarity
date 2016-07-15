@@ -3,6 +3,7 @@
 /m/043pfwr
 Nicola Upson
 2008-03-06
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 130s 1
 a 7
 acquaintance 1

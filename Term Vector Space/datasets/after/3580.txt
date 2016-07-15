@@ -3,6 +3,7 @@
 /m/077bfg
 Anthony Burgess
 1977-05
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 180s 1
 227 1
 a 5

@@ -3,6 +3,7 @@
 /m/05fmcr
 Ann Brashares
 2001
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 12yearold 1
 a 8
 about 1

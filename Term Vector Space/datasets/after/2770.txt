@@ -3,6 +3,7 @@
 /m/05k5_s
 Chuck Palahniuk
 2005-05-03
+{"/m/0vgkd": "Black comedy", "/m/06nbt": "Satire", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 12
 abortion 1
 about 2

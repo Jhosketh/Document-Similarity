@@ -3,6 +3,7 @@
 /m/09vh_h
 Diane Duane
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 abdal 2
 ability 2

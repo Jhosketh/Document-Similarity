@@ -3,6 +3,7 @@
 /m/04g148k
 Chimamanda Ngozi Adichie
 2007-01-15
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 13yearold 1
 160s 4
 167170 1

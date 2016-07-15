@@ -3,6 +3,7 @@
 /m/015pln
 J. K. Rowling
 1998-07-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 47
 ability 2
 able 6

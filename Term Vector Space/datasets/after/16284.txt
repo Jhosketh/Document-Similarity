@@ -3,6 +3,7 @@
 /m/0hhqnmn
 S. J. Watson
 2011-04
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel", "/m/0c3351": "Suspense"}
 47 1
 a 6
 about 1

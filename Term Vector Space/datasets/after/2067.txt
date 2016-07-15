@@ -3,6 +3,7 @@
 /m/0451g9
 John Grisham
 2004
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/0c3351": "Suspense"}
 15 1
 170 1
 23yearold 1

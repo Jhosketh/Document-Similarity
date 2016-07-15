@@ -3,6 +3,7 @@
 /m/043p5fw
 Bohumil Hrabal
 1976
+{"/m/02xlf": "Fiction"}
 a 3
 albeit 1
 amounts 1

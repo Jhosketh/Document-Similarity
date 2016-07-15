@@ -3,6 +3,7 @@
 /m/01jqms
 Malcolm Bradbury
 1975
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 150s 2
 163 1
 167 1

@@ -3,6 +3,7 @@
 /m/028186p
 Megan Whalen Turner
 2006
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 6
 abilities 1
 accept 1

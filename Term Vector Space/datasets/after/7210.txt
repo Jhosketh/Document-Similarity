@@ -3,6 +3,7 @@
 /m/0fx9lb
 L. Sprague de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 across 1
 adeliza 2

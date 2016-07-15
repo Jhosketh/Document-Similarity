@@ -3,6 +3,7 @@
 /m/06995g
 Wil McCarthy
 1998
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 2106 1
 a 19
 about 2

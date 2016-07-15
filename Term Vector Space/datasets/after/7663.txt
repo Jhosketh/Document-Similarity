@@ -3,6 +3,7 @@
 /m/0gzbky
 Naomi Novik
 2006-05-30
+{"/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 11
 able 1
 about 1

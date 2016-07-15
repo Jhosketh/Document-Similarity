@@ -3,6 +3,7 @@
 /m/09_qkg
 Hans Christian Andersen
 
+{"/m/0dwly": "Children's literature", "/m/0bxg3": "Fairy tale"}
 a 13
 about 1
 adopted 2

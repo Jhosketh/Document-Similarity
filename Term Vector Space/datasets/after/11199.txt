@@ -3,6 +3,7 @@
 /m/03d490x
 Michael Moorcock
 
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 aerial 1
 airship 1

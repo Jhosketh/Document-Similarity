@@ -3,6 +3,7 @@
 /m/01cm6l
 Miles Franklin
 
+{"/m/016lj8": "Roman \u00e0 clef", "/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/05hgj": "Novel", "/m/02xlf": "Fiction"}
 180s 1
 a 3
 almost 1

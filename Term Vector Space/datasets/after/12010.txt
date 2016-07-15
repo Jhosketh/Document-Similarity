@@ -3,6 +3,7 @@
 /m/0408tx7
 John W. Campbell
 1947
+{"/m/06n90": "Science Fiction"}
 alien 1
 aliens 1
 all 1

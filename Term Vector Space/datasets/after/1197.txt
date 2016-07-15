@@ -3,6 +3,7 @@
 /m/02lbzp
 Marge Piercy
 1991
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1600 1
 205 1
 a 20

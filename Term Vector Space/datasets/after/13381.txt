@@ -3,6 +3,7 @@
 /m/0520r8d
 James Ellroy
 1987
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 a 2
 an 1
 and 2

@@ -3,6 +3,7 @@
 /m/09zkp9
 J. G. Ballard
 1988
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0l67h": "Novella"}
 40something 1
 a 1
 adolescent 1

@@ -3,6 +3,7 @@
 /m/07xyjd
 Lucia St. Clair Robson
 2003-05-18
+{"/m/0hfjk": "Western", "/m/0hwxm": "Historical novel"}
 30year 1
 a 8
 abilities 1

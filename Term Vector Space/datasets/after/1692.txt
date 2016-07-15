@@ -3,6 +3,7 @@
 /m/03f_1h
 Robin Hobb
 1996
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 10
 abate 1
 accused 2

@@ -3,6 +3,7 @@
 /m/0411l4c
 Kate Thompson
 1998
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 24
 about 2
 accidentally 1

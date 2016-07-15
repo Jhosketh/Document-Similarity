@@ -3,6 +3,7 @@
 /m/091jcr
 Donna Gillespie
 1994-10-06
+{"/m/014dfn": "Speculative fiction", "/m/0hwxm": "Historical novel"}
 a 8
 according 1
 advisor 1

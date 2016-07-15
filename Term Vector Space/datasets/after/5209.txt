@@ -3,6 +3,7 @@
 /m/0bfncb
 Yasunari Kawabata
 1949
+{"/m/05hgj": "Novel"}
 a 10
 about 1
 adult 1

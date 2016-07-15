@@ -3,6 +3,7 @@
 /m/0gvv8rb
 Derek Landy
 2011-09-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 12 1
 300 1
 a 19

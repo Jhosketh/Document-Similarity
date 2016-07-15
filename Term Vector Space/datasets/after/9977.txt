@@ -3,6 +3,7 @@
 /m/02rfwsv
 David Weber
 1995
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 24
 academy 1
 adopted 1

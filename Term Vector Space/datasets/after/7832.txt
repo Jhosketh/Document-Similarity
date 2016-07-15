@@ -3,6 +3,7 @@
 /m/025vww5
 Andrew Greig
 1992
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 3
 aboard 1
 affair 1

@@ -3,6 +3,7 @@
 /m/0kng8
 Alphonse Daudet
 
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 180 1
 1885 1
 a 13

@@ -3,6 +3,7 @@
 /m/0412jr5
 R. L. Stine
 1989-07
+{"/m/03mfnf": "Young adult literature"}
 a 10
 accident 1
 actually 1

@@ -3,6 +3,7 @@
 /m/06_wxmh
 
 1991-01-01
+{"/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 120 1
 122 1
 a 9

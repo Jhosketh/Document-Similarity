@@ -3,6 +3,7 @@
 /m/02rdd_y
 Peter Robinson
 1988
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 a 9
 all 2
 and 2

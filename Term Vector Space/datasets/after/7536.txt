@@ -3,6 +3,7 @@
 /m/0grf4l
 Christopher Moore
 2007-01-16
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 1
 after 1
 although 1

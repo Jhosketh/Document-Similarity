@@ -3,6 +3,7 @@
 /m/027d2k6
 Pat Conroy
 1976
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 162 1
 a 5
 acceptance 1

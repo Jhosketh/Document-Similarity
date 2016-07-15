@@ -3,6 +3,7 @@
 /m/047gbzc
 Chris Riddell
 1999-11
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 17
 abandon 1
 able 1

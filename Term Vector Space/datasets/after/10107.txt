@@ -3,6 +3,7 @@
 /m/02rt70n
 Kathleen O'Neal Gear
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02p0szs": "Historical fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 7
 across 1
 against 1

@@ -3,6 +3,7 @@
 /m/0dfgg8
 Jeffrey Archer
 1991-05
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 100 1
 1823 1
 30 1

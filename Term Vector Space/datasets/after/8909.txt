@@ -3,6 +3,7 @@
 /m/027zkjv
 Frances Temple
 1994
+{"/m/02w06c6": "Historical romance", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 2
 adventure 1
 afraid 1

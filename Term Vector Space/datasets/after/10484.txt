@@ -3,6 +3,7 @@
 /m/02x35c0
 Gary Paulsen
 1998-04-06
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 about 1
 accident 1
 actually 1

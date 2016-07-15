@@ -3,6 +3,7 @@
 /m/01svsq
 Rick Moody
 1994
+{"/m/07s9rl0": "Drama", "/m/0q9mp": "Tragicomedy", "/m/02xlf": "Fiction"}
 173 1
 24 1
 a 3

@@ -3,6 +3,7 @@
 /m/03h1dxh
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 abbot 1
 about 1

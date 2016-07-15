@@ -3,6 +3,7 @@
 /m/03md9z4
 Susan Beth Pfeffer
 2006-10-01
+{"/m/06n90": "Science Fiction", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 2 1
 40yearold 1
 a 8

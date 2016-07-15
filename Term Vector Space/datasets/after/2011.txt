@@ -3,6 +3,7 @@
 /m/041b8r
 John Birmingham
 1994
+{"/m/027mvb9": "Biographical novel", "/m/02yq81": "Comic novel"}
 10th 1
 11th 1
 12th 1

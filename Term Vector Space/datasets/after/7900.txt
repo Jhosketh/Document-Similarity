@@ -3,6 +3,7 @@
 /m/025yyc7
 S. E. Hinton
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 16
 abilities 1
 able 1

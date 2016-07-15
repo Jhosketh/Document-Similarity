@@ -3,6 +3,7 @@
 /m/0h3ngm
 Diane Duane
 2005
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 17
 abeyance 1
 abilities 2

@@ -3,6 +3,7 @@
 /m/0ff7x7
 Patricia Highsmith
 1954
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 40yearold 1
 a 6
 about 1

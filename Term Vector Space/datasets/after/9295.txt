@@ -3,6 +3,7 @@
 /m/02pv205
 Carol O'Connell
 1994-05
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 11yearold 1
 510 1
 a 5

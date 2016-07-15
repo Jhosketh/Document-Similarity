@@ -3,6 +3,7 @@
 /m/046526v
 Catherine Jinks
 2009
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 4
 abandoning 1
 after 1

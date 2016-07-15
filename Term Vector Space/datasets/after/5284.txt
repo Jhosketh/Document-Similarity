@@ -3,6 +3,7 @@
 /m/0bk39z
 Piers Anthony
 2003-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 adventure 1
 all 1

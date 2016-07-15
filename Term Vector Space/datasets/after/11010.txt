@@ -3,6 +3,7 @@
 /m/03cn29h
 Anne Fine
 1992-11-19
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 4c 3
 a 12
 about 2

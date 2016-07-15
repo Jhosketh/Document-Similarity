@@ -3,6 +3,7 @@
 /m/04cs5l3
 Sergey Lukyanenko
 
+{"/m/070yc": "Space opera", "/m/028v3": "Detective fiction", "/m/06n90": "Science Fiction"}
 a 55
 ability 1
 able 1

@@ -3,6 +3,7 @@
 /m/03qc_1j
 Edward Rutherfurd
 1991-07
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 1800 1
 a 3
 also 1

@@ -3,6 +3,7 @@
 /m/0cqfvw
 Eric Hodgins
 1946
+{"/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 12 1
 150 1
 2004 1

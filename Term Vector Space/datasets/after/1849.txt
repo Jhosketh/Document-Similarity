@@ -3,6 +3,7 @@
 /m/03qz1j
 Gabriel García Márquez
 1961
+{"/m/0l67h": "Novella"}
 156157 1
 161 1
 a 3

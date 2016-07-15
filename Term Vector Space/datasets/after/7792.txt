@@ -3,6 +3,7 @@
 /m/0h6nd6
 Katherine Kurtz
 1984
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1123 1
 1124 1
 a 16

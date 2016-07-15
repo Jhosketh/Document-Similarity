@@ -3,6 +3,7 @@
 /m/0983xw
 Stephen Hunter
 1993-03
+{"/m/01jfsb": "Thriller", "/m/0594kx": "Conspiracy fiction", "/m/02xlf": "Fiction"}
 170s 1
 a 6
 about 1

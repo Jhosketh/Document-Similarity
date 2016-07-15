@@ -3,6 +3,7 @@
 /m/02qrchb
 Gore Vidal
 
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 6
 about 1
 accidental 1

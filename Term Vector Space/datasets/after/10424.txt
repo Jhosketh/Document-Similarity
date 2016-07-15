@@ -3,6 +3,7 @@
 /m/02wwj03
 James Moloney
 2004-05-26
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 5
 again 1
 all 2

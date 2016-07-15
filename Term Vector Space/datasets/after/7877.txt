@@ -3,6 +3,7 @@
 /m/025xqm8
 Katherine Kurtz
 1986
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1125 1
 a 31
 accept 1

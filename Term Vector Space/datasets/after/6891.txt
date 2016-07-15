@@ -3,6 +3,7 @@
 /m/0f3ptt
 David L. Seidman
 2005
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0c3351": "Suspense"}
 117 1
 a 7
 abduct 1

@@ -3,6 +3,7 @@
 /m/08jwz5
 Arthur Machen
 1907
+{"/m/012jgz": "Autobiographical novel", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 a 3
 an 2
 and 1

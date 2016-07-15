@@ -3,6 +3,7 @@
 /m/09gcpkp
 S. G. Browne
 2009
+{"/m/06nbt": "Satire", "/m/089m7": "Zombie", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction", "/m/09kqc": "Humour"}
 a 6
 after 2
 against 1

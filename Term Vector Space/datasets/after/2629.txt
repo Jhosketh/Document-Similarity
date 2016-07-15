@@ -3,6 +3,7 @@
 /m/0574vt
 Dionys Burger
 1965
+{"/m/06n90": "Science Fiction", "/m/06mq7": "Science"}
 180 2
 a 14
 able 2

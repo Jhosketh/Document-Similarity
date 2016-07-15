@@ -3,6 +3,7 @@
 /m/02qh_70
 Upton Sinclair, Jr.
 
+{"/m/02xlf": "Fiction"}
 a 13
 about 1
 accused 1

@@ -3,6 +3,7 @@
 /m/09qlkt
 Simone de Beauvoir
 1946
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 127 1
 17 1
 a 23

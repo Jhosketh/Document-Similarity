@@ -3,6 +3,7 @@
 /m/027n5s8
 Greye La Spina
 1960
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 1
 an 1
 and 3

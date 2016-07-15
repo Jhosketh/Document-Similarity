@@ -3,6 +3,7 @@
 /m/0b4_dk
 Arthur Ransome
 1933
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 8
 adventures 1
 amazons 1

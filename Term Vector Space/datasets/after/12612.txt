@@ -3,6 +3,7 @@
 /m/04gsz4r
 Jennifer Weiner
 2002
+{"/m/02xlf": "Fiction"}
 a 15
 academic 1
 accepts 1

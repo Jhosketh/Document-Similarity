@@ -3,6 +3,7 @@
 /m/0cstnz
 Gary Paulsen
 1991-06
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 14 1
 54 1
 a 10

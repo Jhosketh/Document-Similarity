@@ -3,6 +3,7 @@
 /m/02cfvm
 Dennis Lehane
 2001-02
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 25 1
 a 6
 abducted 1

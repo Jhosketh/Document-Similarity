@@ -3,6 +3,7 @@
 /m/076r3m
 Thomas Rockwell
 1973
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 10yearold 1
 15 2
 50 1

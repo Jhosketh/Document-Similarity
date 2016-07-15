@@ -3,6 +3,7 @@
 /m/0cthnq
 Joe Dever
 1990
+{"/m/03ff00": "Gamebook", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 2
 after 1
 again 1

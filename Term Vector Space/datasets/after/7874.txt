@@ -3,6 +3,7 @@
 /m/025xq86
 Allan Cole
 1984
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 13 3
 a 5
 able 1

@@ -3,6 +3,7 @@
 /m/052hf6
 Ernest Hemingway
 1999
+{"/m/02xlf": "Fiction"}
 a 14
 about 1
 accompanied 1

@@ -3,6 +3,7 @@
 /m/0140hq
 Anne Rice
 1992
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/03rllnc": "Inspirational", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 2 1
 a 25
 abandoned 1

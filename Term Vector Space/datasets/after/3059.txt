@@ -3,6 +3,7 @@
 /m/064njd
 Stephen King
 2005-10-04
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 180 1
 24 1
 25yearold 1

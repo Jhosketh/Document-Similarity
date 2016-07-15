@@ -3,6 +3,7 @@
 /m/05f8lx
 Eoin Colfer
 2003-10-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 1
 2 1
 3 1

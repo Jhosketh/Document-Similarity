@@ -3,6 +3,7 @@
 /m/08g953
 Diana Wynne Jones
 1993
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 200 2
 a 10
 accompany 1

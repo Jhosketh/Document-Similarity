@@ -3,6 +3,7 @@
 /m/0g4rr1
 Mark Gatiss
 1997
+{"/m/06wkf": "Spy fiction", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/09kqc": "Humour", "/m/0hwxm": "Historical novel"}
 a 23
 after 2
 against 3

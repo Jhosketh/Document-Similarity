@@ -3,6 +3,7 @@
 /m/04yb5sc
 Laurell K. Hamilton
 2008-11-04
+{"/m/01hmnh": "Fantasy", "/m/03npn": "Horror"}
 a 1
 able 1
 about 1

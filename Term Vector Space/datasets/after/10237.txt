@@ -3,6 +3,7 @@
 /m/02vpxvx
 Charles Williams
 1937
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 able 1
 accept 1

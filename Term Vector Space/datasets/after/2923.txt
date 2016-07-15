@@ -3,6 +3,7 @@
 /m/05xbdh
 Hubert Selby, Jr.
 
+{"/m/06nbt": "Satire"}
 a 20
 abuses 1
 after 2

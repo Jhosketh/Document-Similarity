@@ -3,6 +3,7 @@
 /m/02vpvxz
 Ernest Bramah
 1922
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 after 1
 agent 1

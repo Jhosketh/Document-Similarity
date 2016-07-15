@@ -3,6 +3,7 @@
 /m/0flr7m
 F. Paul Wilson
 1992-05-21
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 150yearold 1
 50 1
 a 15

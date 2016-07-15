@@ -3,6 +3,7 @@
 /m/05243ch
 Lawrence Hill
 2007-01-18
+{"/m/0hwxm": "Historical novel"}
 11yearold 1
 a 5
 abolish 1

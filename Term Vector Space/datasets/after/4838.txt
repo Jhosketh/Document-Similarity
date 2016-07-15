@@ -3,6 +3,7 @@
 /m/09pp4w
 Tawni O'Dell
 2000-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 abusive 1
 adult 1

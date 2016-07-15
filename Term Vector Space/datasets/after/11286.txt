@@ -3,6 +3,7 @@
 /m/03grp_r
 Alistair MacLean
 1978
+{"/m/01jfsb": "Thriller"}
 172 1
 177 1
 a 1

@@ -3,6 +3,7 @@
 /m/04n424c
 Lilian Jackson Braun
 2004
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 6
 about 2
 absence 1

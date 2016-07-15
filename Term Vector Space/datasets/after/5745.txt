@@ -3,6 +3,7 @@
 /m/0cdzwf
 Kingsley Amis
 1969
+{"/m/02xlf": "Fiction"}
 a 22
 about 1
 above 1

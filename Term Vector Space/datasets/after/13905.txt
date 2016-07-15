@@ -3,6 +3,7 @@
 /m/05szr46
 Keigo Higashino
 2006
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel"}
 and 1
 begins 1
 daily 1

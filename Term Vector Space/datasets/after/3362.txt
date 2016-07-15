@@ -3,6 +3,7 @@
 /m/06sw3z
 Norman Mailer
 1991
+{"/m/02xlf": "Fiction"}
 184 1
 60 1
 a 6

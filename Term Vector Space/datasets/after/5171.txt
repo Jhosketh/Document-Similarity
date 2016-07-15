@@ -3,6 +3,7 @@
 /m/0bc40p
 Edgar Rice Burroughs
 1924
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/08g5mv": "Lost World"}
 116 1
 1721 1
 a 25

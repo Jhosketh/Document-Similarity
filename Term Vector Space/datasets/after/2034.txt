@@ -3,6 +3,7 @@
 /m/04jplff
 Hubert Selby, Jr.
 1978
+{"/m/02xlf": "Fiction"}
 a 6
 achieve 1
 addicted 2

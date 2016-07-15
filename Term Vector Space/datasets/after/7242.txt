@@ -3,6 +3,7 @@
 /m/0fzqbb
 William Hope Hodgson
 1907
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 1757 1
 34buxom 1
 34cemetery 1

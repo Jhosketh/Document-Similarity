@@ -3,6 +3,7 @@
 /m/0454fb
 Steven Erikson
 1999-04-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 2nd 4
 6th 1
 a 22

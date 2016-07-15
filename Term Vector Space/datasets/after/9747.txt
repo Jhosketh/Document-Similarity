@@ -3,6 +3,7 @@
 /m/02qwhlx
 Eric Newby
 1983
+{"/m/012jgz": "Autobiographical novel"}
 a 9
 abandoned 1
 adventures 1

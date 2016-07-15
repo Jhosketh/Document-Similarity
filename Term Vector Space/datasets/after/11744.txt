@@ -3,6 +3,7 @@
 /m/03qp2_9
 Talbot Mundy
 1935
+{"/m/01hmnh": "Fantasy"}
 adventures 1
 battles 1
 cleopatra 1

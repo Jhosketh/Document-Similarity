@@ -3,6 +3,7 @@
 /m/02qnp6m
 Evangeline Walton
 1971
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 9
 account 1
 across 2

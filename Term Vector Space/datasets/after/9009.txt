@@ -3,6 +3,7 @@
 /m/0282w3z
 Ann Rinaldi
 1998
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1780 1
 a 1
 almost 1

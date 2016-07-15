@@ -3,6 +3,7 @@
 /m/0cygn_
 George MacDonald Fraser
 1970
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1843 1
 1847 1
 1848 2

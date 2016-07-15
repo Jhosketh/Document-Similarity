@@ -3,6 +3,7 @@
 /m/09735n
 Piers Anthony
 1967
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 400 1
 a 26
 abandoning 3

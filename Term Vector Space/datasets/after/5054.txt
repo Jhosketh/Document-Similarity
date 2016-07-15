@@ -3,6 +3,7 @@
 /m/0b4q1y
 Iain Banks
 1997
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 abandon 1
 abel 10

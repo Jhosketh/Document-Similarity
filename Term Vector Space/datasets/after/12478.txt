@@ -3,6 +3,7 @@
 /m/04csdz9
 Kathryn Cave
 1994
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 acts 1
 all 1
 always 1

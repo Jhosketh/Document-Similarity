@@ -3,6 +3,7 @@
 /m/0970nk
 Danielle Steel
 2000-04
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 8
 after 1
 air 1

@@ -3,6 +3,7 @@
 /m/0bbz40d
 Robert B. Parker
 2008
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 14 1
 20 1
 a 11

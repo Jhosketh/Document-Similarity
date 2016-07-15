@@ -3,6 +3,7 @@
 /m/03g_45s
 Danielle Steel
 1989-02-01
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 30 1
 a 7
 after 3

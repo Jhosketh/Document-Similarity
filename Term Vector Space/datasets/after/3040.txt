@@ -3,6 +3,7 @@
 /m/063_7p
 Piers Anthony
 1991-10
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 3
 ability 1
 after 1

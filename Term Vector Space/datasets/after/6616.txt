@@ -3,6 +3,7 @@
 /m/0dmm2v
 Sonia Nazario
 2006
+{"/m/05h83": "Non-fiction", "/m/05hgj": "Novel"}
 a 3
 after 1
 again 1

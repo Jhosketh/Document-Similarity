@@ -3,6 +3,7 @@
 /m/0466pf8
 Piers Anthony
 1987-10-12
+{"/m/01hmnh": "Fantasy"}
 a 21
 abdicates 1
 according 1

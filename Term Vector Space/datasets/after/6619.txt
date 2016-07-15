@@ -3,6 +3,7 @@
 /m/0dmp3c
 Philip José Farmer
 1969
+{"/m/014dfn": "Speculative fiction"}
 a 4
 act 1
 activity 1

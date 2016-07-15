@@ -3,6 +3,7 @@
 /m/0dz3k7
 Glen Cook
 1996-04
+{"/m/03qfd": "High fantasy", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy", "/m/02xlf": "Fiction"}
 a 1
 also 1
 among 1

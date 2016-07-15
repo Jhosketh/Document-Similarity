@@ -3,6 +3,7 @@
 /m/06kc67
 Franklin W. Dixon
 1963
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 3
 alberta 1
 also 1

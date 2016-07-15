@@ -3,6 +3,7 @@
 /m/02qrcy2
 Cynthia Voigt
 1981
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 10 1
 13 1
 180s 1

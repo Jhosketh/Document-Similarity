@@ -3,6 +3,7 @@
 /m/0b3xym
 P. G. Wodehouse
 1924-11-14
+{"/m/05hgj": "Novel"}
 a 14
 about 3
 abstinence 1

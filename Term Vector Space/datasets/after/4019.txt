@@ -3,6 +3,7 @@
 /m/0846nk
 Vladimir Voinovich
 1986
+{"/m/06nbt": "Satire", "/m/05qt0": "Politics", "/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia"}
 182 1
 2042 1
 a 7

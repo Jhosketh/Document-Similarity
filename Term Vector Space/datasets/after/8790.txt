@@ -3,6 +3,7 @@
 /m/027pfr4
 Eileen Wilks
 2005-11-01
+{"/m/014dfn": "Speculative fiction", "/m/02vzzv": "Urban fantasy", "/m/01qxvh": "Romance novel", "/m/072lff": "Paranormal romance"}
 a 8
 advice 1
 agent 1

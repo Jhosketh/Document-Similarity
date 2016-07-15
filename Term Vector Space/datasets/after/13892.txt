@@ -3,6 +3,7 @@
 /m/05sz3sm
 Charlaine Harris
 2007-05-01
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 12
 about 1
 accosts 1

@@ -3,6 +3,7 @@
 /m/025t_9_
 Michelle Paver
 2004-09-30
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel", "/m/02xlf": "Fiction"}
 a 14
 about 1
 accepts 1

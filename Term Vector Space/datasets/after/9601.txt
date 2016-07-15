@@ -3,6 +3,7 @@
 /m/02qlklb
 Alice Hoffman
 2001
+{"/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 2006 1
 a 14
 acquaintance 1

@@ -3,6 +3,7 @@
 /m/027vcym
 Bruce Campbell
 2005-05-26
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 17
 about 2
 acting 1

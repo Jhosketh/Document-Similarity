@@ -3,6 +3,7 @@
 /m/04mx_gr
 James Lee Burke
 2007
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 after 1
 against 1

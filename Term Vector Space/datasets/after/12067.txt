@@ -3,6 +3,7 @@
 /m/0415k09
 Dennis Lehane
 1999-11
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 15
 according 1
 after 2

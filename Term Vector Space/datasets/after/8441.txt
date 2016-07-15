@@ -3,6 +3,7 @@
 /m/0270dbx
 W. Somerset Maugham
 
+{"/m/02xlf": "Fiction"}
 25 1
 a 14
 able 1

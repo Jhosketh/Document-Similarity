@@ -3,6 +3,7 @@
 /m/0c2k5h
 Richard Peck
 1998-09-01
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 12 1
 130 1
 131 1

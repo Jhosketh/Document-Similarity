@@ -3,6 +3,7 @@
 /m/05q95cx
 Donna Jo Napoli
 2002
+{"/m/02p0szs": "Historical fiction", "/m/03mfnf": "Young adult literature"}
 152 2
 a 17
 about 1

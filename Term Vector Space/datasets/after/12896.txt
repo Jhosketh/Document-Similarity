@@ -3,6 +3,7 @@
 /m/069dxk3
 Joyce Carol Oates
 2002
+{"/m/01qxvh": "Romance novel"}
 a 4
 accommodation 1
 affordable 1

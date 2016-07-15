@@ -3,6 +3,7 @@
 /m/0h28tr
 Edgar Rice Burroughs
 1915
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/0d6gr": "Reference", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 20
 abandoned 1
 aboard 2

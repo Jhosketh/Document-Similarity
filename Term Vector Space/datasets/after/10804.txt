@@ -3,6 +3,7 @@
 /m/03c7g10
 Sonya Hartnett
 2000-08-31
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/05hgj": "Novel"}
 a 20
 about 7
 above 1

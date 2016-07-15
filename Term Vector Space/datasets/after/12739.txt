@@ -3,6 +3,7 @@
 /m/061l4
 J. M. Barrie
 
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 13
 about 1
 adopt 3

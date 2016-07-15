@@ -3,6 +3,7 @@
 /m/0ff90r
 Janet Tashjian
 2003-05-13
+{"/m/05qt0": "Politics", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 70 1
 75 1
 a 23

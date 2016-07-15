@@ -3,6 +3,7 @@
 /m/01j2f2
 Ayn Rand
 1938
+{"/m/05qfh": "Psychology", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 48818 2
 53000 3
 532 1

@@ -3,6 +3,7 @@
 /m/02xf64
 Farley Mowat
 1963
+{"/m/05h0n": "Nature", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05h83": "Non-fiction"}
 14814 1
 a 10
 alongside 1

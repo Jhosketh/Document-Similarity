@@ -3,6 +3,7 @@
 /m/02rnb9s
 Nancy Yi Fan
 2007-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 9
 ablaze 1
 accusing 1

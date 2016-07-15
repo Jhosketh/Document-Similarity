@@ -3,6 +3,7 @@
 /m/02lz73
 Edith Wharton
 1920
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 a 9
 abandon 1
 about 1

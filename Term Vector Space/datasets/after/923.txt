@@ -3,6 +3,7 @@
 /m/01_4cr
 Jack London
 1903
+{"/m/0dwly": "Children's literature", "/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/02p0szs": "Historical fiction"}
 100 1
 1000 1
 a 21

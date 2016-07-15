@@ -3,6 +3,7 @@
 /m/0b1fy9
 David Lodge
 1991
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 abuse 1
 abused 1

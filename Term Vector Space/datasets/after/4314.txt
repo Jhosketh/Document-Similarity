@@ -3,6 +3,7 @@
 /m/08rnns
 Robert Silverberg
 1912
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 6
 ability 1
 allows 1

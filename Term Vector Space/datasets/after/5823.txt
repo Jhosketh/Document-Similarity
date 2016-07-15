@@ -3,6 +3,7 @@
 /m/0cl4xl
 Ruth Rendell
 1984-10-15
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 12
 abused 1
 abusing 1

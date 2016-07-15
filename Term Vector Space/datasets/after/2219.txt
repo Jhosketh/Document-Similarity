@@ -3,6 +3,7 @@
 /m/04gvrs
 China Miéville
 1998-12-31
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 a 23
 abilities 1
 able 1

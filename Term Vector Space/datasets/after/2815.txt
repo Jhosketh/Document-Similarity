@@ -3,6 +3,7 @@
 /m/05mt78
 Mario Puzo
 2001-10
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 3
 after 1
 aims 1

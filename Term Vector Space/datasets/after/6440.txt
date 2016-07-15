@@ -3,6 +3,7 @@
 /m/0dgm10
 Fritz Leiber
 1967
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/02xlf": "Fiction"}
 2004 1
 a 16
 accidentally 1

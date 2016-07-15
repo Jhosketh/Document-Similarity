@@ -3,6 +3,7 @@
 /m/09zw41
 Janet Evanovich
 2004-05-31
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 10
 about 1
 accidentally 2

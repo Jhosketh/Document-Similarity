@@ -3,6 +3,7 @@
 /m/08xw3x
 Daniel Quinn
 2000
+{"/m/05h83": "Non-fiction", "/m/05hgj": "Novel"}
 1 2
 2 2
 a 22

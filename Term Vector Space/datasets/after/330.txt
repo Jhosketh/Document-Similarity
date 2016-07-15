@@ -3,6 +3,7 @@
 /m/0kl59
 Anne Rice
 1976-04-12
+{"/m/0kflf": "Vampire fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 171 1
 200 1
 200yearlong 1

@@ -3,6 +3,7 @@
 /m/04bc7n
 Adam Thirlwell
 2003-08-28
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 accordingly 1
 account 1

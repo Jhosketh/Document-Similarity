@@ -3,6 +3,7 @@
 /m/02qtcc2
 H. Rider Haggard
 1894
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 6
 action 1
 adventures 1

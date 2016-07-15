@@ -3,6 +3,7 @@
 /m/0260r4b
 Penelope Lively
 1978
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 6
 adventures 1
 along 1

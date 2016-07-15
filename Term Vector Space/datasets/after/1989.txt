@@ -3,6 +3,7 @@
 /m/04014x
 John Dickson Carr
 1946
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 10
 able 1
 affair 1

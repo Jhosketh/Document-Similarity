@@ -3,6 +3,7 @@
 /m/02rpk4n
 Mildred Taylor
 2001
+{"/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1870s 1
 80s 1
 a 21

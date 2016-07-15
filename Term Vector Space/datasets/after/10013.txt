@@ -3,6 +3,7 @@
 /m/02rklv6
 Peter Robinson
 2002-01-11
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 35 1
 a 6
 and 3

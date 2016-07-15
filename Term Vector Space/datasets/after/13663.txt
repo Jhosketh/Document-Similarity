@@ -3,6 +3,7 @@
 /m/05mz3gk
 Alastair Reynolds
 
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 4 1
 a 32
 aboard 2

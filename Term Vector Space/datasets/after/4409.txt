@@ -3,6 +3,7 @@
 /m/08_451
 Julian Stockwin
 2001-04
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 173 1
 8gun 1
 a 3

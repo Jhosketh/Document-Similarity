@@ -3,6 +3,7 @@
 /m/07xdtt
 Kate Tremayne
 2001-12-06
+{"/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 4
 adam 1
 agent 1

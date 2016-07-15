@@ -3,6 +3,7 @@
 /m/03w28j
 Charlie Higson
 2005-03-03
+{"/m/06wkf": "Spy fiction"}
 a 22
 abilities 1
 able 1

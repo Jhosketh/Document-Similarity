@@ -3,6 +3,7 @@
 /m/03cz93_
 Adalbert Stifter
 1985
+{"/m/05hgj": "Novel"}
 a 7
 accepts 1
 allows 1

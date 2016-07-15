@@ -3,6 +3,7 @@
 /m/03bx5p3
 Raymond E. Feist
 1986-02-07
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 above 1
 afterwards 1

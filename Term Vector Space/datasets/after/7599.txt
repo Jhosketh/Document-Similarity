@@ -3,6 +3,7 @@
 /m/0gtnd3
 Lin Carter
 
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 adventurer 1
 among 1
 and 3

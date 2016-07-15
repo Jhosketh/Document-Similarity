@@ -3,6 +3,7 @@
 /m/02f00l
 Jim Theis
 1970
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1 1
 11 1
 13 2

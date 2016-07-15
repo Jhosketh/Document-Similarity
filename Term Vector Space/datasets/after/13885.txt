@@ -3,6 +3,7 @@
 /m/05sz59s
 Charlaine Harris
 2005-05-03
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 15
 about 1
 acquaintance 1

@@ -3,6 +3,7 @@
 /m/07b91w
 Paul Auster
 2005-12-27
+{"/m/02xlf": "Fiction"}
 2005 2
 2006 1
 60yearold 1

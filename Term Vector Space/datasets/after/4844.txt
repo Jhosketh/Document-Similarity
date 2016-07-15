@@ -3,6 +3,7 @@
 /m/09prht
 Meg Cabot
 2005-12-27
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 1
 all 1
 and 2

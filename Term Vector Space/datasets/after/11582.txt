@@ -3,6 +3,7 @@
 /m/03mg8m9
 Steve Erickson
 2007
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 24yearold 1
 a 8
 affected 1

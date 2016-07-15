@@ -3,6 +3,7 @@
 /m/03m1d4
 Gertrude Stein
 1933
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography"}
 107 1
 a 4
 about 3

@@ -3,6 +3,7 @@
 /m/06xh9s
 Yukio Mishima
 1956
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10 2
 14 2
 144 1

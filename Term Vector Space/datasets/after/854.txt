@@ -3,6 +3,7 @@
 /m/01wmp5
 Vernor Vinge
 1981
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 adopters 1
 adversary 2

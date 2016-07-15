@@ -3,6 +3,7 @@
 /m/058fcl
 Cormac McCarthy
 1979-05
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 a 17
 abandoning 1
 after 1

@@ -3,6 +3,7 @@
 /m/04_1htr
 Howard Pyle
 1883
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature"}
 a 3
 adventures 1
 after 1

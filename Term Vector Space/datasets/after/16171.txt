@@ -3,6 +3,7 @@
 /m/0gw_8vz
 David Klass
 2001-03-28
+{"/m/03mfnf": "Young adult literature", "/m/01jym": "Bildungsroman"}
 a 19
 about 1
 abuse 1

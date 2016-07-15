@@ -3,6 +3,7 @@
 /m/027w8k7
 Yoko Kawashima Watkins
 1994-05-24
+{"/m/012jgz": "Autobiographical novel", "/m/098tmk": "War novel"}
 a 8
 across 1
 address 1

@@ -3,6 +3,7 @@
 /m/04n5tww
 Ian Rankin
 2009
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 a 5
 and 3
 asked 1

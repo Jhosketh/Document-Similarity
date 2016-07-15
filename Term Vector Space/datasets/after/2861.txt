@@ -3,6 +3,7 @@
 /m/05s1jk
 Marion Zimmer Bradley
 2000-11-06
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 a 3
 about 1
 and 3

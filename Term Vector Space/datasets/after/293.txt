@@ -3,6 +3,7 @@
 /m/0j78y
 Mickey Spillane
 1947
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 140s 1
 144 1
 a 44

@@ -3,6 +3,7 @@
 /m/0d271n
 Arthur Ransome
 1941
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 11
 aboard 4
 academic 1

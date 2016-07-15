@@ -3,6 +3,7 @@
 /m/03h25hg
 Jeffrey Archer
 2008-03-06
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20 1
 22 1
 50 1

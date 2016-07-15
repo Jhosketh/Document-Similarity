@@ -3,6 +3,7 @@
 /m/026hfx4
 Lois Lowry
 1985
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 a 7
 able 1
 absence 1

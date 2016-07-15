@@ -3,6 +3,7 @@
 /m/08hp3q
 Myla Goldberg
 2000-05-25
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 18
 aaron 4
 able 1

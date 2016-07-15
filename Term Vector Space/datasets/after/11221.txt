@@ -3,6 +3,7 @@
 /m/03d5p4p
 Derek Benz
 2008-01
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 4
 against 1
 age 1

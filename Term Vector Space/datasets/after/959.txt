@@ -3,6 +3,7 @@
 /m/02137n
 Chaim Potok
 1967-06
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1 1
 144 1
 a 29

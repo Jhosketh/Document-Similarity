@@ -3,6 +3,7 @@
 /m/02w6q3b
 Janette Turner Hospital
 1996
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 above 1
 all 1

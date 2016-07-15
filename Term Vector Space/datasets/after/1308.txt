@@ -3,6 +3,7 @@
 /m/02s7hj
 Edgar Allan Poe
 1838-07
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel", "/m/08g5mv": "Lost World", "/m/07m5w1": "Sea story"}
 25 1
 72000 1
 a 38

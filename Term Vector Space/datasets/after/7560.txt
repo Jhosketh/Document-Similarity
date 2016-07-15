@@ -3,6 +3,7 @@
 /m/0gs56y
 Robert E. Howard
 
+{"/m/01hmnh": "Fantasy", "/m/0707q": "Short story", "/m/0dz8b": "Sword and sorcery"}
 30s 1
 a 2
 and 3

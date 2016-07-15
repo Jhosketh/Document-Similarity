@@ -3,6 +3,7 @@
 /m/027zqdn
 Edgar Rice Burroughs
 1916
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 4
 aboard 2
 about 1

@@ -3,6 +3,7 @@
 /m/06s8r1
 Tom Robbins
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0pym5": "Absurdist fiction", "/m/05hgj": "Novel"}
 180s 1
 a 26
 aben 4

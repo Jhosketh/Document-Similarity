@@ -3,6 +3,7 @@
 /m/025xk0b
 Steven Brust
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 20
 about 3
 accompany 2

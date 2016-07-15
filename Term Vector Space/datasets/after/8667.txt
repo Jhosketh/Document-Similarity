@@ -3,6 +3,7 @@
 /m/027fzw9
 Georgette Heyer
 1936
+{"/m/02p0szs": "Historical fiction", "/m/0py65": "Historical whodunnit", "/m/01qxvh": "Romance novel", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense", "/m/03xwcv": "Regency romance", "/m/02xlf": "Fiction"}
 a 13
 accomplice 1
 account 1

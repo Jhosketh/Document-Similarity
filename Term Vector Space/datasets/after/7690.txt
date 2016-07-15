@@ -3,6 +3,7 @@
 /m/0g_ngt
 L. Sprague de Camp
 
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/0707q": "Short story", "/m/0dz8b": "Sword and sorcery"}
 a 4
 abandon 1
 about 1

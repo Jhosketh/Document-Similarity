@@ -3,6 +3,7 @@
 /m/020y_v
 Kurt Vonnegut
 1997
+{"/m/012jgz": "Autobiographical novel", "/m/07s2s": "Time travel", "/m/014dfn": "Speculative fiction"}
 11 1
 2001 2
 a 5

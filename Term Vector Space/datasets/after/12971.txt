@@ -3,6 +3,7 @@
 /m/04n1xwc
 James White
 1974
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 26yearold 1
 a 24
 abandoned 1

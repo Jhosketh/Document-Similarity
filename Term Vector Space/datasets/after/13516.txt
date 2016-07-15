@@ -3,6 +3,7 @@
 /m/05c18dh
 Munshi Premchand
 
+{"/m/05hgj": "Novel"}
 a 3
 accept 1
 acceptance 2

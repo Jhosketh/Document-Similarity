@@ -3,6 +3,7 @@
 /m/09pn8r
 Mary McGarry Morris
 1995-08
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160 1
 a 3
 and 2

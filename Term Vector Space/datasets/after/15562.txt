@@ -3,6 +3,7 @@
 /m/0dlk671
 Gordon Korman
 
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 19
 accept 1
 accused 1

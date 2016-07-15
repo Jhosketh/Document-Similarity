@@ -3,6 +3,7 @@
 /m/02ptvt_
 Sherwood Smith
 1993-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 5
 accompanied 1
 afoot 1

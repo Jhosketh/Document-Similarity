@@ -3,6 +3,7 @@
 /m/0jfmw
 Siegfried Sassoon
 1928
+{"/m/016lj8": "Roman \u00e0 clef", "/m/05qgc": "Poetry", "/m/02xlf": "Fiction"}
 a 7
 account 1
 an 4

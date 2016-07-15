@@ -3,6 +3,7 @@
 /m/02qtwsz
 Caroline Lawrence
 2003-06-19
+{"/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 7 1
 a 8
 about 3

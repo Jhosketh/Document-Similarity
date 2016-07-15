@@ -3,6 +3,7 @@
 /m/0dvcn_
 Uzodinma Iweala
 2005
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 14
 about 3
 advances 1

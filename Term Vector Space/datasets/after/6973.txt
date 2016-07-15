@@ -3,6 +3,7 @@
 /m/0fb2p2
 Daniel Pinkwater
 1983-03-01
+{"/m/03mfnf": "Young adult literature", "/m/02yq81": "Comic novel", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/01z4y": "Comedy"}
 a 1
 aka 1
 allnight 1

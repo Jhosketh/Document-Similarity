@@ -3,6 +3,7 @@
 /m/027mftm
 Megan Whalen Turner
 2001
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 9
 act 1
 action 1

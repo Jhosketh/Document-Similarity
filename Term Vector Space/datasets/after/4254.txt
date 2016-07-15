@@ -3,6 +3,7 @@
 /m/08n9k_
 Kazuo Ishiguro
 2000
+{"/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction"}
 100s 1
 130s 1
 a 10

@@ -3,6 +3,7 @@
 /m/0287tt2
 Caroline Lawrence
 2002-04-01
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 30
 able 1
 about 2

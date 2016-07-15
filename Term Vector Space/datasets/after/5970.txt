@@ -3,6 +3,7 @@
 /m/0ctp1w
 Dean Koontz
 
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0c3351": "Suspense"}
 a 8
 ability 1
 aboard 1

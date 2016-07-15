@@ -3,6 +3,7 @@
 /m/02rls02
 Robert Ludlum
 1990-02-25
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 13 1
 2 1
 300 1

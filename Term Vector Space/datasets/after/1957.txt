@@ -3,6 +3,7 @@
 /m/03z84c
 Philip Roth
 2004-09
+{"/m/02xlf": "Fiction"}
 a 1
 about 2
 accepted 1

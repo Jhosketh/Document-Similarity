@@ -3,6 +3,7 @@
 /m/08jnqv
 Christopher Paolini
 2008-09-20
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/03qfd": "High fantasy"}
 a 16
 after 10
 aid 1

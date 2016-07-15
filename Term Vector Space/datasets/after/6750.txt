@@ -3,6 +3,7 @@
 /m/0dwc8x
 John Brunner
 1980
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 29
 abject 1
 about 2

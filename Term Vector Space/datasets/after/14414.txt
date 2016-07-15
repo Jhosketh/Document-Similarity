@@ -3,6 +3,7 @@
 /m/07kbzlw
 Manly Wade Wellman
 1983-01
+{"/m/01hmnh": "Fantasy"}
 a 2
 accompanies 1
 ancient 1

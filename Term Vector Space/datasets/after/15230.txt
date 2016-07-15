@@ -3,6 +3,7 @@
 /m/0by09bp
 Michelle Paver
 2007
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/08sdrw": "Adventure novel"}
 a 8
 accept 1
 against 1

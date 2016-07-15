@@ -3,6 +3,7 @@
 /m/062q8m
 Fyodor Dostoyevsky
 1861
+{"/m/05hgj": "Novel"}
 a 2
 abandoned 1
 abuses 1

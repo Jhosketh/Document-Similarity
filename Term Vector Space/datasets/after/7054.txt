@@ -3,6 +3,7 @@
 /m/0fhwcc
 Len Deighton
 1983
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 180s 1
 a 6
 after 1

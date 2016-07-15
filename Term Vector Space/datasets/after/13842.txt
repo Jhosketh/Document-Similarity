@@ -3,6 +3,7 @@
 /m/05q5h2w
 
 2009-04-01
+{"/m/01jfsb": "Thriller", "/m/0gf28": "Parody", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/02psyd2": "Zombies in popular culture", "/m/03nhxh": "Social commentary", "/m/0crjhv8": "Mashup", "/m/03xwcv": "Regency romance", "/m/02yq81": "Comic novel"}
 a 18
 abandon 1
 abilities 1

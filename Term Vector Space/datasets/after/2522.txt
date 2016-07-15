@@ -3,6 +3,7 @@
 /m/0503h5
 John Barnes
 1996-04
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 adventure 1
 alchemist 1

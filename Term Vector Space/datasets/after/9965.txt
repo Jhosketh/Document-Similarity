@@ -3,6 +3,7 @@
 /m/02rcpbn
 Tom Perrotta
 2004-03-01
+{"/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 22
 about 1
 addiction 1

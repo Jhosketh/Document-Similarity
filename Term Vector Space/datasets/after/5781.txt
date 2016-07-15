@@ -3,6 +3,7 @@
 /m/0cgn4d
 Frank E. Peretti
 2002-07-09
+{"/m/01jfsb": "Thriller", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 abound 1
 academy 3

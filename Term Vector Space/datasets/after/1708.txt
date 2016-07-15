@@ -3,6 +3,7 @@
 /m/03gx63
 Fedor Mikhaïlovitch Dostoïevski
 1864
+{"/m/0l67h": "Novella"}
 1 1
 2 2
 3 1

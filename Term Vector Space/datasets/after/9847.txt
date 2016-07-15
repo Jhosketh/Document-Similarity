@@ -3,6 +3,7 @@
 /m/02r2rrk
 Christine Feehan
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 3
 although 1
 always 1

@@ -3,6 +3,7 @@
 /m/03w9w4y
 Robert Louis Stevenson
 1894
+{"/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/05hgj": "Novel"}
 a 11
 about 1
 acid 1

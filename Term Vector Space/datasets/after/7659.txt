@@ -3,6 +3,7 @@
 /m/0gz15_
 Jules Verne
 1866
+{"/m/06n90": "Science Fiction", "/m/08sdrw": "Adventure novel"}
 1740 1
 1861 1
 a 8

@@ -3,6 +3,7 @@
 /m/0dz3wv
 Glen Cook
 2000-07
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/04n87l": "Dark fantasy", "/m/03qfd": "High fantasy", "/m/02xlf": "Fiction"}
 about 1
 adversaries 1
 all 1

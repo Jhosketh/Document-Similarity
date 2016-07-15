@@ -3,6 +3,7 @@
 /m/0cyjfp
 George MacDonald Fraser
 2005
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 3
 aboard 1
 abyssinia 2

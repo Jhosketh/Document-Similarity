@@ -3,6 +3,7 @@
 /m/0d_g7s
 Morris Gleitzman
 1990
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 10
 about 1
 accept 1

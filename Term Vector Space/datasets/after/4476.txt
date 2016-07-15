@@ -3,6 +3,7 @@
 /m/0938sk
 Christopher Isherwood
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 131 1
 a 2
 adolf 1

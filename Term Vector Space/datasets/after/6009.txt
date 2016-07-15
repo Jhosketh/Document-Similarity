@@ -3,6 +3,7 @@
 /m/0cvdfz
 Dean Koontz
 2005
+{"/m/05qfh": "Psychology", "/m/014dfn": "Speculative fiction", "/m/0c3351": "Suspense"}
 a 10
 abandoned 1
 abilities 1

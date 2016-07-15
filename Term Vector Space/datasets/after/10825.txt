@@ -3,6 +3,7 @@
 /m/03c9bvj
 Agnes Smedley
 1929
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction"}
 180s 1
 a 27
 abortion 2

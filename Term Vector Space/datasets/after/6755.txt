@@ -3,6 +3,7 @@
 /m/0dwrz1
 Victor Pelevin
 1999
+{"/m/05hgj": "Novel"}
 10s 1
 3d 1
 a 10

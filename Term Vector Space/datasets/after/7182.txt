@@ -3,6 +3,7 @@
 /m/0fv2gw
 David Liss
 2000
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 18th 1
 a 8
 accelerating 1

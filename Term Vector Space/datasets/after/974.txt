@@ -3,6 +3,7 @@
 /m/0220p0
 L. Frank Baum
 1920
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 3
 all 1
 alone 1

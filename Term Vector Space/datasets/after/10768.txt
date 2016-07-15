@@ -3,6 +3,7 @@
 /m/03c4qv0
 Thomas E. Gaddis
 1970
+{"/m/027mvb9": "Biographical novel", "/m/0lsxr": "Crime Fiction"}
 128 1
 170 1
 40 1

@@ -3,6 +3,7 @@
 /m/03cm08k
 Robin Jarvis
 1999
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 6
 along 1
 and 6

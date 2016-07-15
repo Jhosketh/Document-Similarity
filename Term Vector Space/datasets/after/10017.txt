@@ -3,6 +3,7 @@
 /m/02rkmlz
 Peter Robinson
 2006-06
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery"}
 16 1
 a 7
 about 1

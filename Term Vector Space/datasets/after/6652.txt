@@ -3,6 +3,7 @@
 /m/0dpmx7
 Peter O'Donnell
 1965
+{"/m/012h24": "Comics", "/m/06wkf": "Spy fiction", "/m/01vnb": "Comic book", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/09kqc": "Humour", "/m/0c3351": "Suspense"}
 a 8
 about 1
 action 2

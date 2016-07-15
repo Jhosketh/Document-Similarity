@@ -3,6 +3,7 @@
 /m/0b_4v6
 Harry Turtledove
 2000-08-01
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 117 2
 a 4
 able 1

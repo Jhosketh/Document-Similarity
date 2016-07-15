@@ -3,6 +3,7 @@
 /m/0cf_b1
 Robert Ludlum
 1997-10-13
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 a 3
 according 1
 again 1

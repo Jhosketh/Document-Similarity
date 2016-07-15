@@ -3,6 +3,7 @@
 /m/0gfhbpt
 Freeman Dyson
 1999
+{"/m/05h83": "Non-fiction", "/m/06mq7": "Science"}
 a 1
 advancing 1
 all 1

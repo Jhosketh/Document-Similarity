@@ -3,6 +3,7 @@
 /m/0bs0stb
 Margaret Stohl
 2009-12-01
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 3rd 1
 a 9
 about 1

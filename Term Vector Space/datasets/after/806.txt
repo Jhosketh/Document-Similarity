@@ -3,6 +3,7 @@
 /m/01sqcx
 E. M. Forster
 
+{"/m/0cgx58": "Gay novel", "/m/02xlf": "Fiction"}
 50 1
 a 20
 aback 1

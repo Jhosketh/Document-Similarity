@@ -3,6 +3,7 @@
 /m/02w0m2z
 James Barclay
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 college 1
 continent 1

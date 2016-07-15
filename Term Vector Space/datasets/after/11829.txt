@@ -3,6 +3,7 @@
 /m/03wgq2m
 Dinah Maria Murlock Craik
 1856
+{"/m/0xdf": "Autobiography", "/m/017fp": "Biography", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 a 4
 abel 2
 achieves 1

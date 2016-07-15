@@ -3,6 +3,7 @@
 /m/0b0tmj
 Steve Alten
 1997-07
+{"/m/06n90": "Science Fiction", "/m/03npn": "Horror"}
 156 1
 a 10
 above 1

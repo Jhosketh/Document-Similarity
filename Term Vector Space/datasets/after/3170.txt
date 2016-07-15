@@ -3,6 +3,7 @@
 /m/06dymp
 Louis Sachar
 1989
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 18 1
 a 9
 actions 1

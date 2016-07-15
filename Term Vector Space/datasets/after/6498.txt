@@ -3,6 +3,7 @@
 /m/0djb71
 Walter Scott
 1823-01-07
+{"/m/0hwxm": "Historical novel"}
 a 16
 abandon 1
 abetting 1

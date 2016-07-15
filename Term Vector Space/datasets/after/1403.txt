@@ -3,6 +3,7 @@
 /m/02y6q5
 Terry Pratchett
 1996
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 141 1
 a 4
 about 1

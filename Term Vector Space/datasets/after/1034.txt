@@ -3,6 +3,7 @@
 /m/0262lj
 Douglas Preston
 1995
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/017rf8": "Techno-thriller", "/m/02xlf": "Fiction"}
 a 8
 about 1
 according 1

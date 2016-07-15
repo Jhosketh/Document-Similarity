@@ -3,6 +3,7 @@
 /m/0fkrwf
 Shashi Tharoor
 1989-08-24
+{"/m/016lj8": "Roman \u00e0 clef", "/m/06nbt": "Satire", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 147 1
 15 1
 150 1

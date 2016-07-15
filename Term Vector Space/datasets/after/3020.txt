@@ -3,6 +3,7 @@
 /m/04t18bm
 Elizabeth Haydon
 1999
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 2
 accomplice 1
 achmed 1

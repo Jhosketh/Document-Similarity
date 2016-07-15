@@ -3,6 +3,7 @@
 /m/0b6wk0
 Angela Carter
 1984-03-04
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 27
 abandoned 2
 about 2

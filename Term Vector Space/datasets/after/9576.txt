@@ -3,6 +3,7 @@
 /m/02qjmvc
 Martin Booth
 1997
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 141 1
 25 1
 a 6

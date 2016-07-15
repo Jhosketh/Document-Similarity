@@ -3,6 +3,7 @@
 /m/03x_rn2
 Charles de Lint
 1987-11
+{"/m/01hmnh": "Fantasy"}
 a 7
 after 1
 against 1

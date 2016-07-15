@@ -3,6 +3,7 @@
 /m/027r5h2
 Jonathan Littell
 2006-09-13
+{"/m/02p0szs": "Historical fiction", "/m/05hgj": "Novel"}
 141 1
 142 1
 143 1

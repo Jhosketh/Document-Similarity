@@ -3,6 +3,7 @@
 /m/078y6
 E. B. White
 1945
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 12
 accidentally 1
 adapts 1

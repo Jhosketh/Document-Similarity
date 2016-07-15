@@ -3,6 +3,7 @@
 /m/026p25f
 Madeleine L'Engle
 
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 037435043 1
 a 18
 abandoned 1

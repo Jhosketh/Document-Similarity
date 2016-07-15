@@ -3,6 +3,7 @@
 /m/0285j3g
 Michael Dibdin
 1998-12-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 3
 accused 1
 adventures 1

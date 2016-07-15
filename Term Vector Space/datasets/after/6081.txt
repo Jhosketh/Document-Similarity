@@ -3,6 +3,7 @@
 /m/0czct7
 W. C. Heinz
 
+{"/m/02yq81": "Comic novel", "/m/07s9rl0": "Drama", "/m/01z4y": "Comedy", "/m/098tmk": "War novel"}
 130 1
 24 1
 245 1

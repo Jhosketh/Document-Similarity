@@ -3,6 +3,7 @@
 /m/0b9tbb
 Thomas E. Sniegoski
 2001-05-01
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 5
 an 2
 and 3

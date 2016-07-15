@@ -3,6 +3,7 @@
 /m/098_ht
 Rebecca West
 1918
+{"/m/098tmk": "War novel", "/m/059r08": "Psychological novel"}
 a 11
 abandoned 1
 about 1

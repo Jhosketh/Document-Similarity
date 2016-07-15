@@ -3,6 +3,7 @@
 /m/055xz7
 Robert McCloskey
 
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 10
 able 1
 about 1

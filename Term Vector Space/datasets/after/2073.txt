@@ -3,6 +3,7 @@
 /m/045fvg
 Jeanne DuPrau
 
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0hc1z": "Apocalyptic and post-apocalyptic fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 100 2
 200 2
 245 1

@@ -3,6 +3,7 @@
 /m/07s70t2
 Patrick Ness
 2010
+{"/m/06n90": "Science Fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 1017 2
 a 41
 ability 1

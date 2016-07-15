@@ -3,6 +3,7 @@
 /m/026tnx6
 Robert Jordan
 
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 able 1
 absence 1

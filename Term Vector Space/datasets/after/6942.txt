@@ -3,6 +3,7 @@
 /m/0f8_3y
 Aleksandr Pushkin
 1841
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 along 1
 and 4

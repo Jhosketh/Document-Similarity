@@ -3,6 +3,7 @@
 /m/04gg760
 Kevin J. Anderson
 2008-09-16
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 9
 across 1
 after 3

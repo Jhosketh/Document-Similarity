@@ -3,6 +3,7 @@
 /m/09v9vk6
 Amélie Nothomb
 2007
+{"/m/05hgj": "Novel"}
 21 1
 a 2
 amlie 1

@@ -3,6 +3,7 @@
 /m/0h7mds
 Paul Bowles
 1952
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1st 1
 a 4
 admirable 1

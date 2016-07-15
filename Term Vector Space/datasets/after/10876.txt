@@ -3,6 +3,7 @@
 /m/03cffbb
 Helen Dunmore
 2006-05-02
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature"}
 a 12
 about 2
 adapted 1

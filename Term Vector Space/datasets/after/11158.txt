@@ -3,6 +3,7 @@
 /m/03d12_n
 Lawrence Durrell
 1974
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 about 3
 actually 1

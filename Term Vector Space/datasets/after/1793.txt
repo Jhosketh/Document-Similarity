@@ -3,6 +3,7 @@
 /m/03mdy2
 Anne Rice
 1998-10-10
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/02js9": "Erotica", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction"}
 15 1
 15th 1
 16 1

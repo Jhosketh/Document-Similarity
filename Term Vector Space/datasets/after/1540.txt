@@ -3,6 +3,7 @@
 /m/035ph8
 Robert Putnam
 2000
+{"/m/06n6p": "Social sciences", "/m/05h83": "Non-fiction"}
 13 2
 15 2
 150 1

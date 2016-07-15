@@ -3,6 +3,7 @@
 /m/02z32xg
 Frederic Dannay
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0j5nm": "Whodunit"}
 a 6
 alibis 1
 an 1

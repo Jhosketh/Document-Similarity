@@ -3,6 +3,7 @@
 /m/026632w
 Kathy Reichs
 1999
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 7
 activity 1
 an 2

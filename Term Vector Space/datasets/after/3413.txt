@@ -3,6 +3,7 @@
 /m/06y4fm
 Anthony Burgess
 1978-10-01
+{"/m/026ny": "Dystopia", "/m/0c082": "Utopian and dystopian fiction"}
 177 1
 a 31
 action 2

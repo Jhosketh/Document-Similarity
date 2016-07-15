@@ -3,6 +3,7 @@
 /m/04_mmw
 Steven Erikson
 2002-12-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 14th 1
 1500 1
 30000 1

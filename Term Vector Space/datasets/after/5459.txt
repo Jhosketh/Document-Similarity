@@ -3,6 +3,7 @@
 /m/0bxs3s
 Lilian Jackson Braun
 1968
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 accident 1
 also 1

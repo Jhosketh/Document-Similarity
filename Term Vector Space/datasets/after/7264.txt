@@ -3,6 +3,7 @@
 /m/0g12s0
 Philip D. Eastman
 1960-06-12
+{"/m/0dwly": "Children's literature"}
 a 9
 about 2
 adventure 1

@@ -3,6 +3,7 @@
 /m/0c24c4
 Margery Allingham
 1937
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 12 1
 a 6
 about 1

@@ -3,6 +3,7 @@
 /m/0cp2dy
 Lionel Shriver
 2003-04-14
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction"}
 18 1
 a 16
 accident 1

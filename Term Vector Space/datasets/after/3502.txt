@@ -3,6 +3,7 @@
 /m/07237c
 Stephen Baxter
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 20
 abandon 1
 actions 1

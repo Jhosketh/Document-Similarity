@@ -3,6 +3,7 @@
 /m/044_15
 Anthony Trollope
 1861
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 9
 adult 1
 aggrieved 1

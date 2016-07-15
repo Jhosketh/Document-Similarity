@@ -3,6 +3,7 @@
 /m/061tgf
 Radclyffe Hall
 1928
+{"/m/04fqp": "K\u00fcnstlerroman", "/m/05hgj": "Novel"}
 a 27
 about 1
 affair 2

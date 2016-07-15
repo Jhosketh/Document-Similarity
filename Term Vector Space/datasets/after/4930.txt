@@ -3,6 +3,7 @@
 /m/09xfvt
 Nancy Holder
 2006-04-03
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror", "/m/0dwly": "Children's literature"}
 a 4
 able 1
 about 1

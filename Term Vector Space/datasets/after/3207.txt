@@ -3,6 +3,7 @@
 /m/06hb_d
 Roald Dahl
 1978
+{"/m/016475": "Picture book", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/0707q": "Short story", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 178 1
 2012 1
 a 3

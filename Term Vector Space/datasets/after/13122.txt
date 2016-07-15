@@ -3,6 +3,7 @@
 /m/04y5m9q
 Rick Riordan
 2009
+{"/m/01hmnh": "Fantasy", "/m/03mfnf": "Young adult literature", "/m/08sdrw": "Adventure novel"}
 16 1
 16th 1
 34for 1

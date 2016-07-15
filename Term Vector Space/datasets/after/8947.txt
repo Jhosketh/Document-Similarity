@@ -3,6 +3,7 @@
 /m/027_wld
 Minette Walters
 1997-02-21
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 1
 amanda 2
 and 2

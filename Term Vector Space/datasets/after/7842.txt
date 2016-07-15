@@ -3,6 +3,7 @@
 /m/025wdkh
 Sheridan Le Fanu
 1864
+{"/m/01jfsb": "Thriller", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction", "/m/0d6gr": "Reference"}
 200 1
 a 22
 accompanying 1

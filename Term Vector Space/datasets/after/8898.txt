@@ -3,6 +3,7 @@
 /m/027yj61
 Graham Greene
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 3
 about 1
 acquitted 1

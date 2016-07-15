@@ -3,6 +3,7 @@
 /m/03fmzz
 Willa Cather
 1912
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 9
 about 4
 afraid 1

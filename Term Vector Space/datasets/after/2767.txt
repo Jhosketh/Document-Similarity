@@ -3,6 +3,7 @@
 /m/05jzz2
 Christopher Moore
 2003-06-03
+{"/m/0pym5": "Absurdist fiction"}
 a 2
 after 1
 and 2

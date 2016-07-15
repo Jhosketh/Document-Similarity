@@ -3,6 +3,7 @@
 /m/047q5n
 Guy Gavriel Kay
 1995-05
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 14
 admiration 1
 affairs 1

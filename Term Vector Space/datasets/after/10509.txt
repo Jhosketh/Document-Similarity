@@ -3,6 +3,7 @@
 /m/02x5p6v
 Stephen Goldin
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 700 2
 a 4
 abandoned 1

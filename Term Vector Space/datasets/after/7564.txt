@@ -3,6 +3,7 @@
 /m/0gs6b4
 Caroline B. Cooney
 2001
+{"/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/01qxvh": "Romance novel"}
 180s 1
 2001 1
 a 6

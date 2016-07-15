@@ -3,6 +3,7 @@
 /m/043rw4g
 Philip Roth
 2008-09-16
+{"/m/05hgj": "Novel"}
 151 1
 a 7
 about 1

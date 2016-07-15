@@ -3,6 +3,7 @@
 /m/03b_tjv
 Louisa May Alcott
 1878
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05qgc": "Poetry"}
 a 7
 accused 1
 adventures 1

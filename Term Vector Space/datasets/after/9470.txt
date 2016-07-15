@@ -3,6 +3,7 @@
 /m/02q7_db
 Lilian Jackson Braun
 1986
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 750 1
 a 35
 about 4

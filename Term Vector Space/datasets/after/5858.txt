@@ -3,6 +3,7 @@
 /m/0cnrnw
 Karen Cushman
 1994
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/06bvp": "Religion"}
 120 1
 14 1
 a 6

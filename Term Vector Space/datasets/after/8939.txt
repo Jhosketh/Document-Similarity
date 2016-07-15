@@ -3,6 +3,7 @@
 /m/027_btv
 Robert Harris
 1992-05-07
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 142 1
 164 1
 75th 1

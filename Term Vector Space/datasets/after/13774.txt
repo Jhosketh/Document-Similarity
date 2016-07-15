@@ -3,6 +3,7 @@
 /m/05p5qxc
 Mary Hays
 1799
+{"/m/05hgj": "Novel"}
 11 1
 a 2
 acquaintance 1

@@ -3,6 +3,7 @@
 /m/077r7c
 Voltaire
 
+{"/m/06nbt": "Satire", "/m/01jym": "Bildungsroman", "/m/0g_jj": "Picaresque novel"}
 12 1
 7 2
 700 1

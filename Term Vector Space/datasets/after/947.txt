@@ -3,6 +3,7 @@
 /m/020hhl
 Isaac Asimov
 1993-01
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 1
 accelerates 1
 adopted 1

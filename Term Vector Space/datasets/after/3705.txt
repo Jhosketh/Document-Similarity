@@ -3,6 +3,7 @@
 /m/07hjw8
 Raymond Briggs
 1982
+{"/m/02xlf": "Fiction", "/m/0py0z": "Graphic novel", "/m/08jhkx": "Anti-nuclear"}
 a 6
 about 2
 according 1

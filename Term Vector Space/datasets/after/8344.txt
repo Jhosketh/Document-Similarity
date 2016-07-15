@@ -3,6 +3,7 @@
 /m/026sd75
 Katharine Burdekin
 1937
+{"/m/014dfn": "Speculative fiction", "/m/026ny": "Dystopia"}
 a 12
 about 1
 according 1

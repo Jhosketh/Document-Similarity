@@ -3,6 +3,7 @@
 /m/0282s01
 Bernard Cornwell
 2001-10-01
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 1st 1
 52nd 1
 a 68

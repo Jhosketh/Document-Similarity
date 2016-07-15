@@ -3,6 +3,7 @@
 /m/020crd
 James Fenimore Cooper
 1826-02
+{"/m/0hwxm": "Historical novel"}
 2000 1
 a 33
 about 1

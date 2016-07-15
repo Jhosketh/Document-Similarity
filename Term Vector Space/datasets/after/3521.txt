@@ -3,6 +3,7 @@
 /m/07392n
 Beverly Cleary
 1965
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 17
 able 1
 about 1

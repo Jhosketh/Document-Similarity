@@ -3,6 +3,7 @@
 /m/03m6hks
 Anya Seton
 1946
+{"/m/03g3w": "History", "/m/01qxvh": "Romance novel"}
 1850 1
 1877 1
 a 9

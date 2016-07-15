@@ -3,6 +3,7 @@
 /m/097ptg
 E. M. Forster
 1910
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 20th 1
 a 19
 abandoned 1

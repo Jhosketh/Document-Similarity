@@ -3,6 +3,7 @@
 /m/02qznj2
 Naguib Mahfouz
 1983
+{"/m/05hgj": "Novel"}
 180s 1
 a 3
 an 1

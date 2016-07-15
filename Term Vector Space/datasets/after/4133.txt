@@ -3,6 +3,7 @@
 /m/08bl7b
 Arthur Ransome
 1932
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel"}
 a 13
 aboard 2
 about 1

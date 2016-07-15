@@ -3,6 +3,7 @@
 /m/03d1rq7
 Eloise McGraw
 1953
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 9
 accepts 1
 accomplish 1

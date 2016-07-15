@@ -3,6 +3,7 @@
 /m/02plw8n
 Lucia St. Clair Robson
 1991
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 6
 adrift 1
 against 1

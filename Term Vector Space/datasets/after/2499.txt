@@ -3,6 +3,7 @@
 /m/04zpwx
 Bolesław Prus
 
+{"/m/0hwxm": "Historical novel"}
 22yearold 1
 a 9
 adamant 1

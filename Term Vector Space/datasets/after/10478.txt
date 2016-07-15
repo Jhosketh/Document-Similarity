@@ -3,6 +3,7 @@
 /m/02x31ct
 Denise Giardina
 
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 10
 about 1
 above 1

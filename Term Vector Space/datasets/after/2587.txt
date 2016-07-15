@@ -3,6 +3,7 @@
 /m/054sj8
 Lucy Maud Montgomery
 1936
+{"/m/02ql9": "Epistolary novel", "/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 3
 additionally 1
 also 1

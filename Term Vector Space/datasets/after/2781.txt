@@ -3,6 +3,7 @@
 /m/05kwxx
 Robert Ludlum
 1978-07-27
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 170s 1
 a 3
 about 1

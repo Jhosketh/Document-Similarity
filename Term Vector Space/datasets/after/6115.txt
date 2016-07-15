@@ -3,6 +3,7 @@
 /m/0d07zb
 Louis de Bernières
 2004
+{"/m/098tmk": "War novel", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 100s 1
 123 1
 13th 1

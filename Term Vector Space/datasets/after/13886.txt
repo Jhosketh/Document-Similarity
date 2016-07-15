@@ -3,6 +3,7 @@
 /m/05syjf1
 Charlaine Harris
 2006-05-02
+{"/m/039vk": "Gothic fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/01qxvh": "Romance novel"}
 a 10
 able 1
 affairs 1

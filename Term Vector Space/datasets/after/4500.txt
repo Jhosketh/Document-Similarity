@@ -3,6 +3,7 @@
 /m/093tl8
 Randall Garrett
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 19
 abandoned 1
 above 2

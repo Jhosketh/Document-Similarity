@@ -3,6 +3,7 @@
 /m/03wgcw9
 Chimamanda Ngozi Adichie
 2003-10
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 15
 able 1
 about 2

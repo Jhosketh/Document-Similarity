@@ -3,6 +3,7 @@
 /m/0ccd6b
 Nathaniel Hawthorne
 1851
+{"/m/03npn": "Horror", "/m/02n4kr": "Mystery", "/m/06_wph7": "American Gothic Fiction", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction", "/m/050z5g": "Chivalric romance", "/m/0c3351": "Suspense"}
 17th 1
 a 14
 about 2

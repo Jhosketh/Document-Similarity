@@ -3,6 +3,7 @@
 /m/06q3r2
 Gregory Mcdonald
 1985-09-19
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02yq81": "Comic novel", "/m/01z4y": "Comedy"}
 5 1
 a 6
 about 1

@@ -3,6 +3,7 @@
 /m/0dxr1p
 Glen Cook
 1999-06
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 activists 1
 activities 1

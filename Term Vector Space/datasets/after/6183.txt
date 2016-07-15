@@ -3,6 +3,7 @@
 /m/0d2z1s
 R. Garcia y Robertson
 1999-12-06
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 000 1
 140 1
 145 1

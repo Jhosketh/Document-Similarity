@@ -3,6 +3,7 @@
 /m/03gvhm
 Richard Condon
 1974-05
+{"/m/0vgkd": "Black comedy", "/m/02yq81": "Comic novel", "/m/01z4y": "Comedy", "/m/02xlf": "Fiction"}
 a 5
 about 1
 act 1

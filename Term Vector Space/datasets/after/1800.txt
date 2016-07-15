@@ -3,6 +3,7 @@
 /m/03mr1c
 Alastair Reynolds
 2000
+{"/m/03lrw": "Hard science fiction", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 00000yearold 1
 15 1
 2524 1

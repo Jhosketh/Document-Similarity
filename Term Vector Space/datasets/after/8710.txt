@@ -3,6 +3,7 @@
 /m/027hphs
 Charles Sheffield
 
+{"/m/03lrw": "Hard science fiction", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 1 1
 10 1
 1000 1

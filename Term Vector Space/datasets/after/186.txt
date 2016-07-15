@@ -3,6 +3,7 @@
 /m/0fd_f
 Joseph Heller
 1961-11-11
+{"/m/01fc50": "Anti-war", "/m/098tmk": "War novel", "/m/0pym5": "Absurdist fiction", "/m/02p0szs": "Historical fiction", "/m/06nbt": "Satire", "/m/0vgkd": "Black comedy"}
 111 1
 1220 1
 143 2

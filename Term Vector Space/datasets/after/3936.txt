@@ -3,6 +3,7 @@
 /m/07zctd
 John le Carré
 1989-06-01
+{"/m/06wkf": "Spy fiction"}
 187 1
 a 20
 absence 1

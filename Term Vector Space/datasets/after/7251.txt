@@ -3,6 +3,7 @@
 /m/0f_jfh
 Sarah Dessen
 2002-05-27
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 6
 about 4
 all 1

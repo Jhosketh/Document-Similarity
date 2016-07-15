@@ -3,6 +3,7 @@
 /m/0gjdmj0
 Damon Knight
 1959
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 214 1
 a 15
 about 1

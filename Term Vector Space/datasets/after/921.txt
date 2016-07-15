@@ -3,6 +3,7 @@
 /m/01zzbb
 Ayn Rand
 
+{"/m/012jgz": "Autobiographical novel", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction"}
 122 1
 125 1
 a 46

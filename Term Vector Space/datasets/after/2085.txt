@@ -3,6 +3,7 @@
 /m/0468m1
 Orson Scott Card
 1987
+{"/m/0mz2": "Alternate history", "/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 27
 able 1
 about 3

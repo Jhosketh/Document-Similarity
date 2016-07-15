@@ -3,6 +3,7 @@
 /m/0f8j70
 Hunter S. Thompson
 
+{"/m/012jgz": "Autobiographical novel", "/m/02xlf": "Fiction", "/m/016lj8": "Roman \u00e0 clef"}
 170s 1
 400 1
 a 4

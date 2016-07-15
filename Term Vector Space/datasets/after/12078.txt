@@ -3,6 +3,7 @@
 /m/0416f38
 L. Ron Hubbard
 
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 3
 adventurer 1
 an 2

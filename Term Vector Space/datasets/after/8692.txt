@@ -3,6 +3,7 @@
 /m/027gk8m
 Georgette Heyer
 1975-10
+{"/m/02n4kr": "Mystery", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 125 1
 133 1
 14001418 1

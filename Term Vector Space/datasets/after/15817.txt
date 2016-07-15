@@ -3,6 +3,7 @@
 /m/0gfhgcy
 Marion Chesney
 2004
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 a 11
 after 1
 again 1

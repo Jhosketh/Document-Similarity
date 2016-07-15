@@ -3,6 +3,7 @@
 /m/02q3d9p
 Yasunari Kawabata
 1930
+{"/m/05hgj": "Novel"}
 12 2
 120s 2
 130 1

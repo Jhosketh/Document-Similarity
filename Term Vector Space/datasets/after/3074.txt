@@ -3,6 +3,7 @@
 /m/065gv2
 Ross Macdonald
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 10000 1
 185 1
 a 9

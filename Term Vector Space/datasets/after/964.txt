@@ -3,6 +3,7 @@
 /m/021glc
 Stephen Baxter
 1995
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/07s2s": "Time travel"}
 138 1
 144 1
 181 1

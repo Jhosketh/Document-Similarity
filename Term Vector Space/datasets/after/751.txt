@@ -3,6 +3,7 @@
 /m/01p6p7
 Terry Pratchett
 2003
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 1
 aching 1
 an 1

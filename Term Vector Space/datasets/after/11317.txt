@@ -3,6 +3,7 @@
 /m/06ssx_
 Penelope Lively
 1973-03-26
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 17thcentury 1
 a 6
 alone 1

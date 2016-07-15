@@ -3,6 +3,7 @@
 /m/0fb14x
 Ruth Sawyer
 1936-10
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 10yearold 1
 180s 1
 a 8

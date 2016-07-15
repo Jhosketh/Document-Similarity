@@ -3,6 +3,7 @@
 /m/0235s0
 Stephen King
 1975-09-05
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 17
 abandoned 1
 about 1

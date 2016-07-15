@@ -3,6 +3,7 @@
 /m/0276hgq
 Edith Wharton
 1913
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 14
 able 1
 acquaintance 1

@@ -3,6 +3,7 @@
 /m/06rgxp
 Stephen Chbosky
 1999-02-01
+{"/m/02ql9": "Epistolary novel", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 a 5
 about 5
 abused 1

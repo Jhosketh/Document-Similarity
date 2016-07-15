@@ -3,6 +3,7 @@
 /m/0gtgg_
 Tamora Pierce
 2001
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 20
 about 2
 acquires 1

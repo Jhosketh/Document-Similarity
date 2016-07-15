@@ -3,6 +3,7 @@
 /m/026b9dn
 Gustav Hasford
 1990-02
+{"/m/012jgz": "Autobiographical novel", "/m/014dfn": "Speculative fiction", "/m/098tmk": "War novel"}
 8 1
 a 19
 abandoned 1

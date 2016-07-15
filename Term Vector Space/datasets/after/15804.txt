@@ -3,6 +3,7 @@
 /m/0g9tzkh
 
 2010-08-05
+{"/m/017fp": "Biography", "/m/0dwly": "Children's literature", "/m/05h83": "Non-fiction"}
 11 1
 2002 1
 2010 1

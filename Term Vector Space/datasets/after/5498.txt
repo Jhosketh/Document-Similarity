@@ -3,6 +3,7 @@
 /m/0b_qsh
 Penelope Farmer
 1969
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 118 4
 185 1
 a 13

@@ -3,6 +3,7 @@
 /m/02nc1_
 Hergé
 1931
+{"/m/01vnb": "Comic book"}
 a 18
 aboard 1
 ac 1

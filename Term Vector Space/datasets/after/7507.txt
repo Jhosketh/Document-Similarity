@@ -3,6 +3,7 @@
 /m/0gntnf
 Catherine Crook de Camp
 
+{"/m/0dz8b": "Sword and sorcery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 5
 account 1
 adult 1

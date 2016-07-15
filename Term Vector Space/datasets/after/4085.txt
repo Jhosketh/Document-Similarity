@@ -3,6 +3,7 @@
 /m/087611
 Philip Reeve
 2006-03-20
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/06www": "Steampunk"}
 a 49
 abandon 1
 abandoned 1

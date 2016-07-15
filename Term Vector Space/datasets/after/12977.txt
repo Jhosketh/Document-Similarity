@@ -3,6 +3,7 @@
 /m/04h3p
 Vladimir Vladimirovich Nabokov
 1955
+{"/m/0q9mp": "Tragicomedy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 11yearold 1
 152 2
 17 1

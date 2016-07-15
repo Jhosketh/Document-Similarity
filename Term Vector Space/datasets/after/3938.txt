@@ -3,6 +3,7 @@
 /m/07zqfx
 Mario Puzo
 1990
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 about 1
 activates 1

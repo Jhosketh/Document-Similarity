@@ -3,6 +3,7 @@
 /m/03c1nck
 Ben Bova
 2005-04-14
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 10
 abandon 1
 able 1

@@ -3,6 +3,7 @@
 /m/0cn97v
 Geraldine Brooks
 2005
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 abolitionist 1
 accurately 1

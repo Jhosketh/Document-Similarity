@@ -3,6 +3,7 @@
 /m/0b4gk9
 Luigi Pirandello
 1902
+{"/m/05hgj": "Novel"}
 a 18
 about 4
 adapts 1

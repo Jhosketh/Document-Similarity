@@ -3,6 +3,7 @@
 /m/02rv6z
 Dan Brown
 2000-05
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/01_nl": "Cabal", "/m/099v5d": "Conspiracy"}
 24 1
 a 23
 abductor 1

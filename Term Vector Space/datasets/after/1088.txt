@@ -3,6 +3,7 @@
 /m/02b5xb
 Doris Lessing
 1988
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 160s 1
 a 6
 all 1

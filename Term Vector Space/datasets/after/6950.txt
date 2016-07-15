@@ -3,6 +3,7 @@
 /m/0f96_c
 William Morris
 1896
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 7
 adventure 1
 adventures 1

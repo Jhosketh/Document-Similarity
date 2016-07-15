@@ -3,6 +3,7 @@
 /m/028bgmr
 Philip Roth
 1986
+{"/m/02xlf": "Fiction"}
 a 4
 about 1
 accept 1

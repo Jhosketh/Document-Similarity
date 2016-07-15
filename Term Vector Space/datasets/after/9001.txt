@@ -3,6 +3,7 @@
 /m/0282mbt
 Philip Roth
 1983
+{"/m/05hgj": "Novel"}
 a 1
 age 1
 ailment 1

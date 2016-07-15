@@ -3,6 +3,7 @@
 /m/02rr88h
 Michael Connelly
 
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 2007 1
 32 1
 a 12

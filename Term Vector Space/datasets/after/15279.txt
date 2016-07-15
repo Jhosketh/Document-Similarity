@@ -3,6 +3,7 @@
 /m/0c039_0
 Richelle Mead
 2010-12-07
+{"/m/02vzzv": "Urban fantasy", "/m/03mfnf": "Young adult literature", "/m/04n87l": "Dark fantasy", "/m/072lff": "Paranormal romance"}
 a 19
 abe 1
 abilities 1

@@ -3,6 +3,7 @@
 /m/02xrqr
 Jorge Amado
 1959
+{"/m/0lsxr": "Crime Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 21
 about 2
 after 4

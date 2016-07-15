@@ -3,6 +3,7 @@
 /m/0dygzp
 Arthur Ransome
 1988
+{"/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 a 6
 adventures 1
 after 1

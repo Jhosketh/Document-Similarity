@@ -3,6 +3,7 @@
 /m/0c9vfw
 A. N. Wilson
 1998-08
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 abuses 1
 and 2

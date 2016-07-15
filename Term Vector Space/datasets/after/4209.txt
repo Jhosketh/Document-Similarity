@@ -3,6 +3,7 @@
 /m/08jp8c
 Dav Pilkey
 2001
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/09kqc": "Humour"}
 1 1
 2000 3
 3 1

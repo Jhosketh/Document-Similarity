@@ -3,6 +3,7 @@
 /m/051ypl4
 Peter S. Beagle
 1999-10-01
+{"/m/01hmnh": "Fantasy", "/m/05hgj": "Novel"}
 300yearold 1
 a 1
 and 2

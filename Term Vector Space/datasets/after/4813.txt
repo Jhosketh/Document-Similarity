@@ -3,6 +3,7 @@
 /m/09pbjc
 Christopher Golden
 2002-05
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 4
 all 1
 an 2

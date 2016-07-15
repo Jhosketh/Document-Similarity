@@ -3,6 +3,7 @@
 /m/08sk25
 Alistair MacLean
 1986
+{"/m/01jfsb": "Thriller", "/m/05hgj": "Novel"}
 a 7
 aboard 1
 activated 1

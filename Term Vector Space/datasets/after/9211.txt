@@ -3,6 +3,7 @@
 /m/02pn_np
 Alastair Reynolds
 2007-04-02
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 17
 abandoned 1
 able 1

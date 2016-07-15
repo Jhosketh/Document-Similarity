@@ -3,6 +3,7 @@
 /m/08577d
 Richard Peck
 2000-10
+{"/m/02p0szs": "Historical fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 137 1
 15yearold 1
 250 1

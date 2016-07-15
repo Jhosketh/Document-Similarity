@@ -3,6 +3,7 @@
 /m/05b14tr
 Bruce Cook
 2005-03
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 an 1
 and 1

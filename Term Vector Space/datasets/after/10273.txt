@@ -3,6 +3,7 @@
 /m/02vthh6
 Shannon Hale
 2003-08-08
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 13
 ability 2
 about 4

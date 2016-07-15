@@ -3,6 +3,7 @@
 /m/025wycj
 David Gemmell
 2002
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 12
 all 1
 allied 1

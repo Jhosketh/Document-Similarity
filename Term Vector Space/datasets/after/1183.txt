@@ -3,6 +3,7 @@
 /m/02kfwd
 Kalki Krishnamurthy
 
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/05hgj": "Novel", "/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 2 1
 a 18
 about 2

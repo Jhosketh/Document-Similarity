@@ -3,6 +3,7 @@
 /m/0gmgkns
 Lois McMaster Bujold
 1996
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 1
 alliance 1
 also 1

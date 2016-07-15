@@ -3,6 +3,7 @@
 /m/02l9m7
 Joanne Greenberg
 1964
+{"/m/012jgz": "Autobiographical novel", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 13
 ability 1
 abuse 1

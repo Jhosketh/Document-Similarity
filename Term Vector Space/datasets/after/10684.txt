@@ -3,6 +3,7 @@
 /m/03b_h28
 John Dickson Carr
 
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction", "/m/05hgj": "Novel"}
 a 4
 absorbed 1
 an 1

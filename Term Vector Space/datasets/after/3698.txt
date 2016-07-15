@@ -3,6 +3,7 @@
 /m/07hchq
 Eloise McGraw
 1963
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy"}
 a 8
 abilities 2
 accessible 1

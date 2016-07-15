@@ -3,6 +3,7 @@
 /m/01n4n1
 R. L. Stine
 1993-09
+{"/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 11yearold 1
 a 12
 acting 1

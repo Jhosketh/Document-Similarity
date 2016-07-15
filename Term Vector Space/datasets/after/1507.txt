@@ -3,6 +3,7 @@
 /m/033pd9
 E. L. Doctorow
 1989
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 5
 acquitted 1
 act 1

@@ -3,6 +3,7 @@
 /m/02r_dpf
 Michael G. Coney
 
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 10yearold 1
 a 1
 accept 1

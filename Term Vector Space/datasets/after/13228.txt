@@ -3,6 +3,7 @@
 /m/04zy7hb
 Carl Kosak
 1974
+{"/m/0lsxr": "Crime Fiction", "/m/05hgj": "Novel"}
 17volume 1
 a 4
 american 1

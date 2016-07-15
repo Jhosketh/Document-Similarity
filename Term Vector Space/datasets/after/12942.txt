@@ -3,6 +3,7 @@
 /m/04n3ngj
 John Birmingham
 2008
+{"/m/0mz2": "Alternate history", "/m/017rf8": "Techno-thriller", "/m/014dfn": "Speculative fiction"}
 14 1
 2003 1
 a 1

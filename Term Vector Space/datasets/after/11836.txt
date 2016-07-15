@@ -3,6 +3,7 @@
 /m/03wg_rj
 T. M. Gray
 2005
+{"/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 147 2
 a 5
 after 1

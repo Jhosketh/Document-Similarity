@@ -3,6 +3,7 @@
 /m/0c01yb_
 Jim Butcher
 2011-07-26
+{"/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy"}
 3 1
 a 25
 abducted 1

@@ -3,6 +3,7 @@
 /m/0dc_fv
 Ruth Rendell
 1971-10-04
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 a 3
 afternoon 1
 again 1

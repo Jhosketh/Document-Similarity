@@ -3,6 +3,7 @@
 /m/04xzfp
 David Weber
 2000
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01smf2": "Military science fiction"}
 8th 3
 a 10
 academy 1

@@ -3,6 +3,7 @@
 /m/04t2hst
 David Leavitt
 2007
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 113 1
 a 2
 and 3

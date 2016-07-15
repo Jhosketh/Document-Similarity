@@ -3,6 +3,7 @@
 /m/018mwr
 Ayn Rand
 1943-12
+{"/m/02xlf": "Fiction"}
 122 1
 140 1
 a 30

@@ -3,6 +3,7 @@
 /m/04dvpf
 George Eliot
 1861-04
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1th 1
 a 17
 aaron 2

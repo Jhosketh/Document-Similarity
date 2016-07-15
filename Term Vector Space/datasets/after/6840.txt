@@ -3,6 +3,7 @@
 /m/0f0r9x
 Sarah Dessen
 1998-05-01
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 2 1
 a 14
 abortion 2

@@ -3,6 +3,7 @@
 /m/0478bz
 Zadie Smith
 2000-01-27
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 10yearold 1
 175 1
 47yearold 1

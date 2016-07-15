@@ -3,6 +3,7 @@
 /m/0bxbk1
 Nancy Farmer
 2004-09
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature"}
 11 1
 5 1
 73 1

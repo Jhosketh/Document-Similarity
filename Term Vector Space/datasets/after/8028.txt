@@ -3,6 +3,7 @@
 /m/0264lvf
 Sharon Shinn
 1998
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 1 1
 150 1
 17 1

@@ -3,6 +3,7 @@
 /m/0414ywq
 Allen Steele
 2006-09-06
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 about 2
 acting 1

@@ -3,6 +3,7 @@
 /m/020rt0
 L. Frank Baum
 1914
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 18
 about 1
 accepts 1

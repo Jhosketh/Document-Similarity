@@ -3,6 +3,7 @@
 /m/033ygj
 Arthur C. Clarke
 1988
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 14 1
 a 10
 about 3

@@ -3,6 +3,7 @@
 /m/07p_w9
 Gustav Hasford
 1979
+{"/m/012jgz": "Autobiographical novel", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/098tmk": "War novel"}
 168 1
 a 14
 abuse 1

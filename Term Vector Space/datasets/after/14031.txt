@@ -3,6 +3,7 @@
 /m/0640zr4
 Stephen Baxter
 2009-08-20
+{"/m/03lrw": "Hard science fiction", "/m/06n90": "Science Fiction", "/m/05hgj": "Novel"}
 111 1
 160s 1
 2030s 1

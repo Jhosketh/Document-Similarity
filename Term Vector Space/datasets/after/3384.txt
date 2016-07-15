@@ -3,6 +3,7 @@
 /m/06vjwq
 Agatha Christie
 1938
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 2
 all 1
 and 1

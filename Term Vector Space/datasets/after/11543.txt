@@ -3,6 +3,7 @@
 /m/03m82p8
 Lois McMaster Bujold
 2006-10-10
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 18 1
 a 5
 about 1

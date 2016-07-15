@@ -3,6 +3,7 @@
 /m/0ds9sns
 Johan Falkberget
 1920
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 2000 1
 a 10
 about 1

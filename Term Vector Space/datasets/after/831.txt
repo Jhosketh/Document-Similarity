@@ -3,6 +3,7 @@
 /m/01t_4d
 José Rizal
 1887
+{"/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 7year 1
 a 28
 able 2

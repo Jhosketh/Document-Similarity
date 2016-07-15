@@ -3,6 +3,7 @@
 /m/02ysr2
 Keri Hulme
 1984-02
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 184 1
 7yearold 1
 a 13

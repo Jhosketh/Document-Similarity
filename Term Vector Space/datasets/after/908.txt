@@ -3,6 +3,7 @@
 /m/01zgw0
 David Almond
 1998
+{"/m/0dwly": "Children's literature", "/m/0127jb": "Magic realism", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 27 1
 53 1
 a 8

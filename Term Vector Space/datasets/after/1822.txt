@@ -3,6 +3,7 @@
 /m/03p66w
 John Irving
 1972-12
+{"/m/0488wh": "Literary fiction", "/m/05hgj": "Novel"}
 17 1
 a 18
 abnormal 1

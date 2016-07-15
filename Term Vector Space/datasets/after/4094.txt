@@ -3,6 +3,7 @@
 /m/087x45
 Ian Livingstone
 
+{"/m/03ff00": "Gamebook", "/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 2
 adventurer 1
 an 1

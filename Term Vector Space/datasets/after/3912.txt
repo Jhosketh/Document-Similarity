@@ -3,6 +3,7 @@
 /m/07xvcj
 Kate Tremayne
 2003-03-03
+{"/m/01qxvh": "Romance novel", "/m/0hwxm": "Historical novel"}
 a 1
 actress 1
 adam 1

@@ -3,6 +3,7 @@
 /m/0fdwd2
 Tess Gerritsen
 
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/0lsxr": "Crime Fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 abbey 1
 about 1

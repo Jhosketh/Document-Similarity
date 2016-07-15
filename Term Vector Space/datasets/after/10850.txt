@@ -3,6 +3,7 @@
 /m/03ccgl7
 Bruce Cook
 1995
+{"/m/0lsxr": "Crime Fiction", "/m/0hwxm": "Historical novel"}
 a 2
 and 2
 are 1

@@ -3,6 +3,7 @@
 /m/01hgx9
 Roger Zelazny
 1975-02
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 24
 abilities 1
 able 2

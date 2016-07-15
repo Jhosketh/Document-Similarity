@@ -3,6 +3,7 @@
 /m/03h3h_m
 Walter Moers
 2004
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 333 1
 a 6
 advice 1

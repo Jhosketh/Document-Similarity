@@ -3,6 +3,7 @@
 /m/0gsj00
 Lin Carter
 
+{"/m/01hmnh": "Fantasy", "/m/06n90": "Science Fiction", "/m/0707q": "Short story", "/m/0dz8b": "Sword and sorcery"}
 a 3
 adventures 1
 after 1

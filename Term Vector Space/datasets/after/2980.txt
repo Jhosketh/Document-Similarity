@@ -3,6 +3,7 @@
 /m/060kn1
 Bernard Cornwell
 1986-01-20
+{"/m/0hwxm": "Historical novel"}
 a 1
 also 1
 and 3

@@ -3,6 +3,7 @@
 /m/0349xs
 Alberto Moravia
 1951
+{"/m/0d6gr": "Reference", "/m/02xlf": "Fiction"}
 a 38
 able 1
 abnormality 1

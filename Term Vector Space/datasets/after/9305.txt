@@ -3,6 +3,7 @@
 /m/02pvywh
 R. K. Narayan
 1976
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 accompanying 1
 addition 1

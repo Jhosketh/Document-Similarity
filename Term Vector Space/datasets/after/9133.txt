@@ -3,6 +3,7 @@
 /m/02php5r
 Amelia Atwater-Rhodes
 2007-09
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 11
 abdicates 1
 about 1

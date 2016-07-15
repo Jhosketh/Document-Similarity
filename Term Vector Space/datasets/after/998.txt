@@ -3,6 +3,7 @@
 /m/023gj6
 Robert Ludlum
 1980-02
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 5 1
 a 22
 about 1

@@ -3,6 +3,7 @@
 /m/0cz94_6
 Jules Renard
 1894
+{"/m/012jgz": "Autobiographical novel"}
 a 3
 adult 1
 adventures 1

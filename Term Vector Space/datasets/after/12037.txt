@@ -3,6 +3,7 @@
 /m/0413ftl
 Muriel Spark
 2004
+{"/m/02xlf": "Fiction"}
 a 3
 about 1
 also 1

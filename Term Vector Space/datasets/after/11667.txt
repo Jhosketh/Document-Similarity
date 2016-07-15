@@ -3,6 +3,7 @@
 /m/03qdv4j
 Margaret Haddix
 
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 a 7
 abstain 1
 after 2

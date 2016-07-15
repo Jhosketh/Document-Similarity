@@ -3,6 +3,7 @@
 /m/03c9w4z
 Jessica Amanda Salmonson
 1981
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 a 2
 after 1
 against 1

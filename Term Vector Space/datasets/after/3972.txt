@@ -3,6 +3,7 @@
 /m/080n60
 William O. Steele
 1958-04-01
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 a 6
 about 2
 after 1

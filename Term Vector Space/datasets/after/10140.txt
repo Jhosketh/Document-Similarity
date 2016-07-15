@@ -3,6 +3,7 @@
 /m/02rxs4n
 Paul Auster
 2007-01-23
+{"/m/05hgj": "Novel"}
 a 4
 about 1
 all 1

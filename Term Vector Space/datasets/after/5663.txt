@@ -3,6 +3,7 @@
 /m/0c9cnb
 Steven Brust
 1987-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 4
 abandons 1
 about 1

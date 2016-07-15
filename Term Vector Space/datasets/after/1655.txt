@@ -3,6 +3,7 @@
 /m/03dtbs
 C. S. Forester
 1937
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense", "/m/0hwxm": "Historical novel"}
 1808 1
 36gun 1
 50gun 1

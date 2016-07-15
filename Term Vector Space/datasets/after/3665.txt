@@ -3,6 +3,7 @@
 /m/07flz9
 Daniel Handler
 2006-10-13
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/0pym5": "Absurdist fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/039vk": "Gothic fiction", "/m/06www": "Steampunk"}
 a 37
 abandoned 2
 abide 1

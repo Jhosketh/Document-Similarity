@@ -3,6 +3,7 @@
 /m/03cd9mf
 Camilo José Cela
 1942
+{"/m/05hgj": "Novel"}
 a 1
 albert 1
 amongst 1

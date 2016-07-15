@@ -3,6 +3,7 @@
 /m/02_n66
 Fitzgerald
 1920
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 11
 after 1
 all 1

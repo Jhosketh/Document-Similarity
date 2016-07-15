@@ -3,6 +3,7 @@
 /m/04gjvb4
 Sophie Kinsella
 2007
+{"/m/03h09f": "Chick lit", "/m/01z4y": "Comedy"}
 a 20
 aback 1
 about 1

@@ -3,6 +3,7 @@
 /m/0b8yqz
 Washington Irving
 1822
+{"/m/03npn": "Horror", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 4
 an 1
 annette 1

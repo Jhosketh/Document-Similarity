@@ -3,6 +3,7 @@
 /m/03slvj
 Tim Winton
 1991-05
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 7
 adopted 1
 also 2

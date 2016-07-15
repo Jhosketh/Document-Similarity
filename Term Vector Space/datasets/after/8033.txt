@@ -3,6 +3,7 @@
 /m/0264nlh
 Guillermo Martínez
 
+{"/m/01jfsb": "Thriller", "/m/0lsxr": "Crime Fiction"}
 a 5
 accompanied 1
 appears 1

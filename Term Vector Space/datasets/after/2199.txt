@@ -3,6 +3,7 @@
 /m/04fsbh
 Edward Bloor
 2001
+{"/m/06nbt": "Satire", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 2
 accidents 1
 admirer 1

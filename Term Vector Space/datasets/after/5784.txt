@@ -3,6 +3,7 @@
 /m/0cgwm_
 Barbara Mertz
 1981
+{"/m/02n4kr": "Mystery", "/m/0hwxm": "Historical novel"}
 a 6
 aching 1
 adventures 1

@@ -3,6 +3,7 @@
 /m/05dqd6
 Raymond Chandler
 1958
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/03xj9g": "Hardboiled"}
 150s 1
 152 1
 18 1

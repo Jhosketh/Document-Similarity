@@ -3,6 +3,7 @@
 /m/0266mgd
 Gary Paulsen
 1993
+{"/m/03mfnf": "Young adult literature", "/m/0dwly": "Children's literature", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1850s 1
 a 3
 africanamerican 1

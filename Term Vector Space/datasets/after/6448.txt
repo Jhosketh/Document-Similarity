@@ -3,6 +3,7 @@
 /m/0dh18m
 V. C. Andrews
 1981
+{"/m/039vk": "Gothic fiction", "/m/014dfn": "Speculative fiction", "/m/03mfnf": "Young adult literature"}
 a 7
 about 6
 accept 1

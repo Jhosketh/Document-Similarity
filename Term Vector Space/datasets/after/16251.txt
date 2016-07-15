@@ -3,6 +3,7 @@
 /m/0h1fl01
 T.L. Orcutt
 
+{"/m/059r08": "Psychological novel", "/m/03k9fj": "Adventure", "/m/08sdrw": "Adventure novel"}
 1 1
 15 1
 2 1

@@ -3,6 +3,7 @@
 /m/0cqbj6
 Henryk Sienkiewicz
 
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1410 1
 a 3
 after 1

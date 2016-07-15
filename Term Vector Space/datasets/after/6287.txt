@@ -3,6 +3,7 @@
 /m/0d8dpd
 Ruth Rendell
 1976-05-03
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/0c3351": "Suspense"}
 a 9
 able 1
 all 1

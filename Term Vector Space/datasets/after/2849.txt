@@ -3,6 +3,7 @@
 /m/05r7wh
 Anya Seton
 
+{"/m/017fp": "Biography", "/m/02p0szs": "Historical fiction", "/m/01qxvh": "Romance novel", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel", "/m/0xdf": "Autobiography"}
 1381 1
 a 6
 after 3

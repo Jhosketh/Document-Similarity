@@ -3,6 +3,7 @@
 /m/07s6bcr
 Iain Banks
 2009-09-03
+{"/m/05hgj": "Novel"}
 2008 1
 a 4
 affect 1

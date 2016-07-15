@@ -3,6 +3,7 @@
 /m/0gs33z
 Barbara Pym
 1958
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 158 1
 a 9
 about 1

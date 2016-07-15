@@ -3,6 +3,7 @@
 /m/025x1p7
 Philip Pullman
 
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction"}
 1881 1
 a 55
 about 10

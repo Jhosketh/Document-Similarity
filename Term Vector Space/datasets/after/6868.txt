@@ -3,6 +3,7 @@
 /m/0f2ntf
 John Flanagan
 2004-11-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 8
 after 1
 again 1

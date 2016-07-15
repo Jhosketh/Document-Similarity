@@ -3,6 +3,7 @@
 /m/01_vcl
 Jaroslav Hašek
 
+{"/m/0vgkd": "Black comedy", "/m/06nbt": "Satire", "/m/05hgj": "Novel"}
 a 19
 abandoned 1
 about 1

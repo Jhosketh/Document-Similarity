@@ -3,6 +3,7 @@
 /m/04667z7
 Lincoln Child
 2009-01-27
+{"/m/01jfsb": "Thriller", "/m/06n90": "Science Fiction"}
 102 1
 a 7
 after 1

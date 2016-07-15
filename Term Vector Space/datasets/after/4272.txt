@@ -3,6 +3,7 @@
 /m/05n02bl
 Gwyneth Jones
 2002
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 21st 1
 a 21
 achieve 1

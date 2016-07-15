@@ -3,6 +3,7 @@
 /m/024ht4
 Robert A. Heinlein
 2003-11-28
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 13 1
 2086 1
 21st 1

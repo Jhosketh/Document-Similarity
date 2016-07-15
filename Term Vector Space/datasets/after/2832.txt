@@ -3,6 +3,7 @@
 /m/05pr53
 John Grisham
 1999-02-02
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 affairs 1
 after 2

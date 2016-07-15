@@ -3,6 +3,7 @@
 /m/014yc6
 David Brin
 1998-05-17
+{"/m/0h5k": "Anthropology", "/m/05h83": "Non-fiction", "/m/06ms6": "Sociology"}
 a 6
 ability 1
 abused 1

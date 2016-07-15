@@ -3,6 +3,7 @@
 /m/0d5b6g
 Christopher Rowley
 1999-02-01
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 2
 accomplish 1
 across 2

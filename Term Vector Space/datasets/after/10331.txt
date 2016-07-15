@@ -3,6 +3,7 @@
 /m/02v_kxj
 
 2005
+{"/m/012jgz": "Autobiographical novel", "/m/016chh": "Memoir"}
 a 6
 adventurous 1
 after 1

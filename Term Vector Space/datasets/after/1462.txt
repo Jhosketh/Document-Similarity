@@ -3,6 +3,7 @@
 /m/030yqd
 Charles Dickens
 1865
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 1865 1
 a 1
 absence 1

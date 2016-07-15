@@ -3,6 +3,7 @@
 /m/02vpmc4
 Mercedes Lackey
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 16
 able 3
 acadia 5

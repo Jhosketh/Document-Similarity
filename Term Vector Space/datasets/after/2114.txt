@@ -3,6 +3,7 @@
 /m/047vlt
 Anne Tyler
 2004
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 141 1
 160 1
 30th 1

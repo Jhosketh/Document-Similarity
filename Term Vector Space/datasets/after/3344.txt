@@ -3,6 +3,7 @@
 /m/06rc0f
 Max McCoy
 1995-04
+{"/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/08sdrw": "Adventure novel", "/m/03k9fj": "Adventure"}
 a 2
 alchemist 3
 alchemy 1

@@ -3,6 +3,7 @@
 /m/05cpmb
 John le Carré
 1965-06
+{"/m/06wkf": "Spy fiction"}
 a 3
 abandon 1
 about 1

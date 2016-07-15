@@ -3,6 +3,7 @@
 /m/03cqf69
 Richard Laymon
 
+{"/m/01jfsb": "Thriller", "/m/014dfn": "Speculative fiction", "/m/03npn": "Horror"}
 a 7
 and 4
 apparently 1

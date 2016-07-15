@@ -3,6 +3,7 @@
 /m/0d6qm
 George Orwell
 1933-01-09
+{"/m/012jgz": "Autobiographical novel", "/m/0xdf": "Autobiography", "/m/02xlf": "Fiction", "/m/016chh": "Memoir", "/m/05h83": "Non-fiction"}
 34a 2
 34b34 1
 34cold 1

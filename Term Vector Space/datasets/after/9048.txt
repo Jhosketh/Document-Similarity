@@ -3,6 +3,7 @@
 /m/0285slf
 MaryJanice Davidson
 2007-09
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 157 1
 220 1
 a 9

@@ -3,6 +3,7 @@
 /m/0g_z79
 Hilari Bell
 2006
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 10
 ability 1
 accepts 2

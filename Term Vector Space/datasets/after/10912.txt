@@ -3,6 +3,7 @@
 /m/03ch8kv
 Peter Dickinson
 1979
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel", "/m/0hwxm": "Historical novel"}
 a 6
 actress 1
 alone 1

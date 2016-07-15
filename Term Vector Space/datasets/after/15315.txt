@@ -3,6 +3,7 @@
 /m/0c3_96c
 Lynne Reid Banks
 
+{"/m/01jym": "Bildungsroman"}
 150s 1
 a 3
 after 2

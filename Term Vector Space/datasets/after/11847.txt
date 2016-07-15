@@ -3,6 +3,7 @@
 /m/03whk29
 Elizabeth Hand
 1994
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 1
 according 1
 afterword 1

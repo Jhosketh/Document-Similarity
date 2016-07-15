@@ -3,6 +3,7 @@
 /m/04my3st
 Marion Zimmer Bradley
 1983
+{"/m/06n90": "Science Fiction", "/m/01hmnh": "Fantasy"}
 a 1
 also 1
 amazon 1

@@ -3,6 +3,7 @@
 /m/0fnmj6
 C. L. Moore
 2001
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 academic 1
 academy 1

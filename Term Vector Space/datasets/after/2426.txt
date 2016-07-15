@@ -3,6 +3,7 @@
 /m/04wwmn
 Alan Hollinghurst
 1994
+{"/m/05hgj": "Novel"}
 a 11
 about 1
 affair 3

@@ -3,6 +3,7 @@
 /m/0263nd3
 Walter Scott
 1825-06-22
+{"/m/0hwxm": "Historical novel"}
 a 18
 abbess 1
 abetted 1

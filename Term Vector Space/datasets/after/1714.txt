@@ -3,6 +3,7 @@
 /m/03h37k
 Roger Zelazny
 1982
+{"/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/0707q": "Short story"}
 a 10
 across 1
 again 1

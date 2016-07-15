@@ -3,6 +3,7 @@
 /m/01tsc8
 Franz Kafka
 1927
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 16
 abandoned 1
 about 1

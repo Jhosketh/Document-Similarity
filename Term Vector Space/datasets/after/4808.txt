@@ -3,6 +3,7 @@
 /m/09pbch
 Caroline Macdonald
 1999-04
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/03npn": "Horror", "/m/014dfn": "Speculative fiction", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 after 1
 and 1

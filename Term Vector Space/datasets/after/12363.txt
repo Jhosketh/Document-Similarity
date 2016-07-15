@@ -3,6 +3,7 @@
 /m/047c0kl
 Terry Brooks
 2008-08-26
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 21
 ability 1
 about 1

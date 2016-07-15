@@ -3,6 +3,7 @@
 /m/030jc5
 T. Coraghessan Boyle
 1993-05-01
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 107 1
 108 1
 a 9

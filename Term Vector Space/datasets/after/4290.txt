@@ -3,6 +3,7 @@
 /m/08q6kc
 Jerry Spinelli
 2000-08-08
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature", "/m/02xlf": "Fiction"}
 120s 1
 a 30
 abandons 1

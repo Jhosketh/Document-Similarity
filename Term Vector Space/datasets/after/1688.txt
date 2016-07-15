@@ -3,6 +3,7 @@
 /m/03fxfl
 Henry James
 1904-11-10
+{"/m/05hgj": "Novel"}
 a 6
 about 1
 accepts 1

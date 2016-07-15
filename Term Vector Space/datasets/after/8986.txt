@@ -3,6 +3,7 @@
 /m/0281p2g
 Mal Peet
 2003-10-06
+{"/m/0dwly": "Children's literature", "/m/03mfnf": "Young adult literature"}
 10000 1
 15 1
 a 13

@@ -3,6 +3,7 @@
 /m/02vzw78
 Booth Tarkington
 
+{"/m/0dwly": "Children's literature", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/01z4y": "Comedy"}
 a 8
 actress 1
 adolescence 1

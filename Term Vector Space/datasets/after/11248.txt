@@ -3,6 +3,7 @@
 /m/03d7v5v
 Paule Marshall
 1983-02-14
+{"/m/05hgj": "Novel"}
 160s 1
 170s 1
 a 9

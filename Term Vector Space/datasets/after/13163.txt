@@ -3,6 +3,7 @@
 /m/04y9cyg
 Thomas Bernhard
 1986
+{"/m/05hgj": "Novel"}
 a 3
 about 1
 absolution 1

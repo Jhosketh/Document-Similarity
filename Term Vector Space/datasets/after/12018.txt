@@ -3,6 +3,7 @@
 /m/041176n
 Robert Charles Wilson
 2006
+{"/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 1th 1
 2172 1
 21st 1

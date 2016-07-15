@@ -3,6 +3,7 @@
 /m/01vcdm
 Hergé
 1932
+{"/m/01vnb": "Comic book"}
 10 1
 131 1
 15 1

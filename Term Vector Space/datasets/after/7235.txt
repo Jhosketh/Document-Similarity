@@ -3,6 +3,7 @@
 /m/0fz218
 Morgan Llywelyn
 1984
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0hwxm": "Historical novel"}
 4th 1
 a 11
 after 3

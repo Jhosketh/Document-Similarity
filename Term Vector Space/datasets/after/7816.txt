@@ -3,6 +3,7 @@
 /m/0h7_s5
 George Mackay Brown
 1992
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 12
 about 1
 adventures 1

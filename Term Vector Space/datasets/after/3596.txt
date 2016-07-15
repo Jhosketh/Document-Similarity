@@ -3,6 +3,7 @@
 /m/078dh6
 Anthony Horowitz
 2004-04-01
+{"/m/01jfsb": "Thriller", "/m/06wkf": "Spy fiction", "/m/0dwly": "Children's literature", "/m/08sdrw": "Adventure novel"}
 12 1
 14 1
 a 16

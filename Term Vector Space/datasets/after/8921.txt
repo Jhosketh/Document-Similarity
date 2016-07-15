@@ -3,6 +3,7 @@
 /m/027zs0z
 Edgar Rice Burroughs
 1930
+{"/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 a 4
 abner 1
 adventures 1

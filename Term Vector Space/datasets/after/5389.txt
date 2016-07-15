@@ -3,6 +3,7 @@
 /m/0bt0gp
 Trudi Canavan
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 13 1
 500 1
 a 70

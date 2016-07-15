@@ -3,6 +3,7 @@
 /m/03bzbdf
 Michael Connelly
 2003-04-01
+{"/m/0lsxr": "Crime Fiction", "/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 after 1
 an 1

@@ -3,6 +3,7 @@
 /m/02pp4lp
 Émile Zola
 1882
+{"/m/05hgj": "Novel"}
 18611863 1
 22yearold 1
 a 9

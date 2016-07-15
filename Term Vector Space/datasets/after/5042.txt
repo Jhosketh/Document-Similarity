@@ -3,6 +3,7 @@
 /m/0b3lvy
 Steven Millhauser
 1996
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 6
 all 1
 ambiguous 1

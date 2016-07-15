@@ -3,6 +3,7 @@
 /m/072p6l
 Kage Baker
 1997
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 20000 1
 a 24
 abilities 1

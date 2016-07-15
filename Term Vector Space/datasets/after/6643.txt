@@ -3,6 +3,7 @@
 /m/0dp1t9
 Pierre Berton
 1961
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 3
 accompanied 1
 adventure 1

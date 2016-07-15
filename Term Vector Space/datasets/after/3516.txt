@@ -3,6 +3,7 @@
 /m/073248
 Robert Ludlum
 1988-02-22
+{"/m/01jfsb": "Thriller", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 177 1
 78 2
 a 12

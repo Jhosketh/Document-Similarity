@@ -3,6 +3,7 @@
 /m/09sxsb
 Frank Norris
 1901
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 ad 1
 and 4
 annixter 1

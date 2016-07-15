@@ -3,6 +3,7 @@
 /m/0g_nly
 Katherine Kurtz
 1972
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1121 1
 a 7
 acquires 1

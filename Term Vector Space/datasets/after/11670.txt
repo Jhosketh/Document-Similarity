@@ -3,6 +3,7 @@
 /m/03qf91z
 David Levien
 2008
+{"/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 14 1
 a 3
 accepts 1

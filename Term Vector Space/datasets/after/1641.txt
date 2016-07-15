@@ -3,6 +3,7 @@
 /m/03cs21
 George R. R. Martin
 2005-10-17
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 29
 abandoning 1
 about 3

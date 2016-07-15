@@ -3,6 +3,7 @@
 /m/03hgzq
 Joseph Conrad
 
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/059r08": "Psychological novel"}
 a 12
 abandoning 1
 abandons 1

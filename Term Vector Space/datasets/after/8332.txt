@@ -3,6 +3,7 @@
 /m/026qg4m
 James Patterson
 1999
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 7
 and 4
 as 2

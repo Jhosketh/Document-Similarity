@@ -3,6 +3,7 @@
 /m/01sfsw
 Bharati Mukherjee
 1989
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 8
 after 1
 agony 1

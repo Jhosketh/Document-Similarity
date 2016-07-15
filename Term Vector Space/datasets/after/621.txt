@@ -3,6 +3,7 @@
 /m/01fqzc
 Anthony Trollope
 1861
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel"}
 a 8
 accept 1
 addition 1

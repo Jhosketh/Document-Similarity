@@ -3,6 +3,7 @@
 /m/0bh98d
 Yasunari Kawabata
 1952
+{"/m/05hgj": "Novel"}
 a 1
 affair 1
 after 1

@@ -3,6 +3,7 @@
 /m/0cmy36
 Alexander McCall Smith
 2004
+{"/m/02x35fs": "Serial", "/m/0lsxr": "Crime Fiction"}
 44 2
 a 8
 about 2

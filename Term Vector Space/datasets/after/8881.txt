@@ -3,6 +3,7 @@
 /m/027xblf
 Katherine Roberts
 2004-09-17
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 36 1
 a 5
 able 1

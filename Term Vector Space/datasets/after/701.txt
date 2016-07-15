@@ -3,6 +3,7 @@
 /m/01kl5t
 Bruce Sterling
 1990-09
+{"/m/06n90": "Science Fiction", "/m/05hgj": "Novel", "/m/0mz2": "Alternate history", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/06www": "Steampunk"}
 11 1
 131 1
 152 1

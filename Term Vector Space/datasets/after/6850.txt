@@ -3,6 +3,7 @@
 /m/0f1qs_
 John McGahern
 
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 120s 1
 a 16
 about 2

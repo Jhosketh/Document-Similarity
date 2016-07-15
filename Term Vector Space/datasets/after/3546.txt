@@ -3,6 +3,7 @@
 /m/075ht4
 Boris Strugatsky
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 20th 1
 22nd 1
 a 16

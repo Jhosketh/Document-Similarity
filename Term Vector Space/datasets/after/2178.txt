@@ -3,6 +3,7 @@
 /m/04d3qf
 D. B. Weiss
 2003-02
+{"/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 1
 actual 1
 adam 1

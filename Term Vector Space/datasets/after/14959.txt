@@ -3,6 +3,7 @@
 /m/0b6jnlp
 John Ringo
 2008-08-05
+{"/m/05hgj": "Novel", "/m/01smf2": "Military science fiction"}
 a 7
 adventures 1
 after 1

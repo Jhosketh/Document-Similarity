@@ -3,6 +3,7 @@
 /m/03cplq_
 K. A. Applegate
 2000
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/05hgj": "Novel"}
 a 7
 abandon 1
 actual 1

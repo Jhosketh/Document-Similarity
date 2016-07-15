@@ -3,6 +3,7 @@
 /m/0d3g5g
 Alan Dean Foster
 1987
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 a 7
 accidentally 2
 adventure 1

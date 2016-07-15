@@ -3,6 +3,7 @@
 /m/04fdlm
 Ivan Turgenev
 1860-12
+{"/m/05hgj": "Novel"}
 16yearold 1
 21yearold 1
 a 18

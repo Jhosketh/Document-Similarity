@@ -3,6 +3,7 @@
 /m/0c7yvn
 Garth Nix
 2001-04-01
+{"/m/0dwly": "Children's literature", "/m/01hmnh": "Fantasy", "/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 9
 able 1
 about 1

@@ -3,6 +3,7 @@
 /m/02w4m1j
 Conn Iggulden
 2007-01-02
+{"/m/0hwxm": "Historical novel"}
 a 11
 abilities 1
 accepting 1

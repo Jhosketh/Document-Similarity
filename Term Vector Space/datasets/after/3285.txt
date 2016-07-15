@@ -3,6 +3,7 @@
 /m/06lpd5
 Ruth Stiles Gannett
 1977
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/0dwly": "Children's literature"}
 a 4
 and 4
 are 2

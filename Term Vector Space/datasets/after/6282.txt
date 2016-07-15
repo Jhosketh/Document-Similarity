@@ -3,6 +3,7 @@
 /m/0d7xmz
 Jack Finney
 1970
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction"}
 1 2
 10000 1
 170 4

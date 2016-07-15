@@ -3,6 +3,7 @@
 /m/03h3lw
 Alan Garner
 1973-09-17
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 22
 affair 1
 after 1

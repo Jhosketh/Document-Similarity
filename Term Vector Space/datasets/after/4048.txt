@@ -3,6 +3,7 @@
 /m/085p6k
 Charles Major
 1902
+{"/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 1567 1
 1st 1
 35yearold 1

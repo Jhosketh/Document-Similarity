@@ -3,6 +3,7 @@
 /m/054qln
 Harlan Ellison
 1965-12
+{"/m/02xlf": "Fiction"}
 a 15
 according 1
 against 1

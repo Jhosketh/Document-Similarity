@@ -3,6 +3,7 @@
 /m/02xx5l
 Larry Niven
 1991
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/026ny": "Dystopia"}
 50 1
 a 22
 abilities 1

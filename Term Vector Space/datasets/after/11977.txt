@@ -3,6 +3,7 @@
 /m/0405zf6
 Kate Thompson
 1994
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 16
 about 4
 above 1

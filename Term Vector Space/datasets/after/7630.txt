@@ -3,6 +3,7 @@
 /m/0gwgsp
 Ann Carol Crispin
 1988-04
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 a 10
 abandoned 1
 able 3

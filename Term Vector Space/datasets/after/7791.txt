@@ -3,6 +3,7 @@
 /m/0h6n8s
 Pearl S. Buck
 1948
+{"/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 15 1
 1850s 1
 1st 1

@@ -3,6 +3,7 @@
 /m/02q4x8n
 Steve Berry
 2007
+{"/m/01jfsb": "Thriller", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 148 1
 72 1
 a 12

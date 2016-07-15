@@ -3,6 +3,7 @@
 /m/05r3fy
 Michael Dorris
 1987-05
+{"/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/05hgj": "Novel"}
 a 3
 about 1
 african 1

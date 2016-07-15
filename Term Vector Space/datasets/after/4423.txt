@@ -3,6 +3,7 @@
 /m/0904gc
 Rosemary Sutcliff
 1957
+{"/m/014dfn": "Speculative fiction", "/m/0dwly": "Children's literature", "/m/02xlf": "Fiction", "/m/0hwxm": "Historical novel"}
 3rdcentury 1
 a 6
 after 1

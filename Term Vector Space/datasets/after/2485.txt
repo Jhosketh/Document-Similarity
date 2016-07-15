@@ -3,6 +3,7 @@
 /m/04z1c8
 Witold Gombrowicz
 
+{"/m/05hgj": "Novel"}
 a 6
 after 2
 an 1

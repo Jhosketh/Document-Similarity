@@ -3,6 +3,7 @@
 /m/06kbxk
 Franklin W. Dixon
 1960-12-01
+{"/m/02n4kr": "Mystery", "/m/028v3": "Detective fiction"}
 5 1
 a 2
 across 1

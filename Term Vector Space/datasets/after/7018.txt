@@ -3,6 +3,7 @@
 /m/0fdysd
 Arthur Conan Doyle
 
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction", "/m/08sdrw": "Adventure novel"}
 12 1
 a 8
 account 1

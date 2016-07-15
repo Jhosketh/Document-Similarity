@@ -3,6 +3,7 @@
 /m/01tv0r
 Ursula K. Le Guin
 1972
+{"/m/06n90": "Science Fiction", "/m/0dwly": "Children's literature", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/01jym": "Bildungsroman"}
 10 1
 a 13
 about 2

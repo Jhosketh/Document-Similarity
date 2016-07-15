@@ -3,6 +3,7 @@
 /m/08l5lw
 Dodie Smith
 1948
+{"/m/02xlf": "Fiction", "/m/05hgj": "Novel", "/m/01qxvh": "Romance novel", "/m/01z4y": "Comedy"}
 a 20
 about 1
 acquaintance 1

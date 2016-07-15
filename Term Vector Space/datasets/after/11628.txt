@@ -3,6 +3,7 @@
 /m/03nt93q
 Janet Lunn
 1981
+{"/m/0dwly": "Children's literature", "/m/0hwxm": "Historical novel"}
 1860 1
 a 1
 about 1

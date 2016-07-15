@@ -3,6 +3,7 @@
 /m/0f_d2z
 Fletcher Pratt
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 16
 ability 1
 about 1

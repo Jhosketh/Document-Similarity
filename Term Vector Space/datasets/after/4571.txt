@@ -3,6 +3,7 @@
 /m/0981cz
 Bernard Cornwell
 2000-04-03
+{"/m/0hwxm": "Historical novel"}
 1805 1
 a 4
 aboard 1

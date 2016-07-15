@@ -3,6 +3,7 @@
 /m/02vvgll
 Sebastian Faulks
 2008-05-28
+{"/m/06wkf": "Spy fiction", "/m/02xlf": "Fiction"}
 00 2
 004 1
 160s 1

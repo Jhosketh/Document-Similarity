@@ -3,6 +3,7 @@
 /m/02rdf08
 Jack McDevitt
 2005
+{"/m/06n90": "Science Fiction", "/m/014dfn": "Speculative fiction"}
 000 1
 10000 1
 a 8

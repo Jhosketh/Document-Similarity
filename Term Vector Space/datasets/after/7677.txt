@@ -3,6 +3,7 @@
 /m/0gz_0h
 Gregory Maguire
 2003
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02p0szs": "Historical fiction", "/m/02xlf": "Fiction", "/m/0fr3y1": "Parallel novel"}
 16th 1
 a 9
 an 1

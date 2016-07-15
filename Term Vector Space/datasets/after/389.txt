@@ -3,6 +3,7 @@
 /m/0xr69
 Theodore Dreiser
 1900
+{"/m/02xlf": "Fiction", "/m/01qxvh": "Romance novel", "/m/05hgj": "Novel"}
 18yearold 1
 a 37
 abandons 1

@@ -3,6 +3,7 @@
 /m/047ldd8
 Andrew Greeley
 2008-02-05
+{"/m/02n4kr": "Mystery", "/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 description 1
 outline 1
 plot 1

@@ -3,6 +3,7 @@
 /m/015gvh
 Carson McCullers
 1940
+{"/m/02xlf": "Fiction"}
 a 3
 acquaintances 1
 african 1

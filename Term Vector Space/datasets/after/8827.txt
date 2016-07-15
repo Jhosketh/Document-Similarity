@@ -3,6 +3,7 @@
 /m/027t7c3
 L. Sprague de Camp
 
+{"/m/014dfn": "Speculative fiction", "/m/01hmnh": "Fantasy"}
 a 12
 abacarus 1
 able 2

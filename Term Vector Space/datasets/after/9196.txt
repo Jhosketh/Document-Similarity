@@ -3,6 +3,7 @@
 /m/02pn274
 Lee Child
 2002-05-09
+{"/m/01jfsb": "Thriller", "/m/02n4kr": "Mystery", "/m/05hgj": "Novel", "/m/02xlf": "Fiction", "/m/0c3351": "Suspense"}
 a 4
 accepts 1
 accosted 1

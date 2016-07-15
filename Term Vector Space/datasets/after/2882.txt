@@ -3,6 +3,7 @@
 /m/05t981
 James Baldwin
 1962
+{"/m/05hgj": "Novel"}
 a 6
 abusive 1
 actor 1

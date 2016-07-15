@@ -3,6 +3,7 @@
 /m/0b29y1
 Carlos Ruiz Zafón
 2001
+{"/m/02n4kr": "Mystery", "/m/02xlf": "Fiction"}
 11 2
 130s 1
 156 1

@@ -3,6 +3,7 @@
 /m/0jd3p
 Julian Barnes
 1998
+{"/m/014dfn": "Speculative fiction", "/m/02xlf": "Fiction"}
 a 11
 about 2
 abroad 1
